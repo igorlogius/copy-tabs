@@ -2,23 +2,18 @@
   "author": "igorlogius",
   "description": "copy active tab url as a html anchor segment via pageAction or shortcut",
   "icons": {
-    "48": "icon.png"
   },
-  "background": {
-	"scripts": ["background.js"]
+  "page_action": {
+    "default_popup": "popup.html",
+    "show_matches": [
+      "<all_urls>"
+    ]
   },
   "manifest_version": 2,
   "name": "copy-taburl-html",
-  "page_action": {
-    "browser_style": true,
-    "show_matches": [
-      "<all_urls>"
-    ],
-    "default_icon": "icon.png"
-  },
   "permissions": [
     "activeTab",
     "clipboardWrite"
   ],
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
