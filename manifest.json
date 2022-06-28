@@ -7,7 +7,7 @@
       }
     }
   },
-  "description": "copy active tab url via pageAction as a html anchor segment or shortcut",
+  "description": "Copy current tab url as a HTML anchor segment via pageAction button or custom keyboard shortcut ",
   "icons": {
     "128": "icon.svg"
   },
@@ -28,5 +28,5 @@
     "activeTab",
     "clipboardWrite"
   ],
-  "version": "1.2.9"
+  "version": "1.2.10"
 }
