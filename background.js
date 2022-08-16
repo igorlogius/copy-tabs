@@ -1,7 +1,6 @@
 /*global browser */
 
 async function onMessage(/*data , sender*/) {
-    try {
         const data = {currentWindow: true, active: true};
         const tabs  = await browser.tabs.query(data);
         const tab = tabs[0];
@@ -17,12 +16,7 @@ async function onMessage(/*data , sender*/) {
         document.getSelection().addRange(range);
         document.execCommand("copy");
         anchor.remove();
-
         return Promise.resolve(true);
-    }catch(e){
-        console.error(e);
-    }
-    return false;
 }
 
 browser.runtime.onMessage.addListener(onMessage);

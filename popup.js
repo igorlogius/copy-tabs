@@ -1,18 +1,18 @@
 /* global browser */
 
 async function onLoad() {
+    const msg = document.getElementById('msg');
+    const body = document.querySelector('body');
     try {
-        const msg = document.getElementById('msg');
-        const body = document.querySelector('body');
         await browser.runtime.sendMessage({});
         msg.innerText = " Copied URL ";
         body.style.backgroundColor = 'lightgreen';
-        setTimeout(window.close, 600);
-        return;
     }catch(e){
-        console.error(e);
+        //console.error(e);
+        msg.innerText = " Error: " + e.toString();
+        body.style.backgroundColor = 'red';
     }
-    window.close();
+    setTimeout(window.close, 600);
 }
 
 document.addEventListener('DOMContentLoaded', onLoad);
