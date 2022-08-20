@@ -1,3 +1,0 @@
-#!/bin/bash
-export AMO='https://addons.mozilla.org/firefox/addon/copy-taburl-html' 
-curl 'https://raw.githubusercontent.com/igorlogius/meta-addon-builder/main/README' | sh
