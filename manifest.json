@@ -15,12 +15,9 @@
   },
   "manifest_version": 2,
   "name": "Copy TabURLs as HTML",
-  "optional_permissions": [
-    "tabs"
-  ],
   "permissions": [
     "tabs",
     "clipboardWrite"
   ],
-  "version": "1.5.10"
+  "version": "1.5.11"
 }
