@@ -42,9 +42,13 @@
   },
   "manifest_version": 2,
   "name": "Copy TabURLs as HTML",
+  "options_ui": {
+    "page": "options.html"
+  },
   "permissions": [
+    "storage",
     "tabs",
     "clipboardWrite"
   ],
-  "version": "1.5.12"
+  "version": "1.6.12"
 }

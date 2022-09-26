@@ -1,10 +1,24 @@
 /* global browser */
 
+async function getFromStorage(id, type, fallback) {
+    let tmp = await browser.storage.local.get(id);
+    //console.log(typeof tmp[id]);
+    return (typeof tmp[id] === type) ? tmp[id] : fallback;
+}
+
 async function onLoad() {
     const msg = document.getElementById('msg');
     const body = document.querySelector('body');
     try {
-        const data = {currentWindow: true, highlighted: true};
+        const mode = await getFromStorage('mode','boolean', false);
+        //console.log('mode',mode);
+        let data = {
+            hidden:false,
+            currentWindow:true
+        };
+        if(!mode){
+            data['highlighted'] = true;
+        }
         const tabs  = await browser.tabs.query(data);
 
         let ul = document.getElementById('list');
@@ -26,7 +40,11 @@ async function onLoad() {
         document.execCommand("copy");
         ul.remove();
 
-        msg.innerText = " Copied URLs of Selected Tabs ";
+        if(mode){
+            msg.innerText = " Copied URLs of All Tabs ";
+        }else{
+            msg.innerText = " Copied URLs of Selected Tabs ";
+        }
         body.style.backgroundColor = 'lightgreen';
         setTimeout(window.close, 1600);
     }catch(e){
