@@ -1,13 +1,11 @@
 {
   "author": "igorlogius",
+  "background": {
+	"scripts": ["background.js"]
+  },
   "browser_action": {
     "default_popup": "popup.html",
     "theme_icons": [
-      {
-        "light": "dark-256.png",
-        "dark": "light-256.png",
-        "size": 256
-      },
       {
         "light": "dark-128.png",
         "dark": "light-128.png",
@@ -22,11 +20,6 @@
         "light": "dark-32.png",
         "dark": "light-32.png",
         "size": 32
-      },
-      {
-        "light": "dark-16.png",
-        "dark": "light-16.png",
-        "size": 16
       }
     ]
   },
@@ -46,9 +39,10 @@
     "page": "options.html"
   },
   "permissions": [
+    "menus",
     "storage",
     "tabs",
     "clipboardWrite"
   ],
-  "version": "1.6.12"
+  "version": "1.7.12"
 }
