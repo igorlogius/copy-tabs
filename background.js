@@ -12,25 +12,35 @@ async function getFromStorage(type, id, fallback) {
 }
 
 browser.menus.create({
-    id: 'toggleMode',
+    id: 'allTabsMode',
     title: "Check to enable all tabs mode",
     contexts: ["browser_action"],
     type: 'checkbox',
-    onclick: async function(info,tab) {
-        //console.log('checked', info);
-        setToStorage('mode', info.checked);
+    onclick: async function(info /*,tab*/) {
+        setToStorage('allTabsMode', info.checked);
     }
 });
 
-browser.menus.onShown.addListener(async (info, tab) => {
-    console.log('onShown');
-    if(info.menuItemId === 'toggleMode'){
-        const mode = await getFromStorage('boolean','mode',false);
-        await browser.menus.update('toggleMode',{ checked: mode });
+browser.menus.create({
+    id: 'txtOnlyMode',
+    title: "Check to enable text only mode",
+    contexts: ["browser_action"],
+    type: 'checkbox',
+    onclick: async function(info/*,tab*/) {
+        setToStorage('txtOnlyMode', info.checked);
+    }
+});
+
+browser.menus.onShown.addListener(async (info /*, tab*/) => {
+    if(info.menuItemId === 'allTabsMode'){
+        const allTabsMode = await getFromStorage('boolean','allTabsMode',false);
+        await browser.menus.update('allTabsMode',{ checked: allTabsMode});
+        browser.menus.refresh();
+    }else
+    if(info.menuItemId === 'txtOnlyMode'){
+        const txtOnlyMode = await getFromStorage('boolean','txtOnlyMode',false);
+        await browser.menus.update('toggleMode',{ checked: txtOnlyMode });
         browser.menus.refresh();
     }
-
-  // Now use menus.create/update + menus.refresh.
-
 });
 

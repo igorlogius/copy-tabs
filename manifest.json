@@ -34,7 +34,7 @@
     "256": "icon.svg"
   },
   "manifest_version": 2,
-  "name": "Copy TabURLs as HTML",
+  "name": "Copy TabURLs as HTML or Text",
   "options_ui": {
     "page": "options.html"
   },
@@ -44,5 +44,5 @@
     "tabs",
     "clipboardWrite"
   ],
-  "version": "1.7.12"
+  "version": "1.8.12"
 }

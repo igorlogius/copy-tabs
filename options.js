@@ -34,7 +34,7 @@ function onChange(evt) {
 
 }
 
-[ "mode" ].map( (id) => {
+[ "allTabsMode", "txtOnlyMode" ].map( (id) => {
 
 	browser.storage.local.get(id).then( (obj) => {
 
