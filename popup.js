@@ -23,7 +23,7 @@ async function onLoad() {
         const tabs  = await browser.tabs.query(data);
 
         if(txtOnlyMode){
-            const text = tabs.map( t => t.url ).join('\n') + '\n';
+            const text = tabs.map( t => t.url ).join('\n') + '\n\n';
             await navigator.clipboard.writeText(text);
         }else{
 
