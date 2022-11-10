@@ -1,6 +1,6 @@
 {
   "author": "igorlogius",
-  "homepage_url": "https://addons.mozilla.org/firefox/addon/copy-taburls",
+  "homepage_url": "https://github.com/igorlogius/copy-taburls",
   "background": {
 	"scripts": ["background.js"]
   },
@@ -49,5 +49,5 @@
     "clipboardWrite",
     "tabs"
   ],
-  "version": "1.9.14"
+  "version": "1.9.15"
 }
