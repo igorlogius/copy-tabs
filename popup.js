@@ -1,65 +1,54 @@
 /* global browser */
 
-async function getFromStorage(id, type, fallback) {
-    let tmp = await browser.storage.local.get(id);
-    //console.log(typeof tmp[id]);
-    return (typeof tmp[id] === type) ? tmp[id] : fallback;
-}
+let body;
+let tip;
 
-async function onLoad() {
-    const msg = document.getElementById('msg');
-    const body = document.querySelector('body');
-    try {
-        const allTabsMode = await getFromStorage('allTabsMode','boolean', false);
-        const txtOnlyMode = await getFromStorage('txtOnlyMode','boolean', false);
+const tips = [
+	 'Each action can be assigned a custom shortcut (Defaults: F1-F4)'
+	, 'The activ tab is always selected'
+	, 'Hold shift to select a range of tabs'
+	, 'Hold ctrl so select muliple seperate tabs'
+	, 'https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly'
+];
 
-        let data = {
-            hidden:false,
-            currentWindow:true
-        };
-        if(!allTabsMode){
-            data['highlighted'] = true;
-        }
-        const tabs  = await browser.tabs.query(data);
+// delegate click action to background script
+document.addEventListener('click', async (evt) => {
+	console.debug(evt.target.nodeName);
+	if(evt.target.nodeName.toLowerCase() !== 'button'){
+		return;
+		 }
+	try {
+		const res = await browser.runtime.sendMessage({cmd: evt.target.id});
+		console.debug(res);
+		if(res === true){
+			evt.target.style.backgroundColor = 'lightgreen';
+			setTimeout(window.close, 500);
+			return;
+		}
+	}catch(e){
+		tip.innerText = "Error: " + e.toString(); 
+		console.error(e);
+	}
+	evt.target.style.backgroundColor = 'red';
+});
 
-        if(txtOnlyMode){
-            const text = tabs.map( t => t.url ).join('\n') + '\n\n';
-            await navigator.clipboard.writeText(text);
-        }else{
+function onLoad() {
+	// save body ref vor click action 
+	body = document.querySelector('body');
+	tip = document.getElementById('tip');
 
-            let ul = document.getElementById('list');
+	tip.innerText = "Tip: " + tips[Math.floor((Math.random()*tips.length))];
 
-            for(const t of tabs) {
-                let br = document.createElement('br');
-                let a = document.createElement('a');
-                a.href = t.url;
-                a.textContent = t.title;
-                ul.append(a);
-                ul.append(br);
-            }
-
-            ul.focus();
-            document.getSelection().removeAllRanges();
-            var range = document.createRange();
-            range.selectNode(ul);
-            document.getSelection().addRange(range);
-            document.execCommand("copy");
-            ul.remove();
-        }
-
-        if(allTabsMode){
-            msg.innerText = " Copied URLs of All Tabs ";
-        }else{
-            msg.innerText = " Copied URLs of Selected Tabs ";
-        }
-        body.style.backgroundColor = 'lightgreen';
-        setTimeout(window.close, 1600);
-    }catch(e){
-        console.error(e);
-        body.style.backgroundColor = 'red';
-        msg.innerText = " Failed to copy URLs: " + e.toString();
-    }
+	const mfest = browser.runtime.getManifest();
+	// build page from manifest commands
+	for(const cmd in mfest.commands){
+		fset = document.createElement('fieldset');
+		btn = document.createElement('button');
+		fset.append(btn);
+		btn.setAttribute('id',cmd);
+		btn.innerText = mfest.commands[cmd].description;
+		body.prepend(fset);
+	}
 }
 
 document.addEventListener('DOMContentLoaded', onLoad);
-

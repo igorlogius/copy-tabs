@@ -1,12 +1,22 @@
 <!DOCTYPE html>
-<html>
 <head>
-	<meta charset="utf-8"></meta>
-  	<title></title>
+	<style>
+		body {
+			max-width:400px;
+			background: lightgray;
+		}
+		button {
+			width:100%;
+			text-align:left;
+		}
+		#tip {
+			font-size: 0.8em;
+		}
+	</style>
+	<script src="popup.js"></script>
 </head>
-<body style="background:lightgray;padding:5px;">
-    <div id="msg"></div>
-    <div id="list" ></div>
-    <script src="popup.js"></script>
+<body>
+	<fieldset>
+		<div id="tip"></div>
+	</fieldset>
 </body>
-</html>

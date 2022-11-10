@@ -1,5 +1,6 @@
 {
   "author": "igorlogius",
+  "homepage_url": "https://addons.mozilla.org/firefox/addon/copy-taburls",
   "background": {
 	"scripts": ["background.js"]
   },
@@ -7,26 +8,35 @@
     "default_popup": "popup.html",
     "theme_icons": [
       {
-        "light": "dark-128.png",
-        "dark": "light-128.png",
+        "light": "dark.png",
+        "dark": "light.png",
         "size": 128
-      },
-      {
-        "light": "dark-64.png",
-        "dark": "light-64.png",
-        "size": 64
-      },
-      {
-        "light": "dark-32.png",
-        "dark": "light-32.png",
-        "size": 32
       }
     ]
   },
   "commands": {
-    "copy-action": {
+    "allhtm": {
+      "description": "Copy All Open Tabs as Links (🔗)",
       "suggested_key": {
-        "default": "Alt+Shift+C"
+        "default": "F1"
+      }
+    },
+    "alltxt": {
+      "description": "Copy All Open Tabs as Text (✏️)",
+      "suggested_key": {
+        "default": "F2"
+      }
+    },
+    "selhtm": {
+      "description": "Copy Selected Tabs as Links (🔗)",
+      "suggested_key": {
+        "default": "F3"
+      }
+    },
+    "seltxt": {
+      "description": "Copy Selected Tabs as Text (✏️)",
+      "suggested_key": {
+        "default": "F4"
       }
     }
   },
@@ -35,14 +45,9 @@
   },
   "manifest_version": 2,
   "name": "Copy TabURLs",
-  "options_ui": {
-    "page": "options.html"
-  },
   "permissions": [
-    "menus",
-    "storage",
-    "tabs",
-    "clipboardWrite"
+    "clipboardWrite",
+    "tabs"
   ],
-  "version": "1.8.14"
+  "version": "1.9.14"
 }
