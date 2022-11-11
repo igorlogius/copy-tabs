@@ -13,13 +13,11 @@ const tips = [
 
 // delegate click action to background script
 document.addEventListener('click', async (evt) => {
-	console.debug(evt.target.nodeName);
 	if(evt.target.nodeName.toLowerCase() !== 'button'){
 		return;
-		 }
+	}
 	try {
 		const res = await browser.runtime.sendMessage({cmd: evt.target.id});
-		console.debug(res);
 		if(res === true){
 			evt.target.style.backgroundColor = 'lightgreen';
 			setTimeout(window.close, 500);
@@ -41,7 +39,7 @@ function onLoad() {
 
 	const mfest = browser.runtime.getManifest();
 	// build page from manifest commands
-	for(const cmd in mfest.commands){
+	for(const cmd of Object.keys(mfest.commands).sort().reverse()){
 		fset = document.createElement('fieldset');
 		btn = document.createElement('button');
 		fset.append(btn);
@@ -52,3 +50,4 @@ function onLoad() {
 }
 
 document.addEventListener('DOMContentLoaded', onLoad);
+

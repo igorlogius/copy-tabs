@@ -15,28 +15,52 @@
     ]
   },
   "commands": {
-    "allhtm": {
-      "description": "Copy All Open Tabs as Links (🔗)",
+    "cpyallhtm": {
+      "description": "Copy All as Html (🔗)",
       "suggested_key": {
         "default": "F1"
       }
     },
-    "alltxt": {
-      "description": "Copy All Open Tabs as Text (✏️)",
+    "cpyalltxt": {
+      "description": "Copy All as Text (✏️)",
       "suggested_key": {
         "default": "F2"
       }
     },
-    "selhtm": {
-      "description": "Copy Selected Tabs as Links (🔗)",
+    "cpyselhtm": {
+      "description": "Copy Selected as Html (🔗)",
       "suggested_key": {
         "default": "F3"
       }
     },
-    "seltxt": {
-      "description": "Copy Selected Tabs as Text (✏️)",
+    "cpyseltxt": {
+      "description": "Copy Selected as Text (✏️)",
       "suggested_key": {
         "default": "F4"
+      }
+    },
+    "savallhtm": {
+      "description": "Save All as Html (🔗)",
+      "suggested_key": {
+        "default": "F5"
+      }
+    },
+    "savalltxt": {
+      "description": "Save All as Text (✏️)",
+      "suggested_key": {
+        "default": "F6"
+      }
+    },
+    "savselhtm": {
+      "description": "Save Selected as Html (🔗)",
+      "suggested_key": {
+        "default": "F7"
+      }
+    },
+    "savseltxt": {
+      "description": "Save Selected as Text (✏️)",
+      "suggested_key": {
+        "default": "F8"
       }
     }
   },
@@ -49,5 +73,5 @@
     "clipboardWrite",
     "tabs"
   ],
-  "version": "1.9.15"
+  "version": "1.9.16"
 }
