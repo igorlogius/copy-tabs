@@ -31,6 +31,7 @@ document.addEventListener('click', async (evt) => {
 });
 
 function onLoad() {
+	let fset,btn;
 	// save body ref vor click action 
 	body = document.querySelector('body');
 	tip = document.getElementById('tip');

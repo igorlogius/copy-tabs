@@ -1,5 +1,18 @@
 /* global browser */
 
+const manifest = browser.runtime.getManifest();
+const extname = manifest.name;
+
+function getTimeStampStr() {
+    const d = new Date();
+    let ts = "";
+    [   d.getFullYear(), d.getMonth()+1, d.getDate()+1,
+        d.getHours(), d.getMinutes(), d.getSeconds()].forEach( (t,i) => {
+        ts = ts + ((i!==3)?"-":"_") + ((t<10)?"0":"") + t;
+    });
+    return ts.substring(1);
+}
+
 async function copyTabsAsText(tabs){
         const text = tabs.map( t => t.url ).join('\n') + '\n\n';
 	try {
@@ -19,7 +32,7 @@ async function saveTabsAsText(tabs){
 		const href = 'data:plain/text;charset=utf-8,' + encodeURIComponent(text);
 		link.setAttribute('href', href);
 		link.setAttribute('target','_blank');
-		link.setAttribute('download', 'tab urls.txt');
+		link.setAttribute('download', getTimeStampStr() + ' ' + extname + '.txt');
 		document.body.append(link);
 		link.click();
 		setTimeout(()=>{link.remove()},3000);
@@ -28,11 +41,9 @@ async function saveTabsAsText(tabs){
 		console.error(e);
 	}
 	return false;
-
 }
 
 async function saveTabsAsHtml(tabs){
-
 	try {
             let div = document.createElement('div');
 	    div.style.position = 'absolute';
@@ -47,45 +58,30 @@ async function saveTabsAsHtml(tabs){
                 div.append(a);
                 div.append(br);
             }
-
-		/*
-            div.focus();
-            document.getSelection().removeAllRanges();
-            var range = document.createRange();
-            range.selectNode(div);
-            document.getSelection().addRange(range);
-            document.execCommand("copy");
-	    */
-
-		const text = div.innerHTML;
-
-		let link = document.createElement('a');
-		link.style.display = 'none';
-		const href = 'data:text/html;charset=utf-8,' + encodeURIComponent(text);
-		link.setAttribute('href', href);
-		link.setAttribute('target','_blank');
-		link.setAttribute('download', 'tab links.html');
-		document.body.append(link);
-		link.click();
-		setTimeout(()=>{link.remove()},3000);
-	    
+	    const text = div.innerHTML;
+	    let link = document.createElement('a');
+	    link.style.display = 'none';
+	    const href = 'data:text/html;charset=utf-8,' + encodeURIComponent(text);
+	    link.setAttribute('href', href);
+	    link.setAttribute('target','_blank');
+	    link.setAttribute('download', getTimeStampStr() + ' ' + extname + '.txt');
+	    document.body.append(link);
+	    link.click();
+	    setTimeout(()=>{link.remove()},3000);
             div.remove();
-
 	    return true;
 	}catch(e){
 		console.error(e);
 	}
-		return false;
+	return false;
 }
 
 async function copyTabsAsHtml(tabs){
-
 	try {
             let div = document.createElement('div');
 	    div.style.position = 'absolute';
 	    div.style.bottom = '-9999999';  // move it offscreen 
 	    document.body.append(div);
-
             for(const t of tabs) {
                 let br = document.createElement('br');
                 let a = document.createElement('a');
@@ -94,7 +90,6 @@ async function copyTabsAsHtml(tabs){
                 div.append(a);
                 div.append(br);
             }
-
             div.focus();
             document.getSelection().removeAllRanges();
             var range = document.createRange();
@@ -104,9 +99,9 @@ async function copyTabsAsHtml(tabs){
             div.remove();
 	    return true;
 	}catch(e){
-		console.error(e);
+	    console.error(e);
 	}
-		return false;
+	return false;
 }
 
 async function onCommand(cmd) {
@@ -199,11 +194,10 @@ async function onCommand(cmd) {
 browser.commands.onCommand.addListener(onCommand);
 
 browser.runtime.onMessage.addListener(
-    (data, sender) => {
+    (data /*, sender*/) => {
 	  if(typeof data.cmd === 'string'){
 		return Promise.resolve(onCommand(data.cmd));
 	  }
 	  return false;
 });
-
 
