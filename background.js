@@ -3,6 +3,18 @@
 const manifest = browser.runtime.getManifest();
 const extname = manifest.name;
 
+function notify(title, message = "", iconUrl = "icon.png") {
+    return browser.notifications.create(""+Date.now(),
+        {
+           "type": "basic"
+            ,iconUrl
+            ,title
+            ,message
+        }
+    );
+}
+
+
 function getTimeStampStr() {
     const d = new Date();
     let ts = "";
@@ -14,7 +26,7 @@ function getTimeStampStr() {
 }
 
 async function copyTabsAsText(tabs){
-        const text = tabs.map( t => t.url ).join('\n') + '\n\n';
+        const text = tabs.map( t => t.url ).join('\n') + '\n';
 	try {
 		await navigator.clipboard.writeText(text);
 		return true;
@@ -186,7 +198,14 @@ async function onCommand(cmd) {
 		browser.browserAction.disable();
 		setTimeout( () => {
 			browser.browserAction.enable();
-		},300);
+		},300); // make the icon blink 
+
+		const nid = await notify(extname, manifest.commands[cmd].description.substr(5));
+		if(nid > -1){
+		setTimeout( () => {
+			browser.notifications.clear(nid);
+		},3000); // hide notification after 3 seconds
+		}
 	}
 	return ret;
 }
