@@ -16,7 +16,7 @@
   },
   "commands": {
     "cpyallhtm": {
-      "description": "Copy All as Html (🔗)",
+      "description": "Copy All as Links (🔗)",
       "suggested_key": {
         "default": "F1"
       }
@@ -28,7 +28,7 @@
       }
     },
     "cpyselhtm": {
-      "description": "Copy Selected as Html (🔗)",
+      "description": "Copy Selected as Links (🔗)",
       "suggested_key": {
         "default": "F3"
       }
@@ -40,7 +40,7 @@
       }
     },
     "savallhtm": {
-      "description": "Save All as Html (🔗)",
+      "description": "Save All as Links (🔗)",
       "suggested_key": {
         "default": "F5"
       }
@@ -52,7 +52,7 @@
       }
     },
     "savselhtm": {
-      "description": "Save Selected as Html (🔗)",
+      "description": "Save Selected as Links (🔗)",
       "suggested_key": {
         "default": "F7"
       }
@@ -74,5 +74,5 @@
     "clipboardWrite",
     "tabs"
   ],
-  "version": "1.9.18"
+  "version": "1.9.19"
 }
