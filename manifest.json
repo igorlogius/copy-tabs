@@ -42,25 +42,25 @@
     "savallhtm": {
       "description": "Save All as Links (🔗)",
       "suggested_key": {
-        "default": "F5"
+        "default": "F6"
       }
     },
     "savalltxt": {
       "description": "Save All as Text (✏️)",
       "suggested_key": {
-        "default": "F6"
+        "default": "F7"
       }
     },
     "savselhtm": {
       "description": "Save Selected as Links (🔗)",
       "suggested_key": {
-        "default": "F7"
+        "default": "F8"
       }
     },
     "savseltxt": {
       "description": "Save Selected as Text (✏️)",
       "suggested_key": {
-        "default": "F8"
+        "default": "F9"
       }
     }
   },
@@ -74,5 +74,5 @@
     "clipboardWrite",
     "tabs"
   ],
-  "version": "1.9.19"
+  "version": "1.9.20"
 }
