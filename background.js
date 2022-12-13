@@ -2,6 +2,21 @@
 
 const manifest = browser.runtime.getManifest();
 const extname = manifest.name;
+let singleActionMode = false;
+let singleActionAction = '';
+
+const mfest = browser.runtime.getManifest();
+
+async function getFromStorage(type, id, fallback) {
+    let tmp = await browser.storage.local.get(id);
+    return (typeof tmp[id] === type) ? tmp[id] : fallback;
+}
+
+async function setToStorage(id, value) {
+    let obj = {};
+    obj[id] = value
+    return browser.storage.local.set(obj);
+}
 
 function notify(title, message = "", iconUrl = "icon.png") {
     return browser.notifications.create(""+Date.now(),
@@ -210,6 +225,38 @@ async function onCommand(cmd) {
 	return ret;
 }
 
+async function onStorageChange(/*changes, area*/) {
+  	singleActionMode = await getFromStorage('boolean', 'singleActionMode', false);
+  	singleActionAction = await getFromStorage('string', 'singleActionAction', 'cpyalltxt');
+
+	browser.menus.removeAll();
+
+	if(singleActionMode){
+		 browser.browserAction.setPopup({ popup: "" });
+		for(const cmd of Object.keys(mfest.commands)){
+			browser.menus.create({
+			  type: "radio",
+			  id: ""+cmd,
+			  checked: (cmd === singleActionAction),
+			  title: mfest.commands[cmd].description,
+			  contexts: ["browser_action"],
+			  onclick: (info/*,tab*/) => {
+				singleActionAction = info.menuItemId;		  
+				setToStorage('singleActionAction', singleActionAction);
+			  }
+			});
+		}
+	}else{
+		 browser.browserAction.setPopup({ popup: "popup.html" });
+	}
+}
+
+(async ()=>  {
+	await onStorageChange();
+})();
+
+browser.storage.onChanged.addListener(onStorageChange);
+
 browser.commands.onCommand.addListener(onCommand);
 
 browser.runtime.onMessage.addListener(
@@ -218,5 +265,9 @@ browser.runtime.onMessage.addListener(
 		return Promise.resolve(onCommand(data.cmd));
 	  }
 	  return false;
+});
+
+browser.browserAction.onClicked.addListener( () => {
+	onCommand(singleActionAction);
 });
 

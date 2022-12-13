@@ -38,30 +38,6 @@
       "suggested_key": {
         "default": "F4"
       }
-    },
-    "savallhtm": {
-      "description": "Save All as Links (🔗)",
-      "suggested_key": {
-        "default": "F6"
-      }
-    },
-    "savalltxt": {
-      "description": "Save All as Text (✏️)",
-      "suggested_key": {
-        "default": "F7"
-      }
-    },
-    "savselhtm": {
-      "description": "Save Selected as Links (🔗)",
-      "suggested_key": {
-        "default": "F8"
-      }
-    },
-    "savseltxt": {
-      "description": "Save Selected as Text (✏️)",
-      "suggested_key": {
-        "default": "F9"
-      }
     }
   },
   "icons": {
@@ -69,10 +45,15 @@
   },
   "manifest_version": 2,
   "name": "Copy TabURLs",
+  "options_ui": {
+    "page": "options.html"
+  },
   "permissions": [
+    "menus",
+    "storage",
     "notifications",
     "clipboardWrite",
     "tabs"
   ],
-  "version": "1.9.20"
+  "version": "1.10.20"
 }

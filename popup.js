@@ -4,10 +4,10 @@ let body;
 let tip;
 
 const tips = [
-	 'Each action can be assigned a custom shortcut (Defaults: F1-F4)'
+	  'Each action can be assigned a custom shortcut (Defaults: F1-F9)'
 	, 'The activ tab is always selected'
-	, 'Hold shift to select a range of tabs'
-	, 'Hold ctrl so select muliple seperate tabs'
+	, 'Hold SHIFT to select a range of adjacent tabs'
+	, 'Hold CTRL so select multiple non-adjacent tabs'
 	, 'https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly'
 ];
 
