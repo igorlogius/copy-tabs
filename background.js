@@ -232,7 +232,8 @@ async function onStorageChange(/*changes, area*/) {
 	browser.menus.removeAll();
 
 	if(singleActionMode){
-		 browser.browserAction.setPopup({ popup: "" });
+		browser.browserAction.setPopup({ popup: "" });
+		browser.browserAction.setTitle({ title: mfest.commands[singleActionAction].description });
 		for(const cmd of Object.keys(mfest.commands)){
 			browser.menus.create({
 			  type: "radio",
