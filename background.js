@@ -4,6 +4,7 @@ const manifest = browser.runtime.getManifest();
 const extname = manifest.name;
 let singleActionMode = false;
 let singleActionAction = '';
+let disableNotifications = false;
 
 const mfest = browser.runtime.getManifest();
 
@@ -19,14 +20,16 @@ async function setToStorage(id, value) {
 }
 
 function notify(title, message = "", iconUrl = "icon.png") {
-    return browser.notifications.create(""+Date.now(),
-        {
-           "type": "basic"
-            ,iconUrl
-            ,title
-            ,message
-        }
-    );
+	if(!disableNotifications) {
+	    return browser.notifications.create(""+Date.now(),
+		{
+		   "type": "basic"
+		    ,iconUrl
+		    ,title
+		    ,message
+		}
+	    );
+	}
 }
 
 
@@ -228,6 +231,8 @@ async function onCommand(cmd) {
 async function onStorageChange(/*changes, area*/) {
   	singleActionMode = await getFromStorage('boolean', 'singleActionMode', false);
   	singleActionAction = await getFromStorage('string', 'singleActionAction', 'cpyalltxt');
+	disableNotifications = await getFromStorage('boolean', 'disableNotifications', false);
+	
 
 	browser.menus.removeAll();
 
