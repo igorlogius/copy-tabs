@@ -33,7 +33,7 @@ function onChange(evt) {
 
 }
 
-[ "disableNotifications", "singleActionMode" ].map( (id) => {
+[ "showNotifications", "singleActionMode" ].map( (id) => {
 
 	browser.storage.local.get(id).then( (obj) => {
 

@@ -1,0 +1,22 @@
+{
+  "extensionDescription": {
+    "message": "Copy the URLs of one or more tabs as links or text",
+    "description": "Description of the extension"
+  },
+  "cpyallhtm": {
+    "message": "Copy all tabs as links (🔗)",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Copy all tabs as text (✏️)",
+    "description": ""
+  },
+  "cpyselhtm": {
+    "message": "Copy selected tabs as links (🔗)",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Copy selected tabs as text (✏️)",
+    "description": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "extensionDescription": {
+    "message": "하나 이상의 탭의 URL을 링크 또는 텍스트로 복사합니다",
+    "description": "확장자에 대한 설명"
+  },
+  "cpyallhtm": {
+    "message": "모든 탭을 링크로 복사합니다 (🔗)",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "모든 탭을 텍스트로 복사합니다 (✏️)",
+    "description": ""
+  },
+  "cpyselhtm": {
+    "message": "선택한 탭을 링크로 복사합니다 (🔗)",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "선택한 탭을 텍스트로 복사합니다 (✏️)",
+    "description": ""
+  }
+}

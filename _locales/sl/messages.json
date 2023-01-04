@@ -1,0 +1,22 @@
+{
+  "extensionDescription": {
+    "message": "Kopirajte URL-je enega ali več zavihkov kot povezave ali besedilo",
+    "description": "Opis razširitve"
+  },
+  "cpyallhtm": {
+    "message": "Kopiraj vse zavihke kot povezave. (🔗)",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopiraj vse zavihke kot besedilo (✏️)",
+    "description": ""
+  },
+  "cpyselhtm": {
+    "message": "Kopiraj izbrane zavihke kot povezave (🔗)",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopiraj izbrane zavihke kot besedilo (✏️)",
+    "description": ""
+  }
+}

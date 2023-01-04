@@ -1,0 +1,22 @@
+{
+  "extensionDescription": {
+    "message": "Copia las URL de una o varias pestañas como enlaces o texto",
+    "description": "Descripción de la extensión"
+  },
+  "cpyallhtm": {
+    "message": "Copiar todas las pestañas como enlaces (🔗)",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Copiar todas las pestañas como texto (✏️)",
+    "description": ""
+  },
+  "cpyselhtm": {
+    "message": "Copiar las pestañas seleccionadas como enlaces (🔗)",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Copiar las pestañas seleccionadas como texto (✏️)",
+    "description": ""
+  }
+}

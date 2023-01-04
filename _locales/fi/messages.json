@@ -1,0 +1,22 @@
+{
+  "extensionDescription": {
+    "message": "Kopioi yhden tai useamman välilehden URL-osoitteet linkkeinä tai tekstinä",
+    "description": "Laajennuksen kuvaus"
+  },
+  "cpyallhtm": {
+    "message": "Kopioi kaikki välilehdet linkeiksi (🔗)",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopioi kaikki välilehdet tekstinä (✏️)",
+    "description": ""
+  },
+  "cpyselhtm": {
+    "message": "Kopioi valitut välilehdet linkeiksi (🔗)",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopioi valitut välilehdet tekstinä (✏️)",
+    "description": ""
+  }
+}

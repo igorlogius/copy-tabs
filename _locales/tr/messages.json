@@ -1,0 +1,22 @@
+{
+  "extensionDescription": {
+    "message": "Bir veya daha fazla sekmenin URL'lerini bağlantı veya metin olarak kopyalayın",
+    "description": "Uzantının açıklaması"
+  },
+  "cpyallhtm": {
+    "message": "Tüm sekmeleri bağlantı olarak kopyalayın (🔗)",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Tüm sekmeleri metin olarak kopyalayın. (✏️)",
+    "description": ""
+  },
+  "cpyselhtm": {
+    "message": "Seçilen sekmeleri bağlantı olarak kopyalayın (🔗)",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Seçilen sekmeleri metin olarak kopyalayın (✏️)",
+    "description": ""
+  }
+}

@@ -2,9 +2,11 @@
 
 const manifest = browser.runtime.getManifest();
 const extname = manifest.name;
+
 let singleActionMode = false;
-let singleActionAction = '';
-let disableNotifications = false;
+let singleActionAction = 'cpyalltxt';
+let showNotifications = true;
+let ready = false;
 
 const mfest = browser.runtime.getManifest();
 
@@ -20,7 +22,7 @@ async function setToStorage(id, value) {
 }
 
 function notify(title, message = "", iconUrl = "icon.png") {
-	if(!disableNotifications) {
+	if(showNotifications) {
 	    return browser.notifications.create(""+Date.now(),
 		{
 		   "type": "basic"
@@ -32,74 +34,11 @@ function notify(title, message = "", iconUrl = "icon.png") {
 	}
 }
 
-
-function getTimeStampStr() {
-    const d = new Date();
-    let ts = "";
-    [   d.getFullYear(), d.getMonth()+1, d.getDate()+1,
-        d.getHours(), d.getMinutes(), d.getSeconds()].forEach( (t,i) => {
-        ts = ts + ((i!==3)?"-":"_") + ((t<10)?"0":"") + t;
-    });
-    return ts.substring(1);
-}
-
 async function copyTabsAsText(tabs){
         const text = tabs.map( t => t.url ).join('\n') + '\n';
 	try {
 		await navigator.clipboard.writeText(text);
 		return true;
-	}catch(e){
-		console.error(e);
-	}
-	return false;
-}
-
-async function saveTabsAsText(tabs){
-        const text = tabs.map( t => t.url ).join('\n') + '\n';
-	try {
-		let link = document.createElement('a');
-		link.style.display = 'none';
-		const href = 'data:plain/text;charset=utf-8,' + encodeURIComponent(text);
-		link.setAttribute('href', href);
-		link.setAttribute('target','_blank');
-		link.setAttribute('download', getTimeStampStr() + ' ' + extname + '.txt');
-		document.body.append(link);
-		link.click();
-		setTimeout(()=>{link.remove()},3000);
-		return true;
-	}catch(e){
-		console.error(e);
-	}
-	return false;
-}
-
-async function saveTabsAsHtml(tabs){
-	try {
-            let div = document.createElement('div');
-	    div.style.position = 'absolute';
-	    div.style.bottom = '-9999999';  // move it offscreen 
-	    document.body.append(div);
-
-            for(const t of tabs) {
-                let br = document.createElement('br');
-                let a = document.createElement('a');
-                a.href = t.url;
-                a.textContent = t.title;
-                div.append(a);
-                div.append(br);
-            }
-	    const text = div.innerHTML;
-	    let link = document.createElement('a');
-	    link.style.display = 'none';
-	    const href = 'data:text/html;charset=utf-8,' + encodeURIComponent(text);
-	    link.setAttribute('href', href);
-	    link.setAttribute('target','_blank');
-	    link.setAttribute('download', getTimeStampStr() + ' ' + extname + '.txt');
-	    document.body.append(link);
-	    link.click();
-	    setTimeout(()=>{link.remove()},3000);
-            div.remove();
-	    return true;
 	}catch(e){
 		console.error(e);
 	}
@@ -135,6 +74,9 @@ async function copyTabsAsHtml(tabs){
 }
 
 async function onCommand(cmd) {
+	if(!ready){
+		return;
+	}
 	let qryObj, tabs, ret = false;
 	// action  cpy|sav
 	// amount  sel|all
@@ -174,40 +116,6 @@ async function onCommand(cmd) {
 			tabs  = await browser.tabs.query(qryObj);
 			ret = copyTabsAsText(tabs);
 			break;
-		case 'savalltxt':
-			qryObj = {
-			    hidden:false,
-			    currentWindow:true
-			};
-			tabs  = await browser.tabs.query(qryObj);
-			ret = saveTabsAsText(tabs);
-			break;
-		case 'savseltxt':
-			qryObj = {
-			    highlighted: true,
-			    hidden:false,
-			    currentWindow:true
-			};
-			tabs  = await browser.tabs.query(qryObj);
-			ret = saveTabsAsText(tabs);
-			break;
-		case 'savallhtm':
-			qryObj = {
-			    hidden:false,
-			    currentWindow:true
-			};
-			tabs  = await browser.tabs.query(qryObj);
-			ret = saveTabsAsHtml(tabs);
-			break;
-		case 'savselhtm':
-			qryObj = {
-			    highlighted: true,
-			    hidden:false,
-			    currentWindow:true
-			};
-			tabs  = await browser.tabs.query(qryObj);
-			ret = saveTabsAsHtml(tabs);
-			break;
 		default:
 			console.error('unknown command', cmd);
 			break;
@@ -229,11 +137,11 @@ async function onCommand(cmd) {
 }
 
 async function onStorageChange(/*changes, area*/) {
+
   	singleActionMode = await getFromStorage('boolean', 'singleActionMode', false);
   	singleActionAction = await getFromStorage('string', 'singleActionAction', 'cpyalltxt');
-	disableNotifications = await getFromStorage('boolean', 'disableNotifications', false);
+	showNotifications = await getFromStorage('boolean', 'showNotifications', true);
 	
-
 	browser.menus.removeAll();
 
 	if(singleActionMode){
@@ -259,6 +167,7 @@ async function onStorageChange(/*changes, area*/) {
 
 (async ()=>  {
 	await onStorageChange();
+	ready = true;
 })();
 
 browser.storage.onChanged.addListener(onStorageChange);

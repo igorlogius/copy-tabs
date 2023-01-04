@@ -1,0 +1,22 @@
+{
+  "extensionDescription": {
+    "message": "Nukopijuokite vieno ar kelių skirtukų URL adresus kaip nuorodas arba tekstą",
+    "description": "Plėtinio aprašymas"
+  },
+  "cpyallhtm": {
+    "message": "Nukopijuokite visus skirtukus kaip nuorodas (🔗)",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Nukopijuokite visus skirtukus kaip tekstą (✏️)",
+    "description": ""
+  },
+  "cpyselhtm": {
+    "message": "Nukopijuokite pasirinktus skirtukus kaip nuorodas (🔗)",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Nukopijuokite pasirinktus skirtukus kaip tekstą (✏️)",
+    "description": ""
+  }
+}

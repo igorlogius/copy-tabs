@@ -1,5 +1,6 @@
 {
   "author": "igorlogius",
+  "default_locale": "en",
   "homepage_url": "https://github.com/igorlogius/copy-taburls",
   "background": {
 	"scripts": ["background.js"]
@@ -16,25 +17,25 @@
   },
   "commands": {
     "cpyallhtm": {
-      "description": "Copy All as Links (🔗)",
+      "description": "__MSG_cpyallhtm__",
       "suggested_key": {
         "default": "F1"
       }
     },
     "cpyalltxt": {
-      "description": "Copy All as Text (✏️)",
+      "description": "__MSG_cpyalltxt__",
       "suggested_key": {
         "default": "F2"
       }
     },
     "cpyselhtm": {
-      "description": "Copy Selected as Links (🔗)",
+      "description": "__MSG_cpyselhtm__",
       "suggested_key": {
         "default": "F3"
       }
     },
     "cpyseltxt": {
-      "description": "Copy Selected as Text (✏️)",
+      "description": "__MSG_cpyseltxt__",
       "suggested_key": {
         "default": "F4"
       }
@@ -45,6 +46,7 @@
   },
   "manifest_version": 2,
   "name": "Copy TabURLs",
+  "description": "__MSG_extensionDescription__",
   "options_ui": {
     "page": "options.html"
   },
@@ -55,5 +57,5 @@
     "clipboardWrite",
     "tabs"
   ],
-  "version": "1.10.22"
+  "version": "1.11.23"
 }
