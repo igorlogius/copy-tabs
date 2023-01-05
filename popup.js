@@ -4,7 +4,7 @@ let body;
 let tip;
 
 const tips = [
-	  'Each action can be assigned a custom shortcut (Defaults: F1-F9)'
+	  'Each action can be assigned a custom shortcut (Defaults: F1-F4)'
 	, 'The activ tab is always selected'
 	, 'Hold SHIFT to select a range of adjacent tabs'
 	, 'Hold CTRL so select multiple non-adjacent tabs'
