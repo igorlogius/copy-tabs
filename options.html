@@ -1,23 +1,26 @@
 <!DOCTYPE html>
 <head>
+	<title>Copy TabURLs - Preferences</title>
 	<style>
 		body {
 			background: lightgray;
+			height:600px;
 		}
 	</style>
 </head>
 <body>
 	<fieldset>
-		<abbr title="changes the toolbar button behaviour to a single click action. To change the action, use the toolbar context (aka. right-click) menu.">
-			<span>Toolbar Mode:</span>
-			<input id="singleActionMode" type="checkbox" />(?)
-		</abbr>
+		<span>Show copy action notifications:</span>
+		<input id="showNotifications" type="checkbox" checked />
 	</fieldset>
 	<fieldset>
-		<abbr title="en/dis-able notifications">
-			<span>Notifications:</span>
-			<input id="showNotifications" type="checkbox" checked /> (?)
-		</abbr>
+		<div>Choose toolbar button click action: 
+		<select id="toolbarAction">
+			<!--option value="popup" >Show Action Popup</option-->
+		</select>
+		</div>
+		<p>
+		<div><b>Tip:</b> All other copy actions can quickly invoked via the toolbar button context menu.</div>
 	</fieldset>
 	<script src="options.js"></script>
 </body>

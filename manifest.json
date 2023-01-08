@@ -5,7 +5,6 @@
 	"scripts": ["background.js"]
   },
   "browser_action": {
-    "default_popup": "popup.html",
     "theme_icons": [
       {
         "light": "dark.png",
@@ -15,7 +14,7 @@
     ]
   },
   "commands": {
-    "cpyallhtm": {
+    "cpyalllnk": {
       "description": "Copy All Tabs as Links (🔗)",
       "suggested_key": {
         "default": "F1"
@@ -27,7 +26,7 @@
         "default": "F2"
       }
     },
-    "cpyselhtm": {
+    "cpysellnk": {
       "description": "Copy Selected Tabs as Links (🔗)",
       "suggested_key": {
         "default": "F3"
@@ -45,16 +44,16 @@
   },
   "manifest_version": 2,
   "name": "Copy TabURLs",
-  "description": "Copy the URLs of tabs as hyperlinks or plaintext",
+  "description": "Copy tabs as hyperlinks or as plaintext URLs",
   "options_ui": {
     "page": "options.html"
   },
   "permissions": [
-    "menus",
-    "storage",
     "notifications",
     "clipboardWrite",
+    "storage",
+    "menus",
     "tabs"
   ],
-  "version": "1.11.25"
+  "version": "1.12.25"
 }
