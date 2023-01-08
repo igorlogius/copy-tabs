@@ -43,8 +43,8 @@
     "256": "icon.svg"
   },
   "manifest_version": 2,
-  "name": "Copy TabURLs",
-  "description": "Copy tabs as hyperlinks or as plaintext URLs",
+  "name": "Copy Tabs",
+  "description": "Copy Tabs as hyperlinks or plaintext URLs",
   "options_ui": {
     "page": "options.html"
   },
@@ -55,5 +55,5 @@
     "menus",
     "tabs"
   ],
-  "version": "1.12.25"
+  "version": "1.12.26"
 }
