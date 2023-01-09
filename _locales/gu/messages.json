@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ટેબોની નકલ કરો",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ટેબોની હાયપરલીંક અથવા લખાણ URL તરીકે નકલ કરો",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "બધી ટેબોની કડીઓ તરીકે નકલ કરો",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "લખાણ તરીકે બધી ટેબોની નકલ કરો",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "પસંદ કરેલ ટેબોની કડીઓ તરીકે નકલ કરો",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "પસંદ કરેલ ટેબોની લખાણ તરીકે નકલ કરો",
+    "description": ""
+  }
+}

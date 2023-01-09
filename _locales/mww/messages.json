@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Luam Tabs",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Copy Tabs li hyperlinks los yog phau ntawv URLs",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Luam Tag Nrho Cov Tabs li Links",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Luam Tag Nrho Cov Tabs li Phau Ntawv",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Luam Tawm Tabs li Links",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Luam Tawm Tabs Li Phau Ntawv",
+    "description": ""
+  }
+}

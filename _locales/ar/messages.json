@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "نسخ علامات التبويب",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "نسخ علامات التبويب كارتباطات تشعبية أو عناوين URL نصية",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "نسخ جميع علامات التبويب كروابط",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "نسخ كل علامات التبويب كنص",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "نسخ علامات التبويب المحددة كارتباطات",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "نسخ علامات التبويب المحددة كنص",
+    "description": ""
+  }
+}

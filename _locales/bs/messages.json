@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopiraj tabulatore",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopiraj Kartice kao hiperveze ili tekstualne URL-ove",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopiraj sve tabove kao veze",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopiraj sve kartice kao tekst",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopiraj izabrane kartice kao veze",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopiraj izabrane kartice kao tekst",
+    "description": ""
+  }
+}

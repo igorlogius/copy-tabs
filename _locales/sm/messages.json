@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopi Faailoga",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopi Faailoga o ni hyperlinks po o tusiga URLs",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopi Uma Faailoga o ni Sootaga",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopi Uma Tabs o se Anotusi",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopi Faailoga Filifilia o ni Sootaga",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopi Faailoga Filifilia o se Anotusi",
+    "description": ""
+  }
+}

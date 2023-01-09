@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopiraj zavihke",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopiranje zavihkov kot hiperpovezav ali besedilnih URL-jev",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopiraj vse zavihke kot povezave",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopiraj vse zavihke kot besedilo",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopiraj izbrane zavihke kot povezave",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopiraj izbrane zavihke kot besedilo",
+    "description": ""
+  }
+}

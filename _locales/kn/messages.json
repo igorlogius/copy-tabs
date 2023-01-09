@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ಟ್ಯಾಬ್ ಗಳನ್ನು ನಕಲಿಸು",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ಟ್ಯಾಬ್ ಗಳನ್ನು ಹೈಪರ್ ಲಿಂಕ್ ಗಳು ಅಥವಾ ಪಠ್ಯ URL ಗಳಾಗಿ ನಕಲು ಮಾಡಿ",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್ ಗಳನ್ನು ಲಿಂಕ್ ಗಳ ರೂಪದಲ್ಲಿ ನಕಲಿಸು",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್ ಗಳನ್ನು ಪಠ್ಯದ ರೂಪದಲ್ಲಿ ನಕಲಿಸು",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "ಆಯ್ಕೆಯಾದ ಟ್ಯಾಬ್ ಗಳನ್ನು ಲಿಂಕ್ ಗಳ ರೂಪದಲ್ಲಿ ನಕಲು ಮಾಡಿ",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "ಆಯ್ಕೆಯಾದ ಟ್ಯಾಬ್ ಗಳನ್ನು ಪಠ್ಯದ ರೂಪದಲ್ಲಿ ನಕಲು ಮಾಡಿ",
+    "description": ""
+  }
+}

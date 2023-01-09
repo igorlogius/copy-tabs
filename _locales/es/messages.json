@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Copiar pestañas",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Copiar pestañas como hipervínculos o URL de texto",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Copiar todas las pestañas como enlaces",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Copiar todas las pestañas como texto",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Copiar pestañas seleccionadas como vínculos",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Copiar pestañas seleccionadas como texto",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Copierea filelor",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Copierea filelor ca hyperlinkuri sau url-uri text",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Copiați toate filele ca linkuri",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Copierea tuturor filelor ca text",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Copierea filelor selectate ca linkuri",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Copierea filelor selectate ca text",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ట్యాబ్ లను కాపీ చేయండి",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ట్యాబ్ లను హైపర్ లింక్ లు లేదా టెక్స్ట్ URL లుగా కాపీ చేయండి",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "అన్ని ట్యాబ్ లను లింక్ ల వలే కాపీ చేయండి",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "అన్ని ట్యాబ్ లను టెక్స్ట్ వలే కాపీ చేయండి",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "ఎంచుకున్న ట్యాబ్ లను లింక్ ల వలే కాపీ చేయండి",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "ఎంచుకున్న ట్యాబ్ లను టెక్స్ట్ వలే కాపీ చేయండి",
+    "description": ""
+  }
+}

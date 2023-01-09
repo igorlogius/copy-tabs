@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Ciļņu kopēšana",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Ciļņu kopēšana hipersaišu vai teksta vietrāžu URL veidā",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopēt visas cilnes kā saites",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopēt visas cilnes kā tekstu",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Atlasīto ciļņu kopēšana saišu veidā",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopēt atlasītās cilnes kā tekstu",
+    "description": ""
+  }
+}

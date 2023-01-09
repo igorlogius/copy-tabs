@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Cóipeáil Cluaisíní",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Cóipeáil Cluaisíní mar hipearnasc nó URLanna téacs",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Cóipeáil gach cluaisín mar naisc",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Cóipeáil gach cluaisín mar théacs",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Cóipeáil Cluaisíní Roghnaithe mar Naisc",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Cóipeáil Cluaisíní Roghnaithe mar Théacs",
+    "description": ""
+  }
+}

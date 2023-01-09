@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Tabbladen kopiëren",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Tabbladen kopiëren als hyperlinks of tekst-URL's",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopieer alle tabbladen als koppelingen",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopieer alle tabbladen als tekst",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Geselecteerde tabbladen kopiëren als koppelingen",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Geselecteerde tabbladen kopiëren als tekst",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ট্যাবগুলি অনুলিপি করুন",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "হাইপারলিঙ্ক বা পাঠ্য URL হিসাবে ট্যাবগুলি অনুলিপি করুন",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "লিঙ্ক হিসাবে সমস্ত ট্যাব অনুলিপি করুন",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "পাঠ্য হিসাবে সমস্ত ট্যাব অনুলিপি করুন",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "নির্বাচিত ট্যাবগুলিকে লিঙ্ক হিসাবে অনুলিপি করুন",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "নির্বাচিত ট্যাবগুলিকে পাঠ্য হিসাবে অনুলিপি করুন",
+    "description": ""
+  }
+}

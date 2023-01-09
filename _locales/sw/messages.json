@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Tabo za Nakala",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Nakili Tabo kama hyperlinks au URL za maandishi",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Nakili Tabo zote kama Viungo",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Nakili Tabo zote kama Maandishi",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Nakili Tabo Zilizochaguliwa kama Viungo",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Nakili Tabo Zilizochaguliwa kama Maandishi",
+    "description": ""
+  }
+}

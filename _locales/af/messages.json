@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopieer oortjies",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopieer oortjies as hiperskakels of teks-URL's",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopieer alle oortjies as skakels",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopieer alle oortjies as teks",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopieer geselekteerde oortjies as skakels",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopieer geselekteerde oortjies as teks",
+    "description": ""
+  }
+}

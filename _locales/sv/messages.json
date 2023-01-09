@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopiera flikar",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopiera flikar som hyperlänkar eller text-URL:er",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopiera alla flikar som länkar",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopiera alla flikar som text",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopiera markerade flikar som länkar",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopiera markerade flikar som text",
+    "description": ""
+  }
+}

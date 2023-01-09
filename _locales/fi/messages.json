@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopioi välilehdet",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Välilehtien kopioiminen hyperlinkkeinä tai teksti-URL-osoitteina",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopioi kaikki välilehdet linkkeinä",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopioi kaikki välilehdet tekstinä",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopioi valitut välilehdet linkkeinä",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopioi valitut välilehdet tekstinä",
+    "description": ""
+  }
+}

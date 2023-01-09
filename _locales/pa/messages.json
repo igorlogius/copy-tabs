@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ਟੈਬਾਂ ਕਾਪੀ ਕਰੋ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ਟੈਬਾਂ ਨੂੰ ਹਾਈਪਰਲਿੰਕ ਜਾਂ ਟੈਕਸਟ URL ਵਜੋਂ ਕਾਪੀ ਕਰੋ",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "ਸਭ ਟੈਬਾਂ ਨੂੰ ਲਿੰਕ ਵਾਂਗ ਕਾਪੀ ਕਰੋ",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "ਸਭ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ ਵਾਂਗ ਕਾਪੀ ਕਰੋ",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "ਚੁਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਲਿੰਕ ਵਜੋਂ ਕਾਪੀ ਕਰੋ",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "ਚੁਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ ਵਾਂਗ ਕਾਪੀ ਕਰੋ",
+    "description": ""
+  }
+}

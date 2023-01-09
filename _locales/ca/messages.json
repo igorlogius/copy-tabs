@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Copia les pestanyes",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Copieu les pestanyes com a hipervincles o URL de text",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Copieu totes les pestanyes com a enllaços",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Copieu totes les pestanyes com a text",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Copieu les pestanyes seleccionades com a enllaços",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Copieu les pestanyes seleccionades com a text",
+    "description": ""
+  }
+}

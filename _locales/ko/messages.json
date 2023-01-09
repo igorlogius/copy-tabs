@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "탭 복사",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "탭을 하이퍼링크 또는 텍스트 URL로 복사",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "모든 탭을 링크로 복사",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "모든 탭을 텍스트로 복사",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "선택한 탭을 링크로 복사",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "선택한 탭을 텍스트로 복사",
+    "description": ""
+  }
+}

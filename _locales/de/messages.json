@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopiere Tabs",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Tabs als Hyperlinks oder Text-URLs kopieren",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Alle Tabs als Links kopieren (AL)",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Alle Tabs als Text kopieren (AT)",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Ausgewählte Tabs als Links kopieren (SL)",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Ausgewählte Tabs als Text kopieren (ST)",
+    "description": ""
+  }
+}

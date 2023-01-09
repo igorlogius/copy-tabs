@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Afrita flipa",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Afritaðu flipa sem tengla eða textaslóðir",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Afrita alla flipa sem tengla",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Afrita alla flipa sem texta",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Afrita valda flipa sem tengla",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Afrita valda flipa sem texta",
+    "description": ""
+  }
+}

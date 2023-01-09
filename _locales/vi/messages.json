@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Sao chép tab",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Sao chép Tab dưới dạng siêu kết nối hoặc URL văn bản",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Sao chép tất cả các tab dưới dạng liên kết",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Sao chép tất cả các tab dưới dạng văn bản",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Sao chép các tab đã chọn dưới dạng liên kết",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Sao chép các tab đã chọn dưới dạng văn bản",
+    "description": ""
+  }
+}

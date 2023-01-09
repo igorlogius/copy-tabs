@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Copia schede",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Copiare le schede come collegamenti ipertestuali o URL di testo",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Copia tutte le schede come collegamenti",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Copia tutte le schede come testo",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Copiare le schede selezionate come collegamenti",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Copiare le schede selezionate come testo",
+    "description": ""
+  }
+}

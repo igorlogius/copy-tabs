@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Tārua Ripa",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Tārua Ripa hei honongaitua, kuputuhi URL rānei",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Tārua Ngā Ripa Katoa hei Hononga",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Tārua Ngā Ripa Katoa hei Kuputuhi",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Tārua Ripa kua Tīpakohia hei Hononga",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Tārua Ripa kua Tīpakohia hei Kuputuhi",
+    "description": ""
+  }
+}

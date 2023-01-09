@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Ikkopja t-Tabs",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Ikkopja Tabs bħala hyperlinks jew URLs tat-test",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Ikkopja t-Tabs kollha bħala Links",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Ikkopja t-Tabs kollha bħala Test",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Ikkopja t-Tabs Magħżula bħala Links",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Ikkopja t-Tabs Magħżula bħala Test",
+    "description": ""
+  }
+}

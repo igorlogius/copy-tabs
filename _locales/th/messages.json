@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "คัดลอกแท็บ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "คัดลอกแท็บเป็นไฮเปอร์ลิงก์หรือ URL ข้อความ",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "คัดลอกแท็บทั้งหมดเป็นลิงก์",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "คัดลอกแท็บทั้งหมดเป็นข้อความ",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "คัดลอกแท็บที่เลือกเป็นลิงก์",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "คัดลอกแท็บที่เลือกเป็นข้อความ",
+    "description": ""
+  }
+}

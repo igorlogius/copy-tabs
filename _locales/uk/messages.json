@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Копіювання вкладок",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Копіювання вкладок як гіперпосилань або текстових URL-адрес",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Копіювання всіх вкладок як посилань",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Копіювання всіх вкладок як тексту",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Копіювання виділених вкладок як посилань",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Копіювання виділених вкладок як тексту",
+    "description": ""
+  }
+}

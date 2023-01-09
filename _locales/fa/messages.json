@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "کپی زبانه ها",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "کپی کردن زبانه ها به عنوان hyperlinks یا URLs متن",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "کپی تمام زبانه ها به عنوان لینک",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "کپی تمام زبانه ها به عنوان متن",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "کپی زبانه های انتخاب شده به عنوان لینک",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "کپی برگه های انتخاب شده به عنوان متن",
+    "description": ""
+  }
+}

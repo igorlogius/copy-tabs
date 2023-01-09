@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Adikao ireo vakizoro",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Adikao toy ny hyperlinks na URL ny vakizoro",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Adikao ho rohy ny vakizoro rehetra",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Adikao ho toy ny soratra ny vakizoro rehetra",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Adikao ho rohy ireo vakizoro voafaritra",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Adikao toy ny soratra ireo vakizoro voafaritra",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Қойындыларды көшіру",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Қойындыларды гиперсілтемелер немесе мәтін URL мекенжайы ретінде көшіру",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Барлық қойындыларды сілтемелер ретінде көшіру",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Барлық қойындыларды мәтін ретінде көшіру",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Таңдалған қойындыларды сілтемелер ретінде көшіру",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Таңдалған қойындыларды мәтін ретінде көшіру",
+    "description": ""
+  }
+}

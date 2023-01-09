@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ٹیبز نقل کریں",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ٹیبز کو ہائپر لنکس یا ٹیکسٹ یو آر ایل کے طور پر کاپی کریں",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "تمام ٹیبز بطور روابط نقل کریں",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "تمام ٹیبز بطور متن نقل کریں",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "منتخب ٹیبز بطور روابط نقل کریں",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "منتخب ٹیبز بطور متن نقل کریں",
+    "description": ""
+  }
+}

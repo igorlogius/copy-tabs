@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopi Tabs",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopi Tabs kòm lyen oswa URL tèks",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopi Tout Tabs kòm lyen",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopi Tout tab kòm Tèks",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopi Chwazi Tabs kòm lyen",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopi chwazi Tabs kòm Tèks",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "टॅब प्रतिकृत करा",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "टॅबला हायपरलिंक्स किंवा पाठ्य URLs म्हणून कॉपी करा",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "सर्व टॅब लिंक्सनुरूप प्रतिकृत करा",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "सर्व टॅब पाठ्य म्हणून प्रत करा",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "निवडलेले टॅब दुवे म्हणून प्रतिकृत करा",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "निवडलेले टॅब पाठ्य म्हणून प्रतिकृत करा",
+    "description": ""
+  }
+}

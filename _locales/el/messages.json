@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Αντιγραφή καρτελών",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Αντιγραφή καρτελών ως υπερ-συνδέσεων ή διευθύνσεων URL κειμένου",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Αντιγραφή όλων των καρτελών ως συνδέσεων",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Αντιγραφή όλων των καρτελών ως κείμενο",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Αντιγραφή επιλεγμένων καρτελών ως συνδέσεων",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Αντιγραφή επιλεγμένων στηλοθετών ως κειμένου",
+    "description": ""
+  }
+}

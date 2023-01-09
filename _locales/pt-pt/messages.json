@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Separadores de cópia",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Copiar separadores como hiperligações ou URLs de texto",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Copiar todos os separadores como Links",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Copiar todos os separadores como texto",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Copiar separadores selecionados como Links",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Copiar separadores selecionados como texto",
+    "description": ""
+  }
+}

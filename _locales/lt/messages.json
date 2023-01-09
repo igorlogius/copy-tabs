@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopijuoti skirtukus",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Skirtukų kaip hipersaitų arba teksto URL kopijavimas",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopijuoti visus skirtukus kaip saitus",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopijuoti visus skirtukus kaip tekstą",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopijuoti pasirinktus skirtukus kaip saitus",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopijuoti pažymėtus skirtukus kaip tekstą",
+    "description": ""
+  }
+}

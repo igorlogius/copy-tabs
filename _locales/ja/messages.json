@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "タブのコピー",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "タブをハイパーリンクまたはテキスト URL としてコピーする",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "すべてのタブをリンクとしてコピー",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "すべてのタブをテキストとしてコピー",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "選択したタブをリンクとしてコピー",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "選択したタブをテキストとしてコピー",
+    "description": ""
+  }
+}

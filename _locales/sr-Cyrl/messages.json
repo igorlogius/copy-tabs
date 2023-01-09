@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Копирање картица",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Копирање картица као хипервеза или УРЛ адреса текста",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Копирај све картице као везе",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Копирај све картице као текст",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Копирај изабране картице као везе",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Копирај изабране картице као текст",
+    "description": ""
+  }
+}

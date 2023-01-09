@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "தாவல்களை நகலெடுக்கவும்",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "தாவல்களை ஹைப்பர்லிங்க்கள் அல்லது உரை URL களாக நகலெடுக்கவும்",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "அனைத்து தாவல்களையும் இணைப்புகளாக நகலெடுக்கவும்",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "அனைத்து தாவல்களையும் உரையாக நகலெடுக்கவும்",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "தேர்ந்தெடுத்த தாவல்களை இணைப்புகளாக நகலெடுக்கவும்",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "தேர்ந்தெடுத்த தாவல்களை உரையாக நகலெடுக்கவும்",
+    "description": ""
+  }
+}

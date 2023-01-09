@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "העתקת כרטיסיות",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "העתקת כרטיסיות כהיפר-קישורים או ככתובות URL של טקסט",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "העתקת כל הכרטיסיות כקישורים",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "העתקת כל הכרטיסיות כטקסט",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "העתקת כרטיסיות שנבחרו כקישורים",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "העתקת כרטיסיות שנבחרו כטקסט",
+    "description": ""
+  }
+}

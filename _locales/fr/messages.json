@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Copier les onglets",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Copier des onglets sous forme de liens hypertexte ou d’URL de texte",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Copier tous les onglets sous forme de liens",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Copier tous les onglets sous forme de texte",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Copier les onglets sélectionnés sous forme de liens",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Copier les onglets sélectionnés sous forme de texte",
+    "description": ""
+  }
+}

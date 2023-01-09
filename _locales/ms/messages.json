@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Salin Tab",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Salin Tab sebagai hiperpautan atau URL teks",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Salin Semua Tab sebagai Pautan",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Salin Semua Tab sebagai Teks",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Salin tab yang dipilih sebagai pautan",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Salin tab yang dipilih sebagai teks",
+    "description": ""
+  }
+}

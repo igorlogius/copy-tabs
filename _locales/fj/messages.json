@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Lavetaka na iLavelave",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Lavetaka na iLavelave me isema se SVL (SVT) vakau itukutuku",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Lavetaka Taucoko na iTuvatuva me iSema",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Lavetaka Taucoko na iTuvatuva me iTukutuku",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Lavetaka na iTuvatuva Digitaki me iSema",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Lavetaka na iTuvatuva Digitaki me iTukutuku",
+    "description": ""
+  }
+}
