@@ -1,5 +1,6 @@
 {
   "author": "igorlogius",
+  "default_locale": "en",
   "homepage_url": "https://github.com/igorlogius/copy-tabs",
   "background": {
 	"scripts": ["background.js"]
@@ -15,25 +16,25 @@
   },
   "commands": {
     "cpyalllnk": {
-      "description": "Copy All Tabs as Links (🔗)",
+      "description": "__MSG_cpyalllnk__",
       "suggested_key": {
         "default": "F1"
       }
     },
     "cpyalltxt": {
-      "description": "Copy All Tabs as Text (✏️)",
+      "description": "__MSG_cpyalltxt__",
       "suggested_key": {
         "default": "F2"
       }
     },
     "cpysellnk": {
-      "description": "Copy Selected Tabs as Links (🔗)",
+      "description": "__MSG_cpysellnk__",
       "suggested_key": {
         "default": "F3"
       }
     },
     "cpyseltxt": {
-      "description": "Copy Selected Tabs as Text (✏️)",
+      "description": "__MSG_cpyseltxt__",
       "suggested_key": {
         "default": "F4"
       }
@@ -43,8 +44,8 @@
     "256": "icon.svg"
   },
   "manifest_version": 2,
-  "name": "Copy Tabs",
-  "description": "Copy Tabs as hyperlinks or plaintext URLs",
+  "name": "__MSG_addonName__",
+  "description": "__MSG_addonDesc__",
   "options_ui": {
     "page": "options.html"
   },
@@ -55,5 +56,5 @@
     "menus",
     "tabs"
   ],
-  "version": "1.12.27"
+  "version": "1.12.28"
 }
