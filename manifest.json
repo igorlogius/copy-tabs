@@ -1,6 +1,6 @@
 {
   "author": "igorlogius",
-  "homepage_url": "https://github.com/igorlogius/copy-taburls",
+  "homepage_url": "https://github.com/igorlogius/copy-tabs",
   "background": {
 	"scripts": ["background.js"]
   },
@@ -55,5 +55,5 @@
     "menus",
     "tabs"
   ],
-  "version": "1.12.26"
+  "version": "1.12.27"
 }
