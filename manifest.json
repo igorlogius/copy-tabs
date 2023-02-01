@@ -40,6 +40,7 @@
       }
     }
   },
+  "default_area": "navbar",
   "icons": {
     "256": "icon.svg"
   },
@@ -56,5 +57,5 @@
     "menus",
     "tabs"
   ],
-  "version": "1.12.30"
+  "version": "1.12.31"
 }
