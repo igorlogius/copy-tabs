@@ -41,7 +41,7 @@ function onLoad(){
 		toolbarActionSelect.add(new Option(manifest.commands[cmd].description, cmd));
 	}
 
-	[ "showNotifications", "toolbarAction" ].map( (id) => {
+	[ "showNotifications", "toolbarAction","noURLParams" ].map( (id) => {
 
 		browser.storage.local.get(id).then( (obj) => {
 

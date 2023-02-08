@@ -5,6 +5,7 @@ const extname = manifest.name;
 
 let toolbarAction = 'cpyalllnk';
 let showNotifications = true;
+let noURLParams = false;
 let ready = false;
 
 async function getFromStorage(type, id, fallback) {
@@ -26,7 +27,21 @@ function notify(title, message = "", iconUrl = "icon.png") {
 }
 
 async function copyTabsAsText(tabs){
-        const text = tabs.map( t => t.url ).join('\n') + '\n';
+        const text = tabs.map( t => {
+		if(noURLParams){
+			try {
+				let tmp = new URL(t.url);
+				console.debug(tmp);
+				if(tmp.origin !== "null"){ // origin seems to be "null" when not available which is a strange value, might be worth raising a bug on bugzilla for
+					tmp = tmp.origin + tmp.pathname;
+					return tmp;
+				}
+			}catch(e){
+				console.error(e);
+			}
+		}
+		return t.url;
+	}).join('\r\n') + '\r\n'+ '\r\n';
 	try {
 		await navigator.clipboard.writeText(text);
 		return true;
@@ -45,7 +60,15 @@ async function copyTabsAsHtml(tabs){
             for(const t of tabs) {
                 let br = document.createElement('br');
                 let a = document.createElement('a');
-                a.href = t.url;
+
+		if(noURLParams){
+			let tmp = new URL(t.url);
+			tmp = tmp.origin + tmp.pathname;
+			a.href = tmp;
+		}else{
+			a.href = t.url;
+		}
+
                 a.textContent = t.title;
                 div.append(a);
                 div.append(br);
@@ -110,6 +133,7 @@ async function onStorageChange() {
 
   	toolbarAction = await getFromStorage('string', 'toolbarAction', 'cpyalllnk'); 
 	showNotifications = await getFromStorage('boolean', 'showNotifications', true);
+	noURLParams = await getFromStorage('boolean', 'noURLParams', false);
 
 	browser.browserAction.setTitle({ title: manifest.commands[toolbarAction].description });
 
