@@ -144,6 +144,7 @@ async function onStorageChange() {
 
 (async ()=>  {
 
+
 	// add the 4 context entries 
 	let abbr = '';
 	for(const cmd of Object.keys(manifest.commands)){
@@ -158,6 +159,15 @@ async function onStorageChange() {
 			}
 		});
 	}
+	
+	// add direct linkt to option page
+	browser.menus.create({
+		title: "Preferences ... ",
+		contexts: ["browser_action"],
+		onclick: () => {
+			browser.runtime.openOptionsPage();
+		}
+	});
 
 	await onStorageChange();
 	ready = true;
@@ -177,9 +187,7 @@ browser.browserAction.setBadgeBackgroundColor({color: [0,0,0, 115]});
 // show the user the options page on first installation
 browser.runtime.onInstalled.addListener( (details) => {
 	if(details.reason === "install"){
-		browser.tabs.create({
-			url: "options.html"
-		});
+		browser.runtime.openOptionsPage();
 	}
 });
 
