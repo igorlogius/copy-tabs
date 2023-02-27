@@ -1,5 +1,9 @@
 Copy tabs as hyperlinks or as plaintext URLs, the same ways as MS Edge, only better since this addons supports copying mutliple tabs at the same time. 
 
+<b>Quick Setup and Usage Demo</b>
+
+https://user-images.githubusercontent.com/67047467/221658961-e24ba087-3bd8-4656-bb76-4d6847a1ff7f.mp4
+
 <b>Features:</b>
 <ul>
 	<li>select the default toolbar button action</li>
