@@ -169,6 +169,14 @@ async function onStorageChange() {
 		}
 	});
 
+	browser.menus.create({
+		title: extname,
+		contexts: ["tab"],
+		onclick: () => {
+			onCommand(toolbarAction);
+		}
+	});
+
 	await onStorageChange();
 	ready = true;
 })();
