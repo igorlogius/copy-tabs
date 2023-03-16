@@ -153,7 +153,7 @@ async function onStorageChange() {
 		browser.menus.create({
 			id: ""+cmd,
 			title: manifest.commands[cmd].description + abbr,
-			contexts: ["browser_action"],
+			contexts: ["browser_action","tab"],
 			onclick: (info) => {
 				onCommand(info.menuItemId);
 			}
@@ -163,17 +163,9 @@ async function onStorageChange() {
 	// add direct linkt to option page
 	browser.menus.create({
 		title: "Preferences ... ",
-		contexts: ["browser_action"],
+		contexts: ["browser_action","tab"],
 		onclick: () => {
 			browser.runtime.openOptionsPage();
-		}
-	});
-
-	browser.menus.create({
-		title: extname,
-		contexts: ["tab"],
-		onclick: () => {
-			onCommand(toolbarAction);
 		}
 	});
 
