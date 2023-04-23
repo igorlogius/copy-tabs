@@ -1,17 +1,19 @@
-Copy tabs as hyperlinks or as plaintext URLs, the same ways as MS Edge, only better since this addons supports copying mutliple tabs at the same time. 
+Copy tabs as hyperlinks or as plaintext URLs, the similar to MS Edge, but even
+better since this addons supports copying mutliple tabs at the same time.
 
-<b>Quick Setup and Usage Demo</b>
-
-https://user-images.githubusercontent.com/67047467/221658961-e24ba087-3bd8-4656-bb76-4d6847a1ff7f.mp4
+<b>Enable plaintext fallback</b>
+This feature is behind the dom.events.asyncClipboard.clipboardItem preference
+(needs to be set to true). To change preferences in Firefox, visit about:config.
+ref.
+https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/write#browser_compatibility
 
 <b>Features:</b>
 <ul>
-	<li>select the default toolbar button action</li>
-	<li>use context menu to quickly invoke the other copy action</li>
-	<li>set custom shortcuts for all actions</li>
-	<li>hide feedback notifications</li>
+  <li>select the default toolbar button action</li>
+  <li>use context menu to quickly invoke the other copy action</li>
+  <li>set custom shortcuts for all actions</li>
+  <li>hide feedback notifications</li>
 </ul>
-
 
 <b>Notes:</b>
 <ol>

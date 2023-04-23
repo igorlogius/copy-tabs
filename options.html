@@ -1,43 +1,66 @@
 <!DOCTYPE html>
 <head>
-	<title>Copy Tabs - Preferences</title>
-	<style>
-		body {
-			background: lightgray;
-			height:600px;
-			padding:2%;
-			margin-top:1%;
-			font-family: monospace;
-		}
-	</style>
+  <title>Copy Tabs - Preferences</title>
+  <style>
+    body {
+      background: lightgray;
+      height: 600px;
+      padding: 2%;
+      margin-top: 1%;
+      font-family: monospace;
+    }
+  </style>
 </head>
 <body>
-	<fieldset>
-		<abbr title="Enable or disable the copy notifications. (default=on)">
-			<span>Display Notifications:</span>
-			<input id="showNotifications" type="checkbox" checked />
-		(?)</abbr>
-	</fieldset>
-	<fieldset>
-		<abbr title="Strip URL parameter from the copied URLs. (default=off)">
-			<span>Remove URL Parameters:</span>
-			<input id="noURLParams" type="checkbox" />
-		(?)</abbr>
-	</fieldset>
-	<fieldset>
-		<abbr title="Select the left click toolbar button action. (default='Copy All Tabs as Links')">
-		Toolbar button action: 
-			<select id="toolbarAction"></select>
-		(?)</abbr>
-	</fieldset>
-	<fieldset>
-		<p><b>Hints/Tips: (You can ...) </b> </p>
-		<ol>
-			<li><a href="https://github.com/igorlogius/copy-tabs/wiki">..invoke actions via the context menu</a> </li>
-			<li><a href="https://support.mozilla.org/en-US/kb/manage-extension-shortcuts-firefox">..assign shortcuts for actions</a></li>
-			<li><a href="https://support.mozilla.org/en-US/kb/extensions-button">..pin the extension button </a></li>
-			<li><a href="https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars">..move the extension button</a></li>
-		</ol>
-	</fieldset>
-	<script src="options.js"></script>
+  <fieldset>
+    <abbr title="Enable or disable the copy notifications. (default=on)">
+      <span>Display Notifications:</span>
+      <input id="showNotifications" type="checkbox" checked />
+      (?)</abbr
+    >
+  </fieldset>
+  <fieldset>
+    <abbr title="Strip URL parameter from the copied URLs. (default=off)">
+      <span>Remove URL Parameters:</span>
+      <input id="noURLParams" type="checkbox" />
+      (?)</abbr
+    >
+  </fieldset>
+  <fieldset>
+    <abbr
+      title="Select the left click toolbar button action. (default='Copy All Tabs as Links')"
+    >
+      Toolbar button action:
+      <select id="toolbarAction"></select>
+      (?)</abbr
+    >
+  </fieldset>
+  <fieldset>
+    <p><b>Hints/Tips: (You can ...) </b></p>
+    <ol>
+      <li>
+        <a href="https://github.com/igorlogius/copy-tabs/wiki"
+          >..invoke actions via the context menu</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://support.mozilla.org/en-US/kb/manage-extension-shortcuts-firefox"
+          >..assign shortcuts for actions</a
+        >
+      </li>
+      <li>
+        <a href="https://support.mozilla.org/en-US/kb/extensions-button"
+          >..pin the extension button
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars"
+          >..move the extension button</a
+        >
+      </li>
+    </ol>
+  </fieldset>
+  <script src="options.js"></script>
 </body>
