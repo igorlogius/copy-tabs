@@ -1,26 +1,26 @@
 {
   "addonName": {
-    "message": "Copi Tabiau",
+    "message": "Copïo Tabiau",
     "description": ""
   },
   "addonDesc": {
-    "message": "Copïwch Tabs fel hypergysylltiadau neu URLs testun",
+    "message": "Copïwch Tabiau fel hyperddolenni neu URLs testun",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Copïwch bob tab fel dolenni",
+    "message": "Copïwch Pob Tab fel Dolenni",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copi Pob Tab fel Testun",
+    "message": "Copïwch Pob Tab fel URLs Testun",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Copi Tabiau Dethol fel Dolenni",
+    "message": "Copïo Tabiau Dethol fel Dolenni",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Copi Tabiau Dethol fel Testun",
+    "message": "Copïo Tabiau Dethol fel URLs Testun",
     "description": ""
   }
 }

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ចម្លងផ្ទាំង",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ចម្លងផ្ទាំងជាតំណខ្ពស់ ឬ URL អត្ថបទ",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "ចម្លងផ្ទាំងទាំងអស់ជាតំណភ្ជាប់",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "ចម្លងផ្ទាំងទាំងអស់ជា URL អត្ថបទ",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "ចម្លងផ្ទាំងដែលបានជ្រើសរើសជាតំណភ្ជាប់",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "ចម្លងផ្ទាំងដែលបានជ្រើសរើសជា URL អត្ថបទ",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Detuo Taabụ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Detuo Taabụ dị ka hyperlinks ma ọ bụ ederede URL",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Detuo Taabụ niile dị ka njikọ",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Detuo Taabụ niile dị ka URL ederede",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Detuo taabụ ahọpụtara dị ka njikọ",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Detuo taabụ ahọpụtara dị ka URL ederede",
+    "description": ""
+  }
+}

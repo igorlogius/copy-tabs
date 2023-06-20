@@ -1,26 +1,26 @@
 {
   "addonName": {
-    "message": "टॅब प्रतिकृत करा",
+    "message": "टॅब कॉपी करा",
     "description": ""
   },
   "addonDesc": {
-    "message": "टॅबला हायपरलिंक्स किंवा पाठ्य URLs म्हणून कॉपी करा",
+    "message": "हायपरलिंक्स किंवा मजकूर URL म्हणून टॅब कॉपी करा",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "सर्व टॅब लिंक्सनुरूप प्रतिकृत करा",
+    "message": "सर्व टॅब लिंक्स म्हणून कॉपी करा",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "सर्व टॅब पाठ्य म्हणून प्रत करा",
+    "message": "सर्व टॅब मजकूर URL म्हणून कॉपी करा",
     "description": ""
   },
   "cpysellnk": {
-    "message": "निवडलेले टॅब दुवे म्हणून प्रतिकृत करा",
+    "message": "निवडलेले टॅब दुवे म्हणून कॉपी करा",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "निवडलेले टॅब पाठ्य म्हणून प्रतिकृत करा",
+    "message": "निवडलेले टॅब मजकूर URL म्हणून कॉपी करा",
     "description": ""
   }
 }

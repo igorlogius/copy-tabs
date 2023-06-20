@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Nuqul ka samee tabs",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Nuqul ka samee tabs sidii xiriiriye sare ama URL qoraal ah",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Ku koobbi Dhammaan Tabaha sida Links",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Ku koobbi Dhammaan Tabaha sida Qoraal URLs",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Nuqul ka mid ah Tabaha la xushay sida isku xidhka",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Koobiyi tabs la xushay sidii URL qoraal ahaan",
+    "description": ""
+  }
+}

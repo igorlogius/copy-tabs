@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kwafi Shafukan",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kwafi Shafuka azaman hanyoyin haɗin kai ko URLs na rubutu",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kwafi Duk Shafukan azaman hanyoyin haɗi",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kwafi Duk Shafukan azaman URLs Rubutu",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kwafi Shafukan da aka zaɓa azaman Haɗi",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kwafi Shafukan da aka zaɓa azaman URLs Rubutu",
+    "description": ""
+  }
+}

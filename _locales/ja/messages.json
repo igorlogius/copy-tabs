@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "タブをハイパーリンクまたはテキスト URL としてコピーする",
+    "message": "タブをハイパーリンクまたはテキスト URL としてコピー",
     "description": ""
   },
   "cpyalllnk": {
@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "すべてのタブをテキストとしてコピー",
+    "message": "すべてのタブをテキスト URL としてコピー",
     "description": ""
   },
   "cpysellnk": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "選択したタブをテキストとしてコピー",
+    "message": "選択したタブをテキスト URL としてコピー",
     "description": ""
   }
 }

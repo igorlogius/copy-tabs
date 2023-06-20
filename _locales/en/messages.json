@@ -3,7 +3,6 @@
     "message": "Copy Tabs",
     "description": ""
   },
-
   "addonDesc": {
     "message": "Copy Tabs as hyperlinks or text URLs",
     "description": ""
@@ -13,7 +12,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copy All Tabs as Text",
+    "message": "Copy All Tabs as Text URLs",
     "description": ""
   },
   "cpysellnk": {
@@ -21,8 +20,7 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Copy Selected Tabs as Text",
+    "message": "Copy Selected Tabs as Text URLs",
     "description": ""
   }
 }
-

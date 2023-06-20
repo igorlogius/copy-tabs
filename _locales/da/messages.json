@@ -12,15 +12,15 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopier alle faner som tekst",
+    "message": "Kopier alle faner som tekst-URL'er",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopiere markerede faner som links",
+    "message": "Kopier valgte faner som links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopiere markerede faner som tekst",
+    "message": "Kopier valgte faner som tekst-URL'er",
     "description": ""
   }
 }

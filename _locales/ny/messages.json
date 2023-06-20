@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Copy Tabs",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Koperani Ma tabu ngati ma hyperlink kapena ma URL alemba",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Lembani Ma Tabu Onse Monga Maulalo",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Koperani Ma Tabu Onse ngati Ma URL a Mawu",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Koperani Ma Tabu Osankhidwa Monga Maulalo",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Koperani Ma Tabu Osankhidwa ngati Ma URL a Mawu",
+    "description": ""
+  }
+}

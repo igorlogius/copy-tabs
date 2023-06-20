@@ -1,26 +1,26 @@
 {
   "addonName": {
-    "message": "Kopiere Tabs",
+    "message": "Tabs kopieren",
     "description": ""
   },
   "addonDesc": {
-    "message": "Tabs als Hyperlinks oder Text-URLs kopieren",
+    "message": "Kopieren Sie Tabs als Hyperlinks oder Text-URLs",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle Tabs als Links kopieren (AL)",
+    "message": "Kopieren Sie alle Registerkarten als Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle Tabs als Text kopieren (AT)",
+    "message": "Kopieren Sie alle Tabs als Text-URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ausgewählte Tabs als Links kopieren (SL)",
+    "message": "Ausgewählte Tabs als Links kopieren",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ausgewählte Tabs als Text kopieren (ST)",
+    "message": "Ausgewählte Tabs als Text-URLs kopieren",
     "description": ""
   }
 }

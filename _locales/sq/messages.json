@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopjoni skedat",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopjoni skedat si hiperlidhje ose URL teksti",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopjoni të gjitha skedat si lidhje",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopjoni të gjitha skedat si URL teksti",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopjoni skedat e zgjedhura si lidhje",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopjoni skedat e zgjedhura si URL teksti",
+    "description": ""
+  }
+}

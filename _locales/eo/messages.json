@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopiu langetojn",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopiu Langetojn kiel hiperligojn aŭ tekstajn URLojn",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopiu Ĉiuj Langetoj kiel Ligiloj",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopiu Ĉiuj Langetoj kiel Tekstaj URLoj",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopiu Elektitaj Langetoj kiel Ligiloj",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopiu Elektitaj Langetoj kiel Tekstaj URLoj",
+    "description": ""
+  }
+}

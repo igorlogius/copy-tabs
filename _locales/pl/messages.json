@@ -1,26 +1,26 @@
 {
   "addonName": {
-    "message": "Kopiuj karty",
+    "message": "Kopiuj zakładki",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiowanie kart jako hiperłączy lub tekstowych adresów URL",
+    "message": "Kopiuj zakładki jako hiperłącza lub tekstowe adresy URL",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Skopiuj wszystkie karty jako łącza",
+    "message": "Skopiuj wszystkie karty jako linki",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Skopiuj wszystkie karty jako tekst",
+    "message": "Skopiuj wszystkie karty jako tekstowe adresy URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopiowanie wybranych kart jako łączy",
+    "message": "Skopiuj wybrane karty jako łącza",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopiowanie zaznaczonych kart jako tekstu",
+    "message": "Skopiuj wybrane karty jako tekstowe adresy URL",
     "description": ""
   }
 }

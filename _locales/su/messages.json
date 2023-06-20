@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Salin Tab",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Salin Tab salaku hyperlink atanapi URL téks",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Nyalin Sadaya Tab salaku Tumbu",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Salin Sadaya Tab salaku URL téks",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Salin Tab Dipilih salaku Tumbu",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Salin Tab anu Dipilih salaku URL Téks",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopisha Amathebhu",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopisha Amathebhu njengezixhumanisi noma ama-URL ombhalo",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopisha Wonke Amathebhu Njengezixhumanisi",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopisha Wonke Amathebhu njengama-URL Ombhalo",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopisha Amathebhu Akhethiwe Njengezixhumanisi",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopisha Amathebhu Akhethiwe Njengama-URL Ombhalo",
+    "description": ""
+  }
+}

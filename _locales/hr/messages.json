@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiranje kartica kao hiperveza ili URL-ova teksta",
+    "message": "Kopiraj kartice kao hiperveze ili tekstualne URL-ove",
     "description": ""
   },
   "cpyalllnk": {
@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopiraj sve kartice kao tekst",
+    "message": "Kopiraj sve kartice kao tekstualne URL-ove",
     "description": ""
   },
   "cpysellnk": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopiraj odabrane kartice kao tekst",
+    "message": "Kopiraj odabrane kartice kao tekstualne URL-ove",
     "description": ""
   }
 }

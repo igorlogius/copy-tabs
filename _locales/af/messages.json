@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopieer alle oortjies as teks",
+    "message": "Kopieer alle oortjies as teks-URL'e",
     "description": ""
   },
   "cpysellnk": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopieer geselekteerde oortjies as teks",
+    "message": "Kopieer geselekteerde oortjies as teks-URL'e",
     "description": ""
   }
 }

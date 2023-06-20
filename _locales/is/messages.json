@@ -1,6 +1,6 @@
 {
   "addonName": {
-    "message": "Afrita flipa",
+    "message": "Afritaðu flipa",
     "description": ""
   },
   "addonDesc": {
@@ -8,19 +8,19 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Afrita alla flipa sem tengla",
+    "message": "Afritaðu alla flipa sem tengla",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Afrita alla flipa sem texta",
+    "message": "Afritaðu alla flipa sem textaslóðir",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Afrita valda flipa sem tengla",
+    "message": "Afritaðu valda flipa sem tengla",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Afrita valda flipa sem texta",
+    "message": "Afritaðu valda flipa sem textaslóðir",
     "description": ""
   }
 }

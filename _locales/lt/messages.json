@@ -4,23 +4,23 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Skirtukų kaip hipersaitų arba teksto URL kopijavimas",
+    "message": "Nukopijuokite skirtukus kaip hipersaitus arba teksto URL",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kopijuoti visus skirtukus kaip saitus",
+    "message": "Nukopijuokite visus skirtukus kaip nuorodas",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopijuoti visus skirtukus kaip tekstą",
+    "message": "Nukopijuokite visus skirtukus kaip teksto URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopijuoti pasirinktus skirtukus kaip saitus",
+    "message": "Nukopijuokite pasirinktus skirtukus kaip nuorodas",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopijuoti pažymėtus skirtukus kaip tekstą",
+    "message": "Nukopijuokite pasirinktus skirtukus kaip teksto URL",
     "description": ""
   }
 }

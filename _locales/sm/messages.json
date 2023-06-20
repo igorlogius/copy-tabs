@@ -1,26 +1,26 @@
 {
   "addonName": {
-    "message": "Kopi Faailoga",
+    "message": "Kopi Tabs",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopi Faailoga o ni hyperlinks po o tusiga URLs",
+    "message": "Kopi Tabs e fai ma hyperlinks po'o tusitusiga URL",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kopi Uma Faailoga o ni Sootaga",
+    "message": "Kopi Tape uma e fai ma So'oga",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopi Uma Tabs o se Anotusi",
+    "message": "Kopi Tape uma e fai ma URL o Tusitusiga",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopi Faailoga Filifilia o ni Sootaga",
+    "message": "Kopi Fa'amau Filifilia e fai ma So'oga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopi Faailoga Filifilia o se Anotusi",
+    "message": "Kopi Tape Filifilia e fai ma URL o Tusitusiga",
     "description": ""
   }
 }

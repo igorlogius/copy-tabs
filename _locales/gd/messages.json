@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Dèan lethbhreac de na tabaichean",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Dèan lethbhreac de na tabaichean mar eadar-cheanglaichean no URLan teacsa",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Dèan lethbhreac de na tabaichean gu lèir mar cheanglaichean",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Dèan lethbhreac de na tabaichean gu lèir mar URLan teacsa",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Dèan lethbhreac de na tabaichean taghte mar cheanglaichean",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Dèan lethbhreac de na tabaichean taghte mar URLan teacsa",
+    "description": ""
+  }
+}

@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Copierea filelor",
+    "message": "Copiați filele",
     "description": ""
   },
   "addonDesc": {
-    "message": "Copierea filelor ca hyperlinkuri sau url-uri text",
+    "message": "Copiați filele ca hyperlinkuri sau URL-uri text",
     "description": ""
   },
   "cpyalllnk": {
@@ -12,15 +12,15 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copierea tuturor filelor ca text",
+    "message": "Copiați toate filele ca URL-uri text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Copierea filelor selectate ca linkuri",
+    "message": "Copiați filele selectate ca linkuri",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Copierea filelor selectate ca text",
+    "message": "Copiați filele selectate ca URL-uri text",
     "description": ""
   }
 }

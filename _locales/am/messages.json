@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ትሮችን ቅዳ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ትሮችን እንደ hyperlinks ወይም የጽሑፍ URLs ቅዳ",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "ሁሉንም ትሮች እንደ አገናኞች ይቅዱ",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "ሁሉንም ትሮች እንደ የጽሑፍ ዩአርኤሎች ይቅዱ",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "የተመረጡ ትሮችን እንደ አገናኞች ይቅዱ",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "የተመረጡ ትሮችን እንደ የጽሑፍ ዩአርኤሎች ቅዳ",
+    "description": ""
+  }
+}

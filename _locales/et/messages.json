@@ -1,26 +1,26 @@
 {
   "addonName": {
-    "message": "Vahekaartide kopeerimine",
+    "message": "Kopeeri vahekaardid",
     "description": ""
   },
   "addonDesc": {
-    "message": "Vahekaartide kopeerimine hüperlinkidena või teksti URL-idena",
+    "message": "Kopeerige vahelehed hüperlinkide või teksti URL-ina",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kõigi vahekaartide kopeerimine linkidena",
+    "message": "Kopeerige kõik vahelehed linkidena",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kõigi vahekaartide kopeerimine tekstina",
+    "message": "Kopeerige kõik vahelehed teksti URL-ina",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valitud vahekaartide kopeerimine linkidena",
+    "message": "Kopeerige valitud vahelehed linkidena",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valitud tabelduskohtade kopeerimine tekstina",
+    "message": "Kopeerige valitud vahelehed teksti URL-ina",
     "description": ""
   }
 }

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Lapok másolása",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Másolja a lapokat hiperhivatkozásként vagy szöveges URL-ként",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Másolja az összes lapot hivatkozásként",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Másolja az összes lapot szöveges URL-ként",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Másolja a kiválasztott lapokat hivatkozásként",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Másolja a kiválasztott lapokat szöveges URL-ként",
+    "description": ""
+  }
+}

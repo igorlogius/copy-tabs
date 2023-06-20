@@ -4,23 +4,23 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Sekmeleri köprüler veya metin URL'leri olarak kopyalama",
+    "message": "Sekmeleri köprüler veya metin URL'leri olarak kopyala",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tüm sekmeleri bağlantı olarak kopyala",
+    "message": "Tüm Sekmeleri Bağlantı Olarak Kopyala",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tüm Sekmeleri Metin Olarak Kopyala",
+    "message": "Tüm Sekmeleri Metin URL'leri Olarak Kopyala",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Seçili sekmeleri bağlantı olarak kopyalama",
+    "message": "Seçili Sekmeleri Bağlantı Olarak Kopyala",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Seçili Sekmeleri Metin Olarak Kopyala",
+    "message": "Seçilen Sekmeleri Metin URL'leri Olarak Kopyala",
     "description": ""
   }
 }

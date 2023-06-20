@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ჩანართების კოპირება",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "დააკოპირეთ ჩანართები ჰიპერბმულების ან ტექსტური URL-ების სახით",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "დააკოპირეთ ყველა ჩანართი ბმულად",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "დააკოპირეთ ყველა ჩანართი, როგორც ტექსტური URL",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "დააკოპირეთ არჩეული ჩანართები ბმულებად",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "დააკოპირეთ არჩეული ჩანართები, როგორც ტექსტური URL",
+    "description": ""
+  }
+}

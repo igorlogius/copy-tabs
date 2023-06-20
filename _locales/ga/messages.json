@@ -8,11 +8,11 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Cóipeáil gach cluaisín mar naisc",
+    "message": "Cóipeáil Gach Cluaisín mar Naisc",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Cóipeáil gach cluaisín mar théacs",
+    "message": "Cóipeáil Gach Cluaisín mar URLanna Téacs",
     "description": ""
   },
   "cpysellnk": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Cóipeáil Cluaisíní Roghnaithe mar Théacs",
+    "message": "Cóipeáil Cluaisíní Roghnaithe mar URLanna Téacs",
     "description": ""
   }
 }

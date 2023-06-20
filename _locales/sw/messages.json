@@ -1,26 +1,26 @@
 {
   "addonName": {
-    "message": "Tabo za Nakala",
+    "message": "Nakili Vichupo",
     "description": ""
   },
   "addonDesc": {
-    "message": "Nakili Tabo kama hyperlinks au URL za maandishi",
+    "message": "Nakili Vichupo kama viungo au URL za maandishi",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Nakili Tabo zote kama Viungo",
+    "message": "Nakili Vichupo Vyote kama Viungo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Nakili Tabo zote kama Maandishi",
+    "message": "Nakili Vichupo Vyote kama URL za Maandishi",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Nakili Tabo Zilizochaguliwa kama Viungo",
+    "message": "Nakili Vichupo Vilivyochaguliwa kama Viungo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Nakili Tabo Zilizochaguliwa kama Maandishi",
+    "message": "Nakili Vichupo Vilivyochaguliwa kama URL za Maandishi",
     "description": ""
   }
 }

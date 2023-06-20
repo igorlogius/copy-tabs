@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Tabloyên kopî bikin",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Tabên wekî hyperlînkan an URLên nivîsê kopî bikin",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Hemî Tabloyan wekî Girêdan kopî bikin",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Hemî tabloyan wekî URLên nivîsê kopî bikin",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Tabên Hilbijartî wekî Girêdan kopî bikin",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Tabên Hilbijartî wekî URLên Nivîsar Kopî bikin",
+    "description": ""
+  }
+}

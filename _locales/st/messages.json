@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Li-tab tsa Kopitsa",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopitsa Li-tab joalo ka li-hyperlink kapa li-URL tsa mongolo",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopitsa Li-tab Tsohle e le Lihokelo",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopitsa Li-tab Tsohle e le li-URL tsa mongolo",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopitsa Li-tab tse Khethiloeng joalo ka Lihokelo",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopitsa Li-tab tse Khethiloeng joalo ka li-URL tsa mongolo",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ट्याबहरू प्रतिलिपि गर्नुहोस्",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "हाइपरलिङ्क वा पाठ URL को रूपमा ट्याबहरू प्रतिलिपि गर्नुहोस्",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "लिङ्कको रूपमा सबै ट्याबहरू प्रतिलिपि गर्नुहोस्",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "सबै ट्याबहरू पाठ URL को रूपमा प्रतिलिपि गर्नुहोस्",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "चयन गरिएका ट्याबहरूलाई लिङ्कको रूपमा प्रतिलिपि गर्नुहोस्",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "चयन गरिएका ट्याबहरू पाठ URL को रूपमा प्रतिलिपि गर्नुहोस्",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": " ﺐﻴٽ ﻲﭘﺎڪ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": " ﻮﻳﺮڪ ﻞﻘﻧ ﺭﻮﻃ URLs ٽﺴڪﻴٽ ﺎﻳ ﺲڪﻨﻟ ﺮﭙﺋﺎﻫ ﻲﮐ ﺐﻴٽ",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﻴٽ ﻲﺌﭝﺳ ﻮﻳﺮڪ ﻞﻘﻧ",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": " ﻮﻳﺮڪ ﻞﻘﻧ ﺭﻮﻃ URLs ٽﺴڪﻴٽ ﻲﮐ ﺐﻴٽ ﻲﻨﭝﺳ",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": " ﻮﻳﺮڪ ﻞﻘﻧ ﺭﻮﻃ ڪﻨﻟ ﻲﮐ ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": " ﻮﻳﺮڪ ﻞﻘﻧ ﺭﻮﻃ URLs ﻲﺟ ﻦﺘﻣ ﻲﮐ ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
+    "description": ""
+  }
+}

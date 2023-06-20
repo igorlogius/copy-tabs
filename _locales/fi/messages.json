@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Välilehtien kopioiminen hyperlinkkeinä tai teksti-URL-osoitteina",
+    "message": "Kopioi välilehdet hyperlinkkeinä tai teksti-URL-osoitteina",
     "description": ""
   },
   "cpyalllnk": {
@@ -12,15 +12,15 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopioi kaikki välilehdet tekstinä",
+    "message": "Kopioi kaikki välilehdet teksti-URL-osoitteina",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopioi valitut välilehdet linkkeinä",
+    "message": "Kopioi valitut välilehdet linkeiksi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopioi valitut välilehdet tekstinä",
+    "message": "Kopioi valitut välilehdet teksti-URL-osoitteiksi",
     "description": ""
   }
 }

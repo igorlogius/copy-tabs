@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Өтмөктөрдү көчүрүү",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Өтмөктөрдү гипершилтеме же текст URL катары көчүрүңүз",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Бардык өтмөктөрдү шилтемелер катары көчүрүү",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Бардык өтмөктөрдү текст URL катары көчүрүү",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Тандалган өтмөктөрдү шилтемелер катары көчүрүү",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Тандалган өтмөктөрдү тексттин URL даректери катары көчүрүү",
+    "description": ""
+  }
+}

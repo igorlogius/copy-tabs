@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopiearje ljeppers",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopiearje ljeppers as hyperkeppelings of tekst-URL's",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopiearje alle ljepblêden as keppelings",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopiearje alle ljeppers as tekst-URL's",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopiearje selektearre ljepblêden as keppelings",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopiearje selektearre ljeppers as tekst-URL's",
+    "description": ""
+  }
+}

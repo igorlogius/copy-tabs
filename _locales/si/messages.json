@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ටැබ් පිටපත් කරන්න",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ටැබ් අධි සබැඳි හෝ පෙළ URL ලෙස පිටපත් කරන්න",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "සියලුම ටැබ් සබැඳි ලෙස පිටපත් කරන්න",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "සියලුම ටැබ් පෙළ URL ලෙස පිටපත් කරන්න",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "තෝරාගත් ටැබ් සබැඳි ලෙස පිටපත් කරන්න",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "තෝරාගත් ටැබ් පෙළ URL ලෙස පිටපත් කරන්න",
+    "description": ""
+  }
+}

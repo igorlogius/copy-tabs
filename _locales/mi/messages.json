@@ -4,23 +4,23 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Tārua Ripa hei honongaitua, kuputuhi URL rānei",
+    "message": "Tārua Ripa hei honongaitua, hei URL kuputuhi ranei",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tārua Ngā Ripa Katoa hei Hononga",
+    "message": "Tāruahia nga Ripa Katoa hei Hononga",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tārua Ngā Ripa Katoa hei Kuputuhi",
+    "message": "Tāruahia nga Ripa Katoa hei URL Kuputuhi",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tārua Ripa kua Tīpakohia hei Hononga",
+    "message": "Tāruatia ngā Ripa i Tīpakohia hei Hononga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tārua Ripa kua Tīpakohia hei Kuputuhi",
+    "message": "Tāruatia ngā Ripa i Tīpakohia hei URL Kuputuhi",
     "description": ""
   }
 }

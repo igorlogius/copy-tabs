@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Copy Tabs",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Copia Tabs cum'è hyperlinks o URL di testu",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Copia tutte e tabulazioni cum'è ligami",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Copia tutte e tabulazioni cum'è URL di testu",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Copia Tabs Scelti cum'è Links",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Copia Tabs Scelti cum'è URL di testu",
+    "description": ""
+  }
+}

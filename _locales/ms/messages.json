@@ -12,15 +12,15 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Salin Semua Tab sebagai Teks",
+    "message": "Salin Semua Tab sebagai URL Teks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Salin tab yang dipilih sebagai pautan",
+    "message": "Salin Tab yang Dipilih sebagai Pautan",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Salin tab yang dipilih sebagai teks",
+    "message": "Salin Tab yang Dipilih sebagai URL Teks",
     "description": ""
   }
 }

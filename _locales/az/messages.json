@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Nişanları kopyalayın",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Nişanları hiperlink və ya mətn URL-ləri kimi kopyalayın",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Bütün Nişanları Linklər kimi kopyalayın",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Bütün Nişanları Mətn URL-ləri kimi kopyalayın",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Seçilmiş Nişanları Linklər kimi kopyalayın",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Seçilmiş Nişanları Mətn URL-ləri kimi kopyalayın",
+    "description": ""
+  }
+}

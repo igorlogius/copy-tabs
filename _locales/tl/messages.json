@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopyahin ang Mga Tab",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopyahin ang Mga Tab bilang mga hyperlink o text URL",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopyahin ang Lahat ng Tab bilang Mga Link",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopyahin ang Lahat ng Tab bilang Text URL",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopyahin ang Mga Piniling Tab bilang Mga Link",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopyahin ang Mga Napiling Tab bilang Text URL",
+    "description": ""
+  }
+}

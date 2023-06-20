@@ -69,7 +69,7 @@ async function copyTabsAsHtml(tabs) {
       let br = document.createElement("br");
       let a = document.createElement("a");
 
-      if (t.url.startsWith("http") || t.url.startsWith("file") ) {
+      if (t.url.startsWith("http") || t.url.startsWith("file")) {
         if (noURLParams) {
           let tmp = new URL(t.url);
           tmp = tmp.origin + tmp.pathname;
@@ -88,7 +88,6 @@ async function copyTabsAsHtml(tabs) {
       typeof navigator.clipboard.write === "undefined" ||
       typeof ClipboardItem === "undefined"
     ) {
-	    console.debug('blllllllllllllllllubber');
       div.focus();
       document.getSelection().removeAllRanges();
       var range = document.createRange();
@@ -107,7 +106,7 @@ async function copyTabsAsHtml(tabs) {
         }),
       ]);
     }
-      div.remove();
+    div.remove();
     return true;
   } catch (e) {
     console.error(e);

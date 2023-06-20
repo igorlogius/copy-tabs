@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Күчермәләрне күчерү",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Таблицаларны гипершилтемә яки текст URL итеп күчерегез",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Барлык кыстыргычларны сылтама итеп күчерегез",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Барлык кыстыргычларны текст URLлары итеп күчерегез",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Сайланган таблицаларны сылтама итеп күчерегез",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Сайланган таблицаларны текст URL-лары итеп күчерегез",
+    "description": ""
+  }
+}

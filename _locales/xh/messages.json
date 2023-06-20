@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Khuphela iiTabs",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Khuphela iiTab njengehyperlink okanye iiURL zeteksti",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Khuphela zonke iiTab njengeekhonkco",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Khuphela Zonke iiTabhu njengee-URL ezibhaliweyo",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Khuphela iiTabhu ezikhethiweyo njengoQhagamshelwano",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Khuphela iiTabhu ezikhethiweyo njengee-URL ezibhaliweyo",
+    "description": ""
+  }
+}

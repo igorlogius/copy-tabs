@@ -12,15 +12,15 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copiar todas las pestañas como texto",
+    "message": "Copiar todas las pestañas como URL de texto",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Copiar pestañas seleccionadas como vínculos",
+    "message": "Copiar pestañas seleccionadas como enlaces",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Copiar pestañas seleccionadas como texto",
+    "message": "Copiar pestañas seleccionadas como URL de texto",
     "description": ""
   }
 }

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "ສຳເນົາແຖບ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "ສຳເນົາແຖບເປັນ hyperlinks ຫຼື URL ຂໍ້ຄວາມ",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "ສຳເນົາແຖບທັງໝົດເປັນລິ້ງ",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "ສຳເນົາແຖບທັງໝົດເປັນ URL ຂໍ້ຄວາມ",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "ສຳເນົາແຖບທີ່ເລືອກເປັນລິ້ງ",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "ສຳເນົາແຖບທີ່ເລືອກເປັນ URL ຂໍ້ຄວາມ",
+    "description": ""
+  }
+}

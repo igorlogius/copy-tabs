@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Copy Tabs",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopa Tabs se hyperlink kana mavara ma URL",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopa All Tabs seManongedzo",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopa All Tabs seMavara URLs",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopa Matebhu Akasarudzwa seManongedzo",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopa Matebhu Akasarudzwa seMavara URLs",
+    "description": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Daakọ Awọn taabu",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Daakọ Awọn taabu bi hyperlinks tabi awọn URL ọrọ",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Daakọ Gbogbo Awọn taabu bi Awọn ọna asopọ",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Daakọ Gbogbo Awọn taabu bi Awọn URL Ọrọ",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Da awọn taabu ti a yan bi Awọn ọna asopọ",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Daakọ Awọn taabu ti a yan bi Awọn URL Ọrọ",
+    "description": ""
+  }
+}

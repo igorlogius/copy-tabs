@@ -1,26 +1,26 @@
 {
   "addonName": {
-    "message": "Adikao ireo vakizoro",
+    "message": "Copy Tabs",
     "description": ""
   },
   "addonDesc": {
-    "message": "Adikao toy ny hyperlinks na URL ny vakizoro",
+    "message": "Adikao ho toy ny rohibe na URL lahatsoratra ny Tabs",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Adikao ho rohy ny vakizoro rehetra",
+    "message": "Adikao ho Rohy ny tabilao rehetra",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Adikao ho toy ny soratra ny vakizoro rehetra",
+    "message": "Adikao ho URL lahatsoratra ny kiheba rehetra",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Adikao ho rohy ireo vakizoro voafaritra",
+    "message": "Adikao ho Rohy ny tabilao voafantina",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Adikao toy ny soratra ireo vakizoro voafaritra",
+    "message": "Adikao ho URL lahatsoratra ny tabilao voafantina",
     "description": ""
   }
 }

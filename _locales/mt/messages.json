@@ -1,6 +1,6 @@
 {
   "addonName": {
-    "message": "Ikkopja t-Tabs",
+    "message": "Ikkopja Tabs",
     "description": ""
   },
   "addonDesc": {
@@ -8,19 +8,19 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ikkopja t-Tabs kollha bħala Links",
+    "message": "Ikkopja Tabs Kollha bħala Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ikkopja t-Tabs kollha bħala Test",
+    "message": "Ikkopja Tabs Kollha bħala URLs tat-Test",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ikkopja t-Tabs Magħżula bħala Links",
+    "message": "Ikkopja Tabs Magħżula bħala Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ikkopja t-Tabs Magħżula bħala Test",
+    "message": "Ikkopja Tabs Magħżula bħala URLs tat-Test",
     "description": ""
   }
 }

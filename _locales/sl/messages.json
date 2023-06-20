@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiranje zavihkov kot hiperpovezav ali besedilnih URL-jev",
+    "message": "Kopirajte zavihke kot hiperpovezave ali besedilne URL-je",
     "description": ""
   },
   "cpyalllnk": {
@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopiraj vse zavihke kot besedilo",
+    "message": "Kopiraj vse zavihke kot besedilne URL-je",
     "description": ""
   },
   "cpysellnk": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopiraj izbrane zavihke kot besedilo",
+    "message": "Kopiraj izbrane zavihke kot besedilne URL-je",
     "description": ""
   }
 }

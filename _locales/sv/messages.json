@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiera flikar som hyperlänkar eller text-URL:er",
+    "message": "Kopiera flikar som hyperlänkar eller textwebbadresser",
     "description": ""
   },
   "cpyalllnk": {
@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopiera alla flikar som text",
+    "message": "Kopiera alla flikar som textwebbadresser",
     "description": ""
   },
   "cpysellnk": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopiera markerade flikar som text",
+    "message": "Kopiera markerade flikar som textwebbadresser",
     "description": ""
   }
 }

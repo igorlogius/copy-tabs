@@ -1,26 +1,26 @@
 {
   "addonName": {
-    "message": "Kopírovanie kariet",
+    "message": "Kopírovať karty",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopírovanie kariet ako hypertextových odkazov alebo textových adries URL",
+    "message": "Kopírovať karty ako hypertextové odkazy alebo textové adresy URL",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kopírovanie všetkých kariet ako prepojení",
+    "message": "Kopírovať všetky karty ako odkazy",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopírovanie všetkých kariet ako textu",
+    "message": "Skopírujte všetky karty ako textové adresy URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopírovanie vybratých kariet ako prepojení",
+    "message": "Kopírovať vybraté karty ako odkazy",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopírovanie vybratých kariet ako textu",
+    "message": "Kopírovať vybraté karty ako textové adresy URL",
     "description": ""
   }
 }

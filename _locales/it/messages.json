@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copiare le schede come collegamenti ipertestuali o URL di testo",
+    "message": "Copia le schede come collegamenti ipertestuali o URL di testo",
     "description": ""
   },
   "cpyalllnk": {
@@ -12,15 +12,15 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copia tutte le schede come testo",
+    "message": "Copia tutte le schede come URL di testo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Copiare le schede selezionate come collegamenti",
+    "message": "Copia le schede selezionate come collegamenti",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Copiare le schede selezionate come testo",
+    "message": "Copia le schede selezionate come URL di testo",
     "description": ""
   }
 }

@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Yorliqlarni nusxalash",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Yorliqlarni giperhavolalar yoki matn URL manzillari sifatida nusxalash",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Barcha yorliqlarni havola sifatida nusxalash",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Barcha yorliqlarni matn URL manzili sifatida nusxalash",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Tanlangan yorliqlarni havola sifatida nusxalash",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Tanlangan yorliqlarni matn URL manzili sifatida nusxalash",
+    "description": ""
+  }
+}

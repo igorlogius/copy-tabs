@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Պատճենել ներդիրները",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Պատճենեք ներդիրները որպես հիպերհղումներ կամ տեքստային URL-ներ",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Պատճենել բոլոր ներդիրները որպես հղումներ",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Պատճենել բոլոր ներդիրները որպես տեքստային URL",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Պատճենեք ընտրված ներդիրները որպես հղումներ",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Պատճենեք ընտրված ներդիրները որպես տեքստային URL",
+    "description": ""
+  }
+}

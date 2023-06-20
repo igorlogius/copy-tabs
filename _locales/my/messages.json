@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "တဘ်များကို ကူးယူပါ။",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "တဘ်များကို ဟိုက်ပါလင့်ခ်များ သို့မဟုတ် စာသား URL များအဖြစ် ကူးယူပါ။",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "တဘ်များအားလုံးကို လင့်ခ်များအဖြစ် ကူးယူပါ။",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "တဘ်များအားလုံးကို စာသား URL များအဖြစ် ကူးယူပါ။",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "ရွေးချယ်ထားသော တဘ်များကို လင့်ခ်များအဖြစ် ကူးယူပါ။",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "ရွေးချယ်ထားသော တဘ်များကို စာသား URL များအဖြစ် ကူးယူပါ။",
+    "description": ""
+  }
+}

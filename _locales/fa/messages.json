@@ -1,26 +1,26 @@
 {
   "addonName": {
-    "message": "کپی زبانه ها",
+    "message": " ﺎﻫ ﻪﮔﺮﺑ ﯽﭙﮐ",
     "description": ""
   },
   "addonDesc": {
-    "message": "کپی کردن زبانه ها به عنوان hyperlinks یا URLs متن",
+    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﯽﻨﺘﻣ URL ﺎﯾ ﮏﻨﯿﻟ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "کپی تمام زبانه ها به عنوان لینک",
+    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "کپی تمام زبانه ها به عنوان متن",
+    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "کپی زبانه های انتخاب شده به عنوان لینک",
+    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯼﺎﻫ ﻪﮔﺮﺑ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "کپی برگه های انتخاب شده به عنوان متن",
+    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯼﺎﻫ ﻪﮔﺮﺑ",
     "description": ""
   }
 }

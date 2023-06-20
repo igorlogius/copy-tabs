@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Цонхыг хуулах",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Табуудыг гипер холбоос эсвэл текст URL хэлбэрээр хуулна уу",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Бүх табыг холбоос болгон хуулах",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Бүх табыг текстийн URL хэлбэрээр хуулна уу",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Сонгосон табуудыг холбоос болгон хуулах",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Сонгосон табуудыг текст URL болгон хуулах",
+    "description": ""
+  }
+}

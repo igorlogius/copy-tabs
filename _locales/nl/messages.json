@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Tabbladen kopiëren als hyperlinks of tekst-URL's",
+    "message": "Kopieer tabbladen als hyperlinks of tekst-URL's",
     "description": ""
   },
   "cpyalllnk": {
@@ -12,15 +12,15 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopieer alle tabbladen als tekst",
+    "message": "Kopieer alle tabbladen als tekst-URL's",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Geselecteerde tabbladen kopiëren als koppelingen",
+    "message": "Kopieer geselecteerde tabbladen als koppelingen",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Geselecteerde tabbladen kopiëren als tekst",
+    "message": "Kopieer geselecteerde tabbladen als tekst-URL's",
     "description": ""
   }
 }

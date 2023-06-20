@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopier faner",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopier faner som hyperkoblinger eller tekst-URLer",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopier alle faner som lenker",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopier alle faner som tekst-URL-er",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopier valgte faner som lenker",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopier valgte faner som tekst-URL-er",
+    "description": ""
+  }
+}

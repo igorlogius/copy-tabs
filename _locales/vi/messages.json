@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Sao chép Tab dưới dạng siêu kết nối hoặc URL văn bản",
+    "message": "Sao chép Tab dưới dạng siêu liên kết hoặc URL văn bản",
     "description": ""
   },
   "cpyalllnk": {
@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Sao chép tất cả các tab dưới dạng văn bản",
+    "message": "Sao chép tất cả các tab dưới dạng URL văn bản",
     "description": ""
   },
   "cpysellnk": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Sao chép các tab đã chọn dưới dạng văn bản",
+    "message": "Sao chép các tab đã chọn dưới dạng URL văn bản",
     "description": ""
   }
 }

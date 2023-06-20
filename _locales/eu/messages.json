@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Kopiatu fitxak",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Kopiatu fitxak hiperesteka edo testu URL gisa",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Kopiatu fitxa guztiak esteka gisa",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Kopiatu fitxa guztiak testu URL gisa",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Kopiatu hautatutako fitxak esteka gisa",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Kopiatu hautatutako fitxak testu URL gisa",
+    "description": ""
+  }
+}

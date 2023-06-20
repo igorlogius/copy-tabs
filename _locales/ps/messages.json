@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": " ﻪﻧﻮﺒټ ﻲﭘﺎﮐ",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺎﯾ ﻮﻧﻮﮑﻨﯿﻟ ﺮﭙﯾﺎﻫ ﺩ ﻪﻧﻮﺒټ",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻱﻮﺷ ﻩﺭﻮﻏ",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻱﻮﺷ ﻩﺭﻮﻏ",
+    "description": ""
+  }
+}

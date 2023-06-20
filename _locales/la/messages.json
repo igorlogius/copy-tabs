@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Exemplar Tabs",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Effingo Tabs sicut hyperlinks vel text URLs",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Effingo omnes Tab ut Links",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Effingo omnes Tab ut Text URLs",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Effingo Lego Tab ut Links",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Tabs ut effingo Lego delata Text",
+    "description": ""
+  }
+}

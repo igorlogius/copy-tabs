@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": "Копирај јазичиња",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": "Копирајте ги јазичињата како хиперврски или текстуални URL-адреси",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": "Копирајте ги сите јазичиња како врски",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": "Копирајте ги сите јазичиња како текстуални URL-адреси",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": "Копирајте ги избраните јазичиња како врски",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": "Копирајте ги избраните јазичиња како текстуални URL-адреси",
+    "description": ""
+  }
+}

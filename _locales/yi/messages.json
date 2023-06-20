@@ -1,0 +1,26 @@
+{
+  "addonName": {
+    "message": " סבאַט יפּאָק",
+    "description": ""
+  },
+  "addonDesc": {
+    "message": " ס URL טסקעט רעדאָ סקגנילרעפּייכ יוו סבאַט ןכאַמכאָנ",
+    "description": ""
+  },
+  "cpyalllnk": {
+    "message": " סקניל יוו סבאַט עלאַ יפּאָק",
+    "description": ""
+  },
+  "cpyalltxt": {
+    "message": " ס URL טסקעט יוו סבאַט עלאַ ןכאַמכאָנ",
+    "description": ""
+  },
+  "cpysellnk": {
+    "message": " סקניל יוו סבאַט דעטקעלעס יפּאָק",
+    "description": ""
+  },
+  "cpyseltxt": {
+    "message": " ס URL טסקעט יוו סבאַט דעטקעלעס יפּאָק",
+    "description": ""
+  }
+}
