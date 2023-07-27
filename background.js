@@ -25,27 +25,23 @@ function notify(title, message = "", iconUrl = "icon.png") {
 }
 
 async function copyTabsAsText(tabs) {
-  const text =
-    tabs
-      .map((t) => {
-        if (noURLParams) {
-          try {
-            let tmp = new URL(t.url);
-            console.debug(tmp);
-            if (tmp.origin !== "null") {
-              // origin seems to be "null" when not available which is a strange value, might be worth raising a bug on bugzilla for
-              tmp = tmp.origin + tmp.pathname;
-              return tmp;
-            }
-          } catch (e) {
-            console.error(e);
+  const text = tabs
+    .map((t) => {
+      if (noURLParams) {
+        try {
+          let tmp = new URL(t.url);
+          if (tmp.origin !== "null") {
+            // origin seems to be "null" when not available which is a strange value, might be worth raising a bug on bugzilla for
+            tmp = tmp.origin + tmp.pathname;
+            return tmp;
           }
+        } catch (e) {
+          console.error(e);
         }
-        return t.url;
-      })
-      .join("\r\n") +
-    "\r\n" +
-    "\r\n";
+      }
+      return t.url;
+    })
+    .join("\n");
   try {
     await navigator.clipboard.writeText(text);
     return true;
@@ -61,12 +57,13 @@ async function copyTabsAsHtml(tabs) {
   //
   /// old
   try {
-    let div = document.createElement("div");
+    let div = document.createElement("span"); // needs to be a <span> to prevent the final linebreak
     div.style.position = "absolute";
     div.style.bottom = "-9999999"; // move it offscreen
     document.body.append(div);
-    for (const t of tabs) {
-      let br = document.createElement("br");
+    const tabs_len = tabs.length;
+    for (let i = 0; i < tabs.length; i++) {
+      let t = tabs[i];
       let a = document.createElement("a");
 
       if (t.url.startsWith("http") || t.url.startsWith("file")) {
@@ -80,10 +77,12 @@ async function copyTabsAsHtml(tabs) {
       }
       a.textContent = t.title;
       div.append(a);
-      div.append(br);
+      if (i !== tabs_len - 1) {
+        let br = document.createElement("br");
+        div.append(br);
+      }
     }
 
-    //console.debug("typeof navigator.clipboard.write ", typeof navigator.clipboard.write);
     if (
       typeof navigator.clipboard.write === "undefined" ||
       typeof ClipboardItem === "undefined"
@@ -118,7 +117,6 @@ async function onCommand(cmd) {
   if (!ready) {
     return;
   }
-  console.debug(cmd, showNotifications);
   let qryObj = { hidden: false, currentWindow: true },
     tabs,
     ret = false;
