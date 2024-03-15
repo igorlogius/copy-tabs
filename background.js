@@ -220,13 +220,10 @@ async function onStorageChange() {
   });
 
   // add the 4 context entries
-  let abbr = "";
   for (const cmd of Object.keys(manifest.commands)) {
-    abbr = " (" + cmd[3] + cmd[6] + ")";
-    abbr = abbr.toUpperCase();
     browser.menus.create({
       id: "" + cmd,
-      title: manifest.commands[cmd].description + abbr,
+      title: manifest.commands[cmd].description,
       contexts: ["browser_action", "tab"],
       onclick: (info) => {
         onCommand(info.menuItemId);
