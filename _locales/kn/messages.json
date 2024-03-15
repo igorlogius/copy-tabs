@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "ಆಯ್ದ ಟ್ಯಾಬ್u200cಗಳನ್ನು ಪಠ್ಯ URL ಗಳಾಗಿ ನಕಲಿಸಿ",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "ಈ ಟ್ಯಾಬ್ ಅನ್ನು ಪಠ್ಯ URL ನಂತೆ ನಕಲಿಸಿ",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "ಈ ಟ್ಯಾಬ್ ಅನ್ನು ಲಿಂಕ್ ಆಗಿ ನಕಲಿಸಿ",
+    "description": ""
   }
 }

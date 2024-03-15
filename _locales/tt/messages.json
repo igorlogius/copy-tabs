@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Барлык кыстыргычларны текст URLлары итеп күчерегез",
+    "message": "Барлык кыстыргычларны текст URL итеп күчерегез",
     "description": ""
   },
   "cpysellnk": {
@@ -21,6 +21,14 @@
   },
   "cpyseltxt": {
     "message": "Сайланган таблицаларны текст URL-лары итеп күчерегез",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Бу кыстыргычны текст URL итеп күчерегез",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Бу сылтаманы сылтама итеп күчерегез",
     "description": ""
   }
 }

@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Daakọ Awọn taabu ti a yan bi Awọn URL Ọrọ",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Daakọ Taabu yii gẹgẹbi URL Ọrọ",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Daakọ Taabu yii bi Ọna asopọ",
+    "description": ""
   }
 }

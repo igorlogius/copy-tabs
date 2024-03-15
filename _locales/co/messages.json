@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Copia Tabs Scelti cum'è URL di testu",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Copia sta Tabulazione cum'è URL di testu",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Copia questa Tabulazione cum'è Link",
+    "description": ""
   }
 }

@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopiraj odabrane kartice kao tekstualne URL-ove",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopiraj ovu karticu kao tekstualni URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopiraj ovu karticu kao vezu",
+    "description": ""
   }
 }

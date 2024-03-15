@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopiu Elektitaj Langetoj kiel Tekstaj URLoj",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopiu Ĉi tiun Langeton kiel Teksta URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopiu Ĉi tiun Langeton kiel Ligon",
+    "description": ""
   }
 }

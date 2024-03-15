@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "තෝරාගත් ටැබ් පෙළ URL ලෙස පිටපත් කරන්න",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "මෙම ටැබය පෙළ URL ලෙස පිටපත් කරන්න",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "මෙම ටැබය සබැඳියක් ලෙස පිටපත් කරන්න",
+    "description": ""
   }
 }

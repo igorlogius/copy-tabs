@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Tanlangan yorliqlarni matn URL manzili sifatida nusxalash",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Ushbu varaqni matnning URL manzili sifatida nusxalash",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Ushbu varaqni havola sifatida nusxalash",
+    "description": ""
   }
 }

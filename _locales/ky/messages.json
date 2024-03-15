@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Тандалган өтмөктөрдү тексттин URL даректери катары көчүрүү",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Бул өтмөктү текст URL катары көчүрүңүз",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Бул өтмөктү Шилтеме катары көчүрүңүз",
+    "description": ""
   }
 }

@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiuj zakładki jako hiperłącza lub tekstowe adresy URL",
+    "message": "Kopiuj karty jako hiperłącza lub tekstowe adresy URL",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Skopiuj wszystkie karty jako linki",
+    "message": "Skopiuj wszystkie karty jako łącza",
     "description": ""
   },
   "cpyalltxt": {
@@ -21,6 +21,14 @@
   },
   "cpyseltxt": {
     "message": "Skopiuj wybrane karty jako tekstowe adresy URL",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Skopiuj tę kartę jako tekstowy adres URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Skopiuj tę kartę jako link",
     "description": ""
   }
 }

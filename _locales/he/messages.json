@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": " טסקט לש םירתא תובותככ תורחבנ תויסיטרכ קתעה",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": " טסקט לש URL תבותככ וז הייסיטרכ קתעה",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": " רושיקכ וז הייסיטרכ קתעה",
+    "description": ""
   }
 }

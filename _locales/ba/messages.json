@@ -1,26 +1,34 @@
 {
   "addonName": {
-    "message": "",
+    "message": "Таблица күсермәһе",
     "description": ""
   },
   "addonDesc": {
-    "message": "",
+    "message": "Күсермә Таблица гиперлинктар йәки URL-текст булараҡ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "",
+    "message": "Бөтә таблицаларҙы һылтанмалар сифатында күсереп алыу",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "",
+    "message": "Бөтә таблицаларҙы текст URLs сифатында күсереп алыу",
     "description": ""
   },
   "cpysellnk": {
-    "message": "",
+    "message": "Күсермәһе Һылтанмалар сифатында һайланған таблицалар",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "",
+    "message": "Күсермәһе Текст URL-ы сифатында һайланған таблицалар",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Күсермә Был таблица URL тексы булараҡ",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Күсермә Был таблица һылтанма булараҡ",
     "description": ""
   }
 }

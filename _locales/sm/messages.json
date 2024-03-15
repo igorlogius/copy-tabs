@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopi Tape Filifilia e fai ma URL o Tusitusiga",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopi Lenei Tab e avea ma URL o Tusitusiga",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopi Lenei Tab e fai ma So'oga",
+    "description": ""
   }
 }

@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": " ס URL טסקעט יוו סבאַט דעטקעלעס יפּאָק",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": " URL טסקעט יוו באַט םעד יפּאָק",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": " קניל יוו לטיווק םעד יפּאָק",
+    "description": ""
   }
 }

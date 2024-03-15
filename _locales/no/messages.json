@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopier valgte faner som tekst-URL-er",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopier denne fanen som tekst-URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopier denne fanen som lenke",
+    "description": ""
   }
 }

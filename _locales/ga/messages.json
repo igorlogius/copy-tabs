@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Cóipeáil Cluaisíní Roghnaithe mar URLanna Téacs",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Cóipeáil an Cluaisín seo mar URL Téacs",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Cóipeáil an Cluaisín seo mar Nasc",
+    "description": ""
   }
 }

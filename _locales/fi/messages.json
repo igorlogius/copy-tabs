@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopioi valitut välilehdet teksti-URL-osoitteiksi",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopioi tämä välilehti teksti-URL-osoitteeksi",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopioi tämä välilehti linkiksi",
+    "description": ""
   }
 }

@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Koperani Ma Tabu Osankhidwa ngati Ma URL a Mawu",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Koperani Tabu Ili ngati Maulalo a URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Lembani Tabu Ili ngati Ulalo",
+    "description": ""
   }
 }

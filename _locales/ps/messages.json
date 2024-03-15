@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻱﻮﺷ ﻩﺭﻮﻏ",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ URL ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﺐټ ﺍﺩ",
+    "description": ""
   }
 }

@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kwafi Shafukan da aka zaɓa azaman URLs Rubutu",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kwafi Wannan Shafi azaman URL ɗin Rubutu",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kwafi Wannan Tab ɗin azaman hanyar haɗi",
+    "description": ""
   }
 }

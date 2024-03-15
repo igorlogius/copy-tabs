@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "დააკოპირეთ არჩეული ჩანართები, როგორც ტექსტური URL",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "დააკოპირეთ ეს ჩანართი, როგორც ტექსტური URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "დააკოპირეთ ეს ჩანართი ბმულად",
+    "description": ""
   }
 }

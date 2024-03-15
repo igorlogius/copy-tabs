@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Ausgewählte Tabs als Text-URLs kopieren",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopieren Sie diese Registerkarte als Text-URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopieren Sie diese Registerkarte als Link",
+    "description": ""
   }
 }

@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "คัดลอกแท็บเป็นไฮเปอร์ลิงก์หรือ URL แบบข้อความ",
+    "message": "คัดลอกแท็บเป็นไฮเปอร์ลิงก์หรือ URL ข้อความ",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,11 +16,19 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "คัดลอกแท็บที่เลือกเป็นลิงค์",
+    "message": "คัดลอกแท็บที่เลือกเป็นลิงก์",
     "description": ""
   },
   "cpyseltxt": {
     "message": "คัดลอกแท็บที่เลือกเป็น URL ข้อความ",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "คัดลอกแท็บนี้เป็น URL ข้อความ",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "คัดลอกแท็บนี้เป็นลิงก์",
     "description": ""
   }
 }

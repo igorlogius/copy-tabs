@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopa Matebhu Akasarudzwa seMavara URLs",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopa Iyi Tabhu seChinyorwa URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopa Iyi Tabhu seChibatanidza",
+    "description": ""
   }
 }

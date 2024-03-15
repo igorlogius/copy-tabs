@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopéiert gewielte Tabs als Text URLen",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopéiert dës Tab als Text URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopéiert dës Tab als Link",
+    "description": ""
   }
 }

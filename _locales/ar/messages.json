@@ -4,23 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " ﺔﻴﺼﻧ URL ﻦﻳﻭﺎﻨﻋ ﻭﺃ ﺔﻴﺒﻌﺸﺗ ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺦﺴﻧ",
+    "message": " ﺔﻴﺼﻧ URL ﻦﻳﻭﺎﻨﻋ ﻭﺃ ﺔﻴﺒﻌﺸﺗ ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺦﺴﻧﺍ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " ﻂﺑﺍﻭﺮﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻞﻛ ﺦﺴﻧﺍ",
+    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺔﻓﺎﻛ ﺦﺴﻧﺍ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﺔﻴﺼﻧ URL ﻦﻳﻭﺎﻨﻌﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ ﺦﺴﻧﺍ",
+    "message": " ﺔﻴﺼﻧ URL ﻦﻳﻭﺎﻨﻌﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺔﻓﺎﻛ ﺦﺴﻧﺍ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﻂﺑﺍﻭﺮﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺦﺴﻧ",
+    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺦﺴﻧﺍ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﺺﻨﻠﻟ URL ﻦﻳﻭﺎﻨﻌﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺦﺴﻧﺍ",
+    "message": " ﺔﻴﺼﻧ URL ﻦﻳﻭﺎﻨﻌﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺦﺴﻧﺍ",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": " ﻲﺼﻧ URL ﻥﺍﻮﻨﻌﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ ﺦﺴﻧﺍ",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": " ﻂﺑﺍﺮﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ ﺦﺴﻧﺍ",
     "description": ""
   }
 }

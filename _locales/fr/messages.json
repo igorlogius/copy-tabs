@@ -4,23 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copier les onglets sous forme d'hyperliens ou d'URL de texte",
+    "message": "Copier les onglets sous forme de liens hypertexte ou d'URL de texte",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Copier tous les onglets en tant que liens",
+    "message": "Copier tous les onglets sous forme de liens",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copier tous les onglets en tant qu'URL de texte",
+    "message": "Copier tous les onglets sous forme d'URL de texte",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Copier les onglets sélectionnés en tant que liens",
+    "message": "Copier les onglets sélectionnés sous forme de liens",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Copier les onglets sélectionnés en tant qu'URL de texte",
+    "message": "Copier les onglets sélectionnés sous forme d'URL de texte",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Copier cet onglet sous forme d'URL de texte",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Copier cet onglet en tant que lien",
     "description": ""
   }
 }

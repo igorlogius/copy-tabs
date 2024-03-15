@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Detuo taabụ ahọpụtara dị ka URL ederede",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Detuo taabụ a ka URL ederede",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Detuo Tab a dị ka njikọ",
+    "description": ""
   }
 }

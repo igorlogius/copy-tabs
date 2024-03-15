@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ URL ਦੇ ਰੂਪ ਵਿੱਚ ਕਾਪੀ ਕਰੋ",
+    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ URL ਵਜੋਂ ਕਾਪੀ ਕਰੋ",
     "description": ""
   },
   "cpysellnk": {
@@ -21,6 +21,14 @@
   },
   "cpyseltxt": {
     "message": "ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ URL ਦੇ ਤੌਰ 'ਤੇ ਕਾਪੀ ਕਰੋ",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "ਇਸ ਟੈਬ ਨੂੰ ਟੈਕਸਟ URL ਵਜੋਂ ਕਾਪੀ ਕਰੋ",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "ਇਸ ਟੈਬ ਨੂੰ ਲਿੰਕ ਵਜੋਂ ਕਾਪੀ ਕਰੋ",
     "description": ""
   }
 }

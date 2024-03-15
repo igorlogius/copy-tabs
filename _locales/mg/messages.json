@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Adikao ho URL lahatsoratra ny tabilao voafantina",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Adikao ho URL lahatsoratra ity kiheba ity",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Adikao ho Rohy ity tabilao ity",
+    "description": ""
   }
 }

@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ટૅબ્સને હાઇપરલિંક્સ અથવા ટેક્સ્ટ URL તરીકે કૉપિ કરો",
+    "message": "ટૅબ્સને હાયપરલિંક્સ અથવા ટેક્સ્ટ URL તરીકે કૉપિ કરો",
     "description": ""
   },
   "cpyalllnk": {
@@ -21,6 +21,14 @@
   },
   "cpyseltxt": {
     "message": "પસંદ કરેલ ટૅબ્સને ટેક્સ્ટ URL તરીકે કૉપિ કરો",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "આ ટૅબને ટેક્સ્ટ URL તરીકે કૉપિ કરો",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "આ ટૅબને લિંક તરીકે કૉપિ કરો",
     "description": ""
   }
 }

@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Сонгосон табуудыг текст URL болгон хуулах",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Энэ табыг текст URL болгон хуулна уу",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Энэ табыг холбоос болгон хуулна уу",
+    "description": ""
   }
 }

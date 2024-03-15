@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Копіювати вибрані вкладки як текстові URL-адреси",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Копіювати цю вкладку як текстову URL-адресу",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Копіювати цю вкладку як посилання",
+    "description": ""
   }
 }

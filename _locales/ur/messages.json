@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": " ۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﺭﻮﻄﺑ ﮯﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﻮﮐ ﺰﺒﯿﭨ ﺐﺨﺘﻨﻣ",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": " ۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﻮﮐ ﺐﯿﭨ ﺱﺍ",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": " ۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﮏﻨﻟ ﺭﻮﻄﺑ ﻮﮐ ﺐﯿﭨ ﺱﺍ",
+    "description": ""
   }
 }

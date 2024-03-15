@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopírovat vybrané karty jako textové adresy URL",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Zkopírujte tuto kartu jako textovou adresu URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Zkopírujte tuto kartu jako odkaz",
+    "description": ""
   }
 }

@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Копирайте избраните раздели като текстови URL адреси",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Копирайте този раздел като текстов URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Копирайте този раздел като връзка",
+    "description": ""
   }
 }

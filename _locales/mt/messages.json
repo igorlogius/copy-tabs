@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Ikkopja Tabs Magħżula bħala URLs tat-Test",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Ikkopja Din it-Tab bħala Test URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Ikkopja Din it-Tab bħala Link",
+    "description": ""
   }
 }

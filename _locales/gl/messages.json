@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Copia as pestanas seleccionadas como URL de texto",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Copia esta pestana como URL de texto",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Copia esta pestana como ligazón",
+    "description": ""
   }
 }

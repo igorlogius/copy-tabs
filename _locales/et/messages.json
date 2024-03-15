@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopeerige valitud vahelehed teksti URL-ina",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopeerige see vahekaart teksti URL-ina",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopeerige see vahekaart lingina",
+    "description": ""
   }
 }

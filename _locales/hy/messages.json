@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Պատճենեք ընտրված ներդիրները որպես տեքստային URL",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Պատճենեք այս ներդիրը որպես տեքստային URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Պատճենեք այս ներդիրը որպես հղում",
+    "description": ""
   }
 }

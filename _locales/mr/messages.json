@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "निवडलेले टॅब मजकूर URL म्हणून कॉपी करा",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "हा टॅब मजकूर URL म्हणून कॉपी करा",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "हा टॅब लिंक म्हणून कॉपी करा",
+    "description": ""
   }
 }

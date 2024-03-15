@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Tabên Hilbijartî wekî URLên Nivîsar Kopî bikin",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Vê Tabloyê wekî URLya Nivîsê kopî bikin",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Vê Tabê wekî Girêdan Kopî bikin",
+    "description": ""
   }
 }

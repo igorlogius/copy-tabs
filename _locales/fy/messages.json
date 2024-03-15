@@ -8,7 +8,7 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kopiearje alle ljepblêden as keppelings",
+    "message": "Kopiearje alle ljeppers as keppelings",
     "description": ""
   },
   "cpyalltxt": {
@@ -21,6 +21,14 @@
   },
   "cpyseltxt": {
     "message": "Kopiearje selektearre ljeppers as tekst-URL's",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopiearje dizze ljepper as tekst-URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopiearje dizze ljepper as keppeling",
     "description": ""
   }
 }

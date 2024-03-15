@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Dèan lethbhreac de na tabaichean taghte mar URLan teacsa",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Dèan lethbhreac den tab seo mar URL teacsa",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Dèan lethbhreac den taba seo mar cheangal",
+    "description": ""
   }
 }

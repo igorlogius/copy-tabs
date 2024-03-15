@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "တဘ်များကို ဟိုက်ပါလင့်ခ်များ သို့မဟုတ် စာသား URL များအဖြစ် ကူးယူပါ။",
+    "message": "တက်ဘ်များကို ဟိုက်ပါလင့်ခ်များ သို့မဟုတ် စာသား URL များအဖြစ် ကူးယူပါ။",
     "description": ""
   },
   "cpyalllnk": {
@@ -21,6 +21,14 @@
   },
   "cpyseltxt": {
     "message": "ရွေးချယ်ထားသော တဘ်များကို စာသား URL များအဖြစ် ကူးယူပါ။",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "ဤတဘ်ကို စာသား URL အဖြစ် ကူးယူပါ။",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "ဤတဘ်ကို လင့်ခ်အဖြစ် ကူးယူပါ။",
     "description": ""
   }
 }

@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopitsa Li-tab tse Khethiloeng joalo ka li-URL tsa mongolo",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopitsa Taba ena joalo ka URL ea mongolo",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopitsa Taba ena e le Sehokelo",
+    "description": ""
   }
 }

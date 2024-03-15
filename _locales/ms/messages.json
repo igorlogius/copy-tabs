@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Salin Tab yang Dipilih sebagai URL Teks",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Salin Tab Ini sebagai URL Teks",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Salin Tab Ini sebagai Pautan",
+    "description": ""
   }
 }

@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Копирајте ги избраните јазичиња како текстуални URL-адреси",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Копирајте го овој таб како текстуален URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Копирајте ја оваа картичка како врска",
+    "description": ""
   }
 }

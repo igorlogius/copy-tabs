@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Copiați filele selectate ca URL-uri text",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Copiați această filă ca URL text",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Copiați această filă ca link",
+    "description": ""
   }
 }

@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopyahin ang Mga Napiling Tab bilang Text URL",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopyahin ang Tab na Ito bilang Text URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopyahin ang Tab na Ito bilang Link",
+    "description": ""
   }
 }

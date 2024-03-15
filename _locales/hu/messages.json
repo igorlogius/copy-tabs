@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Másolja a kiválasztott lapokat szöveges URL-ként",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Másolja ezt a lapot szöveges URL-ként",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Másolja ezt a lapot hivatkozásként",
+    "description": ""
   }
 }

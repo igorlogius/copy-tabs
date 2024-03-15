@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "選択したタブをテキスト URL としてコピー",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "このタブをテキスト URL としてコピー",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "このタブをリンクとしてコピー",
+    "description": ""
   }
 }

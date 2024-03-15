@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Tabs ut effingo Lego delata Text",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Effingo hoc Tab ut Text URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Effingo quod Pro hoc Link",
+    "description": ""
   }
 }

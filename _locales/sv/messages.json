@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopiera markerade flikar som textwebbadresser",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopiera den här fliken som text-URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopiera den här fliken som länk",
+    "description": ""
   }
 }

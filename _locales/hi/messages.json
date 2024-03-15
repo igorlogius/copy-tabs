@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "कॉपी टैब",
+    "message": "टैब कॉपी करें",
     "description": ""
   },
   "addonDesc": {
-    "message": "टैब को हाइपरलिंक या टेक्स्ट URL के रूप में कॉपी करें",
+    "message": "टैब को हाइपरलिंक या टेक्स्ट यूआरएल के रूप में कॉपी करें",
     "description": ""
   },
   "cpyalllnk": {
@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "सभी टैब को टेक्स्ट URL के रूप में कॉपी करें",
+    "message": "सभी टैब को टेक्स्ट यूआरएल के रूप में कॉपी करें",
     "description": ""
   },
   "cpysellnk": {
@@ -20,7 +20,15 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "चयनित टैब को टेक्स्ट URL के रूप में कॉपी करें",
+    "message": "चयनित टैब को टेक्स्ट यूआरएल के रूप में कॉपी करें",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "इस टैब को टेक्स्ट यूआरएल के रूप में कॉपी करें",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "इस टैब को लिंक के रूप में कॉपी करें",
     "description": ""
   }
 }

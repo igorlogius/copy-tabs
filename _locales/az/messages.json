@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Seçilmiş Nişanları Mətn URL-ləri kimi kopyalayın",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Bu Nişanı Mətn URL kimi kopyalayın",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Bu nişanı Link olaraq kopyalayın",
+    "description": ""
   }
 }

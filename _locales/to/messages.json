@@ -1,26 +1,34 @@
 {
   "addonName": {
-    "message": "",
+    "message": "Hiki Tatau e Ngaahi ʻUluʻitohi",
     "description": ""
   },
   "addonDesc": {
-    "message": "",
+    "message": "Hiki tatau ʻa e ngaahi ʻuluʻitohi ʻi he hyperlinks pe text URLs",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "",
+    "message": "Hiki tatau ʻa e ngaahi ʻuluʻitohi kotoa ko ha ngaahi fehokotakiʻanga",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "",
+    "message": "Hiki tatau ʻa e ngaahi ʻuluʻitohi kotoa ko e text URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "",
+    "message": "Hiki tatau e ngaahi ʻuluʻitohi kuo fili ko ha fehokotakiʻanga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "",
+    "message": "Hiki tatau e ngaahi ʻuluʻitohi kuo fili ko e text URLs",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Hiki ha tatau ʻo e tab ko ʻeni ko e text URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Hiki Ha Tatau ʻo e Tab ko ʻEní ko ha Fehokotakiʻanga",
     "description": ""
   }
 }

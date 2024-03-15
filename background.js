@@ -146,10 +146,7 @@ async function onCommand(cmd) {
       browser.browserAction.enable();
     }, 300); // make the icon blink
 
-    const nid = await notify(
-      extname,
-      manifest.commands[cmd].description.substr(5)
-    );
+    const nid = await notify(extname, manifest.commands[cmd].description);
     if (nid > -1) {
       setTimeout(() => {
         browser.notifications.clear(nid);
@@ -178,6 +175,50 @@ async function onStorageChange() {
 }
 
 (async () => {
+  // add extra conext menu to copy the clicked on tab
+  browser.menus.create({
+    title: browser.i18n.getMessage("cpytablnk"),
+    contexts: ["tab"],
+    onclick: async (info, tab) => {
+      const ret = copyTabsAsHtml([tab]);
+
+      if (ret) {
+        browser.browserAction.disable();
+        setTimeout(() => {
+          browser.browserAction.enable();
+        }, 300); // make the icon blink
+
+        const nid = await notify(extname, browser.i18n.getMessage("cpytablnk"));
+        if (nid > -1) {
+          setTimeout(() => {
+            browser.notifications.clear(nid);
+          }, 3000); // hide notification after 3 seconds
+        }
+      }
+    },
+  });
+  browser.menus.create({
+    title: browser.i18n.getMessage("cpytabtxt"),
+    contexts: ["tab"],
+    onclick: async (info, tab) => {
+      const ret = copyTabsAsText([tab]);
+
+      if (ret) {
+        browser.browserAction.disable();
+        setTimeout(() => {
+          browser.browserAction.enable();
+        }, 300); // make the icon blink
+
+        const nid = await notify(extname, browser.i18n.getMessage("cpytabtxt"));
+        if (nid > -1) {
+          setTimeout(() => {
+            browser.notifications.clear(nid);
+          }, 3000); // hide notification after 3 seconds
+        }
+      }
+    },
+  });
+
   // add the 4 context entries
   let abbr = "";
   for (const cmd of Object.keys(manifest.commands)) {

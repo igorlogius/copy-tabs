@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "தேர்ந்தெடுக்கப்பட்ட தாவல்களை உரை URLகளாக நகலெடுக்கவும்",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "இந்த தாவலை உரை URL ஆக நகலெடுக்கவும்",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "இந்த தாவலை இணைப்பாக நகலெடுக்கவும்",
+    "description": ""
   }
 }

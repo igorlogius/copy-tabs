@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "चयन गरिएका ट्याबहरू पाठ URL को रूपमा प्रतिलिपि गर्नुहोस्",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "यो ट्याबलाई पाठ URL को रूपमा प्रतिलिपि गर्नुहोस्",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "यो ट्याबलाई लिङ्कको रूपमा प्रतिलिपि गर्नुहोस्",
+    "description": ""
   }
 }

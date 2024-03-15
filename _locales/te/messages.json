@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "ఎంచుకున్న ట్యాబ్u200cలను టెక్స్ట్ URLలుగా కాపీ చేయండి",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "ఈ ట్యాబ్u200cని టెక్స్ట్ URLగా కాపీ చేయండి",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "ఈ ట్యాబ్u200cని లింక్u200cగా కాపీ చేయండి",
+    "description": ""
   }
 }

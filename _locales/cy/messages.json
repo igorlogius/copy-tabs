@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Copïo Tabiau Dethol fel URLs Testun",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Copïwch y Tab hwn fel URL Testun",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Copïwch y Tab hwn fel Dolen",
+    "description": ""
   }
 }

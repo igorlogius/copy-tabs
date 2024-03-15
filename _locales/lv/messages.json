@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopējiet atlasītās cilnes kā teksta URL",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopējiet šo cilni kā teksta URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopējiet šo cilni kā saiti",
+    "description": ""
   }
 }

@@ -10,6 +10,8 @@ while read line;do
 
 	name=$(trans -brief -from en -to "$line" "Copy Tabs")
 	desc=$(trans -brief -from en -to $line "Copy Tabs as hyperlinks or text URLs")
+	cpytablnk=$(trans -brief -from en -to $line "Copy This Tab as Link")
+	cpytabtxt=$(trans -brief -from en -to $line "Copy This Tab as Text URL")
 	cpyalllnk=$(trans -brief -from en -to $line "Copy All Tabs as Links")
 	cpyalltxt=$(trans -brief -from en -to $line "Copy All Tabs as Text URLs")
 	cpysellnk=$(trans -brief -from en -to $line "Copy Selected Tabs as Links")
@@ -41,6 +43,14 @@ while read line;do
   },
   "cpyseltxt": {
     "message": "$cpyseltxt",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "$cpytabtxt",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "$cpytablnk",
     "description": ""
   }
 }

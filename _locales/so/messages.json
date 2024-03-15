@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Koobiyi tabs la xushay sidii URL qoraal ahaan",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Ku koobbi Tabkan sidii Qoraal URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Ku koobbi Tabkan sidii Linkiga",
+    "description": ""
   }
 }

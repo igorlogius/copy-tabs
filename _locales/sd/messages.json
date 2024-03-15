@@ -8,7 +8,7 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﻴٽ ﻲﺌﭝﺳ ﻮﻳﺮڪ ﻞﻘﻧ",
+    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﻴٽ ﭛﺳ ﻮﻳﺮڪ ﻞﻘﻧ",
     "description": ""
   },
   "cpyalltxt": {
@@ -21,6 +21,14 @@
   },
   "cpyseltxt": {
     "message": " ﻮﻳﺮڪ ﻞﻘﻧ ﺭﻮﻃ URLs ﻲﺟ ﻦﺘﻣ ﻲﮐ ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": " ﺭﻮﻃ URL ٽﺴڪﻴٽ ﻲﮐ ﺐﺌٽ ﻦﮬ ﻮﻳﺮڪ ﻞﻘﻧ",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": " ﺭﻮﻃ ڪﻨﻟ ﻲﮐ ﺐﺌٽ ﻦﮬ ﻮﻳﺮڪ ﻞﻘﻧ",
     "description": ""
   }
 }

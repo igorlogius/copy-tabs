@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopiraj izbrane zavihke kot besedilne URL-je",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopiraj ta zavihek kot besedilni URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopiraj ta zavihek kot povezavo",
+    "description": ""
   }
 }

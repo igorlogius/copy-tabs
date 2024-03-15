@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ടാബുകൾ ഹൈപ്പർലിങ്കുകൾ അല്ലെങ്കിൽ ടെക്സ്റ്റ് URL ആയി പകർത്തുക",
+    "message": "ടാബുകൾ ഹൈപ്പർലിങ്കുകൾ അല്ലെങ്കിൽ ടെക്സ്റ്റ് URL-കൾ ആയി പകർത്തുക",
     "description": ""
   },
   "cpyalllnk": {
@@ -21,6 +21,14 @@
   },
   "cpyseltxt": {
     "message": "തിരഞ്ഞെടുത്ത ടാബുകൾ ടെക്സ്റ്റ് URL-കളായി പകർത്തുക",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "ഈ ടാബ് ടെക്സ്റ്റ് URL ആയി പകർത്തുക",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "ഈ ടാബ് ലിങ്കായി പകർത്തുക",
     "description": ""
   }
 }

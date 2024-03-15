@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Khuphela iiTab njengehyperlink okanye iiURL zeteksti",
+    "message": "Khuphela ii-Tabs njengehyperlink okanye ii-URL zombhalo",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Khuphela zonke iiTab njengeekhonkco",
+    "message": "Khuphela Zonke iiTabhu njengeekhonkco",
     "description": ""
   },
   "cpyalltxt": {
@@ -20,7 +20,15 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Khuphela iiTabhu ezikhethiweyo njengee-URL ezibhaliweyo",
+    "message": "Khuphela iiTabhu eziKhethiweyo njengee-URL ezibhaliweyo",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Khuphela Le Tabhu njenge-URL yokubhaliweyo",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Khuphela le Thebhu njengekhonkco",
     "description": ""
   }
 }

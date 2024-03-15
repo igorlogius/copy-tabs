@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Nukopijuokite pasirinktus skirtukus kaip teksto URL",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Nukopijuokite šį skirtuką kaip teksto URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Nukopijuokite šį skirtuką kaip nuorodą",
+    "description": ""
   }
 }

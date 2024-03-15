@@ -16,11 +16,19 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tāruatia ngā Ripa i Tīpakohia hei Hononga",
+    "message": "Tāruahia nga Ripa kua tohua hei Hononga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tāruatia ngā Ripa i Tīpakohia hei URL Kuputuhi",
+    "message": "Tāruahia nga Ripa kua tohua hei URL Kuputuhi",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Tāruatia tēnei Ripa hei URL Kuputuhi",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Tāruatia tēnei Ripa hei Hononga",
     "description": ""
   }
 }

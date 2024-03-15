@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Salin Tab sing Dipilih minangka URL Teks",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Salin Tab Iki minangka URL Teks",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Salin Tab Iki minangka Link",
+    "description": ""
   }
 }

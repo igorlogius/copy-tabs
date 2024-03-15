@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "ສຳເນົາແຖບທີ່ເລືອກເປັນ URL ຂໍ້ຄວາມ",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "ສຳເນົາແຖບນີ້ເປັນ URL ຂໍ້ຄວາມ",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "ສຳເນົາແຖບນີ້ເປັນລິ້ງ",
+    "description": ""
   }
 }

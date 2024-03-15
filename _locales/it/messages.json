@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Copia le schede selezionate come URL di testo",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Copia questa scheda come URL di testo",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Copia questa scheda come collegamento",
+    "description": ""
   }
 }

@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Nakili Vichupo Vilivyochaguliwa kama URL za Maandishi",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Nakili Kichupo Hiki kama URL ya Maandishi",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Nakili Kichupo Hiki kama Kiungo",
+    "description": ""
   }
 }

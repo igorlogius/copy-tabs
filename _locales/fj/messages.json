@@ -1,26 +1,34 @@
 {
   "addonName": {
-    "message": "",
+    "message": "Lavetaka na Bulukau",
     "description": ""
   },
   "addonDesc": {
-    "message": "",
+    "message": "Lavetaka na Bulukau me hyperlinks se text URL",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "",
+    "message": "Lavetaka na iVakatakilakila Taucoko me iSema",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "",
+    "message": "Lavetaka Taucoko na iVakatakilakila ni iTukutuku",
     "description": ""
   },
   "cpysellnk": {
-    "message": "",
+    "message": "Lavetaka na Bulukau Digitaki me iSema",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "",
+    "message": "Lavetaka na Bulukau Digitaki me URL ni iTukutuku",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Lavetaka na iVakatakilakila Oqo me URL ni iTukutuku",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Lavetaka na iVakatakilakila Oqo me iSema",
     "description": ""
   }
 }

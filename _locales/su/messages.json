@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Salin Tab anu Dipilih salaku URL Téks",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Salin Tab Ieu salaku URL téks",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Salin Tab Ieu salaku Link",
+    "description": ""
   }
 }

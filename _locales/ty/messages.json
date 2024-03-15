@@ -1,26 +1,34 @@
 {
   "addonName": {
-    "message": "",
+    "message": "A nene'i i te mau api parau",
     "description": ""
   },
   "addonDesc": {
-    "message": "",
+    "message": "A nene'i i te mau tapa'o ei mau tapa'o e aore râ, ei mau parau papa'i",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "",
+    "message": "A tapo'i i te mau tapa'o atoa ei hono",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "",
+    "message": "A tapiti i te mau tapa'o atoa ei mau parau papa'i",
     "description": ""
   },
   "cpysellnk": {
-    "message": "",
+    "message": "A rave i te mau tapa'o i ma'itihia ei hono",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "",
+    "message": "A nene'i i te mau tapa'o i ma'itihia ei mau tapa'o faahoro parau",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "A papa'i i teie tapa'o ei URL papa'iraa",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "A tapo'i i teie tapa'o ei hono",
     "description": ""
   }
 }

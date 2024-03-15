@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copiar todas las pestañas como URL de texto",
+    "message": "Copie todas las pestañas como URL de texto",
     "description": ""
   },
   "cpysellnk": {
@@ -21,6 +21,14 @@
   },
   "cpyseltxt": {
     "message": "Copiar pestañas seleccionadas como URL de texto",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Copie esta pestaña como URL de texto",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Copie esta pestaña como enlace",
     "description": ""
   }
 }

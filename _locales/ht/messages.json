@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopi onglè yo chwazi kòm URL tèks yo",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopi Tab sa a kòm URL tèks",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopi Tab sa a kòm Link",
+    "description": ""
   }
 }

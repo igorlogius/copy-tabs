@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Afritaðu valda flipa sem textaslóðir",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Afritaðu þennan flipa sem textaslóð",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Afritaðu þennan flipa sem hlekk",
+    "description": ""
   }
 }

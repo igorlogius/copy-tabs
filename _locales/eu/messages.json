@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopiatu hautatutako fitxak testu URL gisa",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopiatu fitxa hau testu URL gisa",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopiatu fitxa hau esteka gisa",
+    "description": ""
   }
 }

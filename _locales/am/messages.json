@@ -1,6 +1,6 @@
 {
   "addonName": {
-    "message": "ትሮችን ቅዳ",
+    "message": "ትሮችን ይቅዱ",
     "description": ""
   },
   "addonDesc": {
@@ -21,6 +21,14 @@
   },
   "cpyseltxt": {
     "message": "የተመረጡ ትሮችን እንደ የጽሑፍ ዩአርኤሎች ቅዳ",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "ይህንን ትር እንደ የጽሑፍ URL ቅዳ",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "ይህንን ትር እንደ አገናኝ ይቅዱ",
     "description": ""
   }
 }

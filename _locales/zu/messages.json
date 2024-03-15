@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopisha Amathebhu Akhethiwe Njengama-URL Ombhalo",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopisha Le Thebhu njenge-URL yombhalo",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopisha Le Thebhu njengesixhumanisi",
+    "description": ""
   }
 }

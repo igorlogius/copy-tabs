@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "নির্বাচিত ট্যাবগুলি পাঠ্য URL হিসাবে অনুলিপি করুন৷",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "এই ট্যাবটিকে পাঠ্য URL হিসাবে অনুলিপি করুন৷",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "এই ট্যাবটিকে লিঙ্ক হিসাবে অনুলিপি করুন",
+    "description": ""
   }
 }

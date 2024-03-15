@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopjoni skedat e zgjedhura si URL teksti",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopjo këtë skedë si URL teksti",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopjo këtë skedë si lidhje",
+    "description": ""
   }
 }

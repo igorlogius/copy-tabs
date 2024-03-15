@@ -4,15 +4,15 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copiar guias como hiperlinks ou URLs de texto",
+    "message": "Copie guias como hiperlinks ou URLs de texto",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Copiar todas as guias como links",
+    "message": "Copie todas as guias como links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copiar todas as guias como URLs de texto",
+    "message": "Copie todas as guias como URLs de texto",
     "description": ""
   },
   "cpysellnk": {
@@ -21,6 +21,14 @@
   },
   "cpyseltxt": {
     "message": "Copiar guias selecionadas como URLs de texto",
+    "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Copie esta guia como URL de texto",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Copie esta guia como link",
     "description": ""
   }
 }

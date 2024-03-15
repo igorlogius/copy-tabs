@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "ចម្លងផ្ទាំងដែលបានជ្រើសរើសជា URL អត្ថបទ",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "ចម្លងផ្ទាំងនេះជា URL អត្ថបទ",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "ចម្លងផ្ទាំងនេះជាតំណ",
+    "description": ""
   }
 }

@@ -22,5 +22,13 @@
   "cpyseltxt": {
     "message": "Kopieer geselekteerde oortjies as teks-URL'e",
     "description": ""
+  },
+  "cpytabtxt": {
+    "message": "Kopieer hierdie oortjie as teks-URL",
+    "description": ""
+  },
+  "cpytablnk": {
+    "message": "Kopieer hierdie oortjie as skakel",
+    "description": ""
   }
 }
