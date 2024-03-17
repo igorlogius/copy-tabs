@@ -7,28 +7,80 @@
     "message": "Copïwch Tabiau fel hyperddolenni neu URLs testun",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Gweithred botwm bar offer",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Copïwch Pob Tab fel Dolenni",
+    "message": "Pob Tab fel Dolenni",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copïwch Pob Tab fel URLs Testun",
+    "message": "Pob Tab fel URLs Testun",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Copïo Tabiau Dethol fel Dolenni",
+    "message": "Tabiau a ddewiswyd fel Dolenni",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Copïo Tabiau Dethol fel URLs Testun",
+    "message": "Tabiau a ddewiswyd fel URLs testun",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Copïwch y Tab hwn fel URL Testun",
+    "message": "Y Tab hwn fel URL Testun",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Copïwch y Tab hwn fel Dolen",
+    "message": "Mae'r Tab hwn fel Dolen",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Pob Tab fel Dolenni (Paramedrau Strip)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Pob Tab fel URL testun (Paramedrau Strip)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Tabiau a ddewiswyd fel Dolenni (Paramedrau Strip)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Tabiau a ddewiswyd fel URLs testun (Paramedrau Strip)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Y Tab hwn fel URL Testun (Paramedrau Strip)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Y Tab hwn fel Dolen (Paramedrau Strip)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Ysgogi gweithredoedd trwy ddewislen cyd-destun y tab",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Gweithredwch trwy ddewislen cyd-destun botwm y bar offer",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Neilltuo llwybrau byr ar gyfer gweithredoedd",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Cuddio neu symud botwm y bar offer",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Dangos hysbysiadau (gweler Caniatâd)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

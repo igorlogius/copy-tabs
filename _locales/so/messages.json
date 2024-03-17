@@ -7,28 +7,80 @@
     "message": "Nuqul ka samee tabs sidii xiriiriye sare ama URL qoraal ah",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Ficil badhanka Toolbar",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Ku koobbi Dhammaan Tabaha sida Links",
+    "message": "Dhammaan tabs sida Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ku koobbi Dhammaan Tabaha sida Qoraal URLs",
+    "message": "Dhammaan tabs sida URL-yada qoraalka ah",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Nuqul ka mid ah Tabaha la xushay sida isku xidhka",
+    "message": "Tabaha loo xushay sida Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Koobiyi tabs la xushay sidii URL qoraal ahaan",
+    "message": "Tabaha loo doortay sida URL-yada qoraalka",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ku koobbi Tabkan sidii Qoraal URL",
+    "message": "Tabkan sida Qoraal URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ku koobbi Tabkan sidii Linkiga",
+    "message": "Tabkan sida Linkiga",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Dhammaan tabs sida isku xidhka (Strip Parameters)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Dhammaan Tabaha sida URL-yada Qoraal (Strip Parameters)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Tabaha loo xushay sida isku xidhka (Strip Parameters)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Tabaha loo xushay sidii URL Qoraal ahaan (Strip Parameters)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Taabkan oo ah URL Qoraal ahaan",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Tabkan sida isku xidhka (Strip Parameters)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Ku yeedh ficillada adoo adeegsanaya liiska macnaha guud",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Ku yeedh ficillada adoo adeegsanaya badhanka aaladda macnaha guud",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "U qoondee habab gaaban oo ficil ah",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Qari ama dhaqaaji badhanka aaladda",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Muuji ogeysiisyada (eeg oggolaanshaha)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

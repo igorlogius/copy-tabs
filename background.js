@@ -4,9 +4,15 @@ const manifest = browser.runtime.getManifest();
 const extname = manifest.name;
 
 let toolbarAction = "cpyalllnk";
-let showNotifications = true;
 let noURLParams = false;
 let ready = false;
+
+function iconBlink() {
+  browser.browserAction.disable();
+  setTimeout(() => {
+    browser.browserAction.enable();
+  }, 300); // make the icon blink
+}
 
 async function getFromStorage(type, id, fallback) {
   let tmp = await browser.storage.local.get(id);
@@ -14,13 +20,20 @@ async function getFromStorage(type, id, fallback) {
 }
 
 function notify(title, message = "", iconUrl = "icon.png") {
-  if (showNotifications) {
-    return browser.notifications.create("" + Date.now(), {
+  try {
+    const nid = browser.notifications.create("" + Date.now(), {
       type: "basic",
       iconUrl,
       title,
       message,
     });
+    if (nid > -1) {
+      setTimeout(() => {
+        browser.notifications.clear(nid);
+      }, 3000); // hide notification after 3 seconds
+    }
+  } catch (e) {
+    // noop permission missing
   }
 }
 
@@ -52,10 +65,6 @@ async function copyTabsAsText(tabs) {
 }
 
 async function copyTabsAsHtml(tabs) {
-  // new
-  //
-  //
-  /// old
   try {
     let div = document.createElement("span"); // needs to be a <span> to prevent the final linebreak
     div.style.position = "absolute";
@@ -117,6 +126,13 @@ async function onCommand(cmd) {
   if (!ready) {
     return;
   }
+
+  if (cmd.endsWith("np")) {
+    noURLParams = true;
+  } else {
+    noURLParams = false;
+  }
+
   let qryObj = { hidden: false, currentWindow: true },
     tabs,
     ret = false;
@@ -141,29 +157,14 @@ async function onCommand(cmd) {
       break;
   }
   if (ret) {
-    browser.browserAction.disable();
-    setTimeout(() => {
-      browser.browserAction.enable();
-    }, 300); // make the icon blink
-
-    const nid = await notify(extname, manifest.commands[cmd].description);
-    if (nid > -1) {
-      setTimeout(() => {
-        browser.notifications.clear(nid);
-      }, 3000); // hide notification after 3 seconds
-    }
+    iconBlink();
+    notify(extname, manifest.commands[cmd].description);
   }
   return ret;
 }
 
 async function onStorageChange() {
   toolbarAction = await getFromStorage("string", "toolbarAction", "cpyalllnk");
-  showNotifications = await getFromStorage(
-    "boolean",
-    "showNotifications",
-    true
-  );
-  noURLParams = await getFromStorage("boolean", "noURLParams", false);
 
   browser.browserAction.setTitle({
     title: manifest.commands[toolbarAction].description,
@@ -175,46 +176,53 @@ async function onStorageChange() {
 }
 
 (async () => {
-  // add extra conext menu to copy the clicked on tab
+  // add context entries to copy the clicked tab
   browser.menus.create({
     title: browser.i18n.getMessage("cpytablnk"),
     contexts: ["tab"],
     onclick: async (info, tab) => {
+      noURLParams = false;
       const ret = copyTabsAsHtml([tab]);
-
       if (ret) {
-        browser.browserAction.disable();
-        setTimeout(() => {
-          browser.browserAction.enable();
-        }, 300); // make the icon blink
-
-        const nid = await notify(extname, browser.i18n.getMessage("cpytablnk"));
-        if (nid > -1) {
-          setTimeout(() => {
-            browser.notifications.clear(nid);
-          }, 3000); // hide notification after 3 seconds
-        }
+        iconBlink();
+        notify(extname, browser.i18n.getMessage("cpytablnk"));
       }
     },
   });
   browser.menus.create({
+    title: browser.i18n.getMessage("cpytablnknp"),
+    contexts: ["tab"],
+    onclick: async (info, tab) => {
+      noURLParams = true;
+      const ret = copyTabsAsHtml([tab]);
+      if (ret) {
+        iconBlink();
+        notify(extname, browser.i18n.getMessage("cpytablnk"));
+      }
+    },
+  });
+
+  browser.menus.create({
     title: browser.i18n.getMessage("cpytabtxt"),
     contexts: ["tab"],
     onclick: async (info, tab) => {
+      noURLParams = false;
       const ret = copyTabsAsText([tab]);
-
       if (ret) {
-        browser.browserAction.disable();
-        setTimeout(() => {
-          browser.browserAction.enable();
-        }, 300); // make the icon blink
-
-        const nid = await notify(extname, browser.i18n.getMessage("cpytabtxt"));
-        if (nid > -1) {
-          setTimeout(() => {
-            browser.notifications.clear(nid);
-          }, 3000); // hide notification after 3 seconds
-        }
+        iconBlink();
+        notify(extname, browser.i18n.getMessage("cpytabtxt"));
+      }
+    },
+  });
+  browser.menus.create({
+    title: browser.i18n.getMessage("cpytabtxtnp"),
+    contexts: ["tab"],
+    onclick: async (info, tab) => {
+      noURLParams = true;
+      const ret = copyTabsAsText([tab]);
+      if (ret) {
+        iconBlink();
+        notify(extname, browser.i18n.getMessage("cpytabtxt"));
       }
     },
   });
@@ -224,16 +232,16 @@ async function onStorageChange() {
     browser.menus.create({
       id: "" + cmd,
       title: manifest.commands[cmd].description,
-      contexts: ["browser_action", "tab"],
+      contexts: ["tab"],
       onclick: (info) => {
         onCommand(info.menuItemId);
       },
     });
   }
 
-  // add direct linkt to option page
+  // open option page
   browser.menus.create({
-    title: "Preferences ... ",
+    title: "Preferences",
     contexts: ["browser_action", "tab"],
     onclick: () => {
       browser.runtime.openOptionsPage();
@@ -248,14 +256,14 @@ browser.storage.onChanged.addListener(onStorageChange);
 browser.commands.onCommand.addListener(onCommand);
 
 // proxy toolbar button click
-browser.browserAction.onClicked.addListener(() => {
+browser.browserAction.onClicked.addListener((tab, info) => {
   onCommand(toolbarAction);
 });
 
 // add some slight transparancy
 browser.browserAction.setBadgeBackgroundColor({ color: [0, 0, 0, 115] });
 
-// show the user the options page on first installation
+// show the options page on first installation
 browser.runtime.onInstalled.addListener((details) => {
   if (details.reason === "install") {
     browser.runtime.openOptionsPage();

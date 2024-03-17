@@ -7,28 +7,80 @@
     "message": "Kopiuj karty jako hiperłącza lub tekstowe adresy URL",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Działanie przycisku paska narzędzi",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Skopiuj wszystkie karty jako łącza",
+    "message": "Wszystkie karty jako łącza",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Skopiuj wszystkie karty jako tekstowe adresy URL",
+    "message": "Wszystkie karty jako tekstowe adresy URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Skopiuj wybrane karty jako łącza",
+    "message": "Wybrane karty jako łącza",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Skopiuj wybrane karty jako tekstowe adresy URL",
+    "message": "Wybrane karty jako tekstowe adresy URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Skopiuj tę kartę jako tekstowy adres URL",
+    "message": "Ta karta jako tekstowy adres URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Skopiuj tę kartę jako link",
+    "message": "Ta zakładka jako link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Wszystkie karty jako łącza (parametry paska)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Wszystkie karty jako tekstowe adresy URL (usuń parametry)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Wybrane karty jako łącza (parametry paska)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Wybrane karty jako adresy tekstowe (parametry usunięcia)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Ta zakładka jako tekstowy adres URL (parametry usunięcia)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Ta zakładka jako łącze (parametry paska)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Wywołuj akcje za pomocą menu kontekstowego karty",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Wywołuj akcje poprzez menu kontekstowe przycisków paska narzędzi",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Przypisz skróty do działań",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Ukryj lub przesuń przycisk paska narzędzi",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Pokaż powiadomienia (zobacz Uprawnienia)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

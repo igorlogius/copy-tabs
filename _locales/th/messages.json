@@ -7,28 +7,80 @@
     "message": "คัดลอกแท็บเป็นไฮเปอร์ลิงก์หรือ URL ข้อความ",
     "description": ""
   },
+  "labelseltba": {
+    "message": "การทำงานของปุ่มแถบเครื่องมือ",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "คัดลอกแท็บทั้งหมดเป็นลิงก์",
+    "message": "แท็บทั้งหมดเป็นลิงก์",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "คัดลอกแท็บทั้งหมดเป็น URL ข้อความ",
+    "message": "แท็บทั้งหมดเป็น URL ข้อความ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "คัดลอกแท็บที่เลือกเป็นลิงก์",
+    "message": "แท็บที่เลือกเป็นลิงก์",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "คัดลอกแท็บที่เลือกเป็น URL ข้อความ",
+    "message": "แท็บที่เลือกเป็น URL ข้อความ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "คัดลอกแท็บนี้เป็น URL ข้อความ",
+    "message": "แท็บนี้เป็น URL ข้อความ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "คัดลอกแท็บนี้เป็นลิงก์",
+    "message": "แท็บนี้เป็นลิงก์",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "แท็บทั้งหมดเป็นลิงก์ (พารามิเตอร์สตริป)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "แท็บทั้งหมดเป็น URL ข้อความ (พารามิเตอร์แถบ)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "แท็บที่เลือกเป็นลิงก์ (พารามิเตอร์สตริป)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "แท็บที่เลือกเป็น URL ข้อความ (พารามิเตอร์แถบ)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "แท็บนี้เป็น URL ข้อความ (พารามิเตอร์แถบ)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "แท็บนี้เป็นลิงก์ (พารามิเตอร์สตริป)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "เรียกใช้การดำเนินการผ่านเมนูบริบทของแท็บ",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "เรียกใช้การดำเนินการผ่านเมนูบริบทของปุ่มแถบเครื่องมือ",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "กำหนดทางลัดสำหรับการดำเนินการ",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "ซ่อนหรือย้ายปุ่มแถบเครื่องมือ",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "แสดงการแจ้งเตือน (ดูสิทธิ์)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

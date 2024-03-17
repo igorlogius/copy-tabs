@@ -7,28 +7,80 @@
     "message": "Copia Tabs cum'è hyperlinks o URL di testu",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Azzione di u buttone di Toolbar",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Copia tutte e tabulazioni cum'è ligami",
+    "message": "Tutti i Tabs cum'è Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copia tutte e tabulazioni cum'è URL di testu",
+    "message": "Tutte e tabulazioni cum'è URL di testu",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Copia Tabs Scelti cum'è Links",
+    "message": "Tabs Scelti cum'è Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Copia Tabs Scelti cum'è URL di testu",
+    "message": "Tabs Scelti cum'è URL di testu",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Copia sta Tabulazione cum'è URL di testu",
+    "message": "Questa Tabulazione cum'è URL di testu",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Copia questa Tabulazione cum'è Link",
+    "message": "Questa Tabulazione cum'è Link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Tutte e tabulazioni cum'è ligami (parametri di striscia)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Tutte e tabulazioni cum'è URL di testu (parametri di striscia)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Tabs Scelti cum'è Links (Parametri di Strip)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Tabs Scelti cum'è URL di testu (Parametri di striscia)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Questa Tabulazione cum'è URL di testu (Parametri di striscia)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Questa Tabulazione cum'è Link (Parametri Strip)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Invoca l'azzioni via u menù di cuntestu di tabulazione",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Invoca l'azzioni via u menu cuntestu di u buttone di a barra di strumenti",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Assignate shortcuts per l'azzioni",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Oculta o move u buttone di a barra di strumenti",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Mostra notifiche (vede Permissions)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

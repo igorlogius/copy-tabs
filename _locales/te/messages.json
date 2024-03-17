@@ -7,28 +7,80 @@
     "message": "ట్యాబ్u200cలను హైపర్u200cలింక్u200cలుగా లేదా టెక్స్ట్ URLలుగా కాపీ చేయండి",
     "description": ""
   },
+  "labelseltba": {
+    "message": "టూల్u200cబార్ బటన్ చర్య",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "అన్ని ట్యాబ్u200cలను లింక్u200cలుగా కాపీ చేయండి",
+    "message": "అన్ని ట్యాబ్u200cలు లింక్u200cలుగా",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "అన్ని ట్యాబ్u200cలను టెక్స్ట్ URLలుగా కాపీ చేయండి",
+    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్ URLలుగా",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ఎంచుకున్న ట్యాబ్u200cలను లింక్u200cలుగా కాపీ చేయండి",
+    "message": "ట్యాబ్u200cలను లింక్u200cలుగా ఎంచుకున్నారు",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ఎంచుకున్న ట్యాబ్u200cలను టెక్స్ట్ URLలుగా కాపీ చేయండి",
+    "message": "టెక్స్ట్ URLలుగా ట్యాబ్u200cలు ఎంచుకోబడ్డాయి",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ఈ ట్యాబ్u200cని టెక్స్ట్ URLగా కాపీ చేయండి",
+    "message": "ఈ ట్యాబ్ టెక్స్ట్ URLగా",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ఈ ట్యాబ్u200cని లింక్u200cగా కాపీ చేయండి",
+    "message": "లింక్u200cగా ఈ ట్యాబ్",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "అన్ని ట్యాబ్u200cలు లింక్u200cలుగా (స్ట్రిప్ పారామీటర్u200cలు)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్ URLలుగా (స్ట్రిప్ పారామీటర్u200cలు)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "లింక్u200cలుగా ఎంచుకున్న ట్యాబ్u200cలు (స్ట్రిప్ పారామితులు)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "టెక్స్ట్ URLలుగా ఎంచుకున్న ట్యాబ్u200cలు (స్ట్రిప్ పారామీటర్u200cలు)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "ఈ ట్యాబ్ టెక్స్ట్ URL (స్ట్రిప్ పారామితులు)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "ఈ ట్యాబ్ లింక్u200cగా (స్ట్రిప్ పారామీటర్u200cలు)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "ట్యాబ్ సందర్భ మెను ద్వారా చర్యలను ప్రారంభించండి",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "టూల్u200cబార్ బటన్ కాంటెక్స్ట్ మెను ద్వారా చర్యలను ప్రారంభించండి",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "చర్యల కోసం షార్ట్u200cకట్u200cలను కేటాయించండి",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "టూల్u200cబార్ బటన్u200cను దాచండి లేదా తరలించండి",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "నోటిఫికేషన్u200cలను చూపు (అనుమతులను చూడండి)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

@@ -7,28 +7,80 @@
     "message": "タブをハイパーリンクまたはテキスト URL としてコピー",
     "description": ""
   },
+  "labelseltba": {
+    "message": "ツールバーボタンのアクション",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "すべてのタブをリンクとしてコピー",
+    "message": "すべてのタブをリンクとして表示",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "すべてのタブをテキスト URL としてコピー",
+    "message": "すべてのタブをテキスト URL として表示",
     "description": ""
   },
   "cpysellnk": {
-    "message": "選択したタブをリンクとしてコピー",
+    "message": "選択したタブをリンクとして表示",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "選択したタブをテキスト URL としてコピー",
+    "message": "選択したタブをテキスト URL として表示",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "このタブをテキスト URL としてコピー",
+    "message": "このタブをテキスト URL として表示",
     "description": ""
   },
   "cpytablnk": {
-    "message": "このタブをリンクとしてコピー",
+    "message": "このタブをリンクとして表示",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "すべてのタブをリンクとして表示 (ストリップパラメータ)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "すべてのタブをテキスト URL として表示 (パラメータのストリップ)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "選択したタブをリンクとして表示 (ストリップパラメータ)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "選択したタブをテキスト URL として表示 (パラメータのストリップ)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "このタブをテキスト URL として表示 (ストリップ パラメータ)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "リンクとしてのこのタブ (ストリップパラメータ)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "タブのコンテキスト メニューからアクションを呼び出す",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "ツールバーボタンのコンテキストメニューからアクションを呼び出す",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "アクションのショートカットを割り当てる",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "ツールバーボタンを非表示または移動する",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "通知を表示する (「権限」を参照)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

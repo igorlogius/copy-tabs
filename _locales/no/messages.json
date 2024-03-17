@@ -7,28 +7,80 @@
     "message": "Kopier faner som hyperkoblinger eller tekst-URLer",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Verktøylinjeknapphandling",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopier alle faner som lenker",
+    "message": "Alle faner som lenker",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopier alle faner som tekst-URL-er",
+    "message": "Alle faner som tekst-URL-er",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopier valgte faner som lenker",
+    "message": "Valgte faner som koblinger",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopier valgte faner som tekst-URL-er",
+    "message": "Valgte faner som tekst-URL-er",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopier denne fanen som tekst-URL",
+    "message": "Denne fanen som tekst-URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopier denne fanen som lenke",
+    "message": "Denne fanen som lenke",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Alle faner som koblinger (Strip-parametere)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Alle faner som tekst-URL-er (Strip-parametere)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Valgte faner som koblinger (Strip-parametere)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Valgte faner som tekst-URL-er (Strip-parametere)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Denne fanen som tekst-URL (Strip-parametere)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Denne fanen som kobling (Strip-parametere)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Påkalle handlinger via fanens kontekstmeny",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Påkalle handlinger via verktøylinjeknappens kontekstmeny",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Tilordne snarveier for handlinger",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Skjul eller flytt verktøylinjeknappen",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Vis varsler (se Tillatelser)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

@@ -7,28 +7,80 @@
     "message": "Kopa Tabs se hyperlink kana mavara ma URL",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Toolbar bhatani chiito",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopa All Tabs seManongedzo",
+    "message": "MaTabo ese seManongedzo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopa All Tabs seMavara URLs",
+    "message": "Ese Tabs seMavara URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopa Matebhu Akasarudzwa seManongedzo",
+    "message": "Akasarudzwa Tabs seZvisungo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopa Matebhu Akasarudzwa seMavara URLs",
+    "message": "Akasarudzwa Tabs seMavara URLs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopa Iyi Tabhu seChinyorwa URL",
+    "message": "Iyi Tabhu seChinyorwa URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopa Iyi Tabhu seChibatanidza",
+    "message": "Iyi Tabhu seChibatanidza",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Ese Tabs seManongedzo (Strip Parameters)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Ese Tabs seMavara URL (Strip Parameters)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Akasarudzwa Tabs seManongedzo (Strip Parameters)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Akasarudzwa Tabs seMavara URL (Strip Parameters)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Iyi Tabhu seChinyorwa URL (Strip Parameters)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Iyi Tabhu seChibatanidza (Strip Parameters)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Kumbira zviito kuburikidza neiyo tab mamiriro menyu",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Kumbira zviito kuburikidza nebhatani remabhatani menyu",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Ipa madimburiko ezviito",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Viga kana fambisa bhatani rebhatani",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Ratidza zviziviso (ona Mvumo)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

@@ -7,28 +7,80 @@
     "message": "Afritaðu flipa sem tengla eða textaslóðir",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Aðgerð á hnappastiku",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Afritaðu alla flipa sem tengla",
+    "message": "Allir flipar sem tenglar",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Afritaðu alla flipa sem textaslóðir",
+    "message": "Allir flipar sem textaslóðir",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Afritaðu valda flipa sem tengla",
+    "message": "Valdir flipar sem tenglar",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Afritaðu valda flipa sem textaslóðir",
+    "message": "Valdir flipar sem textaslóðir",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Afritaðu þennan flipa sem textaslóð",
+    "message": "Þessi flipi sem texti URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Afritaðu þennan flipa sem hlekk",
+    "message": "Þessi flipi sem hlekkur",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Allir flipar sem tenglar (Strip færibreytur)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Allir flipar sem textaslóðir (Strip færibreytur)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Valdir flipar sem tenglar (Strip færibreytur)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Valdir flipar sem textaslóðir (Strip færibreytur)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Þessi flipi sem textaslóð (Strip færibreytur)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Þessi flipi sem hlekkur (Strip færibreytur)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Kallaðu á aðgerðir í gegnum samhengisvalmynd flipa",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Kallaðu á aðgerðir í gegnum samhengisvalmynd hnappastikunnar",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Úthlutaðu flýtileiðum fyrir aðgerðir",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Fela eða færa tækjastikuhnappinn",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Sýna tilkynningar (sjá Heimildir)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

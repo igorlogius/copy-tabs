@@ -7,28 +7,80 @@
     "message": "Kopirajte kartice kao hiperveze ili tekstualne URL-ove",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Radnja dugmeta na alatnoj traci",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopirajte sve kartice kao veze",
+    "message": "Sve kartice kao veze",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopirajte sve kartice kao tekstualne URL-ove",
+    "message": "Sve kartice kao tekstualni URL-ovi",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopirajte odabrane kartice kao veze",
+    "message": "Odabrane kartice kao veze",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopirajte odabrane kartice kao tekstualne URL-ove",
+    "message": "Odabrane kartice kao tekstualni URL-ovi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopirajte ovu karticu kao tekstualni URL",
+    "message": "Ova kartica kao tekstualni URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopirajte ovu karticu kao vezu",
+    "message": "Ova kartica kao veza",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Sve kartice kao veze (parametri trake)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Sve kartice kao tekstualni URL-ovi (parametri trake)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Odabrane kartice kao veze (parametri trake)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Odabrane kartice kao tekstualni URL-ovi (parametri trake)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Ova kartica kao tekstualni URL (parametri trake)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Ova kartica kao veza (parametri trake)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Pozovite radnje preko kontekstnog menija kartice",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Pozovite radnje preko kontekstnog menija dugmeta na alatnoj traci",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Dodijelite prečice za radnje",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Sakrijte ili pomaknite dugme na alatnoj traci",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Prikaži obavještenja (pogledajte Dozvole)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

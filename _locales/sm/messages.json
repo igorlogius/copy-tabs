@@ -7,28 +7,80 @@
     "message": "Kopi Tabs e fai ma hyperlinks po'o tusitusiga URL",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Gaioiga o faamau o meafaigaluega",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopi Tape uma e fai ma So'oga",
+    "message": "Tapa uma e fai ma So'oga",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopi Tape uma e fai ma URL o Tusitusiga",
+    "message": "Tape uma e pei o URL o Tusitusiga",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopi Fa'amau Filifilia e fai ma So'oga",
+    "message": "Tapa Filifilia e fai ma So'oga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopi Tape Filifilia e fai ma URL o Tusitusiga",
+    "message": "Pepa Filifilia e avea ma URL o Tusitusiga",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopi Lenei Tab e avea ma URL o Tusitusiga",
+    "message": "Lenei Tab e pei o Tusitusiga URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopi Lenei Tab e fai ma So'oga",
+    "message": "Lenei Tab e fai ma So'oga",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Tape uma e fai ma so'oga",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Fa'amau uma e fai ma URL o Tusitusiga (Parameter Aveese)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Fa'ailoga Filifilia e fai ma So'oga (Fa'a'ese'esega Fa'amau)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Fa'ailoga Filifilia e fai ma URL o Tusitusiga (Parametera Fa'asolo)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Le Tape lea e fai ma URL o Tusitusiga (Parameters Strip)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Le Tape lea e fai ma So'oga (Parameters Strip)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Fa'ailoa gaioiga e ala i le lisi o fa'amatalaga o le tab",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Fa'ailo gaioiga e ala ile fa'aigoa fa'aigoa fa'amau fa'amau",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Tofi ni ala pupuu mo taga",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Natia pe aveese le faamau meafaigaluega",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Faaali atu fa'amatalaga (silasila i Fa'atagaga)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

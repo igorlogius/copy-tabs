@@ -7,28 +7,80 @@
     "message": "Salin Tab salaku hyperlink atanapi URL téks",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Peta tombol toolbar",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Nyalin Sadaya Tab salaku Tumbu",
+    "message": "Sadaya Tab salaku Tumbu",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Salin Sadaya Tab salaku URL téks",
+    "message": "Sadaya Tab salaku URL téks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Salin Tab Dipilih salaku Tumbu",
+    "message": "Dipilih Tab salaku Tumbu",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Salin Tab anu Dipilih salaku URL Téks",
+    "message": "Tab Dipilih salaku URL téks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Salin Tab Ieu salaku URL téks",
+    "message": "Tab ieu salaku URL téks",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Salin Tab Ieu salaku Link",
+    "message": "Tab ieu salaku Patalina",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Sadaya Tab salaku Tumbu (Parameter Strip)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Sadaya Tab salaku URL téks (Parameter Strip)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Tab Dipilih salaku Tumbu (Parameter Strip)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Tab Dipilih salaku URL téks (Parameter Strip)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Tab ieu salaku URL téks (Parameter Strip)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Tab Ieu salaku Link (Parameter Strip)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Nelepon tindakan liwat menu konteks tab",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Nelepon lampah ngaliwatan menu konteks tombol toolbar",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Netepkeun potong kompas pikeun tindakan",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Sumputkeun atawa pindahkeun tombol tulbar",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Témbongkeun béwara (tingali Idin)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

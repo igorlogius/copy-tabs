@@ -7,28 +7,80 @@
     "message": "Күсермә Таблица гиперлинктар йәки URL-текст булараҡ",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Toolbar кнопкаһы хәрәкәте",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Бөтә таблицаларҙы һылтанмалар сифатында күсереп алыу",
+    "message": "Все таблица как Һылтанмалар",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Бөтә таблицаларҙы текст URLs сифатында күсереп алыу",
+    "message": "Все таблица как Тексты URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Күсермәһе Һылтанмалар сифатында һайланған таблицалар",
+    "message": "Һылтанмалар сифатында һайланған таблицалар",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Күсермәһе Текст URL-ы сифатында һайланған таблицалар",
+    "message": "Һайланма таблицалар текст URLs сифатында",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Күсермә Был таблица URL тексы булараҡ",
+    "message": "Был таблица ULL тексы булараҡ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Күсермә Был таблица һылтанма булараҡ",
+    "message": "Был таблица Һылтанма булараҡ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Все таблица как Һылтанмалар (Һыҙат параметрҙары)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Все таблица как Тексты URLs (Street Paremeters)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Һылтанмалар сифатында һайланған таблицалар (Һыҙат параметрҙары)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Һайланма таблицалар текслы URLs сифатында (Һыҙат параметрҙары)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Это таблица как Текст URL (Street Paremeters)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Был таблица Һылтанма булараҡ (Һыҙат параметрҙары)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Таблица контексы менюһы аша ғәмәлгә өндәү",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Ҡоралдар төймәһенән контекст менюһы аша ғәмәлгә өндәү",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Ғәмәлдәр өсөн ҡыҫҡа юлдар тәғәйенләү",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Ҡоралдар таяғын йәшерергә йәки күсерергә",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Иҫкәрмәләр күрһәтегеҙ (ҡара: Рөхсәттәр)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

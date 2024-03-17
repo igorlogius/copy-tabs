@@ -7,28 +7,80 @@
     "message": "Nukopijuokite skirtukus kaip hipersaitus arba teksto URL",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Įrankių juostos mygtuko veiksmas",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Nukopijuokite visus skirtukus kaip nuorodas",
+    "message": "Visi skirtukai kaip nuorodos",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Nukopijuokite visus skirtukus kaip teksto URL",
+    "message": "Visi skirtukai kaip teksto URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Nukopijuokite pasirinktus skirtukus kaip nuorodas",
+    "message": "Pasirinkti skirtukai kaip nuorodos",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Nukopijuokite pasirinktus skirtukus kaip teksto URL",
+    "message": "Pasirinkti skirtukai kaip teksto URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Nukopijuokite šį skirtuką kaip teksto URL",
+    "message": "Šis skirtukas kaip teksto URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Nukopijuokite šį skirtuką kaip nuorodą",
+    "message": "Šis skirtukas kaip nuoroda",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Visi skirtukai kaip nuorodos (juostos parametrai)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Visi skirtukai kaip teksto URL (juostos parametrai)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Pasirinkti skirtukai kaip nuorodos (juostos parametrai)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Pasirinkti skirtukai kaip teksto URL (juostos parametrai)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Šis skirtukas kaip teksto URL (juostos parametrai)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Šis skirtukas kaip nuoroda (juostos parametrai)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Iškviesti veiksmus skirtuko kontekstiniame meniu",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Iškviesti veiksmus įrankių juostos mygtuko kontekstiniame meniu",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Priskirkite veiksmų sparčiuosius klavišus",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Slėpti arba perkelti įrankių juostos mygtuką",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Rodyti pranešimus (žr. Leidimai)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

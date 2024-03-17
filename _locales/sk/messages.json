@@ -7,28 +7,80 @@
     "message": "Kopírovať karty ako hypertextové odkazy alebo textové adresy URL",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Akcia tlačidla na paneli s nástrojmi",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopírovať všetky karty ako odkazy",
+    "message": "Všetky karty ako odkazy",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Skopírujte všetky karty ako textové adresy URL",
+    "message": "Všetky karty ako textové adresy URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopírovať vybraté karty ako odkazy",
+    "message": "Vybraté karty ako odkazy",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopírovať vybraté karty ako textové adresy URL",
+    "message": "Vybraté karty ako textové adresy URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Skopírujte túto kartu ako textovú adresu URL",
+    "message": "Táto karta ako textová adresa URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Skopírujte túto kartu ako odkaz",
+    "message": "Táto karta ako odkaz",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Všetky karty ako odkazy (parametre pásu)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Všetky karty ako textové adresy URL (parametre pásu)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Vybraté karty ako odkazy (parametre pásov)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Vybraté karty ako textové adresy URL (parametre pásu)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Táto karta ako textová adresa URL (parametre pásu)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Táto karta ako odkaz (Parametre pásu)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Vyvolávajte akcie prostredníctvom kontextovej ponuky karty",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Vyvolávajte akcie prostredníctvom kontextovej ponuky tlačidla na paneli s nástrojmi",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Priraďte skratky pre akcie",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Skryť alebo presunúť tlačidlo na paneli s nástrojmi",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Zobraziť upozornenia (pozri Povolenia)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

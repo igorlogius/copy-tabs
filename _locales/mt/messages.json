@@ -7,28 +7,80 @@
     "message": "Ikkopja Tabs bħala hyperlinks jew URLs tat-test",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Azzjoni tal-buttuna tal-Toolbar",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Ikkopja Tabs Kollha bħala Links",
+    "message": "It-Tabs kollha bħala Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ikkopja Tabs Kollha bħala URLs tat-Test",
+    "message": "It-Tabs kollha bħala URLs tat-Test",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ikkopja Tabs Magħżula bħala Links",
+    "message": "Tabs Magħżula bħala Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ikkopja Tabs Magħżula bħala URLs tat-Test",
+    "message": "Tabs Magħżula bħala URLs tat-Test",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ikkopja Din it-Tab bħala Test URL",
+    "message": "Din it-Tab bħala Test URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ikkopja Din it-Tab bħala Link",
+    "message": "Dan Tab bħala Link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "It-Tabs kollha bħala Links (Parametri tal-Istrixxa)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "It-Tabs kollha bħala URLs tat-Test (Parametri tal-Istrixxa)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Tabs Magħżula bħala Links (Parametri tal-Istrixxa)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Tabs Magħżula bħala URLs tat-Test (Parametri tal-Istrixxa)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Din it-Tab bħala URL tat-Test (Parametri tal-Istrixxa)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Din it-Tab bħala Link (Parametri tal-Istrixxa)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Invoka azzjonijiet permezz tal-menu tal-kuntest tat-tab",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Invoka azzjonijiet permezz tal-menu tal-kuntest tal-buttuna tal-bar tal-għodda",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Assenja shortcuts għall-azzjonijiet",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Aħbi jew iċċaqlaq il-buttuna tal-għodda",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Uri notifiki (ara Permessi)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

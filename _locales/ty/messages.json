@@ -7,28 +7,80 @@
     "message": "A nene'i i te mau tapa'o ei mau tapa'o e aore râ, ei mau parau papa'i",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Te ohipa no te pitopito Toolbar",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "A tapo'i i te mau tapa'o atoa ei hono",
+    "message": "Te mau tapao atoa ei mau taairaa",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "A tapiti i te mau tapa'o atoa ei mau parau papa'i",
+    "message": "Te mau tapa'o atoa ei mau parau papa'i",
     "description": ""
   },
   "cpysellnk": {
-    "message": "A rave i te mau tapa'o i ma'itihia ei hono",
+    "message": "Te mau tapa'o i ma'itihia ei hono",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "A nene'i i te mau tapa'o i ma'itihia ei mau tapa'o faahoro parau",
+    "message": "Ma'itihia ei mau tapa'o faahoro parau",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "A papa'i i teie tapa'o ei URL papa'iraa",
+    "message": "Teie tapa'o ei URL papa'iraa",
     "description": ""
   },
   "cpytablnk": {
-    "message": "A tapo'i i teie tapa'o ei hono",
+    "message": "E tu'ati te reira i te",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Te mau tapa'o atoa ei hono (te mau api parau)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Te mau tapa'o atoa mai te mau URLs (Te mau parau papa'i)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Te mau tapa'o i ma'itihia ei hono (Te mau parau opaniraa)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Te mau tapa'o i ma'itihia ei mau tapa'o faahoro parau (Te mau parau papa'i)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Teie tapa'o mai te hoê URL (Te mau parau papa'i)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Teie tapao ei tuatiraa (Te mau paratenia)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "A tapa'o i te mau ohipa i ni'a i te tabula ohipa",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "A faaara i te mau ohipa na roto i te pitopito o te pitopito toolbar",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Horo'a i te mau mana'o no te mau ohipa",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Huna e aore râ a faanuu i te pitopito toolbar",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Faaite i te mau faaararaa (a hi'o Te mau parau faati'a)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

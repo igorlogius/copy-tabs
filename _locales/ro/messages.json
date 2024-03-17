@@ -7,28 +7,80 @@
     "message": "Copiați filele ca hyperlinkuri sau URL-uri text",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Acțiunea butonului din bara de instrumente",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Copiați toate filele ca linkuri",
+    "message": "Toate filele ca linkuri",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copiați toate filele ca URL-uri text",
+    "message": "Toate filele ca URL-uri text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Copiați filele selectate ca linkuri",
+    "message": "Filele selectate ca linkuri",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Copiați filele selectate ca URL-uri text",
+    "message": "Filele selectate ca URL-uri text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Copiați această filă ca URL text",
+    "message": "Această filă ca adresă URL text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Copiați această filă ca link",
+    "message": "Această filă ca link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Toate filele ca legături (Parametrii benzii)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Toate filele ca URL-uri text (Parametri de bandă)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Filele selectate ca legături (Parametrii benzii)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Filele selectate ca URL-uri de text (Parametri de bandă)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Această filă ca adresă URL text (Parametrii de bandă)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Această filă ca legătură (Parametrii benzii)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Invocați acțiuni prin meniul contextual al filei",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Invocați acțiuni prin meniul contextual al butonului din bara de instrumente",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Atribuiți comenzi rapide pentru acțiuni",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Ascundeți sau mutați butonul din bara de instrumente",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Afișați notificări (consultați Permisiuni)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

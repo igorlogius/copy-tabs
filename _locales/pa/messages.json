@@ -7,28 +7,80 @@
     "message": "ਟੈਬਾਂ ਨੂੰ ਹਾਈਪਰਲਿੰਕਸ ਜਾਂ ਟੈਕਸਟ URL ਦੇ ਰੂਪ ਵਿੱਚ ਕਾਪੀ ਕਰੋ",
     "description": ""
   },
+  "labelseltba": {
+    "message": "ਟੂਲਬਾਰ ਬਟਨ ਕਾਰਵਾਈ",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਲਿੰਕ ਵਜੋਂ ਕਾਪੀ ਕਰੋ",
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ 'ਤੇ ਸਾਰੀਆਂ ਟੈਬਾਂ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ URL ਵਜੋਂ ਕਾਪੀ ਕਰੋ",
+    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ URL ਵਜੋਂ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ ਨੂੰ ਲਿੰਕ ਵਜੋਂ ਕਾਪੀ ਕਰੋ",
+    "message": "ਲਿੰਕਾਂ ਵਜੋਂ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ URL ਦੇ ਤੌਰ 'ਤੇ ਕਾਪੀ ਕਰੋ",
+    "message": "ਟੈਕਸਟ URL ਦੇ ਤੌਰ 'ਤੇ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ਇਸ ਟੈਬ ਨੂੰ ਟੈਕਸਟ URL ਵਜੋਂ ਕਾਪੀ ਕਰੋ",
+    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ URL ਵਜੋਂ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ਇਸ ਟੈਬ ਨੂੰ ਲਿੰਕ ਵਜੋਂ ਕਾਪੀ ਕਰੋ",
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ 'ਤੇ ਇਹ ਟੈਬ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ 'ਤੇ ਸਾਰੀਆਂ ਟੈਬਾਂ (ਸਟ੍ਰਿਪ ਪੈਰਾਮੀਟਰ)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ URL ਦੇ ਰੂਪ ਵਿੱਚ (ਸਟ੍ਰਿਪ ਪੈਰਾਮੀਟਰ)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "ਲਿੰਕਾਂ ਵਜੋਂ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ (ਸਟ੍ਰਿਪ ਪੈਰਾਮੀਟਰ)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "ਟੈਕਸਟ URL (ਸਟ੍ਰਿਪ ਪੈਰਾਮੀਟਰ) ਵਜੋਂ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ URL ਦੇ ਰੂਪ ਵਿੱਚ (ਸਟ੍ਰਿਪ ਪੈਰਾਮੀਟਰ)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "ਲਿੰਕ ਵਜੋਂ ਇਹ ਟੈਬ (ਸਟ੍ਰਿਪ ਪੈਰਾਮੀਟਰ)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "ਟੈਬ ਸੰਦਰਭ ਮੀਨੂ ਰਾਹੀਂ ਕਾਰਵਾਈਆਂ ਨੂੰ ਬੁਲਾਓ",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "ਟੂਲਬਾਰ ਬਟਨ ਸੰਦਰਭ ਮੀਨੂ ਰਾਹੀਂ ਕਾਰਵਾਈਆਂ ਦੀ ਮੰਗ ਕਰੋ",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "ਕਾਰਵਾਈਆਂ ਲਈ ਸ਼ਾਰਟਕੱਟ ਨਿਰਧਾਰਤ ਕਰੋ",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "ਟੂਲਬਾਰ ਬਟਨ ਨੂੰ ਲੁਕਾਓ ਜਾਂ ਮੂਵ ਕਰੋ",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "ਸੂਚਨਾਵਾਂ ਦਿਖਾਓ (ਇਜਾਜ਼ਤਾਂ ਦੇਖੋ)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

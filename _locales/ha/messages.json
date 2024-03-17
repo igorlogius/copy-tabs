@@ -7,28 +7,80 @@
     "message": "Kwafi Shafuka azaman hanyoyin haɗin kai ko URLs na rubutu",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Ayyukan maɓallin Toolbar",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kwafi Duk Shafukan azaman hanyoyin haɗi",
+    "message": "Duk Shafukan azaman hanyoyin haɗin gwiwa",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kwafi Duk Shafukan azaman URLs Rubutu",
+    "message": "Duk Shafuka azaman URLs Rubutu",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kwafi Shafukan da aka zaɓa azaman Haɗi",
+    "message": "Shafukan da aka zaɓa azaman Haɗin kai",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kwafi Shafukan da aka zaɓa azaman URLs Rubutu",
+    "message": "Shafukan da aka zaɓa azaman URLs Rubutu",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kwafi Wannan Shafi azaman URL ɗin Rubutu",
+    "message": "Wannan Tab a matsayin URL Rubutu",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kwafi Wannan Tab ɗin azaman hanyar haɗi",
+    "message": "Wannan Tab a matsayin Link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Duk Shafukan a matsayin Haɗaɗɗiya (Tsarin Sirri)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Duk Shafuka azaman URLs Rubutu (Ma'auni)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Shafukan da aka zaɓa a matsayin Haɗaɗɗiya (Tsarin Sirri)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Shafukan da aka zaɓa azaman URLs Rubutu (Ma'auni)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Wannan Tab a matsayin URL Rubutu (Tsarin Sirri)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Wannan Tab a matsayin Link (Strip Parameters)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Kira ayyuka ta hanyar menu na mahallin shafin",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Kira ayyuka ta hanyar menu na mahallin maɓallin kayan aiki",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Sanya gajerun hanyoyi don ayyuka",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Boye ko matsar da maɓallin kayan aiki",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Nuna sanarwa (duba Izini)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

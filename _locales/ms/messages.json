@@ -7,28 +7,80 @@
     "message": "Salin Tab sebagai hiperpautan atau URL teks",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Tindakan butang bar alat",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Salin Semua Tab sebagai Pautan",
+    "message": "Semua Tab sebagai Pautan",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Salin Semua Tab sebagai URL Teks",
+    "message": "Semua Tab sebagai URL Teks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Salin Tab yang Dipilih sebagai Pautan",
+    "message": "Tab yang Dipilih sebagai Pautan",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Salin Tab yang Dipilih sebagai URL Teks",
+    "message": "Tab yang Dipilih sebagai URL Teks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Salin Tab Ini sebagai URL Teks",
+    "message": "Tab ini sebagai URL Teks",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Salin Tab Ini sebagai Pautan",
+    "message": "Tab ini sebagai Pautan",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Semua Tab sebagai Pautan (Parameter Jalur)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Semua Tab sebagai URL Teks (Parameter Jalur)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Tab yang Dipilih sebagai Pautan (Parameter Jalur)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Tab yang Dipilih sebagai URL Teks (Parameter Jalur)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Tab Ini sebagai URL Teks (Parameter Jalur)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Tab Ini sebagai Pautan (Parameter Jalur)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Ajak tindakan melalui menu konteks tab",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Ajak tindakan melalui menu konteks butang bar alat",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Tetapkan pintasan untuk tindakan",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Sembunyikan atau alihkan butang bar alat",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Tunjukkan pemberitahuan (lihat Kebenaran)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

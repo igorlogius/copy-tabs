@@ -17,28 +17,28 @@
   },
   "commands": {
     "cpyalllnk": {
-      "description": "__MSG_cpyalllnk__",
-      "suggested_key": {
-        "default": "F1"
-      }
+      "description": "__MSG_cpyalllnk__"
+    },
+    "cpyalllnknp": {
+      "description": "__MSG_cpyalllnknp__"
     },
     "cpyalltxt": {
-      "description": "__MSG_cpyalltxt__",
-      "suggested_key": {
-        "default": "F2"
-      }
+      "description": "__MSG_cpyalltxt__"
+    },
+    "cpyalltxtnp": {
+      "description": "__MSG_cpyalltxtnp__"
     },
     "cpysellnk": {
-      "description": "__MSG_cpysellnk__",
-      "suggested_key": {
-        "default": "F3"
-      }
+      "description": "__MSG_cpysellnk__"
+    },
+    "cpysellnknp": {
+      "description": "__MSG_cpysellnknp__"
     },
     "cpyseltxt": {
-      "description": "__MSG_cpyseltxt__",
-      "suggested_key": {
-        "default": "F4"
-      }
+      "description": "__MSG_cpyseltxt__"
+    },
+    "cpyseltxtnp": {
+      "description": "__MSG_cpyseltxtnp__"
     }
   },
   "icons": {
@@ -50,12 +50,7 @@
   "options_ui": {
     "page": "options.html"
   },
-  "permissions": [
-    "notifications",
-    "clipboardWrite",
-    "storage",
-    "menus",
-    "tabs"
-  ],
-  "version": "1.13.41"
+  "permissions": ["clipboardWrite", "storage", "menus", "tabs"],
+  "optional_permissions": ["notifications"],
+  "version": "1.14.41"
 }

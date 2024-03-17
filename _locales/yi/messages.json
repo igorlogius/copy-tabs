@@ -7,28 +7,80 @@
     "message": " ס URL טסקעט רעדאָ סקגנילרעפּייכ יוו סבאַט ןכאַמכאָנ",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Toolbar ףמאַק לפּענק",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": " סקניל יוו סבאַט עלאַ יפּאָק",
+    "message": " סקניל יוו סבאַט עלאַ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ס URL טסקעט יוו סבאַט עלאַ ןכאַמכאָנ",
+    "message": " ס URL טסקעט יוו סבאַט עלאַ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " סקניל יוו סבאַט דעטקעלעס יפּאָק",
+    "message": " סקניל יוו סבאַט ןבילקעגסיוא",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ס URL טסקעט יוו סבאַט דעטקעלעס יפּאָק",
+    "message": " ס URL טסקעט יוו סבאַט ןבילקעגסיוא",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " URL טסקעט יוו באַט םעד יפּאָק",
+    "message": " URL טסקעט יוו באַט םעד",
     "description": ""
   },
   "cpytablnk": {
-    "message": " קניל יוו לטיווק םעד יפּאָק",
+    "message": " קניל יוו לטיווק םעד",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": " (סרעטעמאַראַפּ פּירטס) סקניל יוו סבאַט עלאַ",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": " (סרעטעמאַראַפּ פּירטס) ס URL טסקעט יוו סבאַט עלאַ",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": " (סרעטעמאַראַפּ פּירטס) סקניל יוו סבאַט ןבילקעגסיוא",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": " (סרעטעמאַראַפּ פּירטס) ס URL טסקעט יוו סבאַט ןבילקעגסיוא",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": " (סרעטעמאַראַפּ פּירטס) URL טסקעט יוו לטיווק םעד",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": " (סרעטעמאַראַפּ פּירטס) קניל יוו לטיווק םעד",
+    "description": ""
+  },
+  "hint_1": {
+    "message": " וינעמ טסקעטנאָק לטיווק יד ךרוד זנאַשקאַ ןפור",
+    "description": ""
+  },
+  "hint_2": {
+    "message": " לפּענק רישכמ יד ןופ וינעמ טסקעטנאָק יד ךרוד זנאַשקאַ ןפור",
+    "description": ""
+  },
+  "hint_3": {
+    "message": " זנאַשקאַ ראַפֿ ץאַקטראָש ןעמיטשאַב",
+    "description": ""
+  },
+  "hint_4": {
+    "message": " לפּענק רישכמ יד ךאַמ רעדאָ ןטלאַהאַב",
+    "description": ""
+  },
+  "hint_5": {
+    "message": " (זנאַשימרעפּ ןעז) זנאַשייקאַפאַטואָנ ןזיַיוו",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

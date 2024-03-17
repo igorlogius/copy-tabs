@@ -7,28 +7,80 @@
     "message": "ಟ್ಯಾಬ್u200cಗಳನ್ನು ಹೈಪರ್u200cಲಿಂಕ್u200cಗಳು ಅಥವಾ ಪಠ್ಯ URL ಗಳಾಗಿ ನಕಲಿಸಿ",
     "description": ""
   },
+  "labelseltba": {
+    "message": "ಟೂಲ್u200cಬಾರ್ ಬಟನ್ ಕ್ರಿಯೆ",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳನ್ನು ಲಿಂಕ್u200cಗಳಾಗಿ ನಕಲಿಸಿ",
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್u200cಗಳಾಗಿ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳನ್ನು ಪಠ್ಯ URL ಗಳಂತೆ ನಕಲಿಸಿ",
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಪಠ್ಯ URL ಗಳಂತೆ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ಆಯ್ದ ಟ್ಯಾಬ್u200cಗಳನ್ನು ಲಿಂಕ್u200cಗಳಾಗಿ ನಕಲಿಸಿ",
+    "message": "ಟ್ಯಾಬ್u200cಗಳನ್ನು ಲಿಂಕ್u200cಗಳಾಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ಆಯ್ದ ಟ್ಯಾಬ್u200cಗಳನ್ನು ಪಠ್ಯ URL ಗಳಾಗಿ ನಕಲಿಸಿ",
+    "message": "ಟ್ಯಾಬ್u200cಗಳನ್ನು ಪಠ್ಯ URL ಗಳಾಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ಈ ಟ್ಯಾಬ್ ಅನ್ನು ಪಠ್ಯ URL ನಂತೆ ನಕಲಿಸಿ",
+    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯ URL ನಂತೆ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ಈ ಟ್ಯಾಬ್ ಅನ್ನು ಲಿಂಕ್ ಆಗಿ ನಕಲಿಸಿ",
+    "message": "ಈ ಟ್ಯಾಬ್ ಲಿಂಕ್ ಆಗಿ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್u200cಗಳಾಗಿ (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಪಠ್ಯ URL ಗಳಂತೆ (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "ಲಿಂಕ್u200cಗಳಾಗಿ ಆಯ್ಕೆಮಾಡಲಾದ ಟ್ಯಾಬ್u200cಗಳು (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "ಟ್ಯಾಬ್u200cಗಳನ್ನು ಪಠ್ಯ URL ಗಳಾಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯ URL (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "ಈ ಟ್ಯಾಬ್ ಲಿಂಕ್ ಆಗಿ (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "ಟ್ಯಾಬ್ ಸಂದರ್ಭ ಮೆನು ಮೂಲಕ ಕ್ರಿಯೆಗಳನ್ನು ಆಹ್ವಾನಿಸಿ",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "ಟೂಲ್u200cಬಾರ್ ಬಟನ್ ಸಂದರ್ಭ ಮೆನು ಮೂಲಕ ಕ್ರಿಯೆಗಳನ್ನು ಆಹ್ವಾನಿಸಿ",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "ಕ್ರಿಯೆಗಳಿಗೆ ಶಾರ್ಟ್u200cಕಟ್u200cಗಳನ್ನು ನಿಯೋಜಿಸಿ",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "ಟೂಲ್u200cಬಾರ್ ಬಟನ್ ಅನ್ನು ಮರೆಮಾಡಿ ಅಥವಾ ಸರಿಸಿ",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "ಅಧಿಸೂಚನೆಗಳನ್ನು ತೋರಿಸಿ (ಅನುಮತಿಗಳನ್ನು ನೋಡಿ)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

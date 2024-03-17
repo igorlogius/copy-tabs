@@ -7,28 +7,80 @@
     "message": " טסקט תובותכ וא םירושיק-רפיהכ תויסיטרכ קתעה",
     "description": ""
   },
+  "labelseltba": {
+    "message": " םילכה לגרסב רותפכ תלועפ",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": " םירושיקכ תויסיטרכה לכ תא קתעה",
+    "message": " םירושיקכ תויסיטרכה לכ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " טסקט לש םירתא תובותככ תויסיטרכה לכ תא קתעה",
+    "message": " טסקט לש םירתא תובותככ תויסיטרכה לכ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " םירושיקכ תורחבנ תויסיטרכ קתעה",
+    "message": " םירושיקכ ורחבנש תויסיטרכ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " טסקט לש םירתא תובותככ תורחבנ תויסיטרכ קתעה",
+    "message": " טסקט לש םירתא תובותככ ורחבנש תויסיטרכ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " טסקט לש URL תבותככ וז הייסיטרכ קתעה",
+    "message": " טסקט תבותככ וז הייסיטרכ",
     "description": ""
   },
   "cpytablnk": {
-    "message": " רושיקכ וז הייסיטרכ קתעה",
+    "message": " רושיקכ וז הייסיטרכ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": " (העוצר ירטמרפ) םירושיקכ תויסיטרכה לכ",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": " (העוצר לש םירטמרפ) טסקט לש םירתא תובותככ תויסיטרכה לכ",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": " (העוצר ירטמרפ) םירושיקכ ורחבנש תויסיטרכ",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": " (העוצר ירטמרפ) טסקט לש םירתא תובותככ ורחבנש תויסיטרכ",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": " (העוצר לש םירטמרפ) טסקט לש URL תבותככ וז הייסיטרכ",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": " (העוצר ירטמרפ) רושיקכ וז הייסיטרכ",
+    "description": ""
+  },
+  "hint_1": {
+    "message": " הייסיטרכה לש רשקהה טירפת ךרד תולועפ לעפה",
+    "description": ""
+  },
+  "hint_2": {
+    "message": " םילכה לגרס ןצחל לש רשקהה טירפת ךרד תולועפ לעפה",
+    "description": ""
+  },
+  "hint_3": {
+    "message": " תולועפל ךרד ירוציק הצקה",
+    "description": ""
+  },
+  "hint_4": {
+    "message": " םילכה לגרס ןצחל תא זזה וא רתסה",
+    "description": ""
+  },
+  "hint_5": {
+    "message": " (תואשרה האר) תוארתה גצה",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

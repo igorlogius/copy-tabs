@@ -7,6 +7,10 @@
     "message": "",
     "description": ""
   },
+  "labelseltba": {
+    "message": "",
+    "description": ""
+  },
   "cpyalllnk": {
     "message": "",
     "description": ""
@@ -28,6 +32,54 @@
     "description": ""
   },
   "cpytablnk": {
+    "message": "",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "",
+    "description": ""
+  },
+  "hint_6": {
     "message": "",
     "description": ""
   }

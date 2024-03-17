@@ -7,28 +7,80 @@
     "message": "Yorliqlarni giperhavolalar yoki matn URL manzillari sifatida nusxalash",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Asboblar paneli tugmasi harakati",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Barcha yorliqlarni havola sifatida nusxalash",
+    "message": "Barcha varaqlar havola sifatida",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Barcha yorliqlarni matn URL manzili sifatida nusxalash",
+    "message": "Barcha tablar matn URL manzillari sifatida",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tanlangan yorliqlarni havola sifatida nusxalash",
+    "message": "Havola sifatida tanlangan tablar",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tanlangan yorliqlarni matn URL manzili sifatida nusxalash",
+    "message": "Matn URL manzillari sifatida tanlangan yorliqlar",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ushbu varaqni matnning URL manzili sifatida nusxalash",
+    "message": "Ushbu yorliq matn URL manzili sifatida",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ushbu varaqni havola sifatida nusxalash",
+    "message": "Ushbu varaq havola sifatida",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Barcha yorliqlar havola sifatida (chiziq parametrlari)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Barcha yorliqlar matnli URL manzillari (chiziq parametrlari)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Tanlangan yorliqlar havola sifatida (chiziq parametrlari)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Matn URL manzillari sifatida tanlangan yorliqlar (tasma parametrlari)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Ushbu yorliq matnli URL sifatida (Strip parametrlari)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Ushbu yorliq havola sifatida (chiziq parametrlari)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Yorliq kontekst menyusi orqali amallarni chaqiring",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Asboblar paneli tugmasi kontekst menyusi orqali amallarni chaqirish",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Harakatlar uchun yorliqlarni belgilang",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Asboblar paneli tugmachasini yashiring yoki harakatlantiring",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Bildirishnomalarni ko'rsatish (ruxsatlarga qarang)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

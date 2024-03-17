@@ -7,28 +7,80 @@
     "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﯽﻨﺘﻣ URL ﺎﯾ ﮏﻨﯿﻟ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ",
     "description": ""
   },
+  "labelseltba": {
+    "message": " ﺭﺍﺰﺑﺍ ﺭﺍﻮﻧ ﻪﻤﮐﺩ ﺩﺮﮑﻠﻤﻋ",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
+    "message": " ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
+    "message": " ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯼﺎﻫ ﻪﮔﺮﺑ",
+    "message": " ﺩﺮﮐ ﺏﺎﺨﺘﻧﺍ ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯼﺎﻫ ﻪﮔﺮﺑ",
+    "message": " ﺩﺮﮐ ﺏﺎﺨﺘﻧﺍ ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﻪﮔﺮﺑ ﻦﯾﺍ",
+    "message": " ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺐﺗ ﻦﯾﺍ",
     "description": ""
   },
   "cpytablnk": {
-    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﻪﮔﺮﺑ ﻦﯾﺍ",
+    "message": " ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": " (ﺭﺍﻮﻧ ﯼﺎﻫﺮﺘﻣﺍﺭﺎﭘ) ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": " (ﯼﺭﺍﻮﻧ ﯼﺎﻫﺮﺘﻣﺍﺭﺎﭘ) ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": " (ﺭﺍﻮﻧ ﯼﺎﻫﺮﺘﻣﺍﺭﺎﭘ) ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯼﺎﻫ ﻪﮔﺮﺑ",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": " (ﺭﺍﻮﻧ ﯼﺎﻫﺮﺘﻣﺍﺭﺎﭘ) ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯼﺎﻫ ﻪﮔﺮﺑ",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": " (ﺭﺍﻮﻧ ﯼﺎﻫﺮﺘﻣﺍﺭﺎﭘ) ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": " (ﺭﺍﻮﻧ ﯼﺎﻫﺮﺘﻣﺍﺭﺎﭘ) ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ",
+    "description": ""
+  },
+  "hint_1": {
+    "message": " ﺪﯿﻨﮐ ﯽﻧﺍﻮﺧﺍﺮﻓ ﻪﮔﺮﺑ ﻪﻨﯿﻣﺯ ﯼﻮﻨﻣ ﻖﯾﺮﻃ ﺯﺍ ﺍﺭ ﺕﺎﻣﺍﺪﻗﺍ",
+    "description": ""
+  },
+  "hint_2": {
+    "message": " ﺪﯿﻨﮐ ﯽﻧﺍﻮﺧﺍﺮﻓ ﺭﺍﺰﺑﺍ ﺭﺍﻮﻧ ﻪﻤﮐﺩ ﻪﻨﯿﻣﺯ ﯼﻮﻨﻣ ﻖﯾﺮﻃ ﺯﺍ ﺍﺭ ﻝﺎﻤﻋﺍ",
+    "description": ""
+  },
+  "hint_3": {
+    "message": " ﺪﯿﻫﺩ ﺹﺎﺼﺘﺧﺍ ﺕﺎﻣﺍﺪﻗﺍ ﯼﺍﺮﺑ ﺍﺭ ﯽﯾﺎﻫﺮﺒﻧﺎﯿﻣ",
+    "description": ""
+  },
+  "hint_4": {
+    "message": " ﺪﯿﻫﺩ ﺖﮐﺮﺣ ﺎﯾ ﻥﺎﻬﻨﭘ ﺍﺭ ﺭﺍﺰﺑﺍ ﺭﺍﻮﻧ ﻪﻤﮐﺩ",
+    "description": ""
+  },
+  "hint_5": {
+    "message": " (ﺪﯿﻨﮐ ﻪﻌﺟﺍﺮﻣ ﺎﻫﺯﻮﺠﻣ ﻪﺑ) ﺎﻫu200cﻥﻼ﻿ﻋﺍ ﺶﯾﺎﻤﻧ",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

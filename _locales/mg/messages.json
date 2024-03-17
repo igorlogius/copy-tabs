@@ -7,28 +7,80 @@
     "message": "Adikao ho toy ny rohibe na URL lahatsoratra ny Tabs",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Hetsika bokotra bokotra",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Adikao ho Rohy ny tabilao rehetra",
+    "message": "Ny tabilao rehetra ho rohy",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Adikao ho URL lahatsoratra ny kiheba rehetra",
+    "message": "Ny kiheba rehetra ho URL an-tsoratra",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Adikao ho Rohy ny tabilao voafantina",
+    "message": "Tabilao voafantina ho Rohy",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Adikao ho URL lahatsoratra ny tabilao voafantina",
+    "message": "Kiheba voafantina ho URL lahatsoratra",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Adikao ho URL lahatsoratra ity kiheba ity",
+    "message": "Ity kiheba ity ho URL lahatsoratra",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Adikao ho Rohy ity tabilao ity",
+    "message": "Ity Tab ity ho Rohy",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Ny kiheba rehetra toy ny rohy (Parametera Strip)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Ny kiheba rehetra ho URL an-tsoratra (Paramètres strip)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Kiheba voafantina ho Rohy (Paramètres Strip)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Kiheba voafantina ho URL an-tsoratra (Paramètres Strip)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Ity kiheba ity ho URL an-tsoratra (Paramètres strip)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Ity Kiheba ity ho Rohy (Paramètres Strip)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Mangataha hetsika amin'ny alàlan'ny menu contexte tab",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Antsoy ny hetsika amin'ny alàlan'ny menio contexte buttonbar",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Manendry hitsin-dàlana ho an'ny hetsika",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Afeno na afindrao ny bokotra fitaovana",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Asehoy ny fampahafantarana (jereo ny Fahazoan-dalana)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

@@ -7,28 +7,80 @@
     "message": "Табуудыг гипер холбоос эсвэл текст URL хэлбэрээр хуулна уу",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Хэрэгслийн самбарын товчлуурын үйлдэл",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Бүх табыг холбоос болгон хуулах",
+    "message": "Бүх табыг холбоос хэлбэрээр",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Бүх табыг текстийн URL хэлбэрээр хуулна уу",
+    "message": "Бүх табуудыг текстийн URL хэлбэрээр",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Сонгосон табуудыг холбоос болгон хуулах",
+    "message": "Сонгосон табуудыг холбоос болгон",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Сонгосон табуудыг текст URL болгон хуулах",
+    "message": "Сонгосон табуудыг текстийн URL хэлбэрээр",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Энэ табыг текст URL болгон хуулна уу",
+    "message": "Энэ табыг Текст URL хэлбэрээр",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Энэ табыг холбоос болгон хуулна уу",
+    "message": "Энэ табыг холбоос хэлбэрээр",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Бүх цонхыг холбоос хэлбэрээр (туузны параметрүүд)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Бүх цонхыг текстийн URL хэлбэрээр (зурган параметр)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Сонгосон табуудыг холбоос хэлбэрээр (туузны параметрүүд)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Текстийн URL хэлбэрээр сонгогдсон цонхнууд (Туузны параметрүүд)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Энэ табыг текстийн URL хэлбэрээр (Trip параметрүүд)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Энэ табыг холбоос хэлбэрээр (туузны параметрүүд)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Табын контекст цэсээр дамжуулан үйлдлүүдийг дуудах",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Хэрэгслийн товчлуурын контекст цэсээр үйлдлүүдийг дуудах",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Үйлдлийн товчлолыг зааж өгөх",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Хэрэгслийн самбарын товчлуурыг нуух эсвэл зөөх",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Мэдэгдэл харуулах (Зөвшөөрлийг үзнэ үү)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

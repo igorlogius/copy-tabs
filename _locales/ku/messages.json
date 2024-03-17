@@ -7,28 +7,80 @@
     "message": "Tabên wekî hyperlînkan an URLên nivîsê kopî bikin",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Çalakiya bişkojka toolbar",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Hemî Tabloyan wekî Girêdan kopî bikin",
+    "message": "Hemî Tabî wekî Girêdan",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Hemî tabloyan wekî URLên nivîsê kopî bikin",
+    "message": "Hemî tabloyên wekî URLên nivîsê",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tabên Hilbijartî wekî Girêdan kopî bikin",
+    "message": "Tabên Hilbijartî wekî Girêdan",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabên Hilbijartî wekî URLên Nivîsar Kopî bikin",
+    "message": "Tabên Hilbijartî wekî URLên Nivîsar",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Vê Tabloyê wekî URLya Nivîsê kopî bikin",
+    "message": "Ev tablo wekî URL-a nivîsê",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Vê Tabê wekî Girêdan Kopî bikin",
+    "message": "Ev Tab wekî Girêdan",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Hemî Tabloyên wekî Girêdan (Parametreyên xêzkirinê)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Hemî tabloyên wekî URLên nivîsê (Parametreyên xêzkirinê)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Tabloyên Hilbijartî wekî Girêdan (Parametreyên xêzkirinê)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Tabloyên Hilbijartî wekî URLên Nivîsar (Parametreyên Rêzikê)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Ev tablo wekî URL-ya nivîsê (Parametreyên xêzkirinê)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Ev tabela wekî Girêdan (Parametreyên xêzkirinê)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Bi navgîniya menuya çarçoweya tabê ve çalakiyan bişopînin",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Bi rêya menuya çarçovê ya bişkojka toolbarê çalakiyan bang bikin",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Ji bo çalakiyan kurtebiran destnîşan bikin",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Bişkojka toolbarê veşêre an bihejîne",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Agahdariyê nîşan bide (Binêre Destûr)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

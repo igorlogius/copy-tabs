@@ -7,28 +7,80 @@
     "message": "Copy Tabs as hyperlinks or text URLs",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Toolbar button action",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Copy All Tabs as Links",
+    "message": "All Tabs as Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copy All Tabs as Text URLs",
+    "message": "All Tabs as Text URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Copy Selected Tabs as Links",
+    "message": "Selected Tabs as Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Copy Selected Tabs as Text URLs",
+    "message": "Selected Tabs as Text URLs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Copy This Tab as Text URL",
+    "message": "This Tab as Text URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Copy This Tab as Link",
+    "message": "This Tab as Link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "All Tabs as Links (Strip Parameters)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "All Tabs as Text URLs (Strip Parameters)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Selected Tabs as Links (Strip Parameters)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Selected Tabs as Text URLs (Strip Parameters)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "This Tab as Text URL (Strip Parameters)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "This Tab as Link (Strip Parameters)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Invoke actions via the tab context menu",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Invoke actions via the toolbar button context menu",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Assign shortcuts for actions",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Hide or move the toolbar button",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Show notifications (see Permissions)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

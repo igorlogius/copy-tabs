@@ -7,28 +7,80 @@
     "message": "Nakili Vichupo kama viungo au URL za maandishi",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Kitendo cha kitufe cha upau wa vidhibiti",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Nakili Vichupo Vyote kama Viungo",
+    "message": "Vichupo Vyote kama Viungo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Nakili Vichupo Vyote kama URL za Maandishi",
+    "message": "Vichupo vyote kama URL za Maandishi",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Nakili Vichupo Vilivyochaguliwa kama Viungo",
+    "message": "Vichupo Vilivyochaguliwa kama Viungo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Nakili Vichupo Vilivyochaguliwa kama URL za Maandishi",
+    "message": "Vichupo Vilivyochaguliwa kama URL za Maandishi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Nakili Kichupo Hiki kama URL ya Maandishi",
+    "message": "Kichupo hiki kama URL ya Maandishi",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Nakili Kichupo Hiki kama Kiungo",
+    "message": "Kichupo hiki kama Kiungo",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Vichupo Vyote kama Viungo (Vigezo vya Ukanda)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Vichupo vyote kama URL za Maandishi (Vigezo vya Ukanda)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Vichupo Vilivyochaguliwa kama Viungo (Vigezo vya Ukanda)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Vichupo Vilivyochaguliwa kama URL za Maandishi (Vigezo vya Ukanda)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Kichupo hiki kama URL ya Maandishi (Vigezo vya Ukanda)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Kichupo hiki kama Kiungo (Vigezo vya Ukanda)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Omba vitendo kupitia menyu ya muktadha wa kichupo",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Omba vitendo kupitia menyu ya muktadha ya kitufe cha upau wa vidhibiti",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Weka njia za mkato za vitendo",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Ficha au sogeza kitufe cha upau wa vidhibiti",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Onyesha arifa (angalia Ruhusa)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

@@ -7,28 +7,80 @@
     "message": "ສຳເນົາແຖບເປັນ hyperlinks ຫຼື URL ຂໍ້ຄວາມ",
     "description": ""
   },
+  "labelseltba": {
+    "message": "ຄຳສັ່ງປຸ່ມແຖບເຄື່ອງມື",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "ສຳເນົາແຖບທັງໝົດເປັນລິ້ງ",
+    "message": "ແຖບທັງໝົດເປັນລິ້ງ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ສຳເນົາແຖບທັງໝົດເປັນ URL ຂໍ້ຄວາມ",
+    "message": "ແຖບທັງໝົດເປັນ URL ຂໍ້ຄວາມ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ສຳເນົາແຖບທີ່ເລືອກເປັນລິ້ງ",
+    "message": "ເລືອກແຖບເປັນລິ້ງ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ສຳເນົາແຖບທີ່ເລືອກເປັນ URL ຂໍ້ຄວາມ",
+    "message": "ແຖບທີ່ເລືອກເປັນ URL ຂໍ້ຄວາມ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ສຳເນົາແຖບນີ້ເປັນ URL ຂໍ້ຄວາມ",
+    "message": "ແຖບນີ້ເປັນ URL ຂໍ້ຄວາມ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ສຳເນົາແຖບນີ້ເປັນລິ້ງ",
+    "message": "ແຖບນີ້ເປັນລິ້ງ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "ແຖບທັງໝົດເປັນຕົວເຊື່ອມຕໍ່ (ຕົວກໍານົດການແຖບ)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "ແຖບທັງໝົດເປັນ URL ຂໍ້ຄວາມ (ຕົວກໍານົດການແຖບ)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "ແຖບທີ່ເລືອກເປັນລິ້ງ (ຕົວກໍານົດການແຖບ)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "ແຖບທີ່ເລືອກເປັນ URL ຂໍ້ຄວາມ (ຕົວກໍານົດການແຖບ)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "ແຖບນີ້ເປັນ URL ຂໍ້ຄວາມ (ຕົວກໍານົດການແຖບ)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "ແຖບນີ້ເປັນລິ້ງ (ພາຣາມິເຕີແຖບ)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "ຮຽກຮ້ອງການດໍາເນີນການໂດຍຜ່ານເມນູສະພາບຂອງແຖບ",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "ຮຽກຮ້ອງການດໍາເນີນການໂດຍຜ່ານເມນູສະພາບການປຸ່ມແຖບເຄື່ອງມື",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "ກໍານົດທາງລັດສໍາລັບການປະຕິບັດ",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "ເຊື່ອງ ຫຼືຍ້າຍປຸ່ມແຖບເຄື່ອງມື",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "ສະແດງການແຈ້ງເຕືອນ (ເບິ່ງການອະນຸຍາດ)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

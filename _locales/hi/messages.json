@@ -7,28 +7,80 @@
     "message": "टैब को हाइपरलिंक या टेक्स्ट यूआरएल के रूप में कॉपी करें",
     "description": ""
   },
+  "labelseltba": {
+    "message": "टूलबार बटन क्रिया",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "सभी टैब को लिंक के रूप में कॉपी करें",
+    "message": "सभी टैब लिंक के रूप में",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "सभी टैब को टेक्स्ट यूआरएल के रूप में कॉपी करें",
+    "message": "सभी टैब टेक्स्ट यूआरएल के रूप में",
     "description": ""
   },
   "cpysellnk": {
-    "message": "चयनित टैब को लिंक के रूप में कॉपी करें",
+    "message": "लिंक के रूप में चयनित टैब",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "चयनित टैब को टेक्स्ट यूआरएल के रूप में कॉपी करें",
+    "message": "टेक्स्ट यूआरएल के रूप में चयनित टैब",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "इस टैब को टेक्स्ट यूआरएल के रूप में कॉपी करें",
+    "message": "यह टैब टेक्स्ट यूआरएल के रूप में है",
     "description": ""
   },
   "cpytablnk": {
-    "message": "इस टैब को लिंक के रूप में कॉपी करें",
+    "message": "यह टैब लिंक के रूप में है",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "सभी टैब लिंक के रूप में (स्ट्रिप पैरामीटर्स)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "टेक्स्ट यूआरएल के रूप में सभी टैब (स्ट्रिप पैरामीटर्स)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "लिंक के रूप में चयनित टैब (स्ट्रिप पैरामीटर्स)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "टेक्स्ट यूआरएल के रूप में चयनित टैब (स्ट्रिप पैरामीटर्स)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "यह टैब टेक्स्ट यूआरएल (स्ट्रिप पैरामीटर्स) के रूप में",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "यह टैब लिंक के रूप में (स्ट्रिप पैरामीटर्स)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "टैब संदर्भ मेनू के माध्यम से क्रियाएँ प्रारंभ करें",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "टूलबार बटन संदर्भ मेनू के माध्यम से क्रियाएँ प्रारंभ करें",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "कार्यों के लिए शॉर्टकट निर्दिष्ट करें",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "टूलबार बटन को छिपाएँ या स्थानांतरित करें",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "सूचनाएं दिखाएं (अनुमतियाँ देखें)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

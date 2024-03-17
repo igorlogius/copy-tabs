@@ -4,31 +4,83 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopisha Amathebhu njengezixhumanisi noma ama-URL ombhalo",
+    "message": "Kopisha Amathebhu njengezixhumanisi noma ama-URL wombhalo",
+    "description": ""
+  },
+  "labelseltba": {
+    "message": "Isenzo senkinobho yebha yamathuluzi",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kopisha Wonke Amathebhu Njengezixhumanisi",
+    "message": "Wonke Amathebhu Njengezixhumanisi",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopisha Wonke Amathebhu njengama-URL Ombhalo",
+    "message": "Wonke Amathebhu njengama-URL wombhalo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopisha Amathebhu Akhethiwe Njengezixhumanisi",
+    "message": "Amathebhu Akhethiwe Njengezixhumanisi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopisha Amathebhu Akhethiwe Njengama-URL Ombhalo",
+    "message": "Amathebhu Akhethiwe Njengama-URL Ombhalo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopisha Le Thebhu njenge-URL yombhalo",
+    "message": "Le Thebhu njenge-URL yombhalo",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopisha Le Thebhu njengesixhumanisi",
+    "message": "Le Thebhu njengesixhumanisi",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Wonke Amathebhu Njengezixhumanisi (Amapharamitha we-Strip)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Wonke Amathebhu Njengama-URL Ombhalo (Amapharamitha e-Strip)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Amathebhu Akhethiwe Njengezixhumanisi (Amapharamitha e-Strip)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Amathebhu Akhethiwe Njengama-URL Ombhalo (Strip Parameters)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Le Thebhu njenge-URL yombhalo (Amapharamitha e-Strip)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Le Thebhu Njengesixhumanisi (Amapharamitha we-Strip)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Cela izenzo ngemenyu yokuqukethwe kwethebhu",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Cela izenzo ngemenyu yokuqukethwe yenkinobho yebha yamathuluzi",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Nikeza izinqamuleli zezenzo",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Fihla noma hambisa inkinobho yebha yamathuluzi",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Bonisa izaziso (bona Izimvume)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

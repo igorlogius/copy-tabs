@@ -7,28 +7,80 @@
     "message": "Kopirajte zavihke kot hiperpovezave ali besedilne URL-je",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Dejanje gumba orodne vrstice",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopiraj vse zavihke kot povezave",
+    "message": "Vsi zavihki kot povezave",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopiraj vse zavihke kot besedilne URL-je",
+    "message": "Vsi zavihki kot besedilni URL-ji",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopiraj izbrane zavihke kot povezave",
+    "message": "Izbrani zavihki kot povezave",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopiraj izbrane zavihke kot besedilne URL-je",
+    "message": "Izbrani zavihki kot besedilni URL-ji",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopiraj ta zavihek kot besedilni URL",
+    "message": "Ta zavihek kot besedilni URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopiraj ta zavihek kot povezavo",
+    "message": "Ta zavihek kot povezava",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Vsi zavihki kot povezave (parametri traku)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Vsi zavihki kot besedilni URL-ji (parametri traku)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Izbrani zavihki kot povezave (parametri traku)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Izbrani zavihki kot besedilni URL-ji (parametri traku)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Ta zavihek kot URL besedila (parametri traku)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Ta zavihek kot povezava (parametri traku)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Prikličite dejanja prek kontekstnega menija zavihka",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Prikličite dejanja prek kontekstnega menija gumba orodne vrstice",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Določite bližnjice za dejanja",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Skrij ali premakni gumb orodne vrstice",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Prikaži obvestila (glejte Dovoljenja)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

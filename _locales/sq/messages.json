@@ -7,28 +7,80 @@
     "message": "Kopjoni skedat si hiperlidhje ose URL teksti",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Veprimi i butonit të shiritit të veglave",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopjoni të gjitha skedat si lidhje",
+    "message": "Të gjitha skedat si lidhje",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopjoni të gjitha skedat si URL teksti",
+    "message": "Të gjitha skedat si URL teksti",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopjoni skedat e zgjedhura si lidhje",
+    "message": "Skedat e zgjedhura si lidhje",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopjoni skedat e zgjedhura si URL teksti",
+    "message": "Skedat e zgjedhura si URL teksti",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopjo këtë skedë si URL teksti",
+    "message": "Kjo skedë si URL e tekstit",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopjo këtë skedë si lidhje",
+    "message": "Kjo skedë si lidhje",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Të gjitha skedat si lidhje (Parametrat e shiritit)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Të gjitha skedat si URL teksti (Parametrat e shiritit)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Skedat e zgjedhura si lidhje (Parametrat e shiritit)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Skedat e zgjedhura si URL teksti (Parametrat e shiritit)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Kjo skedë si URL e tekstit (Parametrat e shiritit)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Kjo skedë si lidhje (Parametrat e shiritit)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Thirrni veprimet përmes menysë së kontekstit të skedës",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Kërkoni veprime nëpërmjet menysë së kontekstit të butonit të shiritit të veglave",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Cakto shkurtore për veprimet",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Fshih ose lëviz butonin e shiritit të veglave",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Shfaq njoftimet (shiko Lejet)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

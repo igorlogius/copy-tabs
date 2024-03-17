@@ -7,28 +7,80 @@
     "message": "ትሮችን እንደ hyperlinks ወይም የጽሑፍ URLs ቅዳ",
     "description": ""
   },
+  "labelseltba": {
+    "message": "የመሳሪያ አሞሌ አዝራር እርምጃ",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "ሁሉንም ትሮች እንደ አገናኞች ይቅዱ",
+    "message": "ሁሉም ትሮች እንደ አገናኞች",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ሁሉንም ትሮች እንደ የጽሑፍ ዩአርኤሎች ይቅዱ",
+    "message": "ሁሉም ትሮች እንደ የጽሑፍ ዩአርኤሎች",
     "description": ""
   },
   "cpysellnk": {
-    "message": "የተመረጡ ትሮችን እንደ አገናኞች ይቅዱ",
+    "message": "የተመረጡ ትሮች እንደ አገናኞች",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "የተመረጡ ትሮችን እንደ የጽሑፍ ዩአርኤሎች ቅዳ",
+    "message": "የተመረጡ ትሮች እንደ የጽሑፍ URLs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ይህንን ትር እንደ የጽሑፍ URL ቅዳ",
+    "message": "ይህ ትር እንደ የጽሑፍ URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ይህንን ትር እንደ አገናኝ ይቅዱ",
+    "message": "ይህ ትር እንደ አገናኝ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "ሁሉም ትሮች እንደ አገናኞች (የጭረት መለኪያዎች)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "ሁሉም ትሮች እንደ የጽሑፍ ዩአርኤሎች (የጭረት መለኪያዎች)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "የተመረጡ ትሮች እንደ አገናኞች (የጭረት መለኪያዎች)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "የተመረጡ ትሮች እንደ የጽሑፍ ዩአርኤሎች (የዝርፊያ መለኪያዎች)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "ይህ ትር እንደ የጽሑፍ ዩአርኤል (የጭረት መለኪያዎች)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "ይህ ትር እንደ አገናኝ (የግጭት መለኪያዎች)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "በትር አውድ ሜኑ በኩል እርምጃዎችን ጥራ",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "በመሳሪያ አሞሌ አዝራር አውድ ምናሌ በኩል እርምጃዎችን ጥራ",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "ለድርጊቶች አቋራጮችን መድብ",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "የመሳሪያ አሞሌውን ደብቅ ወይም አንቀሳቅስ",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "ማሳወቂያዎችን አሳይ (ፍቃዶችን ይመልከቱ)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

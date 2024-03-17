@@ -7,28 +7,80 @@
     "message": "हायपरलिंक्स किंवा मजकूर URL म्हणून टॅब कॉपी करा",
     "description": ""
   },
+  "labelseltba": {
+    "message": "टूलबार बटण क्रिया",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "सर्व टॅब लिंक्स म्हणून कॉपी करा",
+    "message": "दुवे म्हणून सर्व टॅब",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "सर्व टॅब मजकूर URL म्हणून कॉपी करा",
+    "message": "सर्व टॅब मजकूर URL म्हणून",
     "description": ""
   },
   "cpysellnk": {
-    "message": "निवडलेले टॅब दुवे म्हणून कॉपी करा",
+    "message": "दुवे म्हणून टॅब निवडले",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "निवडलेले टॅब मजकूर URL म्हणून कॉपी करा",
+    "message": "मजकूर URL म्हणून टॅब निवडले",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "हा टॅब मजकूर URL म्हणून कॉपी करा",
+    "message": "हा टॅब मजकूर URL म्हणून",
     "description": ""
   },
   "cpytablnk": {
-    "message": "हा टॅब लिंक म्हणून कॉपी करा",
+    "message": "लिंक म्हणून हा टॅब",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "लिंक्स म्हणून सर्व टॅब (स्ट्रिप पॅरामीटर्स)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "मजकूर URL म्हणून सर्व टॅब (स्ट्रिप पॅरामीटर्स)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "दुवे म्हणून निवडलेले टॅब (स्ट्रिप पॅरामीटर्स)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "मजकूर URL (स्ट्रिप पॅरामीटर्स) म्हणून निवडलेले टॅब",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "हा टॅब मजकूर URL (स्ट्रिप पॅरामीटर्स) म्हणून",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "लिंक म्हणून हा टॅब (स्ट्रिप पॅरामीटर्स)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "टॅब संदर्भ मेनूद्वारे क्रियांची विनंती करा",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "टूलबार बटण संदर्भ मेनूद्वारे क्रियांची विनंती करा",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "क्रियांसाठी शॉर्टकट नियुक्त करा",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "टूलबार बटण लपवा किंवा हलवा",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "सूचना दाखवा (परवानग्या पहा)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

@@ -7,28 +7,80 @@
     "message": "ટૅબ્સને હાયપરલિંક્સ અથવા ટેક્સ્ટ URL તરીકે કૉપિ કરો",
     "description": ""
   },
+  "labelseltba": {
+    "message": "ટૂલબાર બટન ક્રિયા",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "બધા ટૅબ્સને લિંક્સ તરીકે કૉપિ કરો",
+    "message": "લિંક્સ તરીકે તમામ ટૅબ્સ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "બધા ટૅબ્સને ટેક્સ્ટ URL તરીકે કૉપિ કરો",
+    "message": "બધા ટૅબ્સ ટેક્સ્ટ URL તરીકે",
     "description": ""
   },
   "cpysellnk": {
-    "message": "પસંદ કરેલ ટૅબ્સને લિંક્સ તરીકે કૉપિ કરો",
+    "message": "લિંક્સ તરીકે પસંદ કરેલ ટૅબ્સ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "પસંદ કરેલ ટૅબ્સને ટેક્સ્ટ URL તરીકે કૉપિ કરો",
+    "message": "ટેક્સ્ટ URL તરીકે પસંદ કરેલ ટૅબ્સ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "આ ટૅબને ટેક્સ્ટ URL તરીકે કૉપિ કરો",
+    "message": "આ ટેબ ટેક્સ્ટ URL તરીકે",
     "description": ""
   },
   "cpytablnk": {
-    "message": "આ ટૅબને લિંક તરીકે કૉપિ કરો",
+    "message": "લિંક તરીકે આ ટેબ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "લિંક્સ તરીકે તમામ ટૅબ્સ (સ્ટ્રીપ પેરામીટર્સ)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "બધા ટૅબ્સ ટેક્સ્ટ URL તરીકે (સ્ટ્રીપ પેરામીટર્સ)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "લિંક્સ તરીકે પસંદ કરેલ ટૅબ્સ (સ્ટ્રીપ પરિમાણો)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "ટેક્સ્ટ URL તરીકે પસંદ કરેલ ટૅબ્સ (સ્ટ્રીપ પેરામીટર્સ)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "આ ટેબ ટેક્સ્ટ URL તરીકે (સ્ટ્રીપ પેરામીટર્સ)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "લિંક તરીકે આ ટૅબ (સ્ટ્રીપ પરિમાણો)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "ટેબ સંદર્ભ મેનૂ દ્વારા ક્રિયાઓ માટે આમંત્રિત કરો",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "ટૂલબાર બટન સંદર્ભ મેનૂ દ્વારા ક્રિયાઓ આમંત્રિત કરો",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "ક્રિયાઓ માટે શૉર્ટકટ્સ સોંપો",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "ટૂલબાર બટન છુપાવો અથવા ખસેડો",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "સૂચનાઓ બતાવો (પરવાનગીઓ જુઓ)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

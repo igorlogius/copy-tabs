@@ -7,28 +7,80 @@
     "message": "Khuphela ii-Tabs njengehyperlink okanye ii-URL zombhalo",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Intshukumo yeqhosha lebar yesixhobo",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Khuphela Zonke iiTabhu njengeekhonkco",
+    "message": "Zonke iiTab njengeekhonkco",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Khuphela Zonke iiTabhu njengee-URL ezibhaliweyo",
+    "message": "Zonke iiTabhu njengee-URL zokubhaliweyo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Khuphela iiTabhu ezikhethiweyo njengoQhagamshelwano",
+    "message": "IiTabhu ezikhethiweyo njengoQhagamshelwano",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Khuphela iiTabhu eziKhethiweyo njengee-URL ezibhaliweyo",
+    "message": "Ii-Tab ezikhethiweyo njengee-URL zokubhaliweyo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Khuphela Le Tabhu njenge-URL yokubhaliweyo",
+    "message": "Le Tabhu njenge-URL yokubhaliweyo",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Khuphela le Thebhu njengekhonkco",
+    "message": "Le Tabhu njengekhonkco",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Zonke iiTabhu njengoQhagamshelwano (Iiparamitha zeStrip)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Zonke iiTab njengee-URL ezibhaliweyo (Iiparamitha zeStrip)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "IiTabhu ezikhethiweyo njengoQhagamshelwano (Iiparamitha zeStrip)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "IiTabhu ezikhethiweyo njengee-URL zokubhaliweyo (Iiparamitha zeStrip)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Le Tabhu njenge-URL yokubhaliweyo (Iiparamitha zomcu)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Le Tabhu njengeNxulumano (Iiparamitha zomcu)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Biza iintshukumo usebenzisa ithebhu yemenu yentsingiselo",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Biza iintshukumo usebenzisa imenyu yentsingiselo yebar yesixhobo",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Yabela iindlela ezimfutshane kwizenzo",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Fihla okanye uhambise iqhosha lebar yesixhobo",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Bonisa izaziso (bona iiMvume)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

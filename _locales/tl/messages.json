@@ -7,28 +7,80 @@
     "message": "Kopyahin ang Mga Tab bilang mga hyperlink o text URL",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Aksyon ng button ng toolbar",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopyahin ang Lahat ng Tab bilang Mga Link",
+    "message": "Lahat ng Tab bilang Mga Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopyahin ang Lahat ng Tab bilang Text URL",
+    "message": "Lahat ng Tab bilang Text URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopyahin ang Mga Piniling Tab bilang Mga Link",
+    "message": "Mga Piniling Tab bilang Mga Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopyahin ang Mga Napiling Tab bilang Text URL",
+    "message": "Mga Piniling Tab bilang Mga Tekstong URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopyahin ang Tab na Ito bilang Text URL",
+    "message": "Ang Tab na ito bilang Text URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopyahin ang Tab na Ito bilang Link",
+    "message": "Ang Tab na ito bilang Link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Lahat ng Tab bilang Mga Link (Strip Parameter)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Lahat ng Tab bilang Text URL (Strip Parameters)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Mga Piniling Tab bilang Mga Link (Mga Parameter ng Strip)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Mga Piniling Tab bilang Mga URL ng Teksto (Mga Parameter ng Strip)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Ang Tab na ito bilang Text URL (Strip Parameters)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Ang Tab na ito bilang Link (Mga Parameter ng Strip)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Mag-invoke ng mga aksyon sa pamamagitan ng menu ng konteksto ng tab",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Mag-invoke ng mga aksyon sa pamamagitan ng menu ng konteksto ng button ng toolbar",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Magtalaga ng mga shortcut para sa mga aksyon",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Itago o ilipat ang pindutan ng toolbar",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Ipakita ang mga notification (tingnan ang Mga Pahintulot)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

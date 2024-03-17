@@ -10,12 +10,27 @@ while read line;do
 
 	name=$(trans -brief -from en -to "$line" "Copy Tabs")
 	desc=$(trans -brief -from en -to $line "Copy Tabs as hyperlinks or text URLs")
-	cpytablnk=$(trans -brief -from en -to $line "Copy This Tab as Link")
-	cpytabtxt=$(trans -brief -from en -to $line "Copy This Tab as Text URL")
-	cpyalllnk=$(trans -brief -from en -to $line "Copy All Tabs as Links")
-	cpyalltxt=$(trans -brief -from en -to $line "Copy All Tabs as Text URLs")
-	cpysellnk=$(trans -brief -from en -to $line "Copy Selected Tabs as Links")
-	cpyseltxt=$(trans -brief -from en -to $line "Copy Selected Tabs as Text URLs")
+	cpytablnk=$(trans -brief -from en -to $line "This Tab as Link")
+	cpytabtxt=$(trans -brief -from en -to $line "This Tab as Text URL")
+	cpyalllnk=$(trans -brief -from en -to $line "All Tabs as Links")
+	cpyalltxt=$(trans -brief -from en -to $line "All Tabs as Text URLs")
+	cpysellnk=$(trans -brief -from en -to $line "Selected Tabs as Links")
+	cpyseltxt=$(trans -brief -from en -to $line "Selected Tabs as Text URLs")
+
+	cpytablnknp=$(trans -brief -from en -to $line "This Tab as Link (Strip Parameters)")
+	cpytabtxtnp=$(trans -brief -from en -to $line "This Tab as Text URL (Strip Parameters)")
+	cpyalllnknp=$(trans -brief -from en -to $line "All Tabs as Links (Strip Parameters)")
+	cpyalltxtnp=$(trans -brief -from en -to $line "All Tabs as Text URLs (Strip Parameters)")
+	cpysellnknp=$(trans -brief -from en -to $line "Selected Tabs as Links (Strip Parameters)")
+	cpyseltxtnp=$(trans -brief -from en -to $line "Selected Tabs as Text URLs (Strip Parameters)")
+
+	labelseltba=$(trans -brief -from en -to $line "Toolbar button action")
+
+	hint_1=$(trans -brief -from en -to $line "Invoke actions via the tab context menu")
+	hint_2=$(trans -brief -from en -to $line "Invoke actions via the toolbar button context menu")
+	hint_3=$(trans -brief -from en -to $line "Assign shortcuts for actions")
+	hint_4=$(trans -brief -from en -to $line "Hide or move the toolbar button")
+	hint_5=$(trans -brief -from en -to $line "Show notifications (see Permissions)")
 
 	JSON=$(cat << EOI
 
@@ -24,9 +39,12 @@ while read line;do
     "message": "$name",
     "description": ""
   },
-
   "addonDesc": {
     "message": "$desc",
+    "description": ""
+  },
+  "labelseltba": {
+    "message": "$labelseltba",
     "description": ""
   },
   "cpyalllnk": {
@@ -51,6 +69,54 @@ while read line;do
   },
   "cpytablnk": {
     "message": "$cpytablnk",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "$cpyalllnknp",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "$cpyalltxtnp",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "$cpysellnknp",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "$cpyseltxtnp",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "$cpytabtxtnp",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "$cpytablnknp",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "$hint_1",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "$hint_2",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "$hint_3",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "$hint_4",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "$hint_5",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "$hint_6",
     "description": ""
   }
 }

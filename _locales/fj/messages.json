@@ -7,28 +7,80 @@
     "message": "Lavetaka na Bulukau me hyperlinks se text URL",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Cakacaka ni bulukau ni iyaya ni cakacaka",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Lavetaka na iVakatakilakila Taucoko me iSema",
+    "message": "iVakatakilakila Taucoko me iSema",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Lavetaka Taucoko na iVakatakilakila ni iTukutuku",
+    "message": "Bulukau Taucoko me URL ni Itukutuku",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Lavetaka na Bulukau Digitaki me iSema",
+    "message": "Bulukau Digitaki me iSema",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Lavetaka na Bulukau Digitaki me URL ni iTukutuku",
+    "message": "Bulukau Digitaki me URL ni Text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Lavetaka na iVakatakilakila Oqo me URL ni iTukutuku",
+    "message": "Na Bulukau oqo me URL ni text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Lavetaka na iVakatakilakila Oqo me iSema",
+    "message": "iVakatakilakila Oqo me iSema",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "iVakatakilakila Taucoko me iSema (Strip Parameters)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Bulukau Taucoko me URL ni itukutuku (Strip Parameters)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Bulukau Digitaki me iSema (Strip Parameters)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Bulukau Digitaki me URL ni iTukutuku (Strip Parameters)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Na Bulukau oqo me URL ni iTukutuku (iTuvatuva Ni iTuvatuva Lalai)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Na Bulukau oqo me iSema (Strip Parameters)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Kaciva na cakacaka ena menu ni itukutuku ni bulukau",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Cavuta na cakacaka ena bulukau ni bulukau ni iyaya ni cakacaka",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Lesia na sala lekaleka me baleta na cakacaka",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Vunitaka se tosoya na bulukau ni iyaya ni cakacaka",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Vakaraitaka na notisi (raica na Veivakadonui)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

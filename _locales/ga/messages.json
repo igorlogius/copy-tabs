@@ -7,28 +7,80 @@
     "message": "Cóipeáil Cluaisíní mar hipearnasc nó URLanna téacs",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Gníomh cnaipe an bharra uirlisí",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Cóipeáil Gach Cluaisín mar Naisc",
+    "message": "Gach Cluaisín mar Naisc",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Cóipeáil Gach Cluaisín mar URLanna Téacs",
+    "message": "Gach Cluaisín mar URLanna Téacs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Cóipeáil Cluaisíní Roghnaithe mar Naisc",
+    "message": "Cluaisíní Roghnaithe mar Naisc",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Cóipeáil Cluaisíní Roghnaithe mar URLanna Téacs",
+    "message": "Cluaisíní Roghnaithe mar URLanna Téacs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Cóipeáil an Cluaisín seo mar URL Téacs",
+    "message": "An Cluaisín seo mar URL Téacs",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Cóipeáil an Cluaisín seo mar Nasc",
+    "message": "An Cluaisín seo mar Nasc",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Gach Cluaisín mar Nasc (Paraiméadair Stráice)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Gach Cluaisín mar URLanna Téacs (Paraiméadair Stráice)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Cluaisíní Roghnaithe mar Naisc (Paraiméadair Stráice)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Cluaisíní Roghnaithe mar URLanna Téacs (Paraiméadair Stráice)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "An Cluaisín seo mar URL Téacs (Paraiméadair Stráice)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "An Cluaisín seo mar Nasc (Paraiméadair Stráice)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Gníomhartha a agairt tríd an roghchlár comhthéacs cluaisíní",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Gníomhartha a agairt tríd an roghchlár comhthéacs cnaipe an bharra uirlisí",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Sann aicearraí le haghaidh gníomhartha",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Folaigh nó bog an cnaipe barra uirlisí",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Taispeáin fógraí (féach Ceadanna)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

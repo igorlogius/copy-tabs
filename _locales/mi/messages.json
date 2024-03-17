@@ -7,28 +7,80 @@
     "message": "Tārua Ripa hei honongaitua, hei URL kuputuhi ranei",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Mahi pātene paeutauta",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Tāruahia nga Ripa Katoa hei Hononga",
+    "message": "Ripa Katoa hei Hononga",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tāruahia nga Ripa Katoa hei URL Kuputuhi",
+    "message": "Ripa Katoa hei URL Kuputuhi",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tāruahia nga Ripa kua tohua hei Hononga",
+    "message": "Ripa kua tohua hei Hononga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tāruahia nga Ripa kua tohua hei URL Kuputuhi",
+    "message": "Ripa kua tohua hei URL Kuputuhi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tāruatia tēnei Ripa hei URL Kuputuhi",
+    "message": "Tenei Ripa hei URL Kuputuhi",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tāruatia tēnei Ripa hei Hononga",
+    "message": "Tenei Ripa hei Hononga",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Ripa Katoa hei Hononga (Tawhā Waahi)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Nga Ripa Katoa hei URL Kuputuhi (Tawhā Waea)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Ripa kua tīpakohia hei Hononga (Tawhā Waahi)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Ko nga Ripa kua tohua hei URL Kuputuhi (Tawhā Waahi)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Ko tenei Ripa hei URL Kuputuhi (Tawhā Waahi)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Ko tenei Ripa hei Hononga (Tawhā Waahi)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Tonoa nga hohenga ma te tahua horopaki ripa",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Tonoa nga hohenga ma te tahua horopaki paatene paeutauta",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Whakaritea nga pokatata mo nga mahi",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Huna, nukuhia ranei te paatene paeutauta",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Whakaatuhia nga whakamohiotanga (tirohia nga Whakaaetanga)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

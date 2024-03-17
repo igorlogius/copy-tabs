@@ -7,28 +7,80 @@
     "message": "Kopieer tabbladen als hyperlinks of tekst-URL's",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Werkbalkknopactie",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopieer alle tabbladen als koppelingen",
+    "message": "Alle tabbladen als koppelingen",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopieer alle tabbladen als tekst-URL's",
+    "message": "Alle tabbladen als tekst-URL's",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopieer geselecteerde tabbladen als koppelingen",
+    "message": "Geselecteerde tabbladen als koppelingen",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopieer geselecteerde tabbladen als tekst-URL's",
+    "message": "Geselecteerde tabbladen als tekst-URL's",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopieer dit tabblad als tekst-URL",
+    "message": "Dit tabblad als tekst-URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopieer dit tabblad als link",
+    "message": "Dit tabblad als link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Alle tabbladen als koppelingen (Strip-parameters)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Alle tabbladen als tekst-URL's (Strip-parameters)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Geselecteerde tabbladen als koppelingen (Strip-parameters)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Geselecteerde tabbladen als tekst-URL's (stripparameters)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Dit tabblad als tekst-URL (stripparameters)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Dit tabblad als link (Stripparameters)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Roep acties op via het contextmenu van het tabblad",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Roep acties op via het contextmenu van de werkbalkknop",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Wijs snelkoppelingen toe voor acties",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Verberg of verplaats de werkbalkknop",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Meldingen tonen (zie Machtigingen)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

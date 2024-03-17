@@ -7,28 +7,80 @@
     "message": "Kopeerige vahelehed hüperlinkide või teksti URL-ina",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Tööriistariba nupu toiming",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopeerige kõik vahelehed linkidena",
+    "message": "Kõik vahekaardid linkidena",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopeerige kõik vahelehed teksti URL-ina",
+    "message": "Kõik vahelehed teksti URL-ina",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopeerige valitud vahelehed linkidena",
+    "message": "Valitud vahekaardid linkidena",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopeerige valitud vahelehed teksti URL-ina",
+    "message": "Teksti URL-idena valitud vahelehed",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopeerige see vahekaart teksti URL-ina",
+    "message": "See vahekaart teksti URL-ina",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopeerige see vahekaart lingina",
+    "message": "See vahekaart lingina",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Kõik vahelehed linkidena (ribade parameetrid)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Kõik vahelehed teksti URL-ina (ribade parameetrid)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Valitud vahelehed linkidena (ribade parameetrid)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Teksti URL-ina valitud vahelehed (ribade parameetrid)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "See vahekaart teksti URL-ina (riba parameetrid)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "See vahekaart lingina (riba parameetrid)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Käivitage toiminguid vahekaardi kontekstimenüü kaudu",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Käivitage toiminguid tööriistariba nupu kontekstimenüü kaudu",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Määrake toimingute jaoks otseteed",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Peida või liiguta tööriistariba nupp",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Kuva märguanded (vt Load)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

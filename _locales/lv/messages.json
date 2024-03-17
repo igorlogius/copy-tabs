@@ -7,28 +7,80 @@
     "message": "Kopējiet cilnes kā hipersaites vai teksta URL",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Rīkjoslas pogas darbība",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopējiet visas cilnes kā saites",
+    "message": "Visas cilnes kā saites",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopējiet visas cilnes kā teksta URL",
+    "message": "Visas cilnes kā teksta URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopējiet atlasītās cilnes kā saites",
+    "message": "Atlasītas cilnes kā saites",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopējiet atlasītās cilnes kā teksta URL",
+    "message": "Atlasītas cilnes kā teksta URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopējiet šo cilni kā teksta URL",
+    "message": "Šī cilne kā teksta URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopējiet šo cilni kā saiti",
+    "message": "Šī cilne kā saite",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Visas cilnes kā saites (joslas parametri)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Visas cilnes kā teksta URL (joslas parametri)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Atlasītās cilnes kā saites (joslas parametri)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Atlasītās cilnes kā teksta URL (joslas parametri)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Šī cilne kā teksta URL (joslas parametri)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Šī cilne kā saite (joslas parametri)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Izsaukt darbības, izmantojot cilnes kontekstizvēlni",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Izsaukt darbības, izmantojot rīkjoslas pogas kontekstizvēlni",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Piešķiriet darbībām saīsnes",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Paslēpt vai pārvietot rīkjoslas pogu",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Rādīt paziņojumus (skatiet sadaļu Atļaujas)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

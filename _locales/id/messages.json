@@ -7,28 +7,80 @@
     "message": "Salin Tab sebagai hyperlink atau URL teks",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Tindakan tombol bilah alat",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Salin Semua Tab sebagai Tautan",
+    "message": "Semua Tab sebagai Tautan",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Salin Semua Tab sebagai URL Teks",
+    "message": "Semua Tab sebagai URL Teks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Salin Tab yang Dipilih sebagai Tautan",
+    "message": "Tab yang Dipilih sebagai Tautan",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Salin Tab yang Dipilih sebagai URL Teks",
+    "message": "Tab yang Dipilih sebagai URL Teks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Salin Tab Ini sebagai URL Teks",
+    "message": "Tab ini sebagai URL Teks",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Salin Tab Ini sebagai Tautan",
+    "message": "Tab ini sebagai Tautan",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Semua Tab sebagai Tautan (Parameter Strip)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Semua Tab sebagai URL Teks (Parameter Strip)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Tab yang Dipilih sebagai Tautan (Parameter Strip)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Tab yang Dipilih sebagai URL Teks (Parameter Strip)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Tab ini sebagai URL Teks (Parameter Strip)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Tab ini sebagai Tautan (Parameter Strip)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Aktifkan tindakan melalui menu konteks tab",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Meminta tindakan melalui menu konteks tombol toolbar",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Tetapkan pintasan untuk tindakan",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Sembunyikan atau pindahkan tombol toolbar",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Tampilkan notifikasi (lihat Izin)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

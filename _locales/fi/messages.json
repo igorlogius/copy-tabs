@@ -7,28 +7,80 @@
     "message": "Kopioi välilehdet hyperlinkkeinä tai teksti-URL-osoitteina",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Työkalupalkin painiketoiminto",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopioi kaikki välilehdet linkkeinä",
+    "message": "Kaikki välilehdet linkkeinä",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopioi kaikki välilehdet teksti-URL-osoitteina",
+    "message": "Kaikki välilehdet teksti-URL-osoitteina",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopioi valitut välilehdet linkeiksi",
+    "message": "Valitut välilehdet linkeiksi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopioi valitut välilehdet teksti-URL-osoitteiksi",
+    "message": "Valitut välilehdet teksti-URL-osoitteiksi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopioi tämä välilehti teksti-URL-osoitteeksi",
+    "message": "Tämä välilehti teksti-URL-osoitteena",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopioi tämä välilehti linkiksi",
+    "message": "Tämä välilehti linkkinä",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Kaikki välilehdet linkkeinä (kaistaparametrit)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Kaikki välilehdet teksti-URL-osoitteina (kaistaparametrit)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Valitut välilehdet linkeiksi (kaistaparametrit)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Valitut välilehdet teksti-URL-osoitteiksi (kaistaparametrit)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Tämä välilehti teksti-URL-osoitteena (kaistaparametrit)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Tämä välilehti linkkinä (kaistan parametrit)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Kutsu toimintoja välilehden kontekstivalikon kautta",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Kutsu toimintoja työkalupalkin painikkeen kontekstivalikon kautta",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Määritä toimintojen pikakuvakkeet",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Piilota tai siirrä työkalupalkin painike",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Näytä ilmoitukset (katso Käyttöoikeudet)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

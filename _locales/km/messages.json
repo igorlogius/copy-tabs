@@ -7,28 +7,80 @@
     "message": "ចម្លងផ្ទាំងជាតំណខ្ពស់ ឬ URL អត្ថបទ",
     "description": ""
   },
+  "labelseltba": {
+    "message": "សកម្មភាពប៊ូតុងរបារឧបករណ៍",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "ចម្លងផ្ទាំងទាំងអស់ជាតំណភ្ជាប់",
+    "message": "ផ្ទាំងទាំងអស់ជាតំណភ្ជាប់",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ចម្លងផ្ទាំងទាំងអស់ជា URL អត្ថបទ",
+    "message": "ផ្ទាំងទាំងអស់ជា URL អត្ថបទ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ចម្លងផ្ទាំងដែលបានជ្រើសរើសជាតំណភ្ជាប់",
+    "message": "ផ្ទាំងដែលបានជ្រើសរើសជាតំណភ្ជាប់",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ចម្លងផ្ទាំងដែលបានជ្រើសរើសជា URL អត្ថបទ",
+    "message": "ផ្ទាំងដែលបានជ្រើសរើសជា URL អត្ថបទ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ចម្លងផ្ទាំងនេះជា URL អត្ថបទ",
+    "message": "ផ្ទាំងនេះជា URL អត្ថបទ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ចម្លងផ្ទាំងនេះជាតំណ",
+    "message": "ផ្ទាំងនេះជាតំណភ្ជាប់",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "ផ្ទាំងទាំងអស់ជាតំណភ្ជាប់ (ប៉ារ៉ាម៉ែត្រឆ្នូត)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "ផ្ទាំងទាំងអស់ជា URL អត្ថបទ (ប៉ារ៉ាម៉ែត្រឆ្នូត)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "ផ្ទាំងដែលបានជ្រើសរើសជាតំណភ្ជាប់ (ប៉ារ៉ាម៉ែត្រឆ្នូត)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "ផ្ទាំងដែលបានជ្រើសរើសជា URL អត្ថបទ (ប៉ារ៉ាម៉ែត្រឆ្នូត)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "ផ្ទាំងនេះជា URL អត្ថបទ (ប៉ារ៉ាម៉ែត្រឆ្នូត)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "ផ្ទាំងនេះជាតំណភ្ជាប់ (ប៉ារ៉ាម៉ែត្រឆ្នូត)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "ហៅសកម្មភាពតាមរយៈម៉ឺនុយបរិបទផ្ទាំង",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "ហៅសកម្មភាពតាមរយៈម៉ឺនុយបរិបទ ប៊ូតុងរបារឧបករណ៍",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "កំណត់ផ្លូវកាត់សម្រាប់សកម្មភាព",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "លាក់ឬផ្លាស់ទីប៊ូតុងរបារឧបករណ៍",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "បង្ហាញការជូនដំណឹង (សូមមើលការអនុញ្ញាត)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

@@ -7,28 +7,80 @@
     "message": "Copiar pestañas como hipervínculos o URL de texto",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Acción del botón de la barra de herramientas",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Copiar todas las pestañas como enlaces",
+    "message": "Todas las pestañas como enlaces",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copie todas las pestañas como URL de texto",
+    "message": "Todas las pestañas como URL de texto",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Copiar pestañas seleccionadas como enlaces",
+    "message": "Pestañas seleccionadas como enlaces",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Copiar pestañas seleccionadas como URL de texto",
+    "message": "Pestañas seleccionadas como URL de texto",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Copie esta pestaña como URL de texto",
+    "message": "Esta pestaña como URL de texto",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Copie esta pestaña como enlace",
+    "message": "Esta pestaña como enlace",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Todas las pestañas como enlaces (parámetros de eliminación)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Todas las pestañas como URL de texto (parámetros de eliminación)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Pestañas seleccionadas como enlaces (parámetros de eliminación)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Pestañas seleccionadas como URL de texto (parámetros de eliminación)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Esta pestaña como URL de texto (parámetros de eliminación)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Esta pestaña como enlace (parámetros de eliminación)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Invocar acciones a través del menú contextual de la pestaña",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Invocar acciones a través del menú contextual del botón de la barra de herramientas",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Asignar atajos para acciones",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Ocultar o mover el botón de la barra de herramientas",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Mostrar notificaciones (ver Permisos)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

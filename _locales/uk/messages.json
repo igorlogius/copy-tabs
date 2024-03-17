@@ -7,28 +7,80 @@
     "message": "Копіювати вкладки як гіперпосилання або текстові URL-адреси",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Дія кнопки панелі інструментів",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Копіювати всі вкладки як посилання",
+    "message": "Усі вкладки як посилання",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Копіювати всі вкладки як текстові URL-адреси",
+    "message": "Усі вкладки як текстові URL-адреси",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Копіювати вибрані вкладки як посилання",
+    "message": "Вибрані вкладки як посилання",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Копіювати вибрані вкладки як текстові URL-адреси",
+    "message": "Вибрані вкладки як текстові URL-адреси",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Копіювати цю вкладку як текстову URL-адресу",
+    "message": "Ця вкладка як текстова URL-адреса",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Копіювати цю вкладку як посилання",
+    "message": "Ця вкладка як посилання",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Усі вкладки як посилання (параметри смуги)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Усі вкладки як текстові URL-адреси (параметри смуги)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Вибрані вкладки як посилання (параметри смуги)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Вибрані вкладки як текстові URL-адреси (параметри смуги)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Ця вкладка як текстова URL-адреса (параметри смуги)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Ця вкладка як посилання (параметри стрічки)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Викликати дії через контекстне меню вкладки",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Викликати дії через контекстне меню кнопки панелі інструментів",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Призначте ярлики для дій",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Приховати або перемістити кнопку панелі інструментів",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Показати сповіщення (див. Дозволи)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

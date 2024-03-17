@@ -7,28 +7,80 @@
     "message": "Hiki tatau ʻa e ngaahi ʻuluʻitohi ʻi he hyperlinks pe text URLs",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Toolbar ngaue ki he button",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Hiki tatau ʻa e ngaahi ʻuluʻitohi kotoa ko ha ngaahi fehokotakiʻanga",
+    "message": "Ngaahi ʻuluʻitohi kotoa ko ha ngaahi fehokotakiʻanga",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Hiki tatau ʻa e ngaahi ʻuluʻitohi kotoa ko e text URLs",
+    "message": "Ngaahi ʻuluʻitohi kotoa ko e text URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Hiki tatau e ngaahi ʻuluʻitohi kuo fili ko ha fehokotakiʻanga",
+    "message": "Ngaahi ʻuluʻitohi kuo fili ko ha ngaahi fehokotakiʻanga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Hiki tatau e ngaahi ʻuluʻitohi kuo fili ko e text URLs",
+    "message": "Ngaahi ʻuluʻitohi kuo fili ko e text URLs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Hiki ha tatau ʻo e tab ko ʻeni ko e text URL",
+    "message": "Ko e tab ko ʻeni ko e text URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Hiki Ha Tatau ʻo e Tab ko ʻEní ko ha Fehokotakiʻanga",
+    "message": "Ko e tab ko ʻeni ko ha fehokotakiʻanga",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Ngaahi ʻuluʻitohi kotoa ko e ngaahi fehokotakiʻanga (fakangatangataʻ",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Ngaahi ʻuluʻitohi kotoa ko e text URLs (fakangatangataʻ",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Ngaahi ʻuluʻitohi kuo fili ko e ngaahi fehokotakiʻanga (fakangatangataʻ",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Ngaahi ʻuluʻitohi kuo fili ko e text URLs (fakangatangata)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Ko e tab ko ʻeni ko e text URL (fakangatangata)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Ko e tab ko ʻeni ko ha fehokotakiʻanga (fakangatangata)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Fai ha ngaahi ngaue ʻo fakafou ʻi he fakahokohoko ʻo e tab",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Fakaʻaongaʻi e ngaahi ngaue ʻo fakafou ʻi he toolbar button menu",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Vahe shortcuts ki he ngaahi ngaue",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Fufuuʻi pe ʻunuakiʻi ʻa e toolbar",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Fakaʻasi ʻa e fanongonongo (vakai ki he ngaahi fakangofua)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

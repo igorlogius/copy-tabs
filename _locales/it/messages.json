@@ -7,28 +7,80 @@
     "message": "Copia le schede come collegamenti ipertestuali o URL di testo",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Azione del pulsante della barra degli strumenti",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Copia tutte le schede come collegamenti",
+    "message": "Tutte le schede come collegamenti",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copia tutte le schede come URL di testo",
+    "message": "Tutte le schede come URL di testo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Copia le schede selezionate come collegamenti",
+    "message": "Schede selezionate come collegamenti",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Copia le schede selezionate come URL di testo",
+    "message": "Schede selezionate come URL di testo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Copia questa scheda come URL di testo",
+    "message": "Questa scheda come URL di testo",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Copia questa scheda come collegamento",
+    "message": "Questa scheda come collegamento",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Tutte le schede come collegamenti (parametri della striscia)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Tutte le schede come URL di testo (parametri della striscia)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Schede selezionate come collegamenti (parametri della striscia)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Schede selezionate come URL di testo (parametri della striscia)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Questa scheda come URL di testo (parametri della striscia)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Questa scheda come collegamento (parametri della striscia)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Richiamare azioni tramite il menu contestuale della scheda",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Richiama azioni tramite il menu contestuale del pulsante della barra degli strumenti",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Assegna scorciatoie per le azioni",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Nascondi o sposta il pulsante della barra degli strumenti",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Mostra notifiche (vedi Autorizzazioni)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

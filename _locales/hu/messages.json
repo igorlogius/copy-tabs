@@ -7,28 +7,80 @@
     "message": "Másolja a lapokat hiperhivatkozásként vagy szöveges URL-ként",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Eszköztár gomb művelet",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Másolja az összes lapot hivatkozásként",
+    "message": "Minden lap hivatkozásként",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Másolja az összes lapot szöveges URL-ként",
+    "message": "Minden lap szöveges URL-ként",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Másolja a kiválasztott lapokat hivatkozásként",
+    "message": "Kijelölt lapok hivatkozásként",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Másolja a kiválasztott lapokat szöveges URL-ként",
+    "message": "Szöveges URL-ként kiválasztott lapok",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Másolja ezt a lapot szöveges URL-ként",
+    "message": "Ez a lap szöveges URL-ként",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Másolja ezt a lapot hivatkozásként",
+    "message": "Ez a lap hivatkozásként",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Minden lap hivatkozásként (szalagparaméterek)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Minden lap szöveges URL-ként (szalagparaméterek)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Kijelölt lapok hivatkozásként (szalagparaméterek)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Kijelölt lapok szöveges URL-ként (szalagparaméterek)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Ez a lap szöveges URL-ként (szalagparaméterek)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Ez a lap hivatkozásként (szalagparaméterek)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Indítsa el a műveleteket a lap helyi menüjében",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Indítsa el a műveleteket az eszköztár gombjának helyi menüjében",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Parancsikonok hozzárendelése a műveletekhez",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Az eszköztár gombjának elrejtése vagy mozgatása",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Értesítések megjelenítése (lásd: Engedélyek)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

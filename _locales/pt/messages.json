@@ -7,28 +7,80 @@
     "message": "Copie guias como hiperlinks ou URLs de texto",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Ação do botão da barra de ferramentas",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Copie todas as guias como links",
+    "message": "Todas as guias como links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Copie todas as guias como URLs de texto",
+    "message": "Todas as guias como URLs de texto",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Copiar guias selecionadas como links",
+    "message": "Guias selecionadas como links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Copiar guias selecionadas como URLs de texto",
+    "message": "Guias selecionadas como URLs de texto",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Copie esta guia como URL de texto",
+    "message": "Esta guia como URL de texto",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Copie esta guia como link",
+    "message": "Esta guia como link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Todas as guias como links (parâmetros de faixa)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Todas as guias como URLs de texto (parâmetros de faixa)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Guias selecionadas como links (parâmetros de faixa)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Guias selecionadas como URLs de texto (parâmetros de faixa)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Esta guia como URL de texto (parâmetros de faixa)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Esta guia como link (parâmetros da faixa)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Invoque ações por meio do menu de contexto da guia",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Invoque ações por meio do menu de contexto do botão da barra de ferramentas",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Atribuir atalhos para ações",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Ocultar ou mover o botão da barra de ferramentas",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Mostrar notificações (consulte Permissões)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

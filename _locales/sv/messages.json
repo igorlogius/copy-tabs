@@ -7,28 +7,80 @@
     "message": "Kopiera flikar som hyperlänkar eller textwebbadresser",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Verktygsfältets knappåtgärd",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopiera alla flikar som länkar",
+    "message": "Alla flikar som länkar",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopiera alla flikar som textwebbadresser",
+    "message": "Alla flikar som textwebbadresser",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopiera markerade flikar som länkar",
+    "message": "Valda flikar som länkar",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopiera markerade flikar som textwebbadresser",
+    "message": "Valda flikar som textwebbadresser",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopiera den här fliken som text-URL",
+    "message": "Denna flik som text-URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopiera den här fliken som länk",
+    "message": "Denna flik som länk",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Alla flikar som länkar (Strip-parametrar)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Alla flikar som textwebbadresser (remsa parametrar)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Valda flikar som länkar (Strip-parametrar)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Valda flikar som textwebbadresser (Strip-parametrar)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Denna flik som text-URL (Strip-parametrar)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Denna flik som länk (Strip-parametrar)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Anropa åtgärder via flikens snabbmeny",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Anropa åtgärder via verktygsfältets snabbmeny",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Tilldela genvägar för åtgärder",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Dölj eller flytta verktygsfältsknappen",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Visa aviseringar (se Behörigheter)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

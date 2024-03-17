@@ -7,28 +7,80 @@
     "message": "ටැබ් අධි සබැඳි හෝ පෙළ URL ලෙස පිටපත් කරන්න",
     "description": ""
   },
+  "labelseltba": {
+    "message": "මෙවලම් තීරු බොත්තම් ක්u200dරියාව",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "සියලුම ටැබ් සබැඳි ලෙස පිටපත් කරන්න",
+    "message": "සියලුම ටැබ් සබැඳි ලෙස",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "සියලුම ටැබ් පෙළ URL ලෙස පිටපත් කරන්න",
+    "message": "සියලුම ටැබ් පෙළ URL ලෙස",
     "description": ""
   },
   "cpysellnk": {
-    "message": "තෝරාගත් ටැබ් සබැඳි ලෙස පිටපත් කරන්න",
+    "message": "සබැඳි ලෙස තෝරාගත් ටැබ්",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "තෝරාගත් ටැබ් පෙළ URL ලෙස පිටපත් කරන්න",
+    "message": "පෙළ URL ලෙස තෝරාගත් ටැබ්",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "මෙම ටැබය පෙළ URL ලෙස පිටපත් කරන්න",
+    "message": "මෙම ටැබය පෙළ URL ලෙස",
     "description": ""
   },
   "cpytablnk": {
-    "message": "මෙම ටැබය සබැඳියක් ලෙස පිටපත් කරන්න",
+    "message": "මෙම ටැබය සබැඳිය ලෙස",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "සියලුම ටැබ් සබැඳි ලෙස (තීරු පරාමිති)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "සියලුම ටැබ් පෙළ URL ලෙස (තීරු පරාමිති)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "සබැඳි ලෙස තෝරාගත් ටැබ් (තීරු පරාමිති)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "පෙළ URL ලෙස තෝරාගත් ටැබ් (තීරු පරාමිති)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "මෙම ටැබය පෙළ URL ලෙස (තීරු පරාමිති)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "මෙම ටැබය සබැඳිය ලෙස (තීරු පරාමිති)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "ටැබ් සන්දර්භය මෙනුව හරහා ක්u200dරියා කැඳවන්න",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "මෙවලම් තීරු බොත්තම් සන්දර්භය මෙනුව හරහා ක්u200dරියා කරන්න",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "ක්u200dරියා සඳහා කෙටිමං පවරන්න",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "මෙවලම් තීරු බොත්තම සඟවන්න හෝ ගෙන යන්න",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "දැනුම්දීම් පෙන්වන්න (අවසර බලන්න)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

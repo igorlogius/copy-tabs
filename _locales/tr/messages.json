@@ -7,28 +7,80 @@
     "message": "Sekmeleri köprüler veya metin URL'leri olarak kopyalayın",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Araç çubuğu düğmesi eylemi",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Tüm Sekmeleri Bağlantı Olarak Kopyala",
+    "message": "Bağlantı Olarak Tüm Sekmeler",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tüm Sekmeleri Metin URL'leri Olarak Kopyala",
+    "message": "Tüm Sekmeler Metin URL'si Olarak",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Seçilen Sekmeleri Bağlantı Olarak Kopyala",
+    "message": "Bağlantı Olarak Seçilen Sekmeler",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Seçilen Sekmeleri Metin URL'leri Olarak Kopyala",
+    "message": "Metin URL'leri Olarak Seçilen Sekmeler",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Bu Sekmeyi Metin URL'si Olarak Kopyala",
+    "message": "Metin URL'si olarak Bu Sekme",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Bu Sekmeyi Bağlantı Olarak Kopyala",
+    "message": "Bağlantı Olarak Bu Sekme",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Bağlantı Olarak Tüm Sekmeler (Şerit Parametreleri)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Metin URL'leri Olarak Tüm Sekmeler (Şerit Parametreleri)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Bağlantı Olarak Seçilen Sekmeler (Şerit Parametreleri)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Metin URL'leri Olarak Seçilen Sekmeler (Şerit Parametreleri)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Metin URL'si olarak Bu Sekme (Şerit Parametreleri)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Bağlantı Olarak Bu Sekme (Şerit Parametreleri)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Sekme içerik menüsü aracılığıyla eylemleri çağırma",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Araç çubuğu düğmesi içerik menüsü aracılığıyla eylemleri çağırma",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Eylemler için kısayollar atayın",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Araç çubuğu düğmesini gizleyin veya taşıyın",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Bildirimleri göster (bkz. İzinler)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

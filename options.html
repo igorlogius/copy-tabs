@@ -13,35 +13,17 @@
 </head>
 <body>
   <fieldset>
-    <abbr title="Enable or disable the copy notifications. (default=on)">
-      <span>Display Notifications:</span>
-      <input id="showNotifications" type="checkbox" checked />
-      (?)</abbr
-    >
+    <span id="labelseltba"></span>
+    <select id="toolbarAction"></select>
   </fieldset>
   <fieldset>
-    <abbr title="Strip URL parameter from the copied URLs. (default=off)">
-      <span>Remove URL Parameters:</span>
-      <input id="noURLParams" type="checkbox" />
-      (?)</abbr
-    >
-  </fieldset>
-  <fieldset>
-    <abbr
-      title="Select the left click toolbar button action. (default='Copy All Tabs as Links')"
-    >
-      Toolbar button action:
-      <select id="toolbarAction"></select>
-      (?)</abbr
-    >
-  </fieldset>
-  <fieldset>
-    <p><b>Some tips: (You can ... ) </b></p>
+    <p><b>Tips: </b></p>
     <ol>
-      <li>..invoke actions via the tab context menu</li>
-      <li>..invoke actions via the toolbar button context menu</li>
-      <li>..assign shortcuts for actions to invoke them</li>
-      <li>..hide or move the toolbar button</li>
+      <li id="hint_1"></li>
+      <li id="hint_2"></li>
+      <li id="hint_3"></li>
+      <li id="hint_4"></li>
+      <li id="hint_5"></li>
     </ol>
   </fieldset>
   <script src="options.js"></script>

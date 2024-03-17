@@ -7,28 +7,80 @@
     "message": "Koperani Ma tabu ngati ma hyperlink kapena ma URL alemba",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Toolbar batani ntchito",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Lembani Ma Tabu Onse Monga Maulalo",
+    "message": "Ma Tabs Onse Monga Maulalo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Koperani Ma Tabu Onse ngati Ma URL a Mawu",
+    "message": "Ma Tabu Onse ngati Ma URL a Mawu",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Koperani Ma Tabu Osankhidwa Monga Maulalo",
+    "message": "Ma Tabs Osankhidwa Monga Maulalo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Koperani Ma Tabu Osankhidwa ngati Ma URL a Mawu",
+    "message": "Ma Tabu Osankhidwa Monga Ma URL a Mawu",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Koperani Tabu Ili ngati Maulalo a URL",
+    "message": "Tabu ili ngati URL ya Mawu",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Lembani Tabu Ili ngati Ulalo",
+    "message": "Tabu iyi ngati Ulalo",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Ma Tabu Onse Monga Maulalo (Mizere Yoyambira)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Ma Tabu Onse Monga Maulalo Olemba (Mizere ya Strip)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Ma Tabu Osankhidwa Monga Maulalo (Mizere ya Strip)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Ma Tabu Osankhidwa Monga Maulalo Olemba (Mizere ya Strip)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Tabu iyi ngati Ulalo Wolemba (Mizere ya Mizere)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Tabu iyi ngati Ulalo (Mizere ya Mizere)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Yambirani zochita kudzera pa menyu yankhani",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Yesetsani kuchitapo kanthu pogwiritsa ntchito batani la toolbar",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Perekani njira zazifupi pazochita",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Bisani kapena sunthani batani lazida",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Onetsani zidziwitso (onani Zilolezo)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

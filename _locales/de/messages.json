@@ -7,28 +7,80 @@
     "message": "Kopieren Sie Tabs als Hyperlinks oder Text-URLs",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Aktion der Symbolleistenschaltfläche",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopieren Sie alle Registerkarten als Links",
+    "message": "Alle Tabs als Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopieren Sie alle Tabs als Text-URLs",
+    "message": "Alle Tabs als Text-URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ausgewählte Tabs als Links kopieren",
+    "message": "Ausgewählte Tabs als Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ausgewählte Tabs als Text-URLs kopieren",
+    "message": "Ausgewählte Tabs als Text-URLs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopieren Sie diese Registerkarte als Text-URL",
+    "message": "Diese Registerkarte als Text-URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopieren Sie diese Registerkarte als Link",
+    "message": "Dieser Tab als Link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Alle Tabs als Links (Strip-Parameter)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Alle Tabs als Text-URLs (Strip-Parameter)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Ausgewählte Tabs als Links (Strip-Parameter)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Ausgewählte Tabs als Text-URLs (Strip-Parameter)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Diese Registerkarte als Text-URL (Strip-Parameter)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Diese Registerkarte als Link (Strip-Parameter)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Rufen Sie Aktionen über das Tab-Kontextmenü auf",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Rufen Sie Aktionen über das Kontextmenü der Symbolleistenschaltfläche auf",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Weisen Sie Verknüpfungen für Aktionen zu",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Blenden Sie die Symbolleistenschaltfläche aus oder verschieben Sie sie",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Benachrichtigungen anzeigen (siehe Berechtigungen)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

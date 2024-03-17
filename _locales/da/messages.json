@@ -7,28 +7,80 @@
     "message": "Kopier faner som hyperlinks eller tekst-URL'er",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Toolbar-knaphandling",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopier alle faner som links",
+    "message": "Alle faner som links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopier alle faner som tekst-URL'er",
+    "message": "Alle faner som tekst-URL'er",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopier valgte faner som links",
+    "message": "Valgte faner som links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopier valgte faner som tekst-URL'er",
+    "message": "Valgte faner som tekst-URL'er",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopier denne fane som tekst-URL",
+    "message": "Denne fane som tekst-URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopier denne fane som link",
+    "message": "Denne fane som link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Alle faner som links (Strip-parametre)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Alle faner som tekst-URL'er (Strip-parametre)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Valgte faner som links (Strip-parametre)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Valgte faner som tekst-URL'er (Strip-parametre)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Denne fane som tekst-URL (Strip-parametre)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Denne fane som link (Strip-parametre)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Aktiver handlinger via fane-kontekstmenuen",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Start handlinger via værktøjslinjeknappens kontekstmenu",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Tildel genveje til handlinger",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Skjul eller flyt værktøjslinjeknappen",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Vis meddelelser (se Tilladelser)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

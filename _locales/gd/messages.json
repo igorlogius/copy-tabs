@@ -7,28 +7,80 @@
     "message": "Dèan lethbhreac de na tabaichean mar eadar-cheanglaichean no URLan teacsa",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Gnìomh putan a' bhàr-inneal",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Dèan lethbhreac de na tabaichean gu lèir mar cheanglaichean",
+    "message": "A h-uile taba mar cheanglaichean",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Dèan lethbhreac de na tabaichean gu lèir mar URLan teacsa",
+    "message": "A h-uile taba mar URLan teacsa",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Dèan lethbhreac de na tabaichean taghte mar cheanglaichean",
+    "message": "Tabaichean taghte mar cheanglaichean",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Dèan lethbhreac de na tabaichean taghte mar URLan teacsa",
+    "message": "Tabaichean taghte mar URLan teacsa",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Dèan lethbhreac den tab seo mar URL teacsa",
+    "message": "An tab seo mar URL teacsa",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Dèan lethbhreac den taba seo mar cheangal",
+    "message": "An tab seo mar Ceangal",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "A h-uile taba mar cheanglaichean (parameters stiallach)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "A h-uile taba mar URLan teacsa (parameters stiallach)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Tabaichean taghte mar cheanglaichean (parameters stiallach)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Tabaichean taghte mar URLan teacsa (parameters stiallach)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "An taba seo mar URL teacsa (parameters stiallach)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "An taba seo mar cheangal (parameters stiallach)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Cuir a-steach gnìomhan tro chlàr co-theacsa tab",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Cuir a-steach gnìomhan tro chlàr co-theacsa putan a’ bhàr-inneal",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Sònraich ath-ghoiridean airson gnìomhan",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Falaich no gluais am putan bàr-inneal",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Seall fiosan (faic Ceadan)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

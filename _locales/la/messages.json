@@ -7,28 +7,80 @@
     "message": "Effingo Tabs sicut hyperlinks vel text URLs",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Toolbar button actio",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Effingo omnes Tab ut Links",
+    "message": "Omnes Tabs ut Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Effingo omnes Tab ut Text URLs",
+    "message": "Omnes Tab ut Text URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Effingo Lego Tab ut Links",
+    "message": "Electus Tabs ut Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabs ut effingo Lego delata Text",
+    "message": "Tabs ut lectus delata Text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Effingo hoc Tab ut Text URL",
+    "message": "Hoc Tab ut Text URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Effingo quod Pro hoc Link",
+    "message": "Hoc Tab ut Link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Omnes Tabs sicut Links (exue Parameters)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Omnes Tab as Text URLs (exue Parameters)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Lego Tabs ut Links (exue Parameters)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Electus Tabs ut Text URLs (exue Parameters)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Haec Tab as Text URL (exue Parameters)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Hoc Tab sicut Link (exue Parameters)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Invocare actiones per tab contextu menu",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Invoca actiones per conjunctionem instrumentorum instrumentorum communicationis socialis",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Compendia pro actionibus assignato",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Celare vel movere toolbar puga",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Ostende notificationes (vide Permissionibus)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

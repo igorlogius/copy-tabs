@@ -7,28 +7,80 @@
     "message": "Kopi Tabs kòm lyen oswa URL tèks",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Aksyon bouton ba zouti",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopi Tout Tabs kòm Lyen",
+    "message": "Tout Tabs kòm Lyen",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopi tout onglè yo kòm URL tèks",
+    "message": "Tout Tabs kòm URL tèks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopi onglè yo chwazi kòm lyen",
+    "message": "Onglet Chwazi kòm Lyen",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopi onglè yo chwazi kòm URL tèks yo",
+    "message": "Onglet yo chwazi kòm URL tèks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopi Tab sa a kòm URL tèks",
+    "message": "Tab sa a kòm URL tèks",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopi Tab sa a kòm Link",
+    "message": "Tab sa a kòm Link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Tout Tabs kòm Lyen (Paramèt Strip)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Tout onglè kòm URL tèks (Paramèt Strip)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Onglet Chwazi kòm Lyen (Paramèt Strip)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Onglets Chwazi kòm URL tèks (Paramèt Strip)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Tab sa a kòm URL tèks (Paramèt Strip)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Tab sa a kòm Link (Paramèt Strip)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Envoke aksyon atravè meni kontèks tab la",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Envoke aksyon atravè meni kontèks bouton ba zouti a",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Bay rakoursi pou aksyon yo",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Kache oswa deplase bouton ba zouti a",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Montre notifikasyon (gade otorizasyon)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

@@ -7,28 +7,80 @@
     "message": "Kopiu Langetojn kiel hiperligojn aŭ tekstajn URLojn",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Ilobreto butono ago",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopiu Ĉiuj Langetoj kiel Ligiloj",
+    "message": "Ĉiuj Langetoj kiel Ligiloj",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopiu Ĉiuj Langetoj kiel Tekstaj URLoj",
+    "message": "Ĉiuj Langetoj kiel Tekstaj URLoj",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopiu Elektitaj Langetoj kiel Ligiloj",
+    "message": "Elektitaj Langetoj kiel Ligiloj",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopiu Elektitaj Langetoj kiel Tekstaj URLoj",
+    "message": "Elektitaj Langetoj kiel Tekstaj URLoj",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopiu Ĉi tiun Langeton kiel Teksta URL",
+    "message": "Ĉi tiu langeto kiel Teksta URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopiu Ĉi tiun Langeton kiel Ligon",
+    "message": "Ĉi tiu Langeto kiel Ligo",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Ĉiuj Langetoj kiel Ligiloj (Strip Parametroj)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Ĉiuj Klapetoj kiel Tekstaj URLoj (Strip Parametroj)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Elektitaj Langetoj kiel Ligiloj (Strip Parametroj)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Elektitaj Langetoj kiel Tekstaj URLoj (Strip Parametroj)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Ĉi tiu Langeto kiel Teksta URL (Strip Parametroj)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Ĉi tiu Langeto kiel Ligo (Strip Parametroj)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Alvoku agojn per la langeta kunteksta menuo",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Alvoku agojn per la kunteksta menuo de ilobreto",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Asignu ŝparvojojn por agoj",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Kaŝi aŭ movu la ilobretobutonon",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Montri sciigojn (vidu Permesojn)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

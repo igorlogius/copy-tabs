@@ -7,28 +7,80 @@
     "message": "Nişanları hiperlink və ya mətn URL-ləri kimi kopyalayın",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Alətlər paneli düyməsi hərəkəti",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Bütün Nişanları Linklər kimi kopyalayın",
+    "message": "Bütün Nişanlar Linklər kimi",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Bütün Nişanları Mətn URL-ləri kimi kopyalayın",
+    "message": "Bütün Nişanlar Mətn URL-ləri kimi",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Seçilmiş Nişanları Linklər kimi kopyalayın",
+    "message": "Bağlantılar kimi Seçilmiş Nişanlar",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Seçilmiş Nişanları Mətn URL-ləri kimi kopyalayın",
+    "message": "Mətn URL kimi Seçilmiş Nişanlar",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Bu Nişanı Mətn URL kimi kopyalayın",
+    "message": "Bu Tab Mətn URL kimi",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Bu nişanı Link olaraq kopyalayın",
+    "message": "Bu Tab Link olaraq",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Bütün Nişanlar Link kimi (Strip Parametrləri)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Bütün Nişanlar Mətn URL-ləri kimi (Strip Parametrləri)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Bağlantılar kimi Seçilmiş Nişanlar (Strip Parametrləri)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Mətn URL-ləri kimi Seçilmiş Nişanlar (Strip Parametrləri)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Bu Tab Mətn URL kimi (Strip Parametrləri)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Bu tab Link olaraq (Strip Parametrləri)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Nişan kontekst menyusu vasitəsilə hərəkətləri çağırın",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Alətlər paneli düyməsinin kontekst menyusu vasitəsilə hərəkətləri çağırın",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Fəaliyyətlər üçün qısa yollar təyin edin",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Alətlər paneli düyməsini gizləyin və ya köçürün",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Bildirişləri göstərin (İcazələrə baxın)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

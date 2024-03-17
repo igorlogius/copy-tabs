@@ -7,28 +7,80 @@
     "message": "Kopieer oortjies as hiperskakels of teks-URL's",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Werkbalkknoppie-aksie",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopieer alle oortjies as skakels",
+    "message": "Alle oortjies as skakels",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopieer alle oortjies as teks-URL'e",
+    "message": "Alle oortjies as teks-URL'e",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopieer geselekteerde oortjies as skakels",
+    "message": "Geselekteerde oortjies as skakels",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopieer geselekteerde oortjies as teks-URL'e",
+    "message": "Geselekteerde oortjies as teks-URL'e",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopieer hierdie oortjie as teks-URL",
+    "message": "Hierdie oortjie as teks-URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopieer hierdie oortjie as skakel",
+    "message": "Hierdie oortjie as skakel",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Alle oortjies as skakels (strookparameters)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Alle oortjies as teks-URL'e (strookparameters)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Geselekteerde oortjies as skakels (strookparameters)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Geselekteerde oortjies as teks-URL'e (strookparameters)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Hierdie oortjie as teks-URL (strookparameters)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Hierdie oortjie as skakel (strookparameters)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Roep aksies aan via die oortjie konteks kieslys",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Roep aksies aan via die kontekskieslys van die nutsbalkknoppie",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Ken kortpaaie vir aksies toe",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Versteek of skuif die nutsbalkknoppie",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Wys kennisgewings (sien Toestemmings)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

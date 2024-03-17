@@ -7,28 +7,80 @@
     "message": " ﻮﻳﺮڪ ﻞﻘﻧ ﺭﻮﻃ URLs ٽﺴڪﻴٽ ﺎﻳ ﺲڪﻨﻟ ﺮﭙﺋﺎﻫ ﻲﮐ ﺐﻴٽ",
     "description": ""
   },
+  "labelseltba": {
+    "message": " ﻞﻤﻋ ﻮﺟ ﮡٽﺑ ﺭﺎﺑ ﻝﻮٽ",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﻴٽ ﭛﺳ ﻮﻳﺮڪ ﻞﻘﻧ",
+    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﻴٽ ﭛﺳ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﻮﻳﺮڪ ﻞﻘﻧ ﺭﻮﻃ URLs ٽﺴڪﻴٽ ﻲﮐ ﺐﻴٽ ﻲﻨﭝﺳ",
+    "message": " URLs ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﭛﺳ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﻮﻳﺮڪ ﻞﻘﻧ ﺭﻮﻃ ڪﻨﻟ ﻲﮐ ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
+    "message": " ڪﻨﻟ ﺭﻮﻄﺑ ﺐﺌٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﻮﻳﺮڪ ﻞﻘﻧ ﺭﻮﻃ URLs ﻲﺟ ﻦﺘﻣ ﻲﮐ ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
+    "message": " URLs ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﺭﻮﻃ URL ٽﺴڪﻴٽ ﻲﮐ ﺐﺌٽ ﻦﮬ ﻮﻳﺮڪ ﻞﻘﻧ",
+    "message": " URL ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﻲﻫ",
     "description": ""
   },
   "cpytablnk": {
-    "message": " ﺭﻮﻃ ڪﻨﻟ ﻲﮐ ﺐﺌٽ ﻦﮬ ﻮﻳﺮڪ ﻞﻘﻧ",
+    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﺌٽ ﻲﻫ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": " (ﺮﻟﻭﺮٽﻴﭘ ﻲٽﭘ) ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﺌٽ ﻲﺌﭝﺳ",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": " (ﺮٽﻴﻣﺍﺮﻴﭘ ﻲٽﭘ) URLs ٽﺴڪﻴٽ ﻦﺌﻴﺟ ﺐﻴٽ ﻲﺌﭝﺳ",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": " (ﺮﻟﻭﺮٽﻴﭘ ﻲٽﭘ) ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ ﻲﺗ ﺭﻮﻃ ﻲﺟ ﮠﮃﻨﮘ",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": " (ﺯﺮٽﻴﻣ ﺍﺮﻴﭘ ﻲٽﭘ) URLs ﻦﺘﻣ ﺭﻮﻄﺑ ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": " (ﺮﻟﻭﺮٽﻴﭘ ﻲٽﭘ) URL ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﻲﻫ",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": " (ﺮﻟﻭﺮٽﻴﭘ ﻲٽﭘ) ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﻴٽ ﻲﻫ",
+    "description": ""
+  },
+  "hint_1": {
+    "message": " ﻮﻳڏ ﺕﻮﻋﺩ ﻲﮐ ﻦﻠﻤﻋ ﻲﻌﻳﺭﺫ ﻮﻴﻨﻴﻣ ﻥﺎﺳ ﻲﻟﺍﻮﺣ ﻲﺟ ﺐﻴٽ",
+    "description": ""
+  },
+  "hint_2": {
+    "message": " ﻮﻳڏ ﺕﻮﻋﺩ ﻲﮐ ﻦﻠﻤﻋ ﻲﻌﻳﺭﺫ ﻮﻴﻨﻴﻣ ﻥﺎﺳ ﻲﻟﺍﻮﺣ ﻲﺟ ﮡٽﺑ ﻲﺟ ﺭﺎﺑ ﻝﻮٽ",
+    "description": ""
+  },
+  "hint_3": {
+    "message": " ﻮﻳﺮڪ ﺭﺮﻘﻣ ٽڪ ٽﺭﺎﺷ ءِﻻ﻿ ﻦﻠﻤﻋ",
+    "description": ""
+  },
+  "hint_4": {
+    "message": " ﻮﻳﺮڪ ﻞﻘﺘﻨﻣ ﺎﻳ ﻮﻳﺎڪﻟ ﻲﮐ ﮡٽﺑ ﻲﺟ ﺭﺎﺑ ﻝﻮٽ",
+    "description": ""
+  },
+  "hint_5": {
+    "message": " (ﻥﻮﺗﺯﺎﺟﺍ ﻮﺳڏ) ﻮﻳﺭﺎﮑﻳڏ ﻉﻼ﻿ﻃﺍ",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

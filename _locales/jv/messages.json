@@ -7,28 +7,80 @@
     "message": "Salin Tab minangka hyperlink utawa URL teks",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Tumindak tombol toolbar",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Nyalin Kabeh Tab minangka Tautan",
+    "message": "Kabeh Tab minangka Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Salin Kabeh Tab minangka URL Teks",
+    "message": "Kabeh Tab minangka URL Teks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Salin Tab sing Dipilih minangka Tautan",
+    "message": "Tab sing dipilih minangka Tautan",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Salin Tab sing Dipilih minangka URL Teks",
+    "message": "Tab sing Dipilih minangka URL Teks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Salin Tab Iki minangka URL Teks",
+    "message": "Tab iki minangka URL Teks",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Salin Tab Iki minangka Link",
+    "message": "Tab iki minangka Link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Kabeh Tab minangka Tautan (Parameter Strip)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Kabeh Tab minangka URL Teks (Parameter Strip)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Tab sing Dipilih minangka Tautan (Parameter Strip)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Tab sing Dipilih minangka URL Teks (Parameter Strip)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Tab iki minangka URL Teks (Parameter Strip)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Tab iki minangka Link (Parameter Strip)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Nindakake tumindak liwat menu konteks tab",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Nindakake tumindak liwat menu konteks tombol toolbar",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Nemtokake trabasan kanggo tumindak",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Singidaken utawa pindhah tombol toolbar",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Tampilake kabar (pirsani Idin)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

@@ -7,28 +7,80 @@
     "message": "Detuo Taabụ dị ka hyperlinks ma ọ bụ ederede URL",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Omume bọtịnụ Toolbar",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Detuo Taabụ niile dị ka njikọ",
+    "message": "Taabụ niile dị ka njikọ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Detuo Taabụ niile dị ka URL ederede",
+    "message": "Taabụ niile dị ka URL ederede",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Detuo taabụ ahọpụtara dị ka njikọ",
+    "message": "Taabụ ahọpụtara dị ka njikọ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Detuo taabụ ahọpụtara dị ka URL ederede",
+    "message": "Taabụ ahọpụtara dị ka URL ederede",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Detuo taabụ a ka URL ederede",
+    "message": "Taabụ a dị ka URL ederede",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Detuo Tab a dị ka njikọ",
+    "message": "Tab a dị ka njikọ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Taabụ niile dị ka njikọ (ntụpọ nkewa)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Taabụ niile dị ka URL ederede (Njirimara nkewa)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Taabụ ahọpụtara dị ka njikọ (nripu ụzọ)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Taabụ ahọpụtara dị ka URL Ederede (Njirimara nkewa)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Taabụ a dị ka URL ederede (nkwụsị ụzọ)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Taabụ a dị ka njikọ (Strip Parameters)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Kpọọ omume site na menu onodu taabụ",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Kpọọ omume site na menu onodu ihe nrụnye ngwaọrụ",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Kenye ụzọ mkpirisi maka omume",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Zoo ma ọ bụ bugharịa bọtịnụ toolbar",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Gosi ọkwa (lee ikike)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

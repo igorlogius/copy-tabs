@@ -7,28 +7,80 @@
     "message": "Kopírovat karty jako hypertextové odkazy nebo textové adresy URL",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Akce tlačítka na panelu nástrojů",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Zkopírovat všechny karty jako odkazy",
+    "message": "Všechny karty jako odkazy",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopírovat všechny karty jako textové adresy URL",
+    "message": "Všechny karty jako textové adresy URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopírovat vybrané karty jako odkazy",
+    "message": "Vybrané karty jako odkazy",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopírovat vybrané karty jako textové adresy URL",
+    "message": "Vybrané karty jako textové adresy URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Zkopírujte tuto kartu jako textovou adresu URL",
+    "message": "Tato karta jako textová adresa URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Zkopírujte tuto kartu jako odkaz",
+    "message": "Tato karta jako odkaz",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Všechny karty jako odkazy (parametry stripu)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Všechny karty jako textové adresy URL (parametry stripů)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Vybrané karty jako odkazy (parametry stripu)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Vybrané karty jako textové adresy URL (parametry stripů)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Tato karta jako textová adresa URL (parametry stripu)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Tato karta jako odkaz (parametry stripu)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Vyvolání akcí prostřednictvím kontextové nabídky karty",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Vyvolání akcí prostřednictvím kontextové nabídky tlačítka na panelu nástrojů",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Přiřaďte zkratky akcí",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Skryjte nebo přesuňte tlačítko na panelu nástrojů",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Zobrazit oznámení (viz Oprávnění)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

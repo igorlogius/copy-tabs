@@ -7,7 +7,6 @@ function onChange(evt) {
   let value = el.type === "checkbox" ? el.checked : el.value;
   let obj = {};
 
-  console.log(id, value, el.type, el.min);
   if (value === "") {
     return;
   }
@@ -27,11 +26,22 @@ function onChange(evt) {
 
   obj[id] = value;
 
-  //console.debug(id,value);
   browser.storage.local.set(obj).catch(console.error);
 }
 
 function onLoad() {
+  for (const blub of [
+    "labelseltba",
+    "hint_1",
+    "hint_2",
+    "hint_3",
+    "hint_4",
+    "hint_5",
+  ]) {
+    let el = document.getElementById(blub);
+    el.innerText = browser.i18n.getMessage(blub);
+  }
+
   const manifest = browser.runtime.getManifest();
   const toolbarActionSelect = document.getElementById("toolbarAction");
   for (const cmd of Object.keys(manifest.commands)) {
@@ -40,7 +50,7 @@ function onLoad() {
     );
   }
 
-  ["showNotifications", "toolbarAction", "noURLParams"].map((id) => {
+  ["toolbarAction", "noURLParams"].map((id) => {
     browser.storage.local
       .get(id)
       .then((obj) => {

@@ -7,28 +7,80 @@
     "message": "Kopiatu fitxak hiperesteka edo testu URL gisa",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Tresna-barrako botoiaren ekintza",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopiatu fitxa guztiak esteka gisa",
+    "message": "Fitxa guztiak esteka gisa",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopiatu fitxa guztiak testu URL gisa",
+    "message": "Fitxa guztiak testu URL gisa",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopiatu hautatutako fitxak esteka gisa",
+    "message": "Hautatutako fitxak esteka gisa",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopiatu hautatutako fitxak testu URL gisa",
+    "message": "Hautatutako fitxak testu-URL gisa",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopiatu fitxa hau testu URL gisa",
+    "message": "Fitxa hau testu-URL gisa",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopiatu fitxa hau esteka gisa",
+    "message": "Fitxa hau esteka gisa",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Fitxa guztiak esteka gisa (bandaren parametroak)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Fitxa guztiak testu-URL gisa (Strip-parametroak)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Hautatutako fitxak esteka gisa (bandaren parametroak)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Hautatutako fitxak testu-URL gisa (Strip-parametroak)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Fitxa hau testu-URL gisa (Strip-parametroak)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Fitxa hau esteka gisa (bandaren parametroak)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Deitu ekintzak fitxaren testuinguru-menuaren bidez",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Deitu ekintzak tresna-barrako botoiaren testuinguru-menuaren bidez",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Esleitu lasterbideak ekintzetarako",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Ezkutatu edo mugitu tresna-barrako botoia",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Erakutsi jakinarazpenak (ikus Baimenak)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

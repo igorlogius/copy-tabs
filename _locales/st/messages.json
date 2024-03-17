@@ -7,28 +7,80 @@
     "message": "Kopitsa Li-tab joalo ka li-hyperlink kapa li-URL tsa mongolo",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Ts'ebetso ea konopo ea Toolbar",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopitsa Li-tab Tsohle e le Lihokelo",
+    "message": "Li-tab Tsohle e le Lihokelo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopitsa Li-tab Tsohle e le li-URL tsa mongolo",
+    "message": "Li-tab tsohle joalo ka li-URL tsa mongolo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopitsa Li-tab tse Khethiloeng joalo ka Lihokelo",
+    "message": "Li-tab tse Khethiloeng joalo ka Lihokelo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopitsa Li-tab tse Khethiloeng joalo ka li-URL tsa mongolo",
+    "message": "Li-tab tse Khethiloeng joalo ka li-URL tsa mongolo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopitsa Taba ena joalo ka URL ea mongolo",
+    "message": "Taba ena e le URL ea Mongolo",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopitsa Taba ena e le Sehokelo",
+    "message": "Taba ena e le Sehokelo",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Li-tab tsohle joalo ka Lihokelo (Strip Parameters)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Li-tab tsohle joalo ka li-URL tsa mongolo (Strip Parameters)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Li-tab tse Khethiloeng joalo ka Lihokelo (Strip Parameters)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Li-tab tse Khethiloeng joalo ka li-URL tsa mongolo (Strip Parameters)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Taba ena e le URL ea Mongolo (Strip Parameters)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Taba ena e le Sehokelo (Strip Parameters)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Etsa liketso ka ho sebelisa menu ea moelelo oa taba",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Kopa liketso ka konopo ea konopo ea toolbar",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Abela liketso tse khaoletsang",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Pata kapa tsamaisa konopo ea toolbar",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Hlahisa litsebiso (bona Litumello)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

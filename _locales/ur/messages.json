@@ -7,28 +7,80 @@
     "message": " ۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﺭﻮﻄﺑ ﮯﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺎﯾ ﺲﮑﻨﻟ ﺮﭙﺋﺎﮨ ﻮﮐ ﺰﺒﯿﭨ",
     "description": ""
   },
+  "labelseltba": {
+    "message": " ﻦﺸﮑﯾﺍ ﻦﭩﺑ ﺭﺎﺑ ﻝﻮﭨ",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": " ۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﺲﮑﻨﻟ ﺭﻮﻄﺑ ﻮﮐ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
+    "message": " ﺲﮑﻨﻟ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﺭﻮﻄﺑ ﮯﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﻮﮐ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
+    "message": " URLs ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﺲﮑﻨﻟ ﺭﻮﻄﺑ ﻮﮐ ﺰﺒﯿﭨ ﮦﺩﺮﮐ ﺐﺨﺘﻨﻣ",
+    "message": " ﺰﺒﯿﭨ ﮦﺩﺮﮐ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﺲﮑﻨﻟ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﺭﻮﻄﺑ ﮯﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﻮﮐ ﺰﺒﯿﭨ ﺐﺨﺘﻨﻣ",
+    "message": " ﺰﺒﯿﭨ ﮦﺩﺮﮐ ﺐﺨﺘﻨﻣ ﺭﻮﻄﺑ ﮯﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﻮﮐ ﺐﯿﭨ ﺱﺍ",
+    "message": " ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ",
     "description": ""
   },
   "cpytablnk": {
-    "message": " ۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﮏﻨﻟ ﺭﻮﻄﺑ ﻮﮐ ﺐﯿﭨ ﺱﺍ",
+    "message": " ﮏﻨﻟ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": " (ﺮﭩﯿﻣﺍﺮﯿﭘ ﭖﺮﭩﺳ) ﺲﮑﻨﻟ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": " (ﺯﺮﭩﯿﻣﺍﺮﯿﭘ ﭖﺮﭩﺳ) ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": " (ﺮﭩﯿﻣﺍﺮﯿﭘ ﭖﺮﭩﺳ) ﺰﺒﯿﭨ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﺲﮑﻨﻟ",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": " (ﺯﺮﭩﯿﻣﺍﺮﯿﭘ ﭖﺮﭩﺳ) ﺰﺒﯿﭨ ﺐﺨﺘﻨﻣ ﺭﻮﻄﺑ ﮯﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": " (ﺯﺮﭩﯿﻣﺍﺮﯿﭘ ﭖﺮﭩﺳ) ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": " (ﺯﺮﭩﯿﻣﺍﺮﯿﭘ ﭖﺮﭩﺳ) ﮏﻨﻟ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ",
+    "description": ""
+  },
+  "hint_1": {
+    "message": " ۔ﮟﯾﺮﮐ ﺖﺳﺍﻮﺧﺭﺩ ﯽﮐ ﮞﻮﯿﺋﺍﻭﺭﺭﺎﮐ ﮯﻌﯾﺭﺫ ﮯﮐ ﻮﻨﯿﻣ ﮯﮐ ﻕﺎﺒﺳ ﻭ ﻕﺎﯿﺳ ﺐﯿﭨ",
+    "description": ""
+  },
+  "hint_2": {
+    "message": " ۔ﮟﯾﺮﮐ ﺖﺳﺍﻮﺧﺭﺩ ﯽﮐ ﮞﻮﯿﺋﺍﻭﺭﺭﺎﮐ ﮯﻌﯾﺭﺫ ﮯﮐ ﻮﻨﯿﻣ ﮯﮐ ﻕﺎﺒﺳ ﻭ ﻕﺎﯿﺳ ﻦﭩﺑ ﺭﺎﺑ ﻝﻮﭨ",
+    "description": ""
+  },
+  "hint_3": {
+    "message": " ۔ﮟﯾﺮﮐ ﺾﯾﻮﻔﺗ ﭧﮐ ﭦﺭﺎﺷ ﮯﯿﻟ ﮯﮐ ﻝﺎﻤﻋﺍ",
+    "description": ""
+  },
+  "hint_4": {
+    "message": " ۔ﮟﯾﺮﮐ ﻞﻘﺘﻨﻣ ﺎﯾ ﮟﯿﺋﺎﭙﮭﭼ ﻮﮐ ﻦﭩﺑ ﮯﮐ ﺭﺎﺑ ﻝﻮﭨ",
+    "description": ""
+  },
+  "hint_5": {
+    "message": " (ﮟﯿﮭﮑﯾﺩ ﮟﯿﺗﺯﺎﺟﺍ) ﮟﯿﺋﺎﮭﮐﺩ ﺕﺎﻋﻼ﻿ﻃﺍ",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

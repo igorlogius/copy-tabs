@@ -7,28 +7,80 @@
     "message": "Daakọ Awọn taabu bi hyperlinks tabi awọn URL ọrọ",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Iṣe bọtini irinṣẹ",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Daakọ Gbogbo Awọn taabu bi Awọn ọna asopọ",
+    "message": "Gbogbo Awọn taabu bi Awọn ọna asopọ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Daakọ Gbogbo Awọn taabu bi Awọn URL Ọrọ",
+    "message": "Gbogbo Awọn taabu bi Awọn URL Ọrọ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Da awọn taabu ti a yan bi Awọn ọna asopọ",
+    "message": "Awọn taabu ti a yan bi Awọn ọna asopọ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Daakọ Awọn taabu ti a yan bi Awọn URL Ọrọ",
+    "message": "Awọn taabu ti a yan bi Awọn URL Ọrọ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Daakọ Taabu yii gẹgẹbi URL Ọrọ",
+    "message": "Taabu yii bi URL Ọrọ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Daakọ Taabu yii bi Ọna asopọ",
+    "message": "Taabu yii bi Ọna asopọ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "Gbogbo Awọn taabu bi Awọn ọna asopọ (Awọn paramita gigun)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "Gbogbo Awọn taabu bi Awọn URL Ọrọ (Awọn paramita Rinkiri)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Awọn taabu ti a ti yan bi Awọn ọna asopọ (Awọn paramita Rinkiri)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Awọn taabu ti a ti yan bi Awọn URL Ọrọ (Awọn paramita Rirọ)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Taabu yii gẹgẹbi URL Ọrọ (Awọn paramita Rinkiri)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Taabu yii bi Ọna asopọ (Awọn paramita gigun)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Pe awọn iṣe nipasẹ akojọ aṣayan ọrọ taabu",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Pe awọn iṣe nipasẹ bọtini irinṣẹ bọtini akojọ aṣayan ọrọ",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Fi awọn ọna abuja fun awọn iṣe",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Tọju tabi gbe bọtini irinṣẹ irinṣẹ",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Ṣafihan awọn iwifunni (wo Awọn igbanilaaye)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

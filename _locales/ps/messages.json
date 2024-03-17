@@ -7,28 +7,80 @@
     "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺎﯾ ﻮﻧﻮﮑﻨﯿﻟ ﺮﭙﯾﺎﻫ ﺩ ﻪﻧﻮﺒټ",
     "description": ""
   },
+  "labelseltba": {
+    "message": " ﻞﻤﻋ ۍڼﺗ Toolbar ﺩ",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
+    "message": " ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
+    "message": " ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻱﻮﺷ ﻩﺭﻮﻏ",
+    "message": " ﻱﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻱﻮﺷ ﻩﺭﻮﻏ",
+    "message": " ﻱﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ URL ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ",
+    "message": " ﻪګﻮﺗ ﻪﭘ URL ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ",
     "description": ""
   },
   "cpytablnk": {
-    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﺐټ ﺍﺩ",
+    "message": " ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﺐټ ﺍﺩ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": " (ﻮﻧﻮټﯿﻣﺍﺮﯿﭘ ﻮټﭘ ﺩ) ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": " (ﻮﻧﻮټﯿﻣﺍﺮﯿﭘ ﻮټﭘ ﺩ) ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": " (ﻭﺮټﯿﻣﺍﺮﯿﭘ ﻮټﭘ ﺩ) ﻪﻧﻮﺒټ ﻱﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": " (ﻮﻧﻮټﯿﻣﺍﺮﯿﭘ ﻮټﭘ ﺩ) ﻱﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": " (ﻮﻧﻮټﯿﻣﺍﺮﯿﭘ ﻮټﭘ ﺩ) ﻪګﻮﺗ ﻪﭘ URL ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": " (ﻭﺮټﯿﻣﺍﺮﯿﭘ ﻮټﭘ ﺩ) ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﺐټ ﺍﺩ",
+    "description": ""
+  },
+  "hint_1": {
+    "message": " ﺉړﺍﻮﻏﻭ ﻪﻧﻮﻠﻤﻋ ﯤﺭﻻ﻿ ﻪﻟ ﻮﻨﯿﻣ ﻮﻄﯾﺍﺮﺷ ﺐټ ﺩ",
+    "description": ""
+  },
+  "hint_2": {
+    "message": " ﺉړﺍﻮﻏﻭ ﻪﻧﻮﻠﻤﻋ ﯤﺭﻻ﻿ ﻪﻟ ﻮﻨﯿﻣ ﻮﻄﯾﺍﺮﺷ ﺩ ۍڼﺗ ﺭﺎﺑ ﯥﻠﯿﺳﻭ ﺩ",
+    "description": ""
+  },
+  "hint_3": {
+    "message": " ﺊﮐﺎټﻭ ټﮐ ټﺭﺎﺷ ﻩﺭﺎﭙﻟ ﻮﻧړﮐ ﺩ",
+    "description": ""
+  },
+  "hint_4": {
+    "message": " ﺉړﮐﻭ ﺖﮐﺮﺣ ﺎﯾ ﺉړﮐ ټﭘ ۍڼﺗ ﯥﻠﯿﺳﻭ ﺩ",
+    "description": ""
+  },
+  "hint_5": {
+    "message": " (ﺉﺭﻮګﻭ ﯤﺯﺎﺟﺍ) ﺖﺳﺎﯾﺎښﻭ ﯤﻭﺎﯿﺗﺮﺒﺧ",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

@@ -7,28 +7,80 @@
     "message": "Kopéiert Tabs als Hyperlinks oder Text URLen",
     "description": ""
   },
+  "labelseltba": {
+    "message": "Toolbar Knäppchen Aktioun",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": "Kopéiert All Tabs als Links",
+    "message": "All Tabs als Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kopéiert All Tabs als Text URLen",
+    "message": "All Tabs als Text URLen",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kopéiert gewielte Tabs als Links",
+    "message": "Ausgewielten Tabs als Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kopéiert gewielte Tabs als Text URLen",
+    "message": "Ausgewielt Tabs als Text URLen",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kopéiert dës Tab als Text URL",
+    "message": "Dësen Tab als Text URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kopéiert dës Tab als Link",
+    "message": "Dësen Tab als Link",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": "All Tabs als Links (Stripparameter)",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": "All Tabs als Text URLen (Strip Parameteren)",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": "Ausgewielten Tabs als Links (Stripparameter)",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": "Ausgewielt Tabs als Text URLen (Strip Parameteren)",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": "Dës Tab als Text URL (Strip Parameteren)",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": "Dës Tab als Link (Strip Parameteren)",
+    "description": ""
+  },
+  "hint_1": {
+    "message": "Uruff Aktiounen iwwer de Tab Kontextmenü",
+    "description": ""
+  },
+  "hint_2": {
+    "message": "Uruff Aktiounen iwwer de Kontextmenü vun der Toolbar Knäppchen",
+    "description": ""
+  },
+  "hint_3": {
+    "message": "Gitt Ofkiirzungen fir Aktiounen",
+    "description": ""
+  },
+  "hint_4": {
+    "message": "Verstoppen oder réckelen den Toolbar Knäppchen",
+    "description": ""
+  },
+  "hint_5": {
+    "message": "Show Notifikatiounen (kuckt Permissiounen)",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }

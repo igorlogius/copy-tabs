@@ -7,28 +7,80 @@
     "message": " ﺔﻴﺼﻧ URL ﻦﻳﻭﺎﻨﻋ ﻭﺃ ﺔﻴﺒﻌﺸﺗ ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺦﺴﻧﺍ",
     "description": ""
   },
+  "labelseltba": {
+    "message": " ﺕﺍﻭﺩﻷ﻿ﺍ ﻂﻳﺮﺷ ﺭﺯ ﻞﻤﻋ",
+    "description": ""
+  },
   "cpyalllnk": {
-    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺔﻓﺎﻛ ﺦﺴﻧﺍ",
+    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺔﻓﺎﻛ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﺔﻴﺼﻧ URL ﻦﻳﻭﺎﻨﻌﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺔﻓﺎﻛ ﺦﺴﻧﺍ",
+    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻌﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺦﺴﻧﺍ",
+    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﺔﻴﺼﻧ URL ﻦﻳﻭﺎﻨﻌﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺦﺴﻧﺍ",
+    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻌﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﻲﺼﻧ URL ﻥﺍﻮﻨﻌﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ ﺦﺴﻧﺍ",
+    "message": " ﻲﺼﻧ URL ﻥﺍﻮﻨﻌﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
     "description": ""
   },
   "cpytablnk": {
-    "message": " ﻂﺑﺍﺮﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ ﺦﺴﻧﺍ",
+    "message": " ﻂﺑﺍﺮﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
+    "description": ""
+  },
+  "cpyalllnknp": {
+    "message": " (ﻂﻳﺮﺸﻟﺍ ﺕﺎﻤﻠﻌﻣ) ﻂﺑﺍﻭﺮﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺔﻓﺎﻛ",
+    "description": ""
+  },
+  "cpyalltxtnp": {
+    "message": " (ﻂﻳﺮﺸﻟﺍ ﺕﺎﻤﻠﻌﻣ) ﺔﻴﺼﻧ URL ﻦﻳﻭﺎﻨﻌﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ",
+    "description": ""
+  },
+  "cpysellnknp": {
+    "message": " (ﻂﻳﺮﺸﻟﺍ ﺕﺎﻤﻠﻌﻣ) ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ",
+    "description": ""
+  },
+  "cpyseltxtnp": {
+    "message": " (ﻂﻳﺮﺸﻟﺍ ﺕﺎﻤﻠﻌﻣ) ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻌﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ",
+    "description": ""
+  },
+  "cpytabtxtnp": {
+    "message": " (ﻂﻳﺮﺸﻟﺍ ﺕﺎﻤﻠﻌﻣ) ﻲﺼﻧ URL ﻥﺍﻮﻨﻌﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
+    "description": ""
+  },
+  "cpytablnknp": {
+    "message": " (ﻂﻳﺮﺸﻟﺍ ﺕﺎﻤﻠﻌﻣ) ﻂﺑﺍﺮﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
+    "description": ""
+  },
+  "hint_1": {
+    "message": " ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ ﻕﺎﻴﺳ ﺔﻤﺋﺎﻗ ﺮﺒﻋ ﺕﺍءﺍﺮﺟﻹ﻿ﺍ ءﺎﻋﺪﺘﺳﺍ",
+    "description": ""
+  },
+  "hint_2": {
+    "message": " ﺕﺍﻭﺩﻷ﻿ﺍ ﻂﻳﺮﺷ ﺭﺯ ﻕﺎﻴﺳ ﺔﻤﺋﺎﻗ ﺮﺒﻋ ﺕﺍءﺍﺮﺟﻹ﻿ﺍ ءﺎﻋﺪﺘﺳﺍ",
+    "description": ""
+  },
+  "hint_3": {
+    "message": " ﺕﺍءﺍﺮﺟﻺ﻿ﻟ ﺕﺍﺭﺎﺼﺘﺧﺍ ﻦﻴﻴﻌﺗ",
+    "description": ""
+  },
+  "hint_4": {
+    "message": " ﺕﺍﻭﺩﻷ﻿ﺍ ﻂﻳﺮﺷ ﺭﺯ ﻞﻘﻧ ﻭﺃ ءﺎﻔﺧﺇ",
+    "description": ""
+  },
+  "hint_5": {
+    "message": " (ﺕﺎﻧﻭﺫﻷ﻿ﺍ ﺮﻈﻧﺍ) ﺕﺍﺭﺎﻄﺧﻹ﻿ﺍ ﺭﺎﻬﻇﺇ",
+    "description": ""
+  },
+  "hint_6": {
+    "message": "",
     "description": ""
   }
 }
