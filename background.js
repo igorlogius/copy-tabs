@@ -138,19 +138,23 @@ async function onCommand(cmd) {
     ret = false;
   switch (cmd) {
     case "cpyalllnk":
+    case "cpyalllnknp":
       tabs = await browser.tabs.query(qryObj);
       ret = copyTabsAsHtml(tabs);
       break;
     case "cpyalltxt":
+    case "cpyalltxtnp":
       tabs = await browser.tabs.query(qryObj);
       ret = copyTabsAsText(tabs);
       break;
     case "cpysellnk":
+    case "cpysellnknp":
       qryObj["highlighted"] = true;
       tabs = await browser.tabs.query(qryObj);
       ret = copyTabsAsHtml(tabs);
       break;
     case "cpyseltxt":
+    case "cpyseltxtnp":
       qryObj["highlighted"] = true;
       tabs = await browser.tabs.query(qryObj);
       ret = copyTabsAsText(tabs);

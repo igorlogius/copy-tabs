@@ -50,7 +50,7 @@ function onLoad() {
     );
   }
 
-  ["toolbarAction", "noURLParams"].map((id) => {
+  ["toolbarAction"].map((id) => {
     browser.storage.local
       .get(id)
       .then((obj) => {

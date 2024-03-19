@@ -52,5 +52,5 @@
   },
   "permissions": ["clipboardWrite", "storage", "menus", "tabs"],
   "optional_permissions": ["notifications"],
-  "version": "1.14.41"
+  "version": "1.14.42"
 }
