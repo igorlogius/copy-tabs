@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Nuqul ka samee tabs sidii xiriiriye sare ama URL qoraal ah",
+    "message": "Ku koobbi tabs sidii xiriiriye sare ama URL qoraal leh ama aan lahayn xuduudo",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Ficil badhanka Toolbar",
+  "selectaction": {
+    "message": "Dooro ficil badhanka",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Tabkan sida isku xidhka (Strip Parameters)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Ku yeedh ficillada adoo adeegsanaya liiska macnaha guud",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Ku yeedh ficillada adoo adeegsanaya badhanka aaladda macnaha guud",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "U qoondee habab gaaban oo ficil ah",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Qari ama dhaqaaji badhanka aaladda",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Muuji ogeysiisyada (eeg oggolaanshaha)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

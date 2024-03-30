@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Cóipeáil Cluaisíní mar hipearnasc nó URLanna téacs",
+    "message": "Cóipeáil Cluaisíní mar hipearnasc nó URLanna téacs le paraiméadair nó gan paraiméadair",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Gníomh cnaipe an bharra uirlisí",
+  "selectaction": {
+    "message": "Roghnaigh gníomh cnaipe",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "An Cluaisín seo mar Nasc (Paraiméadair Stráice)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Gníomhartha a agairt tríd an roghchlár comhthéacs cluaisíní",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Gníomhartha a agairt tríd an roghchlár comhthéacs cnaipe an bharra uirlisí",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Sann aicearraí le haghaidh gníomhartha",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Folaigh nó bog an cnaipe barra uirlisí",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Taispeáin fógraí (féach Ceadanna)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

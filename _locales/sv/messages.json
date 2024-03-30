@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiera flikar som hyperlänkar eller textwebbadresser",
+    "message": "Kopiera flikar som hyperlänkar eller text-URL:er med eller utan parametrar",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Verktygsfältets knappåtgärd",
+  "selectaction": {
+    "message": "Välj knappåtgärd",
     "description": ""
   },
   "cpyalllnk": {
@@ -56,31 +56,7 @@
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Denna flik som länk (Strip-parametrar)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Anropa åtgärder via flikens snabbmeny",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Anropa åtgärder via verktygsfältets snabbmeny",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Tilldela genvägar för åtgärder",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Dölj eller flytta verktygsfältsknappen",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Visa aviseringar (se Behörigheter)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
+    "message": "Den här fliken som länk (Strip-parametrar)",
     "description": ""
   }
 }

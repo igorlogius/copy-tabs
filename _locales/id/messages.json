@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Salin Tab sebagai hyperlink atau URL teks",
+    "message": "Salin Tab sebagai hyperlink atau URL teks dengan atau tanpa parameter",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Tindakan tombol bilah alat",
+  "selectaction": {
+    "message": "Pilih tindakan tombol",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Tab ini sebagai Tautan (Parameter Strip)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Aktifkan tindakan melalui menu konteks tab",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Meminta tindakan melalui menu konteks tombol toolbar",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Tetapkan pintasan untuk tindakan",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Sembunyikan atau pindahkan tombol toolbar",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Tampilkan notifikasi (lihat Izin)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

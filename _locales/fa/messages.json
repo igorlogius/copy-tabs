@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﯽﻨﺘﻣ URL ﺎﯾ ﮏﻨﯿﻟ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ",
+    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﺮﺘﻣﺍﺭﺎﭘ ﻥﻭﺪﺑ ﺎﯾ ﺎﺑ ﯽﻨﺘﻣ URL ﺎﯾ ﮏﻨﯿﻟ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ",
     "description": ""
   },
-  "labelseltba": {
-    "message": " ﺭﺍﺰﺑﺍ ﺭﺍﻮﻧ ﻪﻤﮐﺩ ﺩﺮﮑﻠﻤﻋ",
+  "selectaction": {
+    "message": " ﺪﯿﻨﮐ ﺏﺎﺨﺘﻧﺍ ﺍﺭ ﻪﻤﮐﺩ ﺩﺮﮑﻠﻤﻋ",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,11 +16,11 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
+    "message": " ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﺩﺮﮐ ﺏﺎﺨﺘﻧﺍ ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ",
+    "message": " ﺪﯿﻨﮐ ﺏﺎﺨﺘﻧﺍ ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ",
     "description": ""
   },
   "cpyseltxt": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": " (ﺭﺍﻮﻧ ﯼﺎﻫﺮﺘﻣﺍﺭﺎﭘ) ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ",
-    "description": ""
-  },
-  "hint_1": {
-    "message": " ﺪﯿﻨﮐ ﯽﻧﺍﻮﺧﺍﺮﻓ ﻪﮔﺮﺑ ﻪﻨﯿﻣﺯ ﯼﻮﻨﻣ ﻖﯾﺮﻃ ﺯﺍ ﺍﺭ ﺕﺎﻣﺍﺪﻗﺍ",
-    "description": ""
-  },
-  "hint_2": {
-    "message": " ﺪﯿﻨﮐ ﯽﻧﺍﻮﺧﺍﺮﻓ ﺭﺍﺰﺑﺍ ﺭﺍﻮﻧ ﻪﻤﮐﺩ ﻪﻨﯿﻣﺯ ﯼﻮﻨﻣ ﻖﯾﺮﻃ ﺯﺍ ﺍﺭ ﻝﺎﻤﻋﺍ",
-    "description": ""
-  },
-  "hint_3": {
-    "message": " ﺪﯿﻫﺩ ﺹﺎﺼﺘﺧﺍ ﺕﺎﻣﺍﺪﻗﺍ ﯼﺍﺮﺑ ﺍﺭ ﯽﯾﺎﻫﺮﺒﻧﺎﯿﻣ",
-    "description": ""
-  },
-  "hint_4": {
-    "message": " ﺪﯿﻫﺩ ﺖﮐﺮﺣ ﺎﯾ ﻥﺎﻬﻨﭘ ﺍﺭ ﺭﺍﺰﺑﺍ ﺭﺍﻮﻧ ﻪﻤﮐﺩ",
-    "description": ""
-  },
-  "hint_5": {
-    "message": " (ﺪﯿﻨﮐ ﻪﻌﺟﺍﺮﻣ ﺎﻫﺯﻮﺠﻣ ﻪﺑ) ﺎﻫu200cﻥﻼ﻿ﻋﺍ ﺶﯾﺎﻤﻧ",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

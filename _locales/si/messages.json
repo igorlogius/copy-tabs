@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ටැබ් අධි සබැඳි හෝ පෙළ URL ලෙස පිටපත් කරන්න",
+    "message": "පරාමිති සහිත හෝ නැතිව අධි සබැඳි හෝ පෙළ URL ලෙස ටැබ් පිටපත් කරන්න",
     "description": ""
   },
-  "labelseltba": {
-    "message": "මෙවලම් තීරු බොත්තම් ක්u200dරියාව",
+  "selectaction": {
+    "message": "බොත්තම ක්u200dරියාව තෝරන්න",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "මෙම ටැබය සබැඳිය ලෙස (තීරු පරාමිති)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "ටැබ් සන්දර්භය මෙනුව හරහා ක්u200dරියා කැඳවන්න",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "මෙවලම් තීරු බොත්තම් සන්දර්භය මෙනුව හරහා ක්u200dරියා කරන්න",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "ක්u200dරියා සඳහා කෙටිමං පවරන්න",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "මෙවලම් තීරු බොත්තම සඟවන්න හෝ ගෙන යන්න",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "දැනුම්දීම් පෙන්වන්න (අවසර බලන්න)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

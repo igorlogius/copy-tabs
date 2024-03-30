@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copieu les pestanyes com a hiperenllaços o URL de text",
+    "message": "Copieu les pestanyes com a hiperenllaços o URL de text amb o sense paràmetres",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Acció del botó de la barra d'eines",
+  "selectaction": {
+    "message": "Seleccioneu l'acció del botó",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Aquesta pestanya com a enllaç (Paràmetres de la tira)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Invoca accions mitjançant el menú contextual de la pestanya",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Invocar accions mitjançant el menú contextual del botó de la barra d'eines",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Assigna dreceres per a accions",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Amaga o mou el botó de la barra d'eines",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Mostra les notificacions (vegeu els permisos)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

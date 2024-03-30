@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Detuo Taabụ dị ka hyperlinks ma ọ bụ ederede URL",
+    "message": "Detuo Taabụ dị ka hyperlinks ma ọ bụ ederede URL nwere ma ọ bụ na-enweghị paramita",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Omume bọtịnụ Toolbar",
+  "selectaction": {
+    "message": "Họrọ ọrụ bọtịnụ",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Taabụ a dị ka njikọ (Strip Parameters)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Kpọọ omume site na menu onodu taabụ",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Kpọọ omume site na menu onodu ihe nrụnye ngwaọrụ",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Kenye ụzọ mkpirisi maka omume",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Zoo ma ọ bụ bugharịa bọtịnụ toolbar",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Gosi ọkwa (lee ikike)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

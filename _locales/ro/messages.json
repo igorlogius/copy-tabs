@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copiați filele ca hyperlinkuri sau URL-uri text",
+    "message": "Copiați filele ca hyperlinkuri sau URL-uri text cu sau fără parametri",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Acțiunea butonului din bara de instrumente",
+  "selectaction": {
+    "message": "Selectați acțiunea butonului",
     "description": ""
   },
   "cpyalllnk": {
@@ -28,7 +28,7 @@
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Această filă ca adresă URL text",
+    "message": "Această filă ca URL text",
     "description": ""
   },
   "cpytablnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Această filă ca legătură (Parametrii benzii)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Invocați acțiuni prin meniul contextual al filei",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Invocați acțiuni prin meniul contextual al butonului din bara de instrumente",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Atribuiți comenzi rapide pentru acțiuni",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Ascundeți sau mutați butonul din bara de instrumente",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Afișați notificări (consultați Permisiuni)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

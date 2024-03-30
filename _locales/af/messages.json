@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopieer oortjies as hiperskakels of teks-URL's",
+    "message": "Kopieer oortjies as hiperskakels of teks-URL's met of sonder parameters",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Werkbalkknoppie-aksie",
+  "selectaction": {
+    "message": "Kies knoppie-aksie",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Hierdie oortjie as skakel (strookparameters)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Roep aksies aan via die oortjie konteks kieslys",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Roep aksies aan via die kontekskieslys van die nutsbalkknoppie",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Ken kortpaaie vir aksies toe",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Versteek of skuif die nutsbalkknoppie",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Wys kennisgewings (sien Toestemmings)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

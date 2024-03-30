@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Nişanları hiperlink və ya mətn URL-ləri kimi kopyalayın",
+    "message": "Nişanları parametrli və ya parametrsiz hiperlink və ya mətn URL kimi kopyalayın",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Alətlər paneli düyməsi hərəkəti",
+  "selectaction": {
+    "message": "Düymə hərəkətini seçin",
     "description": ""
   },
   "cpyalllnk": {
@@ -24,7 +24,7 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Mətn URL kimi Seçilmiş Nişanlar",
+    "message": "Mətn URL-ləri kimi Seçilmiş Nişanlar",
     "description": ""
   },
   "cpytabtxt": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Bu tab Link olaraq (Strip Parametrləri)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Nişan kontekst menyusu vasitəsilə hərəkətləri çağırın",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Alətlər paneli düyməsinin kontekst menyusu vasitəsilə hərəkətləri çağırın",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Fəaliyyətlər üçün qısa yollar təyin edin",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Alətlər paneli düyməsini gizləyin və ya köçürün",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Bildirişləri göstərin (İcazələrə baxın)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

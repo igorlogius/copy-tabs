@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ಟ್ಯಾಬ್u200cಗಳನ್ನು ಹೈಪರ್u200cಲಿಂಕ್u200cಗಳು ಅಥವಾ ಪಠ್ಯ URL ಗಳಾಗಿ ನಕಲಿಸಿ",
+    "message": "ಪ್ಯಾರಾಮೀಟರ್u200cಗಳೊಂದಿಗೆ ಅಥವಾ ಇಲ್ಲದೆಯೇ ಟ್ಯಾಬ್u200cಗಳನ್ನು ಹೈಪರ್u200cಲಿಂಕ್u200cಗಳು ಅಥವಾ ಪಠ್ಯ URL ಗಳಾಗಿ ನಕಲಿಸಿ",
     "description": ""
   },
-  "labelseltba": {
-    "message": "ಟೂಲ್u200cಬಾರ್ ಬಟನ್ ಕ್ರಿಯೆ",
+  "selectaction": {
+    "message": "ಬಟನ್ ಕ್ರಿಯೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
     "description": ""
   },
   "cpyalllnk": {
@@ -52,35 +52,11 @@
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯ URL (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
+    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯ URL ಆಗಿ (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
     "description": ""
   },
   "cpytablnknp": {
     "message": "ಈ ಟ್ಯಾಬ್ ಲಿಂಕ್ ಆಗಿ (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "ಟ್ಯಾಬ್ ಸಂದರ್ಭ ಮೆನು ಮೂಲಕ ಕ್ರಿಯೆಗಳನ್ನು ಆಹ್ವಾನಿಸಿ",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "ಟೂಲ್u200cಬಾರ್ ಬಟನ್ ಸಂದರ್ಭ ಮೆನು ಮೂಲಕ ಕ್ರಿಯೆಗಳನ್ನು ಆಹ್ವಾನಿಸಿ",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "ಕ್ರಿಯೆಗಳಿಗೆ ಶಾರ್ಟ್u200cಕಟ್u200cಗಳನ್ನು ನಿಯೋಜಿಸಿ",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "ಟೂಲ್u200cಬಾರ್ ಬಟನ್ ಅನ್ನು ಮರೆಮಾಡಿ ಅಥವಾ ಸರಿಸಿ",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "ಅಧಿಸೂಚನೆಗಳನ್ನು ತೋರಿಸಿ (ಅನುಮತಿಗಳನ್ನು ನೋಡಿ)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

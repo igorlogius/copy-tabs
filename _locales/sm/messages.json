@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopi Tabs e fai ma hyperlinks po'o tusitusiga URL",
+    "message": "Kopi Tape e fai ma hyperlinks po'o tusitusiga URL e iai pe leai ni fa'ailoga",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Gaioiga o faamau o meafaigaluega",
+  "selectaction": {
+    "message": "Filifili ki gaioiga",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Le Tape lea e fai ma So'oga (Parameters Strip)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Fa'ailoa gaioiga e ala i le lisi o fa'amatalaga o le tab",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Fa'ailo gaioiga e ala ile fa'aigoa fa'aigoa fa'amau fa'amau",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Tofi ni ala pupuu mo taga",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Natia pe aveese le faamau meafaigaluega",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Faaali atu fa'amatalaga (silasila i Fa'atagaga)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

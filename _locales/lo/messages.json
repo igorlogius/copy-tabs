@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ສຳເນົາແຖບເປັນ hyperlinks ຫຼື URL ຂໍ້ຄວາມ",
+    "message": "ຄັດລອກແຖບເປັນ hyperlinks ຫຼື URL ຂໍ້ຄວາມທີ່ມີຫຼືບໍ່ມີພາລາມິເຕີ",
     "description": ""
   },
-  "labelseltba": {
-    "message": "ຄຳສັ່ງປຸ່ມແຖບເຄື່ອງມື",
+  "selectaction": {
+    "message": "ເລືອກຄຳສັ່ງປຸ່ມ",
     "description": ""
   },
   "cpyalllnk": {
@@ -36,7 +36,7 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "ແຖບທັງໝົດເປັນຕົວເຊື່ອມຕໍ່ (ຕົວກໍານົດການແຖບ)",
+    "message": "ແຖບທັງໝົດເປັນລິ້ງ (ພາຣາມິເຕີແຖບ)",
     "description": ""
   },
   "cpyalltxtnp": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "ແຖບນີ້ເປັນລິ້ງ (ພາຣາມິເຕີແຖບ)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "ຮຽກຮ້ອງການດໍາເນີນການໂດຍຜ່ານເມນູສະພາບຂອງແຖບ",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "ຮຽກຮ້ອງການດໍາເນີນການໂດຍຜ່ານເມນູສະພາບການປຸ່ມແຖບເຄື່ອງມື",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "ກໍານົດທາງລັດສໍາລັບການປະຕິບັດ",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "ເຊື່ອງ ຫຼືຍ້າຍປຸ່ມແຖບເຄື່ອງມື",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "ສະແດງການແຈ້ງເຕືອນ (ເບິ່ງການອະນຸຍາດ)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

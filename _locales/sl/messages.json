@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopirajte zavihke kot hiperpovezave ali besedilne URL-je",
+    "message": "Kopirajte zavihke kot hiperpovezave ali besedilne URL-je s parametri ali brez njih",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Dejanje gumba orodne vrstice",
+  "selectaction": {
+    "message": "Izberite dejanje gumba",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Ta zavihek kot povezava (parametri traku)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Prikličite dejanja prek kontekstnega menija zavihka",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Prikličite dejanja prek kontekstnega menija gumba orodne vrstice",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Določite bližnjice za dejanja",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Skrij ali premakni gumb orodne vrstice",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Prikaži obvestila (glejte Dovoljenja)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

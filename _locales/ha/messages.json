@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kwafi Shafuka azaman hanyoyin haɗin kai ko URLs na rubutu",
+    "message": "Kwafi Shafuka azaman hanyoyin haɗin kai ko rubutu URL tare da ko ba tare da sigogi ba",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Ayyukan maɓallin Toolbar",
+  "selectaction": {
+    "message": "Zaɓi aikin maɓallin",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Wannan Tab a matsayin Link (Strip Parameters)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Kira ayyuka ta hanyar menu na mahallin shafin",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Kira ayyuka ta hanyar menu na mahallin maɓallin kayan aiki",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Sanya gajerun hanyoyi don ayyuka",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Boye ko matsar da maɓallin kayan aiki",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Nuna sanarwa (duba Izini)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

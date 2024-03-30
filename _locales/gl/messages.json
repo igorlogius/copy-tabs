@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copiar pestanas como hipervínculos ou URL de texto",
+    "message": "Copiar pestanas como hipervínculos ou URL de texto con ou sen parámetros",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Acción do botón da barra de ferramentas",
+  "selectaction": {
+    "message": "Seleccione a acción do botón",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Esta pestana como ligazón (parámetros de tira)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Invoca accións a través do menú contextual da pestana",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Invoca accións a través do menú contextual do botón da barra de ferramentas",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Asignar atallos para accións",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Ocultar ou mover o botón da barra de ferramentas",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Mostrar notificacións (ver Permisos)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

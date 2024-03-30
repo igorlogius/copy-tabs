@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopieer tabbladen als hyperlinks of tekst-URL's",
+    "message": "Kopieer tabbladen als hyperlinks of tekst-URL's met of zonder parameters",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Werkbalkknopactie",
+  "selectaction": {
+    "message": "Selecteer knopactie",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Dit tabblad als link (Stripparameters)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Roep acties op via het contextmenu van het tabblad",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Roep acties op via het contextmenu van de werkbalkknop",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Wijs snelkoppelingen toe voor acties",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Verberg of verplaats de werkbalkknop",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Meldingen tonen (zie Machtigingen)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

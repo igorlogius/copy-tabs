@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Dèan lethbhreac de na tabaichean mar eadar-cheanglaichean no URLan teacsa",
+    "message": "Dèan lethbhreac de na tabaichean mar eadar-cheanglaichean no URLan teacsa le no às aonais crìochan",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Gnìomh putan a' bhàr-inneal",
+  "selectaction": {
+    "message": "Tagh gnìomh putan",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "An taba seo mar cheangal (parameters stiallach)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Cuir a-steach gnìomhan tro chlàr co-theacsa tab",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Cuir a-steach gnìomhan tro chlàr co-theacsa putan a’ bhàr-inneal",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Sònraich ath-ghoiridean airson gnìomhan",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Falaich no gluais am putan bàr-inneal",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Seall fiosan (faic Ceadan)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

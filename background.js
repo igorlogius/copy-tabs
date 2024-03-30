@@ -7,6 +7,12 @@ let toolbarAction = "cpyalllnk";
 let noURLParams = false;
 let ready = false;
 
+async function setToStorage(id, value) {
+  let obj = {};
+  obj[id] = value;
+  return browser.storage.local.set(obj);
+}
+
 function iconBlink() {
   browser.browserAction.disable();
   setTimeout(() => {
@@ -174,8 +180,26 @@ async function onStorageChange() {
     title: manifest.commands[toolbarAction].description,
   });
 
-  let txt = toolbarAction[3] + "" + toolbarAction[6];
-  txt = txt.toUpperCase();
+  let txt = "";
+
+  // first letter
+
+  if (toolbarAction.includes("cpyall")) {
+    txt = txt + "A";
+  } else if (toolbarAction.includes("cpysel")) {
+    txt = txt + "S";
+  } else if (toolbarAction.includes("cpytab")) {
+    txt = txt + "T";
+  }
+
+  // second letter
+
+  if (toolbarAction.includes("lnk")) {
+    txt = txt + "L";
+  } else if (toolbarAction.includes("txt")) {
+    txt = txt + "T";
+  }
+
   browser.browserAction.setBadgeText({ text: txt });
 }
 
@@ -243,14 +267,25 @@ async function onStorageChange() {
     });
   }
 
-  // open option page
+  // add selection menu to toolbar button to switch action
+
   browser.menus.create({
-    title: "Preferences",
-    contexts: ["browser_action", "tab"],
-    onclick: () => {
-      browser.runtime.openOptionsPage();
-    },
+    id: "basela",
+    title: browser.i18n.getMessage("selectaction"),
+    contexts: ["browser_action"],
   });
+
+  // add the 4 context entries
+  for (const cmd of Object.keys(manifest.commands)) {
+    browser.menus.create({
+      parentId: "basela",
+      title: manifest.commands[cmd].description,
+      contexts: ["browser_action"],
+      onclick: (info) => {
+        setToStorage("toolbarAction", cmd);
+      },
+    });
+  }
 
   await onStorageChange();
   ready = true;

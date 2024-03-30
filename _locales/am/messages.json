@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ትሮችን እንደ hyperlinks ወይም የጽሑፍ URLs ቅዳ",
+    "message": "ትሮችን እንደ hyperlinks ወይም የጽሑፍ ዩአርኤሎችን ከግቤቶች ጋር ወይም ያለ ግልባጭ ይቅዱ",
     "description": ""
   },
-  "labelseltba": {
-    "message": "የመሳሪያ አሞሌ አዝራር እርምጃ",
+  "selectaction": {
+    "message": "የአዝራር እርምጃን ይምረጡ",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "ይህ ትር እንደ አገናኝ (የግጭት መለኪያዎች)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "በትር አውድ ሜኑ በኩል እርምጃዎችን ጥራ",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "በመሳሪያ አሞሌ አዝራር አውድ ምናሌ በኩል እርምጃዎችን ጥራ",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "ለድርጊቶች አቋራጮችን መድብ",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "የመሳሪያ አሞሌውን ደብቅ ወይም አንቀሳቅስ",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "ማሳወቂያዎችን አሳይ (ፍቃዶችን ይመልከቱ)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

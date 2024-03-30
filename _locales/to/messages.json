@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Hiki tatau ʻa e ngaahi ʻuluʻitohi ʻi he hyperlinks pe text URLs",
+    "message": "Hiki tatau ʻa e ngaahi ʻuluʻitohi ʻo hange ko e hyperlinks pe text URLs ʻaki pe taʻe ʻi ai ha fakangatangata",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Toolbar ngaue ki he button",
+  "selectaction": {
+    "message": "Fili ʻa e meʻa lomi ke fai",
     "description": ""
   },
   "cpyalllnk": {
@@ -56,31 +56,7 @@
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ko e tab ko ʻeni ko ha fehokotakiʻanga (fakangatangata)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Fai ha ngaahi ngaue ʻo fakafou ʻi he fakahokohoko ʻo e tab",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Fakaʻaongaʻi e ngaahi ngaue ʻo fakafou ʻi he toolbar button menu",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Vahe shortcuts ki he ngaahi ngaue",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Fufuuʻi pe ʻunuakiʻi ʻa e toolbar",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Fakaʻasi ʻa e fanongonongo (vakai ki he ngaahi fakangofua)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
+    "message": "Ko e tab ko ʻeni ko ha fehokotakiʻanga (fakangatangataʻ",
     "description": ""
   }
 }

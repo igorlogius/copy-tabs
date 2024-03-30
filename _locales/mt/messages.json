@@ -4,15 +4,15 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Ikkopja Tabs bħala hyperlinks jew URLs tat-test",
+    "message": "Ikkopja Tabs bħala hyperlinks jew URLs tat-test b'parametri jew mingħajrhom",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Azzjoni tal-buttuna tal-Toolbar",
+  "selectaction": {
+    "message": "Agħżel l-azzjoni tal-buttuna",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "It-Tabs kollha bħala Links",
+    "message": "Tabs kollha bħala Links",
     "description": ""
   },
   "cpyalltxt": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Din it-Tab bħala Link (Parametri tal-Istrixxa)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Invoka azzjonijiet permezz tal-menu tal-kuntest tat-tab",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Invoka azzjonijiet permezz tal-menu tal-kuntest tal-buttuna tal-bar tal-għodda",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Assenja shortcuts għall-azzjonijiet",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Aħbi jew iċċaqlaq il-buttuna tal-għodda",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Uri notifiki (ara Permessi)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

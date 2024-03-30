@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Sekmeleri köprüler veya metin URL'leri olarak kopyalayın",
+    "message": "Sekmeleri köprüler veya parametreli veya parametresiz metin URL'leri olarak kopyalayın",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Araç çubuğu düğmesi eylemi",
+  "selectaction": {
+    "message": "Düğme eylemini seç",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Bağlantı Olarak Bu Sekme (Şerit Parametreleri)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Sekme içerik menüsü aracılığıyla eylemleri çağırma",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Araç çubuğu düğmesi içerik menüsü aracılığıyla eylemleri çağırma",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Eylemler için kısayollar atayın",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Araç çubuğu düğmesini gizleyin veya taşıyın",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Bildirimleri göster (bkz. İzinler)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

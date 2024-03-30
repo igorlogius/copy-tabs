@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "टैब को हाइपरलिंक या टेक्स्ट यूआरएल के रूप में कॉपी करें",
+    "message": "पैरामीटर के साथ या उसके बिना टैब को हाइपरलिंक या टेक्स्ट यूआरएल के रूप में कॉपी करें",
     "description": ""
   },
-  "labelseltba": {
-    "message": "टूलबार बटन क्रिया",
+  "selectaction": {
+    "message": "बटन क्रिया का चयन करें",
     "description": ""
   },
   "cpyalllnk": {
@@ -36,7 +36,7 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "सभी टैब लिंक के रूप में (स्ट्रिप पैरामीटर्स)",
+    "message": "लिंक के रूप में सभी टैब (स्ट्रिप पैरामीटर्स)",
     "description": ""
   },
   "cpyalltxtnp": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "यह टैब लिंक के रूप में (स्ट्रिप पैरामीटर्स)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "टैब संदर्भ मेनू के माध्यम से क्रियाएँ प्रारंभ करें",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "टूलबार बटन संदर्भ मेनू के माध्यम से क्रियाएँ प्रारंभ करें",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "कार्यों के लिए शॉर्टकट निर्दिष्ट करें",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "टूलबार बटन को छिपाएँ या स्थानांतरित करें",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "सूचनाएं दिखाएं (अनुमतियाँ देखें)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

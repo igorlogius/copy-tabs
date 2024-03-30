@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiearje ljeppers as hyperkeppelings of tekst-URL's",
+    "message": "Kopiearje ljeppers as hyperkeppelings of tekst-URL's mei of sûnder parameters",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Arkbalke knop aksje",
+  "selectaction": {
+    "message": "Selektearje knop aksje",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Dizze ljepper as keppeling (Stripparameters)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Roep aksjes op fia it ljepblêd kontekstmenu",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Rop aksjes op fia it kontekstmenu fan de arkbalkeknop",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Tawize fluchtoetsen foar aksjes",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Ferbergje of ferpleatse de arkbalkeknop",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Notifikaasjes sjen litte (sjoch tagongsrjochten)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

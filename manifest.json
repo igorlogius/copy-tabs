@@ -47,10 +47,7 @@
   "manifest_version": 2,
   "name": "__MSG_addonName__",
   "description": "__MSG_addonDesc__",
-  "options_ui": {
-    "page": "options.html"
-  },
   "permissions": ["clipboardWrite", "storage", "menus", "tabs"],
   "optional_permissions": ["notifications"],
-  "version": "1.14.42"
+  "version": "1.15.42"
 }

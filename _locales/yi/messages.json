@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " ס URL טסקעט רעדאָ סקגנילרעפּייכ יוו סבאַט ןכאַמכאָנ",
+    "message": " סרעטעמאַראַפּ ןאָ רעדאָ טימ ס URL טסקעט רעדאָ סקגנילרעפּייכ יוו סבאַט ןכאַמכאָנ",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Toolbar ףמאַק לפּענק",
+  "selectaction": {
+    "message": " ףמאַק לפּענק ןביַילקסיוא",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": " (סרעטעמאַראַפּ פּירטס) קניל יוו לטיווק םעד",
-    "description": ""
-  },
-  "hint_1": {
-    "message": " וינעמ טסקעטנאָק לטיווק יד ךרוד זנאַשקאַ ןפור",
-    "description": ""
-  },
-  "hint_2": {
-    "message": " לפּענק רישכמ יד ןופ וינעמ טסקעטנאָק יד ךרוד זנאַשקאַ ןפור",
-    "description": ""
-  },
-  "hint_3": {
-    "message": " זנאַשקאַ ראַפֿ ץאַקטראָש ןעמיטשאַב",
-    "description": ""
-  },
-  "hint_4": {
-    "message": " לפּענק רישכמ יד ךאַמ רעדאָ ןטלאַהאַב",
-    "description": ""
-  },
-  "hint_5": {
-    "message": " (זנאַשימרעפּ ןעז) זנאַשייקאַפאַטואָנ ןזיַיוו",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

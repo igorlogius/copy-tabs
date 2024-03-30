@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopi Tabs kòm lyen oswa URL tèks",
+    "message": "Kopi Tabs kòm lyen ipèr oswa URL tèks avèk oswa san paramèt",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Aksyon bouton ba zouti",
+  "selectaction": {
+    "message": "Chwazi aksyon bouton",
     "description": ""
   },
   "cpyalllnk": {
@@ -56,31 +56,7 @@
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tab sa a kòm Link (Paramèt Strip)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Envoke aksyon atravè meni kontèks tab la",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Envoke aksyon atravè meni kontèks bouton ba zouti a",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Bay rakoursi pou aksyon yo",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Kache oswa deplase bouton ba zouti a",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Montre notifikasyon (gade otorizasyon)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
+    "message": "Tab sa a kòm lyen (Paramèt Strip)",
     "description": ""
   }
 }

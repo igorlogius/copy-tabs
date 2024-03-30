@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopioi välilehdet hyperlinkkeinä tai teksti-URL-osoitteina",
+    "message": "Kopioi välilehdet hyperlinkkeinä tai teksti-URL-osoitteina parametrien kanssa tai ilman",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Työkalupalkin painiketoiminto",
+  "selectaction": {
+    "message": "Valitse painikkeen toiminta",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Tämä välilehti linkkinä (kaistan parametrit)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Kutsu toimintoja välilehden kontekstivalikon kautta",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Kutsu toimintoja työkalupalkin painikkeen kontekstivalikon kautta",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Määritä toimintojen pikakuvakkeet",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Piilota tai siirrä työkalupalkin painike",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Näytä ilmoitukset (katso Käyttöoikeudet)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

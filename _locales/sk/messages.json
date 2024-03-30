@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopírovať karty ako hypertextové odkazy alebo textové adresy URL",
+    "message": "Skopírujte karty ako hypertextové odkazy alebo textové adresy URL s parametrami alebo bez nich",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Akcia tlačidla na paneli s nástrojmi",
+  "selectaction": {
+    "message": "Vyberte akciu tlačidla",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Táto karta ako odkaz (Parametre pásu)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Vyvolávajte akcie prostredníctvom kontextovej ponuky karty",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Vyvolávajte akcie prostredníctvom kontextovej ponuky tlačidla na paneli s nástrojmi",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Priraďte skratky pre akcie",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Skryť alebo presunúť tlačidlo na paneli s nástrojmi",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Zobraziť upozornenia (pozri Povolenia)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

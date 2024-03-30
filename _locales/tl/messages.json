@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopyahin ang Mga Tab bilang mga hyperlink o text URL",
+    "message": "Kopyahin ang Mga Tab bilang mga hyperlink o text URL na mayroon o walang mga parameter",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Aksyon ng button ng toolbar",
+  "selectaction": {
+    "message": "Pumili ng pagkilos na pindutan",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Ang Tab na ito bilang Link (Mga Parameter ng Strip)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Mag-invoke ng mga aksyon sa pamamagitan ng menu ng konteksto ng tab",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Mag-invoke ng mga aksyon sa pamamagitan ng menu ng konteksto ng button ng toolbar",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Magtalaga ng mga shortcut para sa mga aksyon",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Itago o ilipat ang pindutan ng toolbar",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Ipakita ang mga notification (tingnan ang Mga Pahintulot)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

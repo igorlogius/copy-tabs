@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copïwch Tabiau fel hyperddolenni neu URLs testun",
+    "message": "Copïwch Tabiau fel hypergysylltiadau neu URLs testun gyda pharamedrau neu hebddynt",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Gweithred botwm bar offer",
+  "selectaction": {
+    "message": "Dewiswch weithred botwm",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Y Tab hwn fel Dolen (Paramedrau Strip)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Ysgogi gweithredoedd trwy ddewislen cyd-destun y tab",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Gweithredwch trwy ddewislen cyd-destun botwm y bar offer",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Neilltuo llwybrau byr ar gyfer gweithredoedd",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Cuddio neu symud botwm y bar offer",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Dangos hysbysiadau (gweler Caniatâd)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

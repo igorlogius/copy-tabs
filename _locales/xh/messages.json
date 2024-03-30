@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Khuphela ii-Tabs njengehyperlink okanye ii-URL zombhalo",
+    "message": "Khuphela ii-Tabs njengehyperlinks okanye ii-URL ezibhaliweyo ezineparameters okanye ngaphandle kwazo",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Intshukumo yeqhosha lebar yesixhobo",
+  "selectaction": {
+    "message": "Khetha isenzo seqhosha",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Le Tabhu njengeNxulumano (Iiparamitha zomcu)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Biza iintshukumo usebenzisa ithebhu yemenu yentsingiselo",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Biza iintshukumo usebenzisa imenyu yentsingiselo yebar yesixhobo",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Yabela iindlela ezimfutshane kwizenzo",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Fihla okanye uhambise iqhosha lebar yesixhobo",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Bonisa izaziso (bona iiMvume)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

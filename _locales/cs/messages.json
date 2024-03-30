@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopírovat karty jako hypertextové odkazy nebo textové adresy URL",
+    "message": "Kopírovat karty jako hypertextové odkazy nebo textové adresy URL s parametry nebo bez nich",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Akce tlačítka na panelu nástrojů",
+  "selectaction": {
+    "message": "Vyberte akci tlačítka",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Tato karta jako odkaz (parametry stripu)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Vyvolání akcí prostřednictvím kontextové nabídky karty",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Vyvolání akcí prostřednictvím kontextové nabídky tlačítka na panelu nástrojů",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Přiřaďte zkratky akcí",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Skryjte nebo přesuňte tlačítko na panelu nástrojů",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Zobrazit oznámení (viz Oprávnění)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

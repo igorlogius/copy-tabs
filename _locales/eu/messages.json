@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiatu fitxak hiperesteka edo testu URL gisa",
+    "message": "Kopiatu fitxak hiperesteka edo testu URL gisa parametroekin edo gabe",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Tresna-barrako botoiaren ekintza",
+  "selectaction": {
+    "message": "Hautatu botoiaren ekintza",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Fitxa hau esteka gisa (bandaren parametroak)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Deitu ekintzak fitxaren testuinguru-menuaren bidez",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Deitu ekintzak tresna-barrako botoiaren testuinguru-menuaren bidez",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Esleitu lasterbideak ekintzetarako",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Ezkutatu edo mugitu tresna-barrako botoia",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Erakutsi jakinarazpenak (ikus Baimenak)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

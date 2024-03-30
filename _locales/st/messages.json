@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopitsa Li-tab joalo ka li-hyperlink kapa li-URL tsa mongolo",
+    "message": "Kopitsa Li-tab e le li-hyperlink kapa li-URL tsa mongolo tse nang le liparamente kapa ntle le tsona",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Ts'ebetso ea konopo ea Toolbar",
+  "selectaction": {
+    "message": "Khetha ts'ebetso ea konopo",
     "description": ""
   },
   "cpyalllnk": {
@@ -56,31 +56,7 @@
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Taba ena e le Sehokelo (Strip Parameters)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Etsa liketso ka ho sebelisa menu ea moelelo oa taba",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Kopa liketso ka konopo ea konopo ea toolbar",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Abela liketso tse khaoletsang",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Pata kapa tsamaisa konopo ea toolbar",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Hlahisa litsebiso (bona Litumello)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
+    "message": "Taba ena e le Khokahanyo (Strip Parameters)",
     "description": ""
   }
 }

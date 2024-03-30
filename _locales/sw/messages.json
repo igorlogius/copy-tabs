@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Nakili Vichupo kama viungo au URL za maandishi",
+    "message": "Nakili Vichupo kama viungo au URL za maandishi zilizo na au zisizo na vigezo",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Kitendo cha kitufe cha upau wa vidhibiti",
+  "selectaction": {
+    "message": "Chagua kitendo cha kitufe",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Kichupo hiki kama Kiungo (Vigezo vya Ukanda)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Omba vitendo kupitia menyu ya muktadha wa kichupo",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Omba vitendo kupitia menyu ya muktadha ya kitufe cha upau wa vidhibiti",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Weka njia za mkato za vitendo",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Ficha au sogeza kitufe cha upau wa vidhibiti",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Onyesha arifa (angalia Ruhusa)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

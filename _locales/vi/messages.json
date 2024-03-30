@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Sao chép tab dưới dạng siêu liên kết hoặc URL văn bản",
+    "message": "Sao chép Tab dưới dạng siêu liên kết hoặc URL văn bản có hoặc không có tham số",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Thao tác với nút trên thanh công cụ",
+  "selectaction": {
+    "message": "Chọn hành động nút",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Tab này dưới dạng liên kết (Thông số dải)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Gọi hành động thông qua menu ngữ cảnh tab",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Gọi hành động thông qua menu ngữ cảnh của nút thanh công cụ",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Gán phím tắt cho các hành động",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Ẩn hoặc di chuyển nút thanh công cụ",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Hiển thị thông báo (xem Quyền)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

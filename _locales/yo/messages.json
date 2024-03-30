@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Daakọ Awọn taabu bi hyperlinks tabi awọn URL ọrọ",
+    "message": "Daakọ Awọn taabu bi awọn ọna asopọ hyperlinks tabi awọn URL ọrọ pẹlu tabi laisi awọn paramita",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Iṣe bọtini irinṣẹ",
+  "selectaction": {
+    "message": "Yan iṣẹ bọtini",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Taabu yii bi Ọna asopọ (Awọn paramita gigun)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Pe awọn iṣe nipasẹ akojọ aṣayan ọrọ taabu",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Pe awọn iṣe nipasẹ bọtini irinṣẹ bọtini akojọ aṣayan ọrọ",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Fi awọn ọna abuja fun awọn iṣe",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Tọju tabi gbe bọtini irinṣẹ irinṣẹ",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Ṣafihan awọn iwifunni (wo Awọn igbanilaaye)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

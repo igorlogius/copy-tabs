@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " טסקט תובותכ וא םירושיק-רפיהכ תויסיטרכ קתעה",
+    "message": " םירטמרפ ילב וא םע טסקט לש םירתא תובותכ וא םירושיק-רפיהכ תויסיטרכ קתעה",
     "description": ""
   },
-  "labelseltba": {
-    "message": " םילכה לגרסב רותפכ תלועפ",
+  "selectaction": {
+    "message": " רותפכ תלועפ רחב",
     "description": ""
   },
   "cpyalllnk": {
@@ -40,11 +40,11 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " (העוצר לש םירטמרפ) טסקט לש םירתא תובותככ תויסיטרכה לכ",
+    "message": " (העוצר ירטמרפ) טסקט לש םירתא תובותככ תויסיטרכה לכ",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " (העוצר ירטמרפ) םירושיקכ ורחבנש תויסיטרכ",
+    "message": " (העוצר לש םירטמרפ) םירושיקכ ורחבנש תויסיטרכ",
     "description": ""
   },
   "cpyseltxtnp": {
@@ -52,35 +52,11 @@
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " (העוצר לש םירטמרפ) טסקט לש URL תבותככ וז הייסיטרכ",
+    "message": " (העוצר לש םירטמרפ) טסקט תבותככ וז הייסיטרכ",
     "description": ""
   },
   "cpytablnknp": {
     "message": " (העוצר ירטמרפ) רושיקכ וז הייסיטרכ",
-    "description": ""
-  },
-  "hint_1": {
-    "message": " הייסיטרכה לש רשקהה טירפת ךרד תולועפ לעפה",
-    "description": ""
-  },
-  "hint_2": {
-    "message": " םילכה לגרס ןצחל לש רשקהה טירפת ךרד תולועפ לעפה",
-    "description": ""
-  },
-  "hint_3": {
-    "message": " תולועפל ךרד ירוציק הצקה",
-    "description": ""
-  },
-  "hint_4": {
-    "message": " םילכה לגרס ןצחל תא זזה וא רתסה",
-    "description": ""
-  },
-  "hint_5": {
-    "message": " (תואשרה האר) תוארתה גצה",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

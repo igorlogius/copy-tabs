@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copie guias como hiperlinks ou URLs de texto",
+    "message": "Copie guias como hiperlinks ou URLs de texto com ou sem parâmetros",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Ação do botão da barra de ferramentas",
+  "selectaction": {
+    "message": "Selecione a ação do botão",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Esta guia como link (parâmetros da faixa)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Invoque ações por meio do menu de contexto da guia",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Invoque ações por meio do menu de contexto do botão da barra de ferramentas",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Atribuir atalhos para ações",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Ocultar ou mover o botão da barra de ferramentas",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Mostrar notificações (consulte Permissões)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

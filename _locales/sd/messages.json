@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " ﻮﻳﺮڪ ﻞﻘﻧ ﺭﻮﻃ URLs ٽﺴڪﻴٽ ﺎﻳ ﺲڪﻨﻟ ﺮﭙﺋﺎﻫ ﻲﮐ ﺐﻴٽ",
+    "message": " ءِﺍﻮﺳ ﻥﺎﮐ ﻥﺍ ﺎﻳ ﻮﻳﺮڪ ﻞﻘﻧ ﻲﺗ ﺭﻮﻃ ﻲﺟ URLs ٽﺴڪﻴٽ ﺎﻳ ﺲڪﻨﻟ ﺮﭙﺋﺎﻫ ﻲﮐ ﺲﺒﺌٽ",
     "description": ""
   },
-  "labelseltba": {
-    "message": " ﻞﻤﻋ ﻮﺟ ﮡٽﺑ ﺭﺎﺑ ﻝﻮٽ",
+  "selectaction": {
+    "message": " ﻮﻳڊﻧﻮﭼ ﻞﻤﻋ ﮡٽﺑ",
     "description": ""
   },
   "cpyalllnk": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": " ڪﻨﻟ ﺭﻮﻄﺑ ﺐﺌٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
+    "message": " ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ",
     "description": ""
   },
   "cpyseltxt": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": " (ﺮﻟﻭﺮٽﻴﭘ ﻲٽﭘ) ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﻴٽ ﻲﻫ",
-    "description": ""
-  },
-  "hint_1": {
-    "message": " ﻮﻳڏ ﺕﻮﻋﺩ ﻲﮐ ﻦﻠﻤﻋ ﻲﻌﻳﺭﺫ ﻮﻴﻨﻴﻣ ﻥﺎﺳ ﻲﻟﺍﻮﺣ ﻲﺟ ﺐﻴٽ",
-    "description": ""
-  },
-  "hint_2": {
-    "message": " ﻮﻳڏ ﺕﻮﻋﺩ ﻲﮐ ﻦﻠﻤﻋ ﻲﻌﻳﺭﺫ ﻮﻴﻨﻴﻣ ﻥﺎﺳ ﻲﻟﺍﻮﺣ ﻲﺟ ﮡٽﺑ ﻲﺟ ﺭﺎﺑ ﻝﻮٽ",
-    "description": ""
-  },
-  "hint_3": {
-    "message": " ﻮﻳﺮڪ ﺭﺮﻘﻣ ٽڪ ٽﺭﺎﺷ ءِﻻ﻿ ﻦﻠﻤﻋ",
-    "description": ""
-  },
-  "hint_4": {
-    "message": " ﻮﻳﺮڪ ﻞﻘﺘﻨﻣ ﺎﻳ ﻮﻳﺎڪﻟ ﻲﮐ ﮡٽﺑ ﻲﺟ ﺭﺎﺑ ﻝﻮٽ",
-    "description": ""
-  },
-  "hint_5": {
-    "message": " (ﻥﻮﺗﺯﺎﺟﺍ ﻮﺳڏ) ﻮﻳﺭﺎﮑﻳڏ ﻉﻼ﻿ﻃﺍ",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

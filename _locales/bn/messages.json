@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ট্যাবগুলিকে হাইপারলিঙ্ক বা পাঠ্য URL হিসাবে অনুলিপি করুন৷",
+    "message": "ট্যাবগুলিকে হাইপারলিঙ্ক বা টেক্সট URL হিসাবে প্যারামিটার সহ বা ছাড়াই অনুলিপি করুন৷",
     "description": ""
   },
-  "labelseltba": {
-    "message": "টুলবার বোতাম অ্যাকশন",
+  "selectaction": {
+    "message": "বোতাম ক্রিয়া নির্বাচন করুন",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "লিঙ্ক হিসাবে এই ট্যাব (স্ট্রিপ প্যারামিটার)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "ট্যাব প্রসঙ্গ মেনুর মাধ্যমে অ্যাকশন আহ্বান করুন",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "টুলবার বোতাম প্রসঙ্গ মেনুর মাধ্যমে অ্যাকশন আহ্বান করুন",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "কর্মের জন্য শর্টকাট বরাদ্দ করুন",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "টুলবার বোতামটি লুকান বা সরান",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "বিজ্ঞপ্তি দেখান (অনুমতি দেখুন)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

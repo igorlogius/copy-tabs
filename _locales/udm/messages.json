@@ -7,7 +7,7 @@
     "message": "",
     "description": ""
   },
-  "labelseltba": {
+  "selectaction": {
     "message": "",
     "description": ""
   },
@@ -56,30 +56,6 @@
     "description": ""
   },
   "cpytablnknp": {
-    "message": "",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "",
-    "description": ""
-  },
-  "hint_6": {
     "message": "",
     "description": ""
   }

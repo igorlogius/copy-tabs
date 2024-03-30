@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopisha Amathebhu njengezixhumanisi noma ama-URL wombhalo",
+    "message": "Kopisha Amathebhu njengezixhumanisi noma ama-URL ombhalo anamapharamitha noma angenawo",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Isenzo senkinobho yebha yamathuluzi",
+  "selectaction": {
+    "message": "Khetha isenzo senkinobho",
     "description": ""
   },
   "cpyalllnk": {
@@ -24,7 +24,7 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Amathebhu Akhethiwe Njengama-URL Ombhalo",
+    "message": "Amathebhu akhethiwe njengama-URL wombhalo",
     "description": ""
   },
   "cpytabtxt": {
@@ -48,7 +48,7 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Amathebhu Akhethiwe Njengama-URL Ombhalo (Strip Parameters)",
+    "message": "Amathebhu Akhethiwe Njengama-URL Ombhalo (Ama-Strip Parameters)",
     "description": ""
   },
   "cpytabtxtnp": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Le Thebhu Njengesixhumanisi (Amapharamitha we-Strip)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Cela izenzo ngemenyu yokuqukethwe kwethebhu",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Cela izenzo ngemenyu yokuqukethwe yenkinobho yebha yamathuluzi",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Nikeza izinqamuleli zezenzo",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Fihla noma hambisa inkinobho yebha yamathuluzi",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Bonisa izaziso (bona Izimvume)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

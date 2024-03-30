@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiu Langetojn kiel hiperligojn aŭ tekstajn URLojn",
+    "message": "Kopiu Langetojn kiel hiperligojn aŭ tekstajn URL-ojn kun aŭ sen parametroj",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Ilobreto butono ago",
+  "selectaction": {
+    "message": "Elektu butonan agon",
     "description": ""
   },
   "cpyalllnk": {
@@ -32,7 +32,7 @@
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ĉi tiu Langeto kiel Ligo",
+    "message": "Ĉi tiu langeto kiel Ligo",
     "description": ""
   },
   "cpyalllnknp": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Ĉi tiu Langeto kiel Ligo (Strip Parametroj)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Alvoku agojn per la langeta kunteksta menuo",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Alvoku agojn per la kunteksta menuo de ilobreto",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Asignu ŝparvojojn por agoj",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Kaŝi aŭ movu la ilobretobutonon",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Montri sciigojn (vidu Permesojn)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

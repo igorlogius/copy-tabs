@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copia Tabs cum'è hyperlinks o URL di testu",
+    "message": "Copia Tabs cum'è hyperlinks o URL di testu cù o senza parametri",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Azzione di u buttone di Toolbar",
+  "selectaction": {
+    "message": "Selezziunà l'azzione di u buttone",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Questa Tabulazione cum'è Link (Parametri Strip)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Invoca l'azzioni via u menù di cuntestu di tabulazione",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Invoca l'azzioni via u menu cuntestu di u buttone di a barra di strumenti",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Assignate shortcuts per l'azzioni",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Oculta o move u buttone di a barra di strumenti",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Mostra notifiche (vede Permissions)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

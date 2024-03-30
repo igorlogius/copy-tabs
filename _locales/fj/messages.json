@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Lavetaka na Bulukau me hyperlinks se text URL",
+    "message": "Lavetaka na Bulukau me hyperlinks se text URL ena se sega na kena ivakarau",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Cakacaka ni bulukau ni iyaya ni cakacaka",
+  "selectaction": {
+    "message": "Digitaka na cakacaka ni bulukau",
     "description": ""
   },
   "cpyalllnk": {
@@ -24,7 +24,7 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Bulukau Digitaki me URL ni Text",
+    "message": "Bulukau Digitaki me URL ni Itukutuku",
     "description": ""
   },
   "cpytabtxt": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Na Bulukau oqo me iSema (Strip Parameters)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Kaciva na cakacaka ena menu ni itukutuku ni bulukau",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Cavuta na cakacaka ena bulukau ni bulukau ni iyaya ni cakacaka",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Lesia na sala lekaleka me baleta na cakacaka",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Vunitaka se tosoya na bulukau ni iyaya ni cakacaka",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Vakaraitaka na notisi (raica na Veivakadonui)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

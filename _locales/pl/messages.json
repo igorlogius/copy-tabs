@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiuj karty jako hiperłącza lub tekstowe adresy URL",
+    "message": "Kopiuj karty jako hiperłącza lub tekstowe adresy URL z parametrami lub bez nich",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Działanie przycisku paska narzędzi",
+  "selectaction": {
+    "message": "Wybierz działanie przycisku",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Ta zakładka jako łącze (parametry paska)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Wywołuj akcje za pomocą menu kontekstowego karty",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Wywołuj akcje poprzez menu kontekstowe przycisków paska narzędzi",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Przypisz skróty do działań",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Ukryj lub przesuń przycisk paska narzędzi",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Pokaż powiadomienia (zobacz Uprawnienia)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

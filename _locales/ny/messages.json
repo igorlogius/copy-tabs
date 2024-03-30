@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Koperani Ma tabu ngati ma hyperlink kapena ma URL alemba",
+    "message": "Koperani Ma tabu ngati ma hyperlink kapena ma URL okhala ndi kapena opanda magawo",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Toolbar batani ntchito",
+  "selectaction": {
+    "message": "Sankhani zochita batani",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Tabu iyi ngati Ulalo (Mizere ya Mizere)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Yambirani zochita kudzera pa menyu yankhani",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Yesetsani kuchitapo kanthu pogwiritsa ntchito batani la toolbar",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Perekani njira zazifupi pazochita",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Bisani kapena sunthani batani lazida",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Onetsani zidziwitso (onani Zilolezo)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

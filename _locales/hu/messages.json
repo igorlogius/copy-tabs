@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Másolja a lapokat hiperhivatkozásként vagy szöveges URL-ként",
+    "message": "Másolja a lapokat hiperhivatkozásként vagy szöveges URL-ként paraméterekkel vagy anélkül",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Eszköztár gomb művelet",
+  "selectaction": {
+    "message": "Válassza ki a gombműveletet",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Ez a lap hivatkozásként (szalagparaméterek)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Indítsa el a műveleteket a lap helyi menüjében",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Indítsa el a műveleteket az eszköztár gombjának helyi menüjében",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Parancsikonok hozzárendelése a műveletekhez",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Az eszköztár gombjának elrejtése vagy mozgatása",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Értesítések megjelenítése (lásd: Engedélyek)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

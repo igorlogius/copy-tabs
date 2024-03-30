@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "A nene'i i te mau tapa'o ei mau tapa'o e aore râ, ei mau parau papa'i",
+    "message": "A nene'i i te mau tapa'o ei mau tapa'o e aore râ, ei mau parau papa'i e aore râ, ei mau parau papa'i e aore râ, aita",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Te ohipa no te pitopito Toolbar",
+  "selectaction": {
+    "message": "Ma'iti i te ohipa no te pitopito",
     "description": ""
   },
   "cpyalllnk": {
@@ -36,7 +36,7 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Te mau tapa'o atoa ei hono (te mau api parau)",
+    "message": "Te mau tapa'o atoa ei mau hono (te mau)",
     "description": ""
   },
   "cpyalltxtnp": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Teie tapao ei tuatiraa (Te mau paratenia)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "A tapa'o i te mau ohipa i ni'a i te tabula ohipa",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "A faaara i te mau ohipa na roto i te pitopito o te pitopito toolbar",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Horo'a i te mau mana'o no te mau ohipa",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Huna e aore râ a faanuu i te pitopito toolbar",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Faaite i te mau faaararaa (a hi'o Te mau parau faati'a)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

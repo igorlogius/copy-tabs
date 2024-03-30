@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopéiert Tabs als Hyperlinks oder Text URLen",
+    "message": "Kopéiert Tabs als Hyperlinks oder Text URLen mat oder ouni Parameteren",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Toolbar Knäppchen Aktioun",
+  "selectaction": {
+    "message": "Wielt Knäppchen Aktioun",
     "description": ""
   },
   "cpyalllnk": {
@@ -52,35 +52,11 @@
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Dës Tab als Text URL (Strip Parameteren)",
+    "message": "Dësen Tab als Text URL (Strip Parameteren)",
     "description": ""
   },
   "cpytablnknp": {
     "message": "Dës Tab als Link (Strip Parameteren)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Uruff Aktiounen iwwer de Tab Kontextmenü",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Uruff Aktiounen iwwer de Kontextmenü vun der Toolbar Knäppchen",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Gitt Ofkiirzungen fir Aktiounen",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Verstoppen oder réckelen den Toolbar Knäppchen",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Show Notifikatiounen (kuckt Permissiounen)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }

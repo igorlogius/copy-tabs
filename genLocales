@@ -6,10 +6,10 @@ rm -rf ./_locales/*
 
 while read line;do
 	echo $line
-	mkdir ./_locales/$line
+	mkdir -p ./_locales/$line 2>/dev/null
 
 	name=$(trans -brief -from en -to "$line" "Copy Tabs")
-	desc=$(trans -brief -from en -to $line "Copy Tabs as hyperlinks or text URLs")
+	desc=$(trans -brief -from en -to $line "Copy Tabs as hyperlinks or text URLs with or without parameters")
 	cpytablnk=$(trans -brief -from en -to $line "This Tab as Link")
 	cpytabtxt=$(trans -brief -from en -to $line "This Tab as Text URL")
 	cpyalllnk=$(trans -brief -from en -to $line "All Tabs as Links")
@@ -24,13 +24,7 @@ while read line;do
 	cpysellnknp=$(trans -brief -from en -to $line "Selected Tabs as Links (Strip Parameters)")
 	cpyseltxtnp=$(trans -brief -from en -to $line "Selected Tabs as Text URLs (Strip Parameters)")
 
-	labelseltba=$(trans -brief -from en -to $line "Toolbar button action")
-
-	hint_1=$(trans -brief -from en -to $line "Invoke actions via the tab context menu")
-	hint_2=$(trans -brief -from en -to $line "Invoke actions via the toolbar button context menu")
-	hint_3=$(trans -brief -from en -to $line "Assign shortcuts for actions")
-	hint_4=$(trans -brief -from en -to $line "Hide or move the toolbar button")
-	hint_5=$(trans -brief -from en -to $line "Show notifications (see Permissions)")
+	selectaction=$(trans -brief -from en -to $line "Select button action")
 
 	JSON=$(cat << EOI
 
@@ -43,8 +37,8 @@ while read line;do
     "message": "$desc",
     "description": ""
   },
-  "labelseltba": {
-    "message": "$labelseltba",
+  "selectaction": {
+    "message": "$selectaction",
     "description": ""
   },
   "cpyalllnk": {
@@ -93,30 +87,6 @@ while read line;do
   },
   "cpytablnknp": {
     "message": "$cpytablnknp",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "$hint_1",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "$hint_2",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "$hint_3",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "$hint_4",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "$hint_5",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "$hint_6",
     "description": ""
   }
 }

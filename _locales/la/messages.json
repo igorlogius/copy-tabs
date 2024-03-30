@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Effingo Tabs sicut hyperlinks vel text URLs",
+    "message": "Effingo Tabs sicut hyperlinks vel text URLs cum vel sine parametris",
     "description": ""
   },
-  "labelseltba": {
-    "message": "Toolbar button actio",
+  "selectaction": {
+    "message": "Lego button actio",
     "description": ""
   },
   "cpyalllnk": {
@@ -57,30 +57,6 @@
   },
   "cpytablnknp": {
     "message": "Hoc Tab sicut Link (exue Parameters)",
-    "description": ""
-  },
-  "hint_1": {
-    "message": "Invocare actiones per tab contextu menu",
-    "description": ""
-  },
-  "hint_2": {
-    "message": "Invoca actiones per conjunctionem instrumentorum instrumentorum communicationis socialis",
-    "description": ""
-  },
-  "hint_3": {
-    "message": "Compendia pro actionibus assignato",
-    "description": ""
-  },
-  "hint_4": {
-    "message": "Celare vel movere toolbar puga",
-    "description": ""
-  },
-  "hint_5": {
-    "message": "Ostende notificationes (vide Permissionibus)",
-    "description": ""
-  },
-  "hint_6": {
-    "message": "",
     "description": ""
   }
 }
