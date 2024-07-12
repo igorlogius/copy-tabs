@@ -72,6 +72,7 @@ async function copyTabsAsText(tabs) {
 
 async function copyTabsAsHtml(tabs) {
   try {
+    let txtFallBackClipboardItem = "";
     let div = document.createElement("span"); // needs to be a <span> to prevent the final linebreak
     div.style.position = "absolute";
     div.style.bottom = "-9999999"; // move it offscreen
@@ -92,9 +93,11 @@ async function copyTabsAsHtml(tabs) {
       }
       a.textContent = t.title;
       div.append(a);
+      txtFallBackClipboardItem += a.href;
       if (i !== tabs_len - 1) {
         let br = document.createElement("br");
         div.append(br);
+        txtFallBackClipboardItem += "\n";
       }
     }
 
@@ -102,6 +105,7 @@ async function copyTabsAsHtml(tabs) {
       typeof navigator.clipboard.write === "undefined" ||
       typeof ClipboardItem === "undefined"
     ) {
+      console.debug("execCommand");
       div.focus();
       document.getSelection().removeAllRanges();
       var range = document.createRange();
@@ -109,9 +113,10 @@ async function copyTabsAsHtml(tabs) {
       document.getSelection().addRange(range);
       document.execCommand("copy");
     } else {
+      console.debug("ClipboardItem");
       await navigator.clipboard.write([
         new ClipboardItem({
-          "text/plain": new Blob([tabs.map((t) => a.href).join("\n")], {
+          "text/plain": new Blob([txtFallBackClipboardItem], {
             type: "text/plain",
           }),
           "text/html": new Blob([div.innerHTML], {
