@@ -111,7 +111,7 @@ async function copyTabsAsHtml(tabs) {
     } else {
       await navigator.clipboard.write([
         new ClipboardItem({
-          "text/plain": new Blob([tabs.map((t) => t.url).join("\n")], {
+          "text/plain": new Blob([tabs.map((t) => a.href).join("\n")], {
             type: "text/plain",
           }),
           "text/html": new Blob([div.innerHTML], {
