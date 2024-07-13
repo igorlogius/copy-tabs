@@ -6,7 +6,7 @@ Copy tabs as hyperlinks or as plaintext URLs, similar to MS Edge, but better sin
 
 <b>Short Demo Video:</b>
 
-https://github.com/igorlogius/copy-tabs/assets/67047467/aa71d37f-315b-4d8f-a555-c07d7099bf7e
+https://github.com/user-attachments/assets/8d849ad6-e07f-4402-b802-34447dfb7872
 
 <b>Enable plaintext fallback</b>
 This feature is behind the `dom.events.asyncClipboard.clipboardItem` preference
