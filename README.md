@@ -14,11 +14,13 @@ This feature is behind the `dom.events.asyncClipboard.clipboardItem` preference
 ref. https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/write#browser_compatibility
 - You might need to disable and reenable the addon for this setting to take effect.
 
-<b>Features:</b>
+<b>Usage/Features:</b>
 <ul>
-  <li>select the default toolbar button action</li>
-  <li>use context menu to quickly invoke the other copy action</li>
-  <li>set custom shortcuts for all actions</li>
-  <li>hide feedback notifications</li>
-  <li>add link fallback to plaintext url</li>
+  <li>Click the toolbar icon to opens the basic popup panel to reveal the basic  modes</li>
+  <li>Right click on a tab to access the context menu to invoke any copy action</li>
+  <li>Right click on the toolbar icon to change the Middle mouse click action for the toolbar button</li>
+  <li>Click on the toolbar icon with your 3rd (aka. middle mouse) button, to invoke the previously set copy action</li>
+  <li>Set and use custom shortcuts to invoke all copy actions</li>
+  <li>show/hide feedback notifications</li>
+  <li>build-in link fallback to plain text url (see note above)</li>
 </ul>
