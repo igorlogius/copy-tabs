@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " םירטמרפ ילב וא םע טסקט לש םירתא תובותכ וא םירושיק-רפיהכ תויסיטרכ קתעה",
+    "message": " ליגר טסקט וא םירושיק-רפיהכ תויסיטרכ לש םירתא תובותכ קתעה",
     "description": ""
   },
   "selectaction": {
-    "message": " רותפכ תלועפ רחב",
+    "message": " יעצמאה ןצחלה תלועפ תא רדגה",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " םירושיקכ תויסיטרכה לכ",
+    "message": " רושיקכ תויסיטרכה לכ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " טסקט לש םירתא תובותככ תויסיטרכה לכ",
+    "message": " טסקטכ תויסיטרכה לכ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " םירושיקכ ורחבנש תויסיטרכ",
+    "message": " רושיקכ רחבנ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " טסקט לש םירתא תובותככ ורחבנש תויסיטרכ",
+    "message": " טסקטכ רחבנ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " טסקט תבותככ וז הייסיטרכ",
+    "message": " טסקטכ וז הייסיטרכ",
     "description": ""
   },
   "cpytablnk": {
-    "message": " רושיקכ וז הייסיטרכ",
+    "message": " רושיק רותב וז הייסיטרכ",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " (העוצר ירטמרפ) םירושיקכ תויסיטרכה לכ",
+    "message": " רושיקכ תויסיטרכה לכ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " (העוצר ירטמרפ) טסקט לש םירתא תובותככ תויסיטרכה לכ",
+    "message": " טסקטכ תויסיטרכה לכ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " (העוצר לש םירטמרפ) םירושיקכ ורחבנש תויסיטרכ",
+    "message": " רושיקכ רחבנ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " (העוצר ירטמרפ) טסקט לש םירתא תובותככ ורחבנש תויסיטרכ",
+    "message": " טסקטכ רחבנ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " (העוצר לש םירטמרפ) טסקט תבותככ וז הייסיטרכ",
+    "message": " טסקטכ וז הייסיטרכ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": " (העוצר ירטמרפ) רושיקכ וז הייסיטרכ",
+    "message": " רושיק רותב וז הייסיטרכ (✂️)",
     "description": ""
   }
 }

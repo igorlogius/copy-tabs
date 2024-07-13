@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Salin Tab salaku hyperlink atanapi URL téks sareng atanapi henteu nganggo parameter",
+    "message": "Salin url tab salaku hyperlink atanapi téks polos",
     "description": ""
   },
   "selectaction": {
-    "message": "Pilih aksi tombol",
+    "message": "Nyetél aksi tombol tengah",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Sadaya Tab salaku Tumbu",
+    "message": "Sadaya tab salaku Patalina",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Sadaya Tab salaku URL téks",
+    "message": "Sadaya tab salaku Téks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Dipilih Tab salaku Tumbu",
+    "message": "Dipilih salaku Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tab Dipilih salaku URL téks",
+    "message": "Dipilih salaku téks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tab ieu salaku URL téks",
+    "message": "Tab ieu salaku téks",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tab ieu salaku Patalina",
+    "message": "tab ieu salaku Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Sadaya Tab salaku Tumbu (Parameter Strip)",
+    "message": "Sadaya tab salaku Patalina (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Sadaya Tab salaku URL téks (Parameter Strip)",
+    "message": "Sadaya tab salaku Téks (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tab Dipilih salaku Tumbu (Parameter Strip)",
+    "message": "Dipilih salaku Link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tab Dipilih salaku URL téks (Parameter Strip)",
+    "message": "Dipilih salaku téks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tab ieu salaku URL téks (Parameter Strip)",
+    "message": "Tab ieu salaku téks (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tab Ieu salaku Link (Parameter Strip)",
+    "message": "tab ieu salaku Link (✂️)",
     "description": ""
   }
 }

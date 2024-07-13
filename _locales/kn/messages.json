@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ಪ್ಯಾರಾಮೀಟರ್u200cಗಳೊಂದಿಗೆ ಅಥವಾ ಇಲ್ಲದೆಯೇ ಟ್ಯಾಬ್u200cಗಳನ್ನು ಹೈಪರ್u200cಲಿಂಕ್u200cಗಳು ಅಥವಾ ಪಠ್ಯ URL ಗಳಾಗಿ ನಕಲಿಸಿ",
+    "message": "ಟ್ಯಾಬ್ url ಗಳನ್ನು ಹೈಪರ್u200cಲಿಂಕ್u200cಗಳಾಗಿ ಅಥವಾ ಸರಳ ಪಠ್ಯದಂತೆ ನಕಲಿಸಿ",
     "description": ""
   },
   "selectaction": {
-    "message": "ಬಟನ್ ಕ್ರಿಯೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+    "message": "ಮಧ್ಯದ ಬಟನ್ ಕ್ರಿಯೆಯನ್ನು ಹೊಂದಿಸಿ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್u200cಗಳಾಗಿ",
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್ ಆಗಿ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಪಠ್ಯ URL ಗಳಂತೆ",
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಪಠ್ಯವಾಗಿ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ಟ್ಯಾಬ್u200cಗಳನ್ನು ಲಿಂಕ್u200cಗಳಾಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ",
+    "message": "ಲಿಂಕ್ ಆಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ಟ್ಯಾಬ್u200cಗಳನ್ನು ಪಠ್ಯ URL ಗಳಾಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ",
+    "message": "ಪಠ್ಯವಾಗಿ ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯ URL ನಂತೆ",
+    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯದಂತೆ",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್u200cಗಳಾಗಿ (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್ ಆಗಿ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಪಠ್ಯ URL ಗಳಂತೆ (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಪಠ್ಯವಾಗಿ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "ಲಿಂಕ್u200cಗಳಾಗಿ ಆಯ್ಕೆಮಾಡಲಾದ ಟ್ಯಾಬ್u200cಗಳು (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
+    "message": "ಲಿಂಕ್ ಆಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ಟ್ಯಾಬ್u200cಗಳನ್ನು ಪಠ್ಯ URL ಗಳಾಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
+    "message": "ಪಠ್ಯವಾಗಿ ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯ URL ಆಗಿ (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
+    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯದಂತೆ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ಈ ಟ್ಯಾಬ್ ಲಿಂಕ್ ಆಗಿ (ಸ್ಟ್ರಿಪ್ ಪ್ಯಾರಾಮೀಟರ್u200cಗಳು)",
+    "message": "ಈ ಟ್ಯಾಬ್ ಲಿಂಕ್ ಆಗಿ (✂️)",
     "description": ""
   }
 }

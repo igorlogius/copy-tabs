@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copie pestañas como hipervínculos o URL de texto con o sin parámetros",
+    "message": "Copie las URL de las pestañas como hipervínculos o texto sin formato",
     "description": ""
   },
   "selectaction": {
-    "message": "Seleccionar acción del botón",
+    "message": "Establecer la acción del botón central",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Todas las pestañas como enlaces",
+    "message": "Todas las pestañas como enlace",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Todas las pestañas como URL de texto",
+    "message": "Todas las pestañas como texto",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Pestañas seleccionadas como enlaces",
+    "message": "Seleccionado como enlace",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Pestañas seleccionadas como URL de texto",
+    "message": "Seleccionado como texto",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Esta pestaña como URL de texto",
+    "message": "Esta pestaña como Texto",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Todas las pestañas como enlaces (parámetros de eliminación)",
+    "message": "Todas las pestañas como enlace (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Todas las pestañas como URL de texto (parámetros de eliminación)",
+    "message": "Todas las pestañas como texto (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Pestañas seleccionadas como enlaces (parámetros de eliminación)",
+    "message": "Seleccionado como enlace (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Pestañas seleccionadas como URL de texto (parámetros de eliminación)",
+    "message": "Seleccionado como texto (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Esta pestaña como URL de texto (parámetros de eliminación)",
+    "message": "Esta pestaña como Texto (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Esta pestaña como enlace (parámetros de eliminación)",
+    "message": "Esta pestaña como enlace (✂️)",
     "description": ""
   }
 }

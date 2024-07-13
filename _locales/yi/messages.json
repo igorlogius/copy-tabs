@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " סרעטעמאַראַפּ ןאָ רעדאָ טימ ס URL טסקעט רעדאָ סקגנילרעפּייכ יוו סבאַט ןכאַמכאָנ",
+    "message": " טסקעט ראָלק רעדאָ סקגנילרעפּייכ יוו ס URL לטיווק יפּאָק",
     "description": ""
   },
   "selectaction": {
-    "message": " ףמאַק לפּענק ןביַילקסיוא",
+    "message": " ףמאַק לפּענק ןטימ ןלעטש",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " סקניל יוו סבאַט עלאַ",
+    "message": " קניל יוו סבאַט עלאַ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ס URL טסקעט יוו סבאַט עלאַ",
+    "message": " טסקעט יוו סבאַט עלאַ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " סקניל יוו סבאַט ןבילקעגסיוא",
+    "message": " קניל יוו ןבילקעגסיוא",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ס URL טסקעט יוו סבאַט ןבילקעגסיוא",
+    "message": " טסקעט יוו ןבילקעגסיוא",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " URL טסקעט יוו באַט םעד",
+    "message": " טסקעט יוו לטיווק םעד",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " (סרעטעמאַראַפּ פּירטס) סקניל יוו סבאַט עלאַ",
+    "message": " קניל יוו סבאַט עלאַ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " (סרעטעמאַראַפּ פּירטס) ס URL טסקעט יוו סבאַט עלאַ",
+    "message": " טסקעט יוו סבאַט עלאַ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " (סרעטעמאַראַפּ פּירטס) סקניל יוו סבאַט ןבילקעגסיוא",
+    "message": " קניל יוו ןבילקעגסיוא (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " (סרעטעמאַראַפּ פּירטס) ס URL טסקעט יוו סבאַט ןבילקעגסיוא",
+    "message": " טסקעט יוו ןבילקעגסיוא (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " (סרעטעמאַראַפּ פּירטס) URL טסקעט יוו לטיווק םעד",
+    "message": " טסקעט יוו לטיווק םעד (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": " (סרעטעמאַראַפּ פּירטס) קניל יוו לטיווק םעד",
+    "message": " קניל יוו לטיווק םעד (✂️)",
     "description": ""
   }
 }

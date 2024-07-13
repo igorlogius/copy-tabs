@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopyahin ang Mga Tab bilang mga hyperlink o text URL na mayroon o walang mga parameter",
+    "message": "Kopyahin ang mga url ng tab bilang mga hyperlink o plain text",
     "description": ""
   },
   "selectaction": {
-    "message": "Pumili ng pagkilos na pindutan",
+    "message": "Itakda ang pagkilos sa gitnang button",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Lahat ng Tab bilang Mga Link",
+    "message": "Lahat ng tab bilang Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Lahat ng Tab bilang Text URL",
+    "message": "Lahat ng tab bilang Text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Mga Piniling Tab bilang Mga Link",
+    "message": "Pinili bilang Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Mga Piniling Tab bilang Mga Tekstong URL",
+    "message": "Pinili bilang Teksto",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ang Tab na ito bilang Text URL",
+    "message": "Ang tab na ito bilang Text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ang Tab na ito bilang Link",
+    "message": "Ang tab na ito bilang Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Lahat ng Tab bilang Mga Link (Strip Parameter)",
+    "message": "Lahat ng tab bilang Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Lahat ng Tab bilang Text URL (Strip Parameters)",
+    "message": "Lahat ng tab bilang Text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Mga Piniling Tab bilang Mga Link (Mga Parameter ng Strip)",
+    "message": "Pinili bilang Link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Mga Piniling Tab bilang Mga URL ng Teksto (Mga Parameter ng Strip)",
+    "message": "Pinili bilang Teksto (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ang Tab na ito bilang Text URL (Strip Parameters)",
+    "message": "Ang tab na ito bilang Text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ang Tab na ito bilang Link (Mga Parameter ng Strip)",
+    "message": "Ang tab na ito bilang Link (✂️)",
     "description": ""
   }
 }

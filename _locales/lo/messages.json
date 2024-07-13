@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ຄັດລອກແຖບເປັນ hyperlinks ຫຼື URL ຂໍ້ຄວາມທີ່ມີຫຼືບໍ່ມີພາລາມິເຕີ",
+    "message": "ຄັດລອກ url ແຖບເປັນ hyperlinks ຫຼືຂໍ້ຄວາມທໍາມະດາ",
     "description": ""
   },
   "selectaction": {
-    "message": "ເລືອກຄຳສັ່ງປຸ່ມ",
+    "message": "ກໍານົດການດໍາເນີນການປຸ່ມກາງ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "ແຖບທັງໝົດເປັນລິ້ງ",
+    "message": "ແຖບທັງໝົດເປັນ Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ແຖບທັງໝົດເປັນ URL ຂໍ້ຄວາມ",
+    "message": "ແຖບທັງໝົດເປັນຂໍ້ຄວາມ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ເລືອກແຖບເປັນລິ້ງ",
+    "message": "ເລືອກເປັນລິ້ງ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ແຖບທີ່ເລືອກເປັນ URL ຂໍ້ຄວາມ",
+    "message": "ເລືອກເປັນຂໍ້ຄວາມ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ແຖບນີ້ເປັນ URL ຂໍ້ຄວາມ",
+    "message": "ແຖບນີ້ເປັນຂໍ້ຄວາມ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ແຖບນີ້ເປັນລິ້ງ",
+    "message": "ແຖບນີ້ເປັນ Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "ແຖບທັງໝົດເປັນລິ້ງ (ພາຣາມິເຕີແຖບ)",
+    "message": "ແຖບທັງໝົດເປັນ Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ແຖບທັງໝົດເປັນ URL ຂໍ້ຄວາມ (ຕົວກໍານົດການແຖບ)",
+    "message": "ແຖບທັງໝົດເປັນຂໍ້ຄວາມ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "ແຖບທີ່ເລືອກເປັນລິ້ງ (ຕົວກໍານົດການແຖບ)",
+    "message": "ເລືອກເປັນລິ້ງ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ແຖບທີ່ເລືອກເປັນ URL ຂໍ້ຄວາມ (ຕົວກໍານົດການແຖບ)",
+    "message": "ເລືອກເປັນຂໍ້ຄວາມ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ແຖບນີ້ເປັນ URL ຂໍ້ຄວາມ (ຕົວກໍານົດການແຖບ)",
+    "message": "ແຖບນີ້ເປັນຂໍ້ຄວາມ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ແຖບນີ້ເປັນລິ້ງ (ພາຣາມິເຕີແຖບ)",
+    "message": "ແຖບນີ້ເປັນ Link (✂️)",
     "description": ""
   }
 }

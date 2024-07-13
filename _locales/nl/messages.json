@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopieer tabbladen als hyperlinks of tekst-URL's met of zonder parameters",
+    "message": "Kopieer tabblad-URL's als hyperlinks of platte tekst",
     "description": ""
   },
   "selectaction": {
-    "message": "Selecteer knopactie",
+    "message": "Actie van de middelste knop instellen",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle tabbladen als koppelingen",
+    "message": "Alle tabbladen als link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle tabbladen als tekst-URL's",
+    "message": "Alle tabbladen als tekst",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Geselecteerde tabbladen als koppelingen",
+    "message": "Geselecteerd als koppeling",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Geselecteerde tabbladen als tekst-URL's",
+    "message": "Geselecteerd als tekst",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Dit tabblad als tekst-URL",
+    "message": "Dit tabblad als Tekst",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Dit tabblad als link",
+    "message": "Dit tabblad als Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alle tabbladen als koppelingen (Strip-parameters)",
+    "message": "Alle tabbladen als link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle tabbladen als tekst-URL's (Strip-parameters)",
+    "message": "Alle tabbladen als tekst (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Geselecteerde tabbladen als koppelingen (Strip-parameters)",
+    "message": "Geselecteerd als koppeling (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Geselecteerde tabbladen als tekst-URL's (stripparameters)",
+    "message": "Geselecteerd als tekst (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Dit tabblad als tekst-URL (stripparameters)",
+    "message": "Dit tabblad als Tekst (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Dit tabblad als link (Stripparameters)",
+    "message": "Dit tabblad als Link (✂️)",
     "description": ""
   }
 }

@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Másolja a lapokat hiperhivatkozásként vagy szöveges URL-ként paraméterekkel vagy anélkül",
+    "message": "Lapok URL-címeinek másolása hiperhivatkozásként vagy egyszerű szövegként",
     "description": ""
   },
   "selectaction": {
-    "message": "Válassza ki a gombműveletet",
+    "message": "Középső gomb műveletének beállítása",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,19 +16,19 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Minden lap szöveges URL-ként",
+    "message": "Minden lap szövegként",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kijelölt lapok hivatkozásként",
+    "message": "Linkként kiválasztva",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Szöveges URL-ként kiválasztott lapok",
+    "message": "Szövegként kiválasztva",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ez a lap szöveges URL-ként",
+    "message": "Ez a lap szövegként",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Minden lap hivatkozásként (szalagparaméterek)",
+    "message": "Minden lap hivatkozásként (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Minden lap szöveges URL-ként (szalagparaméterek)",
+    "message": "Minden lap szövegként (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Kijelölt lapok hivatkozásként (szalagparaméterek)",
+    "message": "Linkként kiválasztva (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Kijelölt lapok szöveges URL-ként (szalagparaméterek)",
+    "message": "Szövegként kiválasztva (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ez a lap szöveges URL-ként (szalagparaméterek)",
+    "message": "Ez a lap szövegként (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ez a lap hivatkozásként (szalagparaméterek)",
+    "message": "Ez a lap hivatkozásként (✂️)",
     "description": ""
   }
 }

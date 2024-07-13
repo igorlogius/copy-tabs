@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Ikkopja Tabs bħala hyperlinks jew URLs tat-test b'parametri jew mingħajrhom",
+    "message": "Ikkopja l-URL tat-tab bħala hyperlinks jew test sempliċi",
     "description": ""
   },
   "selectaction": {
-    "message": "Agħżel l-azzjoni tal-buttuna",
+    "message": "Issettja l-azzjoni tal-buttuna tan-nofs",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tabs kollha bħala Links",
+    "message": "It-tabs kollha bħala Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "It-Tabs kollha bħala URLs tat-Test",
+    "message": "It-tabs kollha bħala Test",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tabs Magħżula bħala Links",
+    "message": "Magħżula bħala Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabs Magħżula bħala URLs tat-Test",
+    "message": "Magħżula bħala Test",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Din it-Tab bħala Test URL",
+    "message": "Din it-tab bħala Test",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Dan Tab bħala Link",
+    "message": "Din it-tab bħala Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "It-Tabs kollha bħala Links (Parametri tal-Istrixxa)",
+    "message": "It-tabs kollha bħala Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "It-Tabs kollha bħala URLs tat-Test (Parametri tal-Istrixxa)",
+    "message": "It-tabs kollha bħala Test (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tabs Magħżula bħala Links (Parametri tal-Istrixxa)",
+    "message": "Magħżula bħala Link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tabs Magħżula bħala URLs tat-Test (Parametri tal-Istrixxa)",
+    "message": "Magħżula bħala Test (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Din it-Tab bħala URL tat-Test (Parametri tal-Istrixxa)",
+    "message": "Din it-tab bħala Test (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Din it-Tab bħala Link (Parametri tal-Istrixxa)",
+    "message": "Din it-tab bħala Link (✂️)",
     "description": ""
   }
 }

@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Таблицаларҙы гиперлинктар йәки параметрҙар менән йә параметрһыҙ URL-текст итеп күсереп алыу",
+    "message": "Таблицаның гиперлинк йәки ябай текст кеүек күсермәһе",
     "description": ""
   },
   "selectaction": {
-    "message": "Һайлап алыу төйәгенә баҫым",
+    "message": "Урта төйөккә һылтанма",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Все таблица как Һылтанмалар",
+    "message": "Все таблица как Һылтанма",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Все таблица как Тексты URLs",
+    "message": "Все таблица как Текст ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Һылтанмалар сифатында һайланған таблицалар",
+    "message": "Һылтанма булараҡ һайланған",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Һайланма таблицалар текст URLs сифатында",
+    "message": "Текст итеп һайланған",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Был таблица ULL тексы булараҡ",
+    "message": "",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Все таблица как Һылтанмалар (Һыҙат параметрҙары)",
+    "message": "Все таблица как Һылтанма (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Все таблица как Тексты URLs (Street Paremeters)",
+    "message": "Все таблица как Текст (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Һылтанмалар сифатында һайланған таблицалар (Һыҙат параметрҙары)",
+    "message": "Һылтанма булараҡ һайланған (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Һайланма таблицалар текст URLs сифатында (Һыҙат параметрҙары)",
+    "message": "Текст итеп һайланған (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Это таблица как Текст URL (Street Paremeters)",
+    "message": " (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Был таблица Һылтанма булараҡ (Һыҙат параметрҙары)",
+    "message": "Был таблица Һылтанма булараҡ (✂️)",
     "description": ""
   }
 }

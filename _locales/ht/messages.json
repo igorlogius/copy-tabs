@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopi Tabs kòm lyen ipèr oswa URL tèks avèk oswa san paramèt",
+    "message": "Kopi URL tab kòm lyen oswa tèks klè",
     "description": ""
   },
   "selectaction": {
-    "message": "Chwazi aksyon bouton",
+    "message": "Mete aksyon bouton mitan an",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tout Tabs kòm Lyen",
+    "message": "Tout onglè kòm Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tout Tabs kòm URL tèks",
+    "message": "Tout onglè yo kòm tèks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Onglet Chwazi kòm Lyen",
+    "message": "Chwazi kòm Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Onglet yo chwazi kòm URL tèks",
+    "message": "Chwazi kòm tèks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tab sa a kòm URL tèks",
+    "message": "Tab sa a kòm Tèks",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Tout Tabs kòm Lyen (Paramèt Strip)",
+    "message": "Tout onglè kòm Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tout onglè kòm URL tèks (Paramèt Strip)",
+    "message": "Tout onglè yo kòm tèks (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Onglet Chwazi kòm Lyen (Paramèt Strip)",
+    "message": "Chwazi kòm Link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Onglets Chwazi kòm URL tèks (Paramèt Strip)",
+    "message": "Chwazi kòm tèks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tab sa a kòm URL tèks (Paramèt Strip)",
+    "message": "Tab sa a kòm Tèks (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tab sa a kòm lyen (Paramèt Strip)",
+    "message": "Tab sa a kòm Link (✂️)",
     "description": ""
   }
 }

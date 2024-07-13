@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "පරාමිති සහිත හෝ නැතිව අධි සබැඳි හෝ පෙළ URL ලෙස ටැබ් පිටපත් කරන්න",
+    "message": "ටැබ් url අධි සබැඳි හෝ සරල පෙළ ලෙස පිටපත් කරන්න",
     "description": ""
   },
   "selectaction": {
-    "message": "බොත්තම ක්u200dරියාව තෝරන්න",
+    "message": "මැද බොත්තම් ක්u200dරියාව සකසන්න",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "සියලුම ටැබ් සබැඳි ලෙස",
+    "message": "සියලුම ටැබ් සබැඳිය ලෙස",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "සියලුම ටැබ් පෙළ URL ලෙස",
+    "message": "සියලුම ටැබ් පෙළ ලෙස",
     "description": ""
   },
   "cpysellnk": {
-    "message": "සබැඳි ලෙස තෝරාගත් ටැබ්",
+    "message": "සබැඳිය ලෙස තෝරා ඇත",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "පෙළ URL ලෙස තෝරාගත් ටැබ්",
+    "message": "පෙළ ලෙස තෝරා ඇත",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "මෙම ටැබය පෙළ URL ලෙස",
+    "message": "මෙම ටැබය පෙළ ලෙස",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "සියලුම ටැබ් සබැඳි ලෙස (තීරු පරාමිති)",
+    "message": "සියලුම ටැබ් සබැඳිය ලෙස (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "සියලුම ටැබ් පෙළ URL ලෙස (තීරු පරාමිති)",
+    "message": "සියලුම ටැබ් පෙළ ලෙස (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "සබැඳි ලෙස තෝරාගත් ටැබ් (තීරු පරාමිති)",
+    "message": "සබැඳිය ලෙස තෝරා ඇත (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "පෙළ URL ලෙස තෝරාගත් ටැබ් (තීරු පරාමිති)",
+    "message": "පෙළ ලෙස තෝරා ඇත (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "මෙම ටැබය පෙළ URL ලෙස (තීරු පරාමිති)",
+    "message": "මෙම ටැබය පෙළ ලෙස (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "මෙම ටැබය සබැඳිය ලෙස (තීරු පරාමිති)",
+    "message": "මෙම ටැබය සබැඳිය ලෙස (✂️)",
     "description": ""
   }
 }

@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "టాబ్u200cలను హైపర్u200cలింక్u200cలుగా లేదా పారామీటర్u200cలతో లేదా లేకుండా టెక్స్ట్ URLలుగా కాపీ చేయండి",
+    "message": "టాబ్ urlలను హైపర్u200cలింక్u200cలుగా లేదా సాదా వచనంగా కాపీ చేయండి",
     "description": ""
   },
   "selectaction": {
-    "message": "బటన్ చర్యను ఎంచుకోండి",
+    "message": "మధ్య బటన్ చర్యను సెట్ చేయండి",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "అన్ని ట్యాబ్u200cలు లింక్u200cలుగా",
+    "message": "లింక్u200cగా అన్ని ట్యాబ్u200cలు",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్ URLలుగా",
+    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్u200cగా",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ట్యాబ్u200cలను లింక్u200cలుగా ఎంచుకున్నారు",
+    "message": "లింక్u200cగా ఎంపిక చేయబడింది",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "టెక్స్ట్ URLలుగా ట్యాబ్u200cలు ఎంచుకోబడ్డాయి",
+    "message": "టెక్స్ట్u200cగా ఎంపిక చేయబడింది",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "టెక్స్ట్ URLగా ఈ ట్యాబ్",
+    "message": "ఈ ట్యాబ్ వచనంగా",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "అన్ని ట్యాబ్u200cలు లింక్u200cలుగా (స్ట్రిప్ పారామీటర్u200cలు)",
+    "message": "లింక్u200cగా అన్ని ట్యాబ్u200cలు (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్ URLలుగా (స్ట్రిప్ పారామీటర్u200cలు)",
+    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్u200cగా (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "లింక్u200cలుగా ఎంచుకున్న ట్యాబ్u200cలు (స్ట్రిప్ పారామితులు)",
+    "message": "లింక్u200cగా ఎంపిక చేయబడింది (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "టెక్స్ట్ URLలుగా ఎంచుకున్న ట్యాబ్u200cలు (స్ట్రిప్ పారామితులు)",
+    "message": "టెక్స్ట్u200cగా ఎంపిక చేయబడింది (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ఈ ట్యాబ్ టెక్స్ట్ URL (స్ట్రిప్ పారామితులు)",
+    "message": "ఈ ట్యాబ్ వచనంగా (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ఈ ట్యాబ్ లింక్u200cగా (స్ట్రిప్ పారామీటర్u200cలు)",
+    "message": "లింక్u200cగా ఈ ట్యాబ్ (✂️)",
     "description": ""
   }
 }

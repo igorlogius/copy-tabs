@@ -9,22 +9,21 @@ while read line;do
 	mkdir -p ./_locales/$line 2>/dev/null
 
 	name=$(trans -brief -from en -to "$line" "Copy Tabs")
-	desc=$(trans -brief -from en -to $line "Copy Tabs as hyperlinks or text URLs with or without parameters")
-	cpytablnk=$(trans -brief -from en -to $line "This Tab as Link")
-	cpytabtxt=$(trans -brief -from en -to $line "This Tab as Text URL")
-	cpyalllnk=$(trans -brief -from en -to $line "All Tabs as Links")
-	cpyalltxt=$(trans -brief -from en -to $line "All Tabs as Text URLs")
-	cpysellnk=$(trans -brief -from en -to $line "Selected Tabs as Links")
-	cpyseltxt=$(trans -brief -from en -to $line "Selected Tabs as Text URLs")
+	desc=$(trans -brief -from en -to $line "Copy tab urls as hyperlinks or plain text")
 
-	cpytablnknp=$(trans -brief -from en -to $line "This Tab as Link (Strip Parameters)")
-	cpytabtxtnp=$(trans -brief -from en -to $line "This Tab as Text URL (Strip Parameters)")
-	cpyalllnknp=$(trans -brief -from en -to $line "All Tabs as Links (Strip Parameters)")
-	cpyalltxtnp=$(trans -brief -from en -to $line "All Tabs as Text URLs (Strip Parameters)")
-	cpysellnknp=$(trans -brief -from en -to $line "Selected Tabs as Links (Strip Parameters)")
-	cpyseltxtnp=$(trans -brief -from en -to $line "Selected Tabs as Text URLs (Strip Parameters)")
-
-	selectaction=$(trans -brief -from en -to $line "Select button action")
+	selectaction=$(trans -brief -from en -to $line "Set middle button action")
+	cpytablnk=$(trans -brief -from en -to $line "This tab as Link")
+	cpytablnknp="$cpytablnk (✂️)"
+	cpytabtxt=$(trans -brief -from en -to $line "This tab as Text")
+	cpytabtxtnp="$cpytabtxt (✂️)"
+	cpyalllnk=$(trans -brief -from en -to $line "All tabs as Link")
+	cpyalllnknp="$cpyalllnk (✂️)"
+	cpyalltxt=$(trans -brief -from en -to $line "All tabs as Text ")
+	cpyalltxtnp="$cpyalltxt (✂️)"
+	cpysellnk=$(trans -brief -from en -to $line "Selected as Link")
+	cpysellnknp="$cpysellnk (✂️)"
+	cpyseltxt=$(trans -brief -from en -to $line "Selected as Text")
+	cpyseltxtnp="$cpyseltxt (✂️)"
 
 	JSON=$(cat << EOI
 
@@ -188,7 +187,6 @@ done << EOH
 	th
 	to
 	tr
-	udm
 	uk
 	ur
 	uz

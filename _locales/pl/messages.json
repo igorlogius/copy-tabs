@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiuj karty jako hiperłącza lub tekstowe adresy URL z parametrami lub bez nich",
+    "message": "Skopiuj adresy URL kart jako hiperłącza lub zwykły tekst",
     "description": ""
   },
   "selectaction": {
-    "message": "Wybierz działanie przycisku",
+    "message": "Ustaw działanie środkowego przycisku",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Wszystkie karty jako łącza",
+    "message": "Wszystkie zakładki jako Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Wszystkie karty jako tekstowe adresy URL",
+    "message": "Wszystkie karty jako tekst",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Wybrane karty jako łącza",
+    "message": "Wybrano jako łącze",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Wybrane karty jako tekstowe adresy URL",
+    "message": "Wybrano jako tekst",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ta karta jako tekstowy adres URL",
+    "message": "Ta zakładka jako Tekst",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ta zakładka jako link",
+    "message": "Ta zakładka jako Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Wszystkie karty jako łącza (parametry paska)",
+    "message": "Wszystkie zakładki jako Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Wszystkie karty jako tekstowe adresy URL (usuń parametry)",
+    "message": "Wszystkie karty jako tekst (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Wybrane karty jako łącza (parametry paska)",
+    "message": "Wybrano jako łącze (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Wybrane karty jako adresy tekstowe (parametry usunięcia)",
+    "message": "Wybrano jako tekst (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ta zakładka jako tekstowy adres URL (parametry usunięcia)",
+    "message": "Ta zakładka jako Tekst (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ta zakładka jako łącze (parametry paska)",
+    "message": "Ta zakładka jako Link (✂️)",
     "description": ""
   }
 }

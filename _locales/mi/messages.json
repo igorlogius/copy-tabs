@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Tāruahia nga Ripa hei honongaitua, hei URL kuputuhi ranei me nga tawhā kore ranei",
+    "message": "Tāruatia ngā url ripa hei honongaitua, hei kuputuhi noa",
     "description": ""
   },
   "selectaction": {
-    "message": "Tīpakohia te mahi pātene",
+    "message": "Tautuhia te mahi paatene waenga",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ripa Katoa hei Hononga",
+    "message": "Ripa katoa hei Hononga",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ripa Katoa hei URL Kuputuhi",
+    "message": "Ripa katoa hei Kuputuhi",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ripa kua tohua hei Hononga",
+    "message": "Kua tohua hei Hononga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ripa kua tohua hei URL Kuputuhi",
+    "message": "Kua tohua hei Kuputuhi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tenei Ripa hei URL Kuputuhi",
+    "message": "Ko tenei ripa hei Kuputuhi",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tenei Ripa hei Hononga",
+    "message": "Ko tenei ripa hei Hononga",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ripa Katoa hei Hononga (Tawhā Waahi)",
+    "message": "Ripa katoa hei Hononga (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Nga Ripa Katoa hei URL Kuputuhi (Tawhā Waea)",
+    "message": "Ripa katoa hei Kuputuhi (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ripa kua tīpakohia hei Hononga (Tawhā Waahi)",
+    "message": "Kua tohua hei Hononga (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ko nga Ripa kua tohua hei URL Kuputuhi (Tawhā Waahi)",
+    "message": "Kua tohua hei Kuputuhi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ko tenei Ripa hei URL Kuputuhi (Tawhā Waahi)",
+    "message": "Ko tenei ripa hei Kuputuhi (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ko tenei Ripa hei Hononga (Tawhā Waahi)",
+    "message": "Ko tenei ripa hei Hononga (✂️)",
     "description": ""
   }
 }

@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopier faner som hyperlinks eller tekst-URL'er med eller uden parametre",
+    "message": "Kopier fanewebadresser som hyperlinks eller almindelig tekst",
     "description": ""
   },
   "selectaction": {
-    "message": "Vælg knaphandling",
+    "message": "Indstil den midterste knaphandling",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle faner som links",
+    "message": "Alle faner som link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle faner som tekst-URL'er",
+    "message": "Alle faner som tekst",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valgte faner som links",
+    "message": "Valgt som link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valgte faner som tekst-URL'er",
+    "message": "Valgt som tekst",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Denne fane som tekst-URL",
+    "message": "Denne fane som tekst",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alle faner som links (Strip-parametre)",
+    "message": "Alle faner som link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle faner som tekst-URL'er (Strip-parametre)",
+    "message": "Alle faner som tekst (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valgte faner som links (Strip-parametre)",
+    "message": "Valgt som link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valgte faner som tekst-URL'er (Strip-parametre)",
+    "message": "Valgt som tekst (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Denne fane som tekst-URL (Strip-parametre)",
+    "message": "Denne fane som tekst (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Denne fane som link (Strip-parametre)",
+    "message": "Denne fane som link (✂️)",
     "description": ""
   }
 }

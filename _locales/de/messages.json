@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopieren Sie Tabs als Hyperlinks oder Text-URLs mit oder ohne Parameter",
+    "message": "Kopieren Sie Tab-URLs als Hyperlinks oder als einfachen Text",
     "description": ""
   },
   "selectaction": {
-    "message": "Wählen Sie die Tastenaktion aus",
+    "message": "Legen Sie die Aktion der mittleren Taste fest",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle Tabs als Links",
+    "message": "Alle Tabs als Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle Tabs als Text-URLs",
+    "message": "Alle Registerkarten als Text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ausgewählte Tabs als Links",
+    "message": "Als Link ausgewählt",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ausgewählte Tabs als Text-URLs",
+    "message": "Als Text ausgewählt",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Diese Registerkarte als Text-URL",
+    "message": "Diese Registerkarte als Text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Dieser Tab als Link",
+    "message": "Diese Registerkarte als Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alle Tabs als Links (Strip-Parameter)",
+    "message": "Alle Tabs als Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle Tabs als Text-URLs (Strip-Parameter)",
+    "message": "Alle Registerkarten als Text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ausgewählte Tabs als Links (Strip-Parameter)",
+    "message": "Als Link ausgewählt (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ausgewählte Tabs als Text-URLs (Strip-Parameter)",
+    "message": "Als Text ausgewählt (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Diese Registerkarte als Text-URL (Strip-Parameter)",
+    "message": "Diese Registerkarte als Text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Diese Registerkarte als Link (Strip-Parameter)",
+    "message": "Diese Registerkarte als Link (✂️)",
     "description": ""
   }
 }

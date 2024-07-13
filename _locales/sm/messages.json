@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopi Tape e fai ma hyperlinks po'o tusitusiga URL e iai pe leai ni fa'ailoga",
+    "message": "Kopi url fa'amau e fai ma hyperlinks po'o tusitusiga manino",
     "description": ""
   },
   "selectaction": {
-    "message": "Filifili ki gaioiga",
+    "message": "Seti le gaioiga o le faamau ogatotonu",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tapa uma e fai ma So'oga",
+    "message": "Fa'amau uma e fai ma So'oga",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tape uma e pei o URL o Tusitusiga",
+    "message": "Fa'amau uma e pei o Tusitusiga",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tapa Filifilia e fai ma So'oga",
+    "message": "Filifilia e fai ma So'oga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Pepa Filifilia e avea ma URL o Tusitusiga",
+    "message": "Filifilia e fai ma Tusitusiga",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Lenei Tab e pei o Tusitusiga URL",
+    "message": "O lenei fa'ailoga e pei o Tusitusiga",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Lenei Tab e fai ma So'oga",
+    "message": "O lenei fa'ailoga e pei o So'oga",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Tape uma e fai ma so'oga",
+    "message": "Fa'amau uma e fai ma So'oga (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Fa'amau uma e fai ma URL o Tusitusiga (Parameter Aveese)",
+    "message": "Fa'amau uma e pei o Tusitusiga (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Fa'ailoga Filifilia e fai ma So'oga (Fa'a'ese'esega Fa'amau)",
+    "message": "Filifilia e fai ma So'oga (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Fa'ailoga Filifilia e fai ma URL o Tusitusiga (Parametera Fa'asolo)",
+    "message": "Filifilia e fai ma Tusitusiga (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Le Tape lea e fai ma URL o Tusitusiga (Parameters Strip)",
+    "message": "O lenei fa'ailoga e pei o Tusitusiga (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Le Tape lea e fai ma So'oga (Parameters Strip)",
+    "message": "O lenei fa'ailoga e pei o So'oga (✂️)",
     "description": ""
   }
 }

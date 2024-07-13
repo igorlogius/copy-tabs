@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Khuphela ii-Tabs njengehyperlinks okanye ii-URL ezibhaliweyo ezineparameters okanye ngaphandle kwazo",
+    "message": "Khuphela ii-url zethebhu njengehyperlink okanye umbhalo ongenanto",
     "description": ""
   },
   "selectaction": {
-    "message": "Khetha isenzo seqhosha",
+    "message": "Cwangcisa intshukumo yeqhosha eliphakathi",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Zonke iiTab njengeekhonkco",
+    "message": "Zonke iithebhu njengekhonkco",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Zonke iiTabhu njengee-URL zokubhaliweyo",
+    "message": "Zonke iithebhu njenge-Text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "IiTabhu ezikhethiweyo njengoQhagamshelwano",
+    "message": "Ikhethwe njengekhonkco",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ii-Tab ezikhethiweyo njengee-URL zokubhaliweyo",
+    "message": "Ikhethwe Njengombhalo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Le Tabhu njenge-URL yokubhaliweyo",
+    "message": "Le thebhu njengesiqendu",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Le Tabhu njengekhonkco",
+    "message": "Le thebhu njengekhonkco",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Zonke iiTabhu njengoQhagamshelwano (Iiparamitha zeStrip)",
+    "message": "Zonke iithebhu njengekhonkco (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Zonke iiTab njengee-URL ezibhaliweyo (Iiparamitha zeStrip)",
+    "message": "Zonke iithebhu njenge-Text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "IiTabhu ezikhethiweyo njengoQhagamshelwano (Iiparamitha zeStrip)",
+    "message": "Ikhethwe njengekhonkco (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "IiTabhu ezikhethiweyo njengee-URL zokubhaliweyo (Iiparamitha zeStrip)",
+    "message": "Ikhethwe Njengombhalo (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Le Tabhu njenge-URL yokubhaliweyo (Iiparamitha zomcu)",
+    "message": "Le thebhu njengesiqendu (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Le Tabhu njengeNxulumano (Iiparamitha zomcu)",
+    "message": "Le thebhu njengekhonkco (✂️)",
     "description": ""
   }
 }

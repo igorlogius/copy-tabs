@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopeerige vahelehed hüperlinkidena või teksti URL-ina parameetritega või ilma",
+    "message": "Kopeerige vahelehtede URL-id hüperlinkide või lihttekstina",
     "description": ""
   },
   "selectaction": {
-    "message": "Valige nupu toiming",
+    "message": "Keskmise nupu toimingu määramine",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kõik vahekaardid linkidena",
+    "message": "Kõik vahelehed lingina",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kõik vahelehed teksti URL-ina",
+    "message": "Kõik vahekaardid tekstina",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valitud vahekaardid linkidena",
+    "message": "Valitud lingiks",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Teksti URL-idena valitud vahelehed",
+    "message": "Valitud tekstina",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "See vahekaart teksti URL-ina",
+    "message": "See vahekaart tekstina",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Kõik vahelehed linkidena (ribade parameetrid)",
+    "message": "Kõik vahelehed lingina (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Kõik vahelehed teksti URL-ina (ribade parameetrid)",
+    "message": "Kõik vahekaardid tekstina (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valitud vahelehed linkidena (ribade parameetrid)",
+    "message": "Valitud lingiks (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Teksti URL-ina valitud vahelehed (ribade parameetrid)",
+    "message": "Valitud tekstina (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "See vahekaart teksti URL-ina (riba parameetrid)",
+    "message": "See vahekaart tekstina (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "See vahekaart lingina (riba parameetrid)",
+    "message": "See vahekaart lingina (✂️)",
     "description": ""
   }
 }

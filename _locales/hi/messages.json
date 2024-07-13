@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "पैरामीटर के साथ या उसके बिना टैब को हाइपरलिंक या टेक्स्ट यूआरएल के रूप में कॉपी करें",
+    "message": "टैब यूआरएल को हाइपरलिंक या सादे टेक्स्ट के रूप में कॉपी करें",
     "description": ""
   },
   "selectaction": {
-    "message": "बटन क्रिया का चयन करें",
+    "message": "मध्य बटन क्रिया सेट करें",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,19 +16,19 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "सभी टैब टेक्स्ट यूआरएल के रूप में",
+    "message": "सभी टैब टेक्स्ट के रूप में",
     "description": ""
   },
   "cpysellnk": {
-    "message": "लिंक के रूप में चयनित टैब",
+    "message": "लिंक के रूप में चयनित",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "टेक्स्ट यूआरएल के रूप में चयनित टैब",
+    "message": "पाठ के रूप में चयनित",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "यह टैब टेक्स्ट यूआरएल के रूप में है",
+    "message": "यह टैब टेक्स्ट के रूप में है",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "लिंक के रूप में सभी टैब (स्ट्रिप पैरामीटर्स)",
+    "message": "सभी टैब लिंक के रूप में (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "टेक्स्ट यूआरएल के रूप में सभी टैब (स्ट्रिप पैरामीटर्स)",
+    "message": "सभी टैब टेक्स्ट के रूप में (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "लिंक के रूप में चयनित टैब (स्ट्रिप पैरामीटर्स)",
+    "message": "लिंक के रूप में चयनित (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "टेक्स्ट यूआरएल के रूप में चयनित टैब (स्ट्रिप पैरामीटर्स)",
+    "message": "पाठ के रूप में चयनित (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "यह टैब टेक्स्ट यूआरएल (स्ट्रिप पैरामीटर्स) के रूप में",
+    "message": "यह टैब टेक्स्ट के रूप में है (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "यह टैब लिंक के रूप में (स्ट्रिप पैरामीटर्स)",
+    "message": "यह टैब लिंक के रूप में है (✂️)",
     "description": ""
   }
 }

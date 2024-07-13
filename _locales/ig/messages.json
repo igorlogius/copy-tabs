@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Detuo Taabụ dị ka hyperlinks ma ọ bụ ederede URL nwere ma ọ bụ na-enweghị paramita",
+    "message": "Detuo url taabụ dị ka hyperlinks ma ọ bụ ederede doro anya",
     "description": ""
   },
   "selectaction": {
-    "message": "Họrọ ọrụ bọtịnụ",
+    "message": "Tọọ mmemme bọtịnụ etiti",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,47 +16,47 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Taabụ niile dị ka URL ederede",
+    "message": "Taabụ niile dị ka Ederede",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Taabụ ahọpụtara dị ka njikọ",
+    "message": "Ahọpụtara dị ka Njikọ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Taabụ ahọpụtara dị ka URL ederede",
+    "message": "Ahọpụtara dị ka Ederede",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Taabụ a dị ka URL ederede",
+    "message": "Nke a taabụ dị ka Ederede",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tab a dị ka njikọ",
+    "message": "Nke a taabụ dị ka njikọ",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Taabụ niile dị ka njikọ (ntụpọ nkewa)",
+    "message": "Taabụ niile dị ka njikọ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Taabụ niile dị ka URL ederede (Njirimara nkewa)",
+    "message": "Taabụ niile dị ka Ederede (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Taabụ ahọpụtara dị ka njikọ (nripu ụzọ)",
+    "message": "Ahọpụtara dị ka Njikọ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Taabụ ahọpụtara dị ka URL Ederede (Njirimara nkewa)",
+    "message": "Ahọpụtara dị ka Ederede (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Taabụ a dị ka URL ederede (nkwụsị ụzọ)",
+    "message": "Nke a taabụ dị ka Ederede (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Taabụ a dị ka njikọ (Strip Parameters)",
+    "message": "Nke a taabụ dị ka njikọ (✂️)",
     "description": ""
   }
 }

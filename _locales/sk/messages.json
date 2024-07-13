@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Skopírujte karty ako hypertextové odkazy alebo textové adresy URL s parametrami alebo bez nich",
+    "message": "Skopírujte adresy URL kariet ako hypertextové odkazy alebo obyčajný text",
     "description": ""
   },
   "selectaction": {
-    "message": "Vyberte akciu tlačidla",
+    "message": "Nastavte akciu stredného tlačidla",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Všetky karty ako odkazy",
+    "message": "Všetky karty ako odkaz",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Všetky karty ako textové adresy URL",
+    "message": "Všetky karty ako Text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Vybraté karty ako odkazy",
+    "message": "Vybraté ako odkaz",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Vybraté karty ako textové adresy URL",
+    "message": "Vybraté ako Text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Táto karta ako textová adresa URL",
+    "message": "Táto karta ako Text",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Všetky karty ako odkazy (parametre pásu)",
+    "message": "Všetky karty ako odkaz (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Všetky karty ako textové adresy URL (parametre pásu)",
+    "message": "Všetky karty ako Text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Vybraté karty ako odkazy (parametre pásov)",
+    "message": "Vybraté ako odkaz (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Vybraté karty ako textové adresy URL (parametre pásu)",
+    "message": "Vybraté ako Text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Táto karta ako textová adresa URL (parametre pásu)",
+    "message": "Táto karta ako Text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Táto karta ako odkaz (Parametre pásu)",
+    "message": "Táto karta ako odkaz (✂️)",
     "description": ""
   }
 }

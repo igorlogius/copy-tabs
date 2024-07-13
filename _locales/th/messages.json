@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "คัดลอกแท็บเป็นไฮเปอร์ลิงก์หรือ URL ข้อความโดยมีหรือไม่มีพารามิเตอร์",
+    "message": "คัดลอก URL ของแท็บเป็นไฮเปอร์ลิงก์หรือข้อความธรรมดา",
     "description": ""
   },
   "selectaction": {
-    "message": "เลือกการกระทำของปุ่ม",
+    "message": "ตั้งค่าการทำงานของปุ่มกลาง",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,19 +16,19 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "แท็บทั้งหมดเป็น URL ข้อความ",
+    "message": "แท็บทั้งหมดเป็นข้อความ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "แท็บที่เลือกเป็นลิงก์",
+    "message": "เลือกเป็นลิงค์",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "แท็บที่เลือกเป็น URL ข้อความ",
+    "message": "เลือกเป็นข้อความ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "แท็บนี้เป็น URL ข้อความ",
+    "message": "แท็บนี้เป็นข้อความ",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "แท็บทั้งหมดเป็นลิงก์ (พารามิเตอร์สตริป)",
+    "message": "แท็บทั้งหมดเป็นลิงก์ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "แท็บทั้งหมดเป็น URL ข้อความ (พารามิเตอร์แถบ)",
+    "message": "แท็บทั้งหมดเป็นข้อความ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "แท็บที่เลือกเป็นลิงก์ (พารามิเตอร์สตริป)",
+    "message": "เลือกเป็นลิงค์ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "แท็บที่เลือกเป็น URL ข้อความ (พารามิเตอร์แถบ)",
+    "message": "เลือกเป็นข้อความ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "แท็บนี้เป็น URL ข้อความ (พารามิเตอร์แถบ)",
+    "message": "แท็บนี้เป็นข้อความ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "แท็บนี้เป็นลิงก์ (พารามิเตอร์สตริป)",
+    "message": "แท็บนี้เป็นลิงก์ (✂️)",
     "description": ""
   }
 }

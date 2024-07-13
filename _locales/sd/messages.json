@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " ءِﺍﻮﺳ ﻥﺎﮐ ﻥﺍ ﺎﻳ ﻮﻳﺮڪ ﻞﻘﻧ ﻲﺗ ﺭﻮﻃ ﻲﺟ URLs ٽﺴڪﻴٽ ﺎﻳ ﺲڪﻨﻟ ﺮﭙﺋﺎﻫ ﻲﮐ ﺲﺒﺌٽ",
+    "message": " ﻮﻳﺮڪ ﻞﻘﻧ ﻲﺗ ﺭﻮﻃ ﻲﺟ ﻦﺘﻣ ﻱﺩﺎﺳ ﺎﻳ ﺲڪﻨﻟ ﺮﭙﺋﺎﻫ ﻲﮐ ﻞﻳﺍ ﺭﺁ ﻮﻳ ﺐﺌٽ",
     "description": ""
   },
   "selectaction": {
-    "message": " ﻮﻳڊﻧﻮﭼ ﻞﻤﻋ ﮡٽﺑ",
+    "message": " ﻮﻳﺮڪ ٽﻴﺳ ﻲﮐ ﻞﻤﻋ ﻱﺭﺍﻭ ﮡٽﺑ ﻦﻴﭼﻭ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﻴٽ ﭛﺳ",
+    "message": " ﺐﻴٽ ﻲﺌﭝﺳ ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " URLs ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﭛﺳ",
+    "message": " ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﭛﺳ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ",
+    "message": " ﻮﻳڊﻧﻮﭼ ﺭﻮﻃ ڪﻨﻟ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " URLs ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
+    "message": " ﻮﻳڊﻧﻮﭼ ﻲﺗ ﺭﻮﻃ ﻲﺟ ﻦﺘﻣ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " URL ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﻲﻫ",
+    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ﻦﺘﻣ ﺐﻴٽ ﻲﻫ",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " (ﺮﻟﻭﺮٽﻴﭘ ﻲٽﭘ) ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﺌٽ ﻲﺌﭝﺳ",
+    "message": " ﺐﻴٽ ﻲﺌﭝﺳ ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " (ﺮٽﻴﻣﺍﺮﻴﭘ ﻲٽﭘ) URLs ٽﺴڪﻴٽ ﻦﺌﻴﺟ ﺐﻴٽ ﻲﺌﭝﺳ",
+    "message": " ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﭛﺳ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " (ﺮﻟﻭﺮٽﻴﭘ ﻲٽﭘ) ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ ﻲﺗ ﺭﻮﻃ ﻲﺟ ﮠﮃﻨﮘ",
+    "message": " ﻮﻳڊﻧﻮﭼ ﺭﻮﻃ ڪﻨﻟ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " (ﺯﺮٽﻴﻣ ﺍﺮﻴﭘ ﻲٽﭘ) URLs ﻦﺘﻣ ﺭﻮﻄﺑ ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
+    "message": " ﻮﻳڊﻧﻮﭼ ﻲﺗ ﺭﻮﻃ ﻲﺟ ﻦﺘﻣ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " (ﺮﻟﻭﺮٽﻴﭘ ﻲٽﭘ) URL ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﻲﻫ",
+    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ﻦﺘﻣ ﺐﻴٽ ﻲﻫ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": " (ﺮﻟﻭﺮٽﻴﭘ ﻲٽﭘ) ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﻴٽ ﻲﻫ",
+    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﺌٽ ﻲﻫ (✂️)",
     "description": ""
   }
 }

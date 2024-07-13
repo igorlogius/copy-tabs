@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kwafi Shafuka azaman hanyoyin haɗin kai ko rubutu URL tare da ko ba tare da sigogi ba",
+    "message": "Kwafi urls shafin azaman hanyoyin haɗin kai ko rubutu na fili",
     "description": ""
   },
   "selectaction": {
-    "message": "Zaɓi aikin maɓallin",
+    "message": "Saita aikin maɓallin tsakiya",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Duk Shafukan azaman hanyoyin haɗin gwiwa",
+    "message": "Duk shafuka azaman Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Duk Shafuka azaman URLs Rubutu",
+    "message": "Duk shafuka azaman Rubutu",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Shafukan da aka zaɓa azaman Haɗin kai",
+    "message": "An zaɓa azaman hanyar haɗi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Shafukan da aka zaɓa azaman URLs Rubutu",
+    "message": "Zaba azaman Rubutu",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Wannan Tab a matsayin URL Rubutu",
+    "message": "Wannan shafin azaman Rubutu",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Wannan Tab a matsayin Link",
+    "message": "Wannan shafin a matsayin Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Duk Shafukan a matsayin Haɗaɗɗiya (Tsarin Sirri)",
+    "message": "Duk shafuka azaman Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Duk Shafuka azaman URLs Rubutu (Ma'auni)",
+    "message": "Duk shafuka azaman Rubutu (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Shafukan da aka zaɓa a matsayin Haɗaɗɗiya (Tsarin Sirri)",
+    "message": "An zaɓa azaman hanyar haɗi (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Shafukan da aka zaɓa azaman URLs Rubutu (Ma'auni)",
+    "message": "Zaba azaman Rubutu (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Wannan Tab a matsayin URL Rubutu (Tsarin Sirri)",
+    "message": "Wannan shafin azaman Rubutu (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Wannan Tab a matsayin Link (Strip Parameters)",
+    "message": "Wannan shafin a matsayin Link (✂️)",
     "description": ""
   }
 }

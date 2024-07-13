@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiearje ljeppers as hyperkeppelings of tekst-URL's mei of sûnder parameters",
+    "message": "Kopiearje ljepper URL's as hyperkeppelings of platte tekst",
     "description": ""
   },
   "selectaction": {
-    "message": "Selektearje knop aksje",
+    "message": "Stel middelste knop aksje",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle ljeppers as keppelings",
+    "message": "Alle ljeppers as Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle ljeppers as tekst-URL's",
+    "message": "Alle ljeppers as tekst",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Selekteare ljeppers as keppelings",
+    "message": "Selektearre as keppeling",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Selekteare ljeppers as tekst-URL's",
+    "message": "Selektearre as tekst",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Dizze ljepper as tekst-URL",
+    "message": "Dizze ljepper as Tekst",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Dizze ljepper as keppeling",
+    "message": "Dizze ljepper as Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alle ljeppers as keppelings (Stripparameters)",
+    "message": "Alle ljeppers as Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle ljeppers as tekst-URL's (Stripparameters)",
+    "message": "Alle ljeppers as tekst (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Selekteare ljeppers as keppelings (Stripparameters)",
+    "message": "Selektearre as keppeling (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Selekteare ljeppers as tekst-URL's (Stripparameters)",
+    "message": "Selektearre as tekst (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Dizze ljepper as tekst-URL (Stripparameters)",
+    "message": "Dizze ljepper as Tekst (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Dizze ljepper as keppeling (Stripparameters)",
+    "message": "Dizze ljepper as Link (✂️)",
     "description": ""
   }
 }

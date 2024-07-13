@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Effingo Tabs sicut hyperlinks vel text URLs cum vel sine parametris",
+    "message": "Effingo tab delata ut hyperlinks vel textum planum",
     "description": ""
   },
   "selectaction": {
-    "message": "Lego button actio",
+    "message": "Set medium actionis button",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Omnes Tabs ut Links",
+    "message": "Omnes tabs ut Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Omnes Tab ut Text URLs",
+    "message": "Omnes tabs ut Text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Electus Tabs ut Links",
+    "message": "Electus ut Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabs ut lectus delata Text",
+    "message": "Electus ut Text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Hoc Tab ut Text URL",
+    "message": "Hoc tab ut Text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Hoc Tab ut Link",
+    "message": "Hoc tab ut Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Omnes Tabs sicut Links (exue Parameters)",
+    "message": "Omnes tabs ut Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Omnes Tab as Text URLs (exue Parameters)",
+    "message": "Omnes tabs ut Text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Lego Tabs ut Links (exue Parameters)",
+    "message": "Electus ut Link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Electus Tabs ut Text URLs (exue Parameters)",
+    "message": "Electus ut Text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Haec Tab as Text URL (exue Parameters)",
+    "message": "Hoc tab ut Text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Hoc Tab sicut Link (exue Parameters)",
+    "message": "Hoc tab ut Link (✂️)",
     "description": ""
   }
 }

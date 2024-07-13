@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Копіювати вкладки як гіперпосилання або текстові URL-адреси з параметрами або без них",
+    "message": "Копіювати URL-адреси вкладок як гіперпосилання або звичайний текст",
     "description": ""
   },
   "selectaction": {
-    "message": "Виберіть дію кнопки",
+    "message": "Установити дію середньої кнопки",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,19 +16,19 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Усі вкладки як текстові URL-адреси",
+    "message": "Усі вкладки як текст",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Вибрані вкладки як посилання",
+    "message": "Вибрано як посилання",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Вибрані вкладки як текстові URL-адреси",
+    "message": "Вибрано як текст",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ця вкладка як текстова URL-адреса",
+    "message": "Ця вкладка як Текст",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Усі вкладки як посилання (параметри смуги)",
+    "message": "Усі вкладки як посилання (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Усі вкладки як текстові URL-адреси (параметри смуги)",
+    "message": "Усі вкладки як текст (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Вибрані вкладки як посилання (параметри смуги)",
+    "message": "Вибрано як посилання (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Вибрані вкладки як текстові URL-адреси (параметри смуги)",
+    "message": "Вибрано як текст (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ця вкладка як текстова URL-адреса (параметри смуги)",
+    "message": "Ця вкладка як Текст (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ця вкладка як посилання (параметри стрічки)",
+    "message": "Ця вкладка як посилання (✂️)",
     "description": ""
   }
 }

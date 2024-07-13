@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopisha Amathebhu njengezixhumanisi noma ama-URL ombhalo anamapharamitha noma angenawo",
+    "message": "Kopisha ama-url ethebhu njengezixhumanisi noma umbhalo ongenalutho",
     "description": ""
   },
   "selectaction": {
-    "message": "Khetha isenzo senkinobho",
+    "message": "Setha isenzo senkinobho ephakathi",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Wonke Amathebhu Njengezixhumanisi",
+    "message": "Wonke amathebhu njengesixhumanisi",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Wonke Amathebhu njengama-URL wombhalo",
+    "message": "Wonke amathebhu Njengombhalo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Amathebhu Akhethiwe Njengezixhumanisi",
+    "message": "Kukhethwe njengesixhumanisi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Amathebhu akhethiwe njengama-URL wombhalo",
+    "message": "Kukhethwe Njengombhalo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Le Thebhu njenge-URL yombhalo",
+    "message": "Le thebhu njengombhalo",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Le Thebhu njengesixhumanisi",
+    "message": "Le thebhu njengesixhumanisi",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Wonke Amathebhu Njengezixhumanisi (Amapharamitha we-Strip)",
+    "message": "Wonke amathebhu njengesixhumanisi (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Wonke Amathebhu Njengama-URL Ombhalo (Amapharamitha e-Strip)",
+    "message": "Wonke amathebhu Njengombhalo (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Amathebhu Akhethiwe Njengezixhumanisi (Amapharamitha e-Strip)",
+    "message": "Kukhethwe njengesixhumanisi (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Amathebhu Akhethiwe Njengama-URL Ombhalo (Ama-Strip Parameters)",
+    "message": "Kukhethwe Njengombhalo (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Le Thebhu njenge-URL yombhalo (Amapharamitha e-Strip)",
+    "message": "Le thebhu njengombhalo (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Le Thebhu Njengesixhumanisi (Amapharamitha we-Strip)",
+    "message": "Le thebhu njengesixhumanisi (✂️)",
     "description": ""
   }
 }

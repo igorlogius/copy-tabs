@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Ku koobbi tabs sidii xiriiriye sare ama URL qoraal leh ama aan lahayn xuduudo",
+    "message": "Nuqul ka samee URL-yada tab sida hyperlinks ama qoraal cad",
     "description": ""
   },
   "selectaction": {
-    "message": "Dooro ficil badhanka",
+    "message": "Deji ficil badhanka dhexe",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Dhammaan tabs sida Links",
+    "message": "Dhammaan tabs sida Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Dhammaan tabs sida URL-yada qoraalka ah",
+    "message": "Dhammaan tabs sida Qoraal",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tabaha loo xushay sida Links",
+    "message": "Loo doortay sida Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabaha loo doortay sida URL-yada qoraalka",
+    "message": "Loo doortay sidii Qoraal",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tabkan sida Qoraal URL",
+    "message": "Tabkan sida Text",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Dhammaan tabs sida isku xidhka (Strip Parameters)",
+    "message": "Dhammaan tabs sida Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Dhammaan Tabaha sida URL-yada Qoraal (Strip Parameters)",
+    "message": "Dhammaan tabs sida Qoraal (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tabaha loo xushay sida isku xidhka (Strip Parameters)",
+    "message": "Loo doortay sida Link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tabaha loo xushay sidii URL Qoraal ahaan (Strip Parameters)",
+    "message": "Loo doortay sidii Qoraal (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Taabkan oo ah URL Qoraal ahaan",
+    "message": "Tabkan sida Text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tabkan sida isku xidhka (Strip Parameters)",
+    "message": "Tabkan sida Linkiga (✂️)",
     "description": ""
   }
 }

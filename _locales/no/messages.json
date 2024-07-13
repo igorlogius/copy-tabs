@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopier faner som hyperkoblinger eller tekst-URL-er med eller uten parametere",
+    "message": "Kopier fanenettadresser som hyperkoblinger eller ren tekst",
     "description": ""
   },
   "selectaction": {
-    "message": "Velg knappehandling",
+    "message": "Angi handling på midtre knapp",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle faner som lenker",
+    "message": "Alle faner som lenke",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle faner som tekst-URL-er",
+    "message": "Alle faner som tekst",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valgte faner som koblinger",
+    "message": "Valgt som lenke",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valgte faner som tekst-URL-er",
+    "message": "Valgt som tekst",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Denne fanen som tekst-URL",
+    "message": "Denne kategorien som tekst",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Denne fanen som lenke",
+    "message": "Denne kategorien som Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alle faner som koblinger (Strip-parametere)",
+    "message": "Alle faner som lenke (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle faner som tekst-URL-er (Strip-parametere)",
+    "message": "Alle faner som tekst (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valgte faner som koblinger (Strip-parametere)",
+    "message": "Valgt som lenke (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valgte faner som tekst-URL-er (Strip-parametere)",
+    "message": "Valgt som tekst (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Denne fanen som tekst-URL (Strip-parametere)",
+    "message": "Denne kategorien som tekst (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Denne fanen som kobling (Strip-parametere)",
+    "message": "Denne kategorien som Link (✂️)",
     "description": ""
   }
 }

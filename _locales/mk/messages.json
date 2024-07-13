@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Копирајте ги картичките како хиперврски или текстуални URL со или без параметри",
+    "message": "Копирајте URL-адреси на јазичињата како хиперврски или обичен текст",
     "description": ""
   },
   "selectaction": {
-    "message": "Изберете дејство на копчето",
+    "message": "Поставете дејство на средното копче",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Сите јазичиња како врски",
+    "message": "Сите јазичиња како линк",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Сите јазичиња како текстуални URL-адреси",
+    "message": "Сите јазичиња како Текст",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Избрани јазичиња како врски",
+    "message": "Избрано како врска",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Избрани јазичиња како текстуални URL-адреси",
+    "message": "Избрано како Текст",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Оваа картичка како URL на текст",
+    "message": "Ова јазиче како Текст",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Оваа картичка како врска",
+    "message": "Ова јазиче како врска",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Сите јазичиња како врски (параметри на лента)",
+    "message": "Сите јазичиња како линк (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Сите јазичиња како текстуални URL-адреси (параметри на лента)",
+    "message": "Сите јазичиња како Текст (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Избрани јазичиња како врски (параметри на лента)",
+    "message": "Избрано како врска (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Избрани јазичиња како текстуални URL-адреси (параметри на лента)",
+    "message": "Избрано како Текст (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Оваа картичка како URL на текст (Параметри на лента)",
+    "message": "Ова јазиче како Текст (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Оваа картичка како врска (параметри на лента)",
+    "message": "Ова јазиче како врска (✂️)",
     "description": ""
   }
 }

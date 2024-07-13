@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Cóipeáil Cluaisíní mar hipearnasc nó URLanna téacs le paraiméadair nó gan paraiméadair",
+    "message": "Cóipeáil urls cluaisín mar hipearnasc nó gnáth-théacs",
     "description": ""
   },
   "selectaction": {
-    "message": "Roghnaigh gníomh cnaipe",
+    "message": "Socraigh gníomh cnaipe lár",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Gach Cluaisín mar Naisc",
+    "message": "Gach cluaisín mar Nasc",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Gach Cluaisín mar URLanna Téacs",
+    "message": "Gach cluaisín mar Téacs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Cluaisíní Roghnaithe mar Naisc",
+    "message": "Roghnaithe mar Nasc",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Cluaisíní Roghnaithe mar URLanna Téacs",
+    "message": "Roghnaithe mar Théacs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "An Cluaisín seo mar URL Téacs",
+    "message": "An cluaisín seo mar Téacs",
     "description": ""
   },
   "cpytablnk": {
-    "message": "An Cluaisín seo mar Nasc",
+    "message": "An cluaisín seo mar Nasc",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Gach Cluaisín mar Nasc (Paraiméadair Stráice)",
+    "message": "Gach cluaisín mar Nasc (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Gach Cluaisín mar URLanna Téacs (Paraiméadair Stráice)",
+    "message": "Gach cluaisín mar Téacs (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Cluaisíní Roghnaithe mar Naisc (Paraiméadair Stráice)",
+    "message": "Roghnaithe mar Nasc (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Cluaisíní Roghnaithe mar URLanna Téacs (Paraiméadair Stráice)",
+    "message": "Roghnaithe mar Théacs (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "An Cluaisín seo mar URL Téacs (Paraiméadair Stráice)",
+    "message": "An cluaisín seo mar Téacs (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "An Cluaisín seo mar Nasc (Paraiméadair Stráice)",
+    "message": "An cluaisín seo mar Nasc (✂️)",
     "description": ""
   }
 }

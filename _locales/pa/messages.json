@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ਪੈਰਾਮੀਟਰਾਂ ਦੇ ਨਾਲ ਜਾਂ ਬਿਨਾਂ ਟੈਬਾਂ ਨੂੰ ਹਾਈਪਰਲਿੰਕਸ ਜਾਂ ਟੈਕਸਟ URL ਦੇ ਰੂਪ ਵਿੱਚ ਕਾਪੀ ਕਰੋ",
+    "message": "ਟੈਬ urls ਨੂੰ ਹਾਈਪਰਲਿੰਕਸ ਜਾਂ ਪਲੇਨ ਟੈਕਸਟ ਵਜੋਂ ਕਾਪੀ ਕਰੋ",
     "description": ""
   },
   "selectaction": {
-    "message": "ਬਟਨ ਐਕਸ਼ਨ ਚੁਣੋ",
+    "message": "ਮੱਧ ਬਟਨ ਕਾਰਵਾਈ ਸੈੱਟ ਕਰੋ",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,47 +16,47 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ URL ਵਜੋਂ",
+    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ ਵਜੋਂ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ਲਿੰਕਾਂ ਵਜੋਂ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ",
+    "message": "ਲਿੰਕ ਵਜੋਂ ਚੁਣਿਆ ਗਿਆ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ਟੈਕਸਟ URL ਦੇ ਤੌਰ 'ਤੇ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ",
+    "message": "ਟੈਕਸਟ ਵਜੋਂ ਚੁਣਿਆ ਗਿਆ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ URL ਵਜੋਂ",
+    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ ਦੇ ਰੂਪ ਵਿੱਚ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ਲਿੰਕ ਦੇ ਤੌਰ 'ਤੇ ਇਹ ਟੈਬ",
+    "message": "ਲਿੰਕ ਦੇ ਰੂਪ ਵਿੱਚ ਇਹ ਟੈਬ",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "ਲਿੰਕ ਦੇ ਤੌਰ 'ਤੇ ਸਾਰੀਆਂ ਟੈਬਾਂ (ਸਟ੍ਰਿਪ ਪੈਰਾਮੀਟਰ)",
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ 'ਤੇ ਸਾਰੀਆਂ ਟੈਬਾਂ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ URL ਦੇ ਰੂਪ ਵਿੱਚ (ਸਟ੍ਰਿਪ ਪੈਰਾਮੀਟਰ)",
+    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ ਵਜੋਂ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "ਲਿੰਕਾਂ ਵਜੋਂ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ (ਸਟ੍ਰਿਪ ਪੈਰਾਮੀਟਰ)",
+    "message": "ਲਿੰਕ ਵਜੋਂ ਚੁਣਿਆ ਗਿਆ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ਟੈਕਸਟ URL (ਸਟ੍ਰਿਪ ਪੈਰਾਮੀਟਰ) ਵਜੋਂ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ",
+    "message": "ਟੈਕਸਟ ਵਜੋਂ ਚੁਣਿਆ ਗਿਆ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ URL ਦੇ ਰੂਪ ਵਿੱਚ (ਸਟ੍ਰਿਪ ਪੈਰਾਮੀਟਰ)",
+    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ ਦੇ ਰੂਪ ਵਿੱਚ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ਲਿੰਕ ਵਜੋਂ ਇਹ ਟੈਬ (ਸਟ੍ਰਿਪ ਪੈਰਾਮੀਟਰ)",
+    "message": "ਲਿੰਕ ਦੇ ਰੂਪ ਵਿੱਚ ਇਹ ਟੈਬ (✂️)",
     "description": ""
   }
 }

@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Tabên wekî hîpergirêdan an URL-yên nivîsê bi an bê pîvanan kopî bikin",
+    "message": "Url-yên tabloyê wekî hîpergirêdan an nivîsek sade kopî bikin",
     "description": ""
   },
   "selectaction": {
-    "message": "Çalakiya bişkojka hilbijêre",
+    "message": "Çalakiya bişkoja navîn saz bikin",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Hemî Tabî wekî Girêdan",
+    "message": "Hemî tabloyên wekî Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Hemî tabloyên wekî URLên nivîsê",
+    "message": "Hemî tabloyên wekî Nivîsar",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tabên Hilbijartî wekî Girêdan",
+    "message": "Wek Girêdan hate hilbijartin",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabên Hilbijartî wekî URLên Nivîsar",
+    "message": "Wek Nivîsar hatiye hilbijartin",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ev tablo wekî URL-a nivîsê",
+    "message": "Ev tablo wekî Nivîsar",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ev Tablo wekî Girêdan",
+    "message": "Ev tablo wekî Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Hemî Tabloyên wekî Girêdan (Parametreyên xêzkirinê)",
+    "message": "Hemî tabloyên wekî Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Hemî tabloyên wekî URLên nivîsê (Parametreyên xêzkirinê)",
+    "message": "Hemî tabloyên wekî Nivîsar (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tabloyên Hilbijartî wekî Girêdan (Parametreyên xêzkirinê)",
+    "message": "Wek Girêdan hate hilbijartin (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tabloyên Hilbijartî wekî URLên Nivîsar (Parametreyên Rêzikê)",
+    "message": "Wek Nivîsar hatiye hilbijartin (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ev tablo wekî URL-ya nivîsê (Parametreyên xêzkirinê)",
+    "message": "Ev tablo wekî Nivîsar (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ev tabela wekî Girêdan (Parametreyên xêzkirinê)",
+    "message": "Ev tablo wekî Link (✂️)",
     "description": ""
   }
 }

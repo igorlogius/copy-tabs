@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopirajte zavihke kot hiperpovezave ali besedilne URL-je s parametri ali brez njih",
+    "message": "Kopiraj URL-je zavihkov kot hiperpovezave ali golo besedilo",
     "description": ""
   },
   "selectaction": {
-    "message": "Izberite dejanje gumba",
+    "message": "Nastavite dejanje srednjega gumba",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Vsi zavihki kot povezave",
+    "message": "Vsi zavihki kot povezava",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Vsi zavihki kot besedilni URL-ji",
+    "message": "Vsi zavihki kot besedilo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Izbrani zavihki kot povezave",
+    "message": "Izbrano kot povezava",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Izbrani zavihki kot besedilni URL-ji",
+    "message": "Izbrano kot besedilo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ta zavihek kot besedilni URL",
+    "message": "Ta zavihek kot besedilo",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Vsi zavihki kot povezave (parametri traku)",
+    "message": "Vsi zavihki kot povezava (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Vsi zavihki kot besedilni URL-ji (parametri traku)",
+    "message": "Vsi zavihki kot besedilo (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Izbrani zavihki kot povezave (parametri traku)",
+    "message": "Izbrano kot povezava (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Izbrani zavihki kot besedilni URL-ji (parametri traku)",
+    "message": "Izbrano kot besedilo (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ta zavihek kot URL besedila (parametri traku)",
+    "message": "Ta zavihek kot besedilo (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ta zavihek kot povezava (parametri traku)",
+    "message": "Ta zavihek kot povezava (✂️)",
     "description": ""
   }
 }

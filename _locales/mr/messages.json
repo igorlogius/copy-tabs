@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "पॅरामीटर्ससह किंवा त्याशिवाय हायपरलिंक्स किंवा मजकूर URL म्हणून टॅब कॉपी करा",
+    "message": "हायपरलिंक्स किंवा साधा मजकूर म्हणून टॅब urls कॉपी करा",
     "description": ""
   },
   "selectaction": {
-    "message": "बटण क्रिया निवडा",
+    "message": "मध्यम बटण क्रिया सेट करा",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "दुवे म्हणून सर्व टॅब",
+    "message": "लिंक म्हणून सर्व टॅब",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "सर्व टॅब मजकूर URL म्हणून",
+    "message": "मजकूर म्हणून सर्व टॅब",
     "description": ""
   },
   "cpysellnk": {
-    "message": "दुवे म्हणून टॅब निवडले",
+    "message": "लिंक म्हणून निवडले",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "मजकूर URL म्हणून टॅब निवडले",
+    "message": "मजकूर म्हणून निवडले",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "हा टॅब मजकूर URL म्हणून",
+    "message": "हा टॅब मजकूर म्हणून",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "लिंक्स म्हणून सर्व टॅब (स्ट्रिप पॅरामीटर्स)",
+    "message": "लिंक म्हणून सर्व टॅब (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "मजकूर URL म्हणून सर्व टॅब (स्ट्रिप पॅरामीटर्स)",
+    "message": "मजकूर म्हणून सर्व टॅब (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "दुवे म्हणून निवडलेले टॅब (स्ट्रिप पॅरामीटर्स)",
+    "message": "लिंक म्हणून निवडले (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "मजकूर URL (स्ट्रिप पॅरामीटर्स) म्हणून निवडलेले टॅब",
+    "message": "मजकूर म्हणून निवडले (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "हा टॅब मजकूर URL (स्ट्रिप पॅरामीटर्स) म्हणून",
+    "message": "हा टॅब मजकूर म्हणून (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "लिंक म्हणून हा टॅब (स्ट्रिप पॅरामीटर्स)",
+    "message": "लिंक म्हणून हा टॅब (✂️)",
     "description": ""
   }
 }

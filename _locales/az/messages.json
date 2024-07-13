@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Nişanları parametrli və ya parametrsiz hiperlink və ya mətn URL kimi kopyalayın",
+    "message": "Nişanların URL-lərini hiperlink və ya düz mətn kimi kopyalayın",
     "description": ""
   },
   "selectaction": {
-    "message": "Düymə hərəkətini seçin",
+    "message": "Orta düymənin hərəkətini təyin edin",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Bütün Nişanlar Linklər kimi",
+    "message": "Bütün tablar Link olaraq",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Bütün Nişanlar Mətn URL-ləri kimi",
+    "message": "Bütün tablar Mətn kimi",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Bağlantılar kimi Seçilmiş Nişanlar",
+    "message": "Link olaraq seçildi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Mətn URL-ləri kimi Seçilmiş Nişanlar",
+    "message": "Mətn kimi seçildi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Bu Tab Mətn URL kimi",
+    "message": "Bu nişanı Mətn olaraq",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Bu Tab Link olaraq",
+    "message": "Bu tab Link olaraq",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Bütün Nişanlar Link kimi (Strip Parametrləri)",
+    "message": "Bütün tablar Link olaraq (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Bütün Nişanlar Mətn URL-ləri kimi (Strip Parametrləri)",
+    "message": "Bütün tablar Mətn kimi (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Bağlantılar kimi Seçilmiş Nişanlar (Strip Parametrləri)",
+    "message": "Link olaraq seçildi (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Mətn URL-ləri kimi Seçilmiş Nişanlar (Strip Parametrləri)",
+    "message": "Mətn kimi seçildi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Bu Tab Mətn URL kimi (Strip Parametrləri)",
+    "message": "Bu nişanı Mətn olaraq (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Bu tab Link olaraq (Strip Parametrləri)",
+    "message": "Bu tab Link olaraq (✂️)",
     "description": ""
   }
 }

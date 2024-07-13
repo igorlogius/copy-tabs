@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "タブをハイパーリンクまたはパラメータ付きまたはパラメータなしのテキスト URL としてコピーします",
+    "message": "タブの URL をハイパーリンクまたはプレーン テキストとしてコピーする",
     "description": ""
   },
   "selectaction": {
-    "message": "ボタンアクションを選択",
+    "message": "中ボタンのアクションを設定する",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,47 +16,47 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "すべてのタブをテキスト URL として表示",
+    "message": "すべてのタブをテキストとして表示",
     "description": ""
   },
   "cpysellnk": {
-    "message": "選択したタブをリンクとして表示",
+    "message": "リンクとして選択されました",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "選択したタブをテキスト URL として表示",
+    "message": "テキストとして選択されました",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "このタブをテキスト URL として表示",
+    "message": "このタブをテキストとして表示",
     "description": ""
   },
   "cpytablnk": {
-    "message": "このタブをリンクとして表示",
+    "message": "このタブはリンクとして表示されます",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "すべてのタブをリンクとして表示 (ストリップパラメータ)",
+    "message": "すべてのタブをリンクとして表示 (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "すべてのタブをテキスト URL として表示 (パラメータのストリップ)",
+    "message": "すべてのタブをテキストとして表示 (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "選択したタブをリンクとして表示 (ストリップパラメータ)",
+    "message": "リンクとして選択されました (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "選択したタブをテキスト URL として表示 (パラメータのストリップ)",
+    "message": "テキストとして選択されました (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "このタブをテキスト URL として表示 (ストリップ パラメータ)",
+    "message": "このタブをテキストとして表示 (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "リンクとしてのこのタブ (ストリップパラメータ)",
+    "message": "このタブはリンクとして表示されます (✂️)",
     "description": ""
   }
 }

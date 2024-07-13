@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "A nene'i i te mau tapa'o ei mau tapa'o e aore râ, ei mau parau papa'i e aore râ, ei mau parau papa'i e aore râ, aita",
+    "message": "A nene'i i te tapa'o tab urls ei mau tapa'o e aore râ, ei parau papa'i maramarama",
     "description": ""
   },
   "selectaction": {
-    "message": "Ma'iti i te ohipa no te pitopito",
+    "message": "A tuu i te pitopito i ropu",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Te mau tapao atoa ei mau taairaa",
+    "message": "Te feia atoa e farii, ia faaite mai te reira",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Te mau tapa'o atoa ei mau parau papa'i",
+    "message": "Te mau tapa'o atoa ei parau papa'i ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Te mau tapa'o i ma'itihia ei hono",
+    "message": "Ma'itihia ei hono",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ma'itihia ei mau tapa'o faahoro parau",
+    "message": "Ma'itihia ei parau papa'i",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Teie tapa'o ei URL papa'iraa",
+    "message": "Teie tapa'o ei parau papa'i",
     "description": ""
   },
   "cpytablnk": {
-    "message": "E tu'ati te reira i te",
+    "message": "Teie tapa'o ei hono",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Te mau tapa'o atoa ei mau hono (te mau)",
+    "message": "Te feia atoa e farii, ia faaite mai te reira (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Te mau tapa'o atoa mai te mau URLs (Te mau parau papa'i)",
+    "message": "Te mau tapa'o atoa ei parau papa'i (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Te mau tapa'o i ma'itihia ei hono (Te mau parau opaniraa)",
+    "message": "Ma'itihia ei hono (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Te mau tapa'o i ma'itihia ei mau tapa'o faahoro parau (Te mau parau papa'i)",
+    "message": "Ma'itihia ei parau papa'i (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Teie tapa'o mai te hoê URL (Te mau parau papa'i)",
+    "message": "Teie tapa'o ei parau papa'i (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Teie tapao ei tuatiraa (Te mau paratenia)",
+    "message": "Teie tapa'o ei hono (✂️)",
     "description": ""
   }
 }

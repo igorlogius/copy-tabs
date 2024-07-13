@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiatu fitxak hiperesteka edo testu URL gisa parametroekin edo gabe",
+    "message": "Kopiatu fitxen URLak hiperesteka edo testu arrunt gisa",
     "description": ""
   },
   "selectaction": {
-    "message": "Hautatu botoiaren ekintza",
+    "message": "Ezarri erdiko botoiaren ekintza",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Fitxa guztiak esteka gisa",
+    "message": "Fitxa guztiak Esteka gisa",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Fitxa guztiak testu URL gisa",
+    "message": "Fitxa guztiak Testu gisa",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Hautatutako fitxak esteka gisa",
+    "message": "Esteka gisa hautatua",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Hautatutako fitxak testu-URL gisa",
+    "message": "Testu gisa hautatua",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Fitxa hau testu-URL gisa",
+    "message": "Fitxa hau Testu gisa",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Fitxa hau esteka gisa",
+    "message": "Fitxa hau Esteka gisa",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Fitxa guztiak esteka gisa (bandaren parametroak)",
+    "message": "Fitxa guztiak Esteka gisa (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Fitxa guztiak testu-URL gisa (Strip-parametroak)",
+    "message": "Fitxa guztiak Testu gisa (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Hautatutako fitxak esteka gisa (bandaren parametroak)",
+    "message": "Esteka gisa hautatua (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Hautatutako fitxak testu-URL gisa (Strip-parametroak)",
+    "message": "Testu gisa hautatua (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Fitxa hau testu-URL gisa (Strip-parametroak)",
+    "message": "Fitxa hau Testu gisa (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Fitxa hau esteka gisa (bandaren parametroak)",
+    "message": "Fitxa hau Esteka gisa (✂️)",
     "description": ""
   }
 }

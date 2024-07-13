@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopéiert Tabs als Hyperlinks oder Text URLen mat oder ouni Parameteren",
+    "message": "Kopéiert Tab URLen als Hyperlinks oder Einfach Text",
     "description": ""
   },
   "selectaction": {
-    "message": "Wielt Knäppchen Aktioun",
+    "message": "Set Mëtt Knäppchen Aktioun",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "All Tabs als Links",
+    "message": "All Tabs als Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "All Tabs als Text URLen",
+    "message": "All Tabs als Text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ausgewielten Tabs als Links",
+    "message": "Als Link ausgewielt",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ausgewielt Tabs als Text URLen",
+    "message": "Ausgewielt als Text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Dësen Tab als Text URL",
+    "message": "Dësen Tab als Text",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "All Tabs als Links (Stripparameter)",
+    "message": "All Tabs als Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "All Tabs als Text URLen (Strip Parameteren)",
+    "message": "All Tabs als Text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ausgewielten Tabs als Links (Stripparameter)",
+    "message": "Als Link ausgewielt (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ausgewielt Tabs als Text URLen (Strip Parameteren)",
+    "message": "Ausgewielt als Text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Dësen Tab als Text URL (Strip Parameteren)",
+    "message": "Dësen Tab als Text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Dës Tab als Link (Strip Parameteren)",
+    "message": "Dësen Tab als Link (✂️)",
     "description": ""
   }
 }

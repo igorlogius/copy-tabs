@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copy Tabs as hyperlinks or text URLs with or without parameters",
+    "message": "Copy tab urls as hyperlinks or plain text",
     "description": ""
   },
   "selectaction": {
-    "message": "Select button action",
+    "message": "Set middle button action",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "All Tabs as Links",
+    "message": "All tabs as Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "All Tabs as Text URLs",
+    "message": "All tabs as Text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Selected Tabs as Links",
+    "message": "Selected as Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Selected Tabs as Text URLs",
+    "message": "Selected as Text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "This Tab as Text URL",
+    "message": "This tab as Text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "This Tab as Link",
+    "message": "This tab as Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "All Tabs as Links (Strip Parameters)",
+    "message": "All tabs as Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "All Tabs as Text URLs (Strip Parameters)",
+    "message": "All tabs as Text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Selected Tabs as Links (Strip Parameters)",
+    "message": "Selected as Link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Selected Tabs as Text URLs (Strip Parameters)",
+    "message": "Selected as Text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "This Tab as Text URL (Strip Parameters)",
+    "message": "This tab as Text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "This Tab as Link (Strip Parameters)",
+    "message": "This tab as Link (✂️)",
     "description": ""
   }
 }

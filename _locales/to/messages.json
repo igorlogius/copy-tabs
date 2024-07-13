@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Hiki tatau ʻa e ngaahi ʻuluʻitohi ʻo hange ko e hyperlinks pe text URLs ʻaki pe taʻe ʻi ai ha fakangatangata",
+    "message": "Hiki tatau ʻa e tab URLs ko e hyperlinks pe fakamatala mahinongofua",
     "description": ""
   },
   "selectaction": {
-    "message": "Fili ʻa e meʻa lomi ke fai",
+    "message": "Fokotuʻu e meʻa lomi ʻi loto",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ngaahi ʻuluʻitohi kotoa ko ha ngaahi fehokotakiʻanga",
+    "message": "Ko e ngaahi ʻuluʻitohi kotoa pe ko e fehokotakiʻanga",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ngaahi ʻuluʻitohi kotoa ko e text URLs",
+    "message": "Ko e ngaahi ʻuluʻitohi kotoa pe ko e fakamatala ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ngaahi ʻuluʻitohi kuo fili ko ha ngaahi fehokotakiʻanga",
+    "message": "Fili ko ha Fehokotakiʻanga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ngaahi ʻuluʻitohi kuo fili ko e text URLs",
+    "message": "Fili ko e Text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ko e tab ko ʻeni ko e text URL",
+    "message": "Ko e konga ko ʻeni ko e fakamatala",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ngaahi ʻuluʻitohi kotoa ko e ngaahi fehokotakiʻanga (fakangatangataʻ",
+    "message": "Ko e ngaahi ʻuluʻitohi kotoa pe ko e fehokotakiʻanga (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ngaahi ʻuluʻitohi kotoa ko e text URLs (fakangatangataʻ",
+    "message": "Ko e ngaahi ʻuluʻitohi kotoa pe ko e fakamatala (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ngaahi ʻuluʻitohi kuo fili ko e ngaahi fehokotakiʻanga (fakangatangataʻ",
+    "message": "Fili ko ha Fehokotakiʻanga (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ngaahi ʻuluʻitohi kuo fili ko e text URLs (fakangatangata)",
+    "message": "Fili ko e Text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ko e tab ko ʻeni ko e text URL (fakangatangata)",
+    "message": "Ko e konga ko ʻeni ko e fakamatala (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ko e tab ko ʻeni ko ha fehokotakiʻanga (fakangatangataʻ",
+    "message": "Ko e tab ko ʻeni ko ha fehokotakiʻanga (✂️)",
     "description": ""
   }
 }

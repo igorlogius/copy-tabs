@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copiar pestanas como hipervínculos ou URL de texto con ou sen parámetros",
+    "message": "Copia os URL das pestanas como hipervínculos ou texto simple",
     "description": ""
   },
   "selectaction": {
-    "message": "Seleccione a acción do botón",
+    "message": "Establece a acción do botón central",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Todas as pestanas como ligazóns",
+    "message": "Todas as pestanas como ligazón",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Todas as pestanas como URL de texto",
+    "message": "Todas as pestanas como texto",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Pestanas seleccionadas como ligazóns",
+    "message": "Seleccionado como ligazón",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Pestanas seleccionadas como URL de texto",
+    "message": "Seleccionado como texto",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Esta pestana como URL de texto",
+    "message": "Esta pestana como texto",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Todas as pestanas como ligazóns (parámetros de tira)",
+    "message": "Todas as pestanas como ligazón (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Todas as pestanas como URL de texto (parámetros de tira)",
+    "message": "Todas as pestanas como texto (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Fichas seleccionadas como ligazóns (parámetros de tira)",
+    "message": "Seleccionado como ligazón (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Pestanas seleccionadas como URL de texto (parámetros de tira)",
+    "message": "Seleccionado como texto (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Esta pestana como URL de texto (parámetros de tira)",
+    "message": "Esta pestana como texto (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Esta pestana como ligazón (parámetros de tira)",
+    "message": "Esta pestana como ligazón (✂️)",
     "description": ""
   }
 }

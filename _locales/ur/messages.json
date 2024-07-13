@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﺮﯿﻐﺑ ﮯﮐ ﺱﺍ ﺎﯾ ﮫﺗﺎﺳ ﮯﮐ ﺮﭩﯿﻣﺍﺮﯿﭘ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺎﯾ ﺲﮑﻨﻟ ﺮﭙﺋﺎﮨ ﺭﻮﻄﺑ ﻮ",
+    "message": " ۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﺭﻮﻄﺑ ﮯﮐ ﻦﺘﻣ ﮦﺩﺎﺳ ﺎﯾ ﺲﮑﻨﻟ ﺮﭙﺋﺎﮨ ﻮﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﺐﯿﭨ",
     "description": ""
   },
   "selectaction": {
-    "message": " ۔ﮟﯾﺮﮐ ﺐﺨﺘﻨﻣ ﻮﮐ ﯽﺋﺍﻭﺭﺭﺎﮐ ﯽﮐ ﻦﭩﺑ",
+    "message": " ۔ﮟﯾﺮﮐ ﭧﯿﺳ ﻦﺸﮑﯾﺍ ﻦﭩﺑ ﯽﻧﺎﯿﻣﺭﺩ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " ﺲﮑﻨﻟ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
+    "message": " ﮏﻨﻟ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " URLs ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
+    "message": " ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﺰﺒﯿﭨ ﮦﺩﺮﮐ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﺲﮑﻨﻟ",
+    "message": " ۔ﺎﯿﮔ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﮏﻨﻟ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﺰﺒﯿﭨ ﮦﺩﺮﮐ ﺐﺨﺘﻨﻣ ﺭﻮﻄﺑ ﮯﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ",
+    "message": " ۔ﺎﯿﮔ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﻦﺘﻣ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ",
+    "message": " ﻦﺘﻣ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " (ﺮﭩﯿﻣﺍﺮﯿﭘ ﭖﺮﭩﺳ) ﺲﮑﻨﻟ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
+    "message": " ﮏﻨﻟ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " (ﺯﺮﭩﯿﻣﺍﺮﯿﭘ ﭖﺮﭩﺳ) ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
+    "message": " ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " (ﺮﭩﯿﻣﺍﺮﯿﭘ ﭖﺮﭩﺳ) ﺰﺒﯿﭨ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﺲﮑﻨﻟ",
+    "message": " ۔ﺎﯿﮔ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﮏﻨﻟ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " (ﺯﺮﭩﯿﻣﺍﺮﯿﭘ ﭖﺮﭩﺳ) ﺰﺒﯿﭨ ﺐﺨﺘﻨﻣ ﺭﻮﻄﺑ ﮯﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ",
+    "message": " ۔ﺎﯿﮔ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﻦﺘﻣ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " (ﺯﺮﭩﯿﻣﺍﺮﯿﭘ ﭖﺮﭩﺳ) ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ",
+    "message": " ﻦﺘﻣ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": " (ﺯﺮﭩﯿﻣﺍﺮﯿﭘ ﭖﺮﭩﺳ) ﮏﻨﻟ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ",
+    "message": " ﮏﻨﻟ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ (✂️)",
     "description": ""
   }
 }

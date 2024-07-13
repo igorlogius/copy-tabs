@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Dèan lethbhreac de na tabaichean mar eadar-cheanglaichean no URLan teacsa le no às aonais crìochan",
+    "message": "Dèan lethbhreac de urls tab mar hyperlinks no teacsa sìmplidh",
     "description": ""
   },
   "selectaction": {
-    "message": "Tagh gnìomh putan",
+    "message": "Suidhich gnìomh putan meadhanach",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "A h-uile taba mar cheanglaichean",
+    "message": "A h-uile taba mar Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "A h-uile taba mar URLan teacsa",
+    "message": "A h-uile taba mar Text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tabaichean taghte mar cheanglaichean",
+    "message": "Air a thaghadh mar Ceangal",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabaichean taghte mar URLan teacsa",
+    "message": "Air a thaghadh mar Text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "An tab seo mar URL teacsa",
+    "message": "An taba seo mar Text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "An tab seo mar Ceangal",
+    "message": "Tha an taba seo mar Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "A h-uile taba mar cheanglaichean (parameters stiallach)",
+    "message": "A h-uile taba mar Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "A h-uile taba mar URLan teacsa (parameters stiallach)",
+    "message": "A h-uile taba mar Text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tabaichean taghte mar cheanglaichean (parameters stiallach)",
+    "message": "Air a thaghadh mar Ceangal (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tabaichean taghte mar URLan teacsa (parameters stiallach)",
+    "message": "Air a thaghadh mar Text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "An taba seo mar URL teacsa (parameters stiallach)",
+    "message": "An taba seo mar Text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "An taba seo mar cheangal (parameters stiallach)",
+    "message": "Tha an taba seo mar Link (✂️)",
     "description": ""
   }
 }

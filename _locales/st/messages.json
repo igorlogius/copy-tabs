@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopitsa Li-tab e le li-hyperlink kapa li-URL tsa mongolo tse nang le liparamente kapa ntle le tsona",
+    "message": "Kopitsa li-url tsa li-tab joalo ka lihokelo kapa mongolo o hlakileng",
     "description": ""
   },
   "selectaction": {
-    "message": "Khetha ts'ebetso ea konopo",
+    "message": "Seta ketso ea konopo e bohareng",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Li-tab Tsohle e le Lihokelo",
+    "message": "Li-tab tsohle e le Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Li-tab tsohle joalo ka li-URL tsa mongolo",
+    "message": "Li-tab tsohle e le Mongolo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Li-tab tse Khethiloeng joalo ka Lihokelo",
+    "message": "E khethiloe e le Sehokelo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Li-tab tse Khethiloeng joalo ka li-URL tsa mongolo",
+    "message": "E khethiloe e le Mongolo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Taba ena e le URL ea Mongolo",
+    "message": "Taba ena e le Mongolo",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Taba ena e le Sehokelo",
+    "message": "Taba ena e le Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Li-tab tsohle joalo ka Lihokelo (Strip Parameters)",
+    "message": "Li-tab tsohle e le Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Li-tab tsohle joalo ka li-URL tsa mongolo (Strip Parameters)",
+    "message": "Li-tab tsohle e le Mongolo (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Li-tab tse Khethiloeng joalo ka Lihokelo (Strip Parameters)",
+    "message": "E khethiloe e le Sehokelo (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Li-tab tse Khethiloeng joalo ka li-URL tsa mongolo (Strip Parameters)",
+    "message": "E khethiloe e le Mongolo (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Taba ena e le URL ea Mongolo (Strip Parameters)",
+    "message": "Taba ena e le Mongolo (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Taba ena e le Khokahanyo (Strip Parameters)",
+    "message": "Taba ena e le Link (✂️)",
     "description": ""
   }
 }

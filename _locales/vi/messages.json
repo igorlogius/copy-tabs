@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Sao chép Tab dưới dạng siêu liên kết hoặc URL văn bản có hoặc không có tham số",
+    "message": "Sao chép url tab dưới dạng siêu liên kết hoặc văn bản thuần túy",
     "description": ""
   },
   "selectaction": {
-    "message": "Chọn hành động nút",
+    "message": "Đặt hành động nút giữa",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,47 +16,47 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tất cả các tab dưới dạng URL văn bản",
+    "message": "Tất cả các tab dưới dạng văn bản",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Các tab đã chọn làm liên kết",
+    "message": "Đã chọn làm liên kết",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Các tab đã chọn làm URL văn bản",
+    "message": "Đã chọn làm văn bản",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tab này dưới dạng URL văn bản",
+    "message": "Tab này dưới dạng văn bản",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tab này là liên kết",
+    "message": "Tab này là Liên kết",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Tất cả các tab dưới dạng liên kết (Thông số dải)",
+    "message": "Tất cả các tab dưới dạng liên kết (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tất cả các tab dưới dạng URL văn bản (Tham số dải)",
+    "message": "Tất cả các tab dưới dạng văn bản (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Các tab được chọn làm liên kết (Thông số dải)",
+    "message": "Đã chọn làm liên kết (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Các tab đã chọn làm URL văn bản (Tham số dải)",
+    "message": "Đã chọn làm văn bản (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tab này dưới dạng URL văn bản (Tham số dải)",
+    "message": "Tab này dưới dạng văn bản (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tab này dưới dạng liên kết (Thông số dải)",
+    "message": "Tab này là Liên kết (✂️)",
     "description": ""
   }
 }

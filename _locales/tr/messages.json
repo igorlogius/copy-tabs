@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Sekmeleri köprüler veya parametreli veya parametresiz metin URL'leri olarak kopyalayın",
+    "message": "Sekme URL'lerini köprü veya düz metin olarak kopyalayın",
     "description": ""
   },
   "selectaction": {
-    "message": "Düğme eylemini seç",
+    "message": "Orta düğme eylemini ayarlayın",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Bağlantı Olarak Tüm Sekmeler",
+    "message": "Bağlantı olarak tüm sekmeler",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tüm Sekmeler Metin URL'si Olarak",
+    "message": "Tüm sekmeler Metin olarak",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Bağlantı Olarak Seçilen Sekmeler",
+    "message": "Bağlantı Olarak Seçildi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Metin URL'leri Olarak Seçilen Sekmeler",
+    "message": "Metin Olarak Seçildi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Metin URL'si olarak Bu Sekme",
+    "message": "Bu sekme Metin olarak",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Bağlantı Olarak Bu Sekme",
+    "message": "Bağlantı olarak bu sekme",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Bağlantı Olarak Tüm Sekmeler (Şerit Parametreleri)",
+    "message": "Bağlantı olarak tüm sekmeler (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Metin URL'leri Olarak Tüm Sekmeler (Şerit Parametreleri)",
+    "message": "Tüm sekmeler Metin olarak (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Bağlantı Olarak Seçilen Sekmeler (Şerit Parametreleri)",
+    "message": "Bağlantı Olarak Seçildi (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Metin URL'leri Olarak Seçilen Sekmeler (Şerit Parametreleri)",
+    "message": "Metin Olarak Seçildi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Metin URL'si olarak Bu Sekme (Şerit Parametreleri)",
+    "message": "Bu sekme Metin olarak (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Bağlantı Olarak Bu Sekme (Şerit Parametreleri)",
+    "message": "Bağlantı olarak bu sekme (✂️)",
     "description": ""
   }
 }

@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copiați filele ca hyperlinkuri sau URL-uri text cu sau fără parametri",
+    "message": "Copiați adresele URL ale filelor ca hyperlinkuri sau text simplu",
     "description": ""
   },
   "selectaction": {
-    "message": "Selectați acțiunea butonului",
+    "message": "Setați acțiunea butonului din mijloc",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Toate filele ca linkuri",
+    "message": "Toate filele ca Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Toate filele ca URL-uri text",
+    "message": "Toate filele ca text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Filele selectate ca linkuri",
+    "message": "Selectat ca Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Filele selectate ca URL-uri text",
+    "message": "Selectat ca text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Această filă ca URL text",
+    "message": "Această filă ca text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Această filă ca link",
+    "message": "Această filă ca Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Toate filele ca legături (Parametrii benzii)",
+    "message": "Toate filele ca Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Toate filele ca URL-uri text (Parametri de bandă)",
+    "message": "Toate filele ca text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Filele selectate ca legături (Parametrii benzii)",
+    "message": "Selectat ca Link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Filele selectate ca URL-uri de text (Parametri de bandă)",
+    "message": "Selectat ca text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Această filă ca adresă URL text (Parametrii de bandă)",
+    "message": "Această filă ca text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Această filă ca legătură (Parametrii benzii)",
+    "message": "Această filă ca Link (✂️)",
     "description": ""
   }
 }

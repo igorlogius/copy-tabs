@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ट्याबहरू हाइपरलिङ्क वा पाठ URL हरू मापदण्डहरूसँग वा बिना प्रतिलिपि गर्नुहोस्",
+    "message": "हाइपरलिङ्क वा सादा पाठको रूपमा ट्याब urls प्रतिलिपि गर्नुहोस्",
     "description": ""
   },
   "selectaction": {
-    "message": "बटन कार्य चयन गर्नुहोस्",
+    "message": "मध्य बटन कार्य सेट गर्नुहोस्",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,19 +16,19 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "पाठ URL को रूपमा सबै ट्याबहरू",
+    "message": "सबै ट्याबहरू पाठको रूपमा",
     "description": ""
   },
   "cpysellnk": {
-    "message": "लिङ्कको रूपमा ट्याबहरू चयन गरियो",
+    "message": "लिङ्कको रूपमा चयन गरियो",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "पाठ URL को रूपमा ट्याबहरू चयन गरियो",
+    "message": "पाठको रूपमा चयन गरियो",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "यो ट्याब पाठ URL को रूपमा",
+    "message": "यो ट्याब पाठको रूपमा",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "लिङ्कको रूपमा सबै ट्याबहरू (पट्टी प्यारामिटरहरू)",
+    "message": "लिङ्कको रूपमा सबै ट्याबहरू (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "पाठ URL को रूपमा सबै ट्याबहरू (पट्टी प्यारामिटरहरू)",
+    "message": "सबै ट्याबहरू पाठको रूपमा (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "लिङ्कको रूपमा चयन गरिएका ट्याबहरू (पट्टी प्यारामिटरहरू)",
+    "message": "लिङ्कको रूपमा चयन गरियो (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "पाठ URL को रूपमा ट्याबहरू (स्ट्रिप प्यारामिटरहरू) चयन गरियो",
+    "message": "पाठको रूपमा चयन गरियो (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "यो ट्याब पाठ URL को रूपमा (पट्टी प्यारामिटरहरू)",
+    "message": "यो ट्याब पाठको रूपमा (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "लिङ्कको रूपमा यो ट्याब (पट्टी प्यारामिटरहरू)",
+    "message": "लिङ्कको रूपमा यो ट्याब (✂️)",
     "description": ""
   }
 }

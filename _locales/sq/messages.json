@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopjoni skedat si hiperlidhje ose URL teksti me ose pa parametra",
+    "message": "Kopjoni URL-të e skedave si hiperlidhje ose tekst të thjeshtë",
     "description": ""
   },
   "selectaction": {
-    "message": "Zgjidhni veprimin e butonit",
+    "message": "Cakto veprimin e butonit të mesëm",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Të gjitha skedat si lidhje",
+    "message": "Të gjitha skedat si Lidhje",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Të gjitha skedat si URL teksti",
+    "message": "Të gjitha skedat si Tekst",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Skedat e zgjedhura si lidhje",
+    "message": "Zgjedhur si Lidhje",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Skedat e zgjedhura si URL teksti",
+    "message": "Zgjedhur si Tekst",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kjo skedë si URL e tekstit",
+    "message": "Kjo skedë si Tekst",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kjo skedë si lidhje",
+    "message": "Kjo skedë si Lidhje",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Të gjitha skedat si lidhje (Parametrat e shiritit)",
+    "message": "Të gjitha skedat si Lidhje (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Të gjitha skedat si URL teksti (Parametrat e shiritit)",
+    "message": "Të gjitha skedat si Tekst (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Skedat e zgjedhura si lidhje (Parametrat e shiritit)",
+    "message": "Zgjedhur si Lidhje (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Skedat e zgjedhura si URL teksti (Parametrat e shiritit)",
+    "message": "Zgjedhur si Tekst (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Kjo skedë si URL e tekstit (Parametrat e shiritit)",
+    "message": "Kjo skedë si Tekst (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Kjo skedë si lidhje (Parametrat e shiritit)",
+    "message": "Kjo skedë si Lidhje (✂️)",
     "description": ""
   }
 }

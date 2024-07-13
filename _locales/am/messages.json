@@ -1,34 +1,34 @@
 {
   "addonName": {
-    "message": "ትሮችን ይቅዱ",
+    "message": "ትሮችን ቅዳ",
     "description": ""
   },
   "addonDesc": {
-    "message": "ትሮችን እንደ hyperlinks ወይም የጽሑፍ ዩአርኤሎችን ከግቤቶች ጋር ወይም ያለ ግልባጭ ይቅዱ",
+    "message": "የትር ዩአርኤሎችን እንደ hyperlinks ወይም ግልጽ ጽሑፍ ቅዳ",
     "description": ""
   },
   "selectaction": {
-    "message": "የአዝራር እርምጃን ይምረጡ",
+    "message": "የመሃል አዝራሩን እርምጃ ያዘጋጁ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "ሁሉም ትሮች እንደ አገናኞች",
+    "message": "ሁሉም ትሮች እንደ አገናኝ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ሁሉም ትሮች እንደ የጽሑፍ ዩአርኤሎች",
+    "message": "ሁሉም ትሮች እንደ ጽሑፍ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "የተመረጡ ትሮች እንደ አገናኞች",
+    "message": "እንደ አገናኝ ተመርጧል",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "የተመረጡ ትሮች እንደ የጽሑፍ URLs",
+    "message": "እንደ ጽሑፍ ተመርጧል",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ይህ ትር እንደ የጽሑፍ URL",
+    "message": "ይህ ትር እንደ ጽሑፍ",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "ሁሉም ትሮች እንደ አገናኞች (የጭረት መለኪያዎች)",
+    "message": "ሁሉም ትሮች እንደ አገናኝ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ሁሉም ትሮች እንደ የጽሑፍ ዩአርኤሎች (የጭረት መለኪያዎች)",
+    "message": "ሁሉም ትሮች እንደ ጽሑፍ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "የተመረጡ ትሮች እንደ አገናኞች (የጭረት መለኪያዎች)",
+    "message": "እንደ አገናኝ ተመርጧል (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "የተመረጡ ትሮች እንደ የጽሑፍ ዩአርኤሎች (የዝርፊያ መለኪያዎች)",
+    "message": "እንደ ጽሑፍ ተመርጧል (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ይህ ትር እንደ የጽሑፍ ዩአርኤል (የጭረት መለኪያዎች)",
+    "message": "ይህ ትር እንደ ጽሑፍ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ይህ ትር እንደ አገናኝ (የግጭት መለኪያዎች)",
+    "message": "ይህ ትር እንደ አገናኝ (✂️)",
     "description": ""
   }
 }

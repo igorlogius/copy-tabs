@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiu Langetojn kiel hiperligojn aŭ tekstajn URL-ojn kun aŭ sen parametroj",
+    "message": "Kopiu tabulajn URL-ojn kiel hiperligojn aŭ simplan tekston",
     "description": ""
   },
   "selectaction": {
-    "message": "Elektu butonan agon",
+    "message": "Agordu meza butonan agon",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ĉiuj Langetoj kiel Ligiloj",
+    "message": "Ĉiuj langetoj kiel Ligo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ĉiuj Langetoj kiel Tekstaj URLoj",
+    "message": "Ĉiuj langetoj kiel Teksto",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Elektitaj Langetoj kiel Ligiloj",
+    "message": "Elektita kiel Ligo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Elektitaj Langetoj kiel Tekstaj URLoj",
+    "message": "Elektita kiel Teksto",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ĉi tiu langeto kiel Teksta URL",
+    "message": "Ĉi tiu langeto kiel Teksto",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ĉiuj Langetoj kiel Ligiloj (Strip Parametroj)",
+    "message": "Ĉiuj langetoj kiel Ligo (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ĉiuj Klapetoj kiel Tekstaj URLoj (Strip Parametroj)",
+    "message": "Ĉiuj langetoj kiel Teksto (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Elektitaj Langetoj kiel Ligiloj (Strip Parametroj)",
+    "message": "Elektita kiel Ligo (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Elektitaj Langetoj kiel Tekstaj URLoj (Strip Parametroj)",
+    "message": "Elektita kiel Teksto (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ĉi tiu Langeto kiel Teksta URL (Strip Parametroj)",
+    "message": "Ĉi tiu langeto kiel Teksto (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ĉi tiu Langeto kiel Ligo (Strip Parametroj)",
+    "message": "Ĉi tiu langeto kiel Ligo (✂️)",
     "description": ""
   }
 }

@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopijuoti skirtukus kaip hipersaitus arba teksto URL su parametrais arba be jų",
+    "message": "Nukopijuokite skirtukų URL kaip hipersaitus arba paprastą tekstą",
     "description": ""
   },
   "selectaction": {
-    "message": "Pasirinkite mygtuko veiksmą",
+    "message": "Nustatykite vidurinio mygtuko veiksmą",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Visi skirtukai kaip nuorodos",
+    "message": "Visi skirtukai kaip nuoroda",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Visi skirtukai kaip teksto URL",
+    "message": "Visi skirtukai kaip tekstas",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Pasirinkti skirtukai kaip nuorodos",
+    "message": "Pasirinkta kaip nuoroda",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Pasirinkti skirtukai kaip teksto URL",
+    "message": "Pasirinktas kaip tekstas",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Šis skirtukas kaip teksto URL",
+    "message": "Šis skirtukas kaip tekstas",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Visi skirtukai kaip nuorodos (juostos parametrai)",
+    "message": "Visi skirtukai kaip nuoroda (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Visi skirtukai kaip teksto URL (juostos parametrai)",
+    "message": "Visi skirtukai kaip tekstas (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Pasirinkti skirtukai kaip nuorodos (juostos parametrai)",
+    "message": "Pasirinkta kaip nuoroda (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Pasirinkti skirtukai kaip teksto URL (juostos parametrai)",
+    "message": "Pasirinktas kaip tekstas (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Šis skirtukas kaip teksto URL (juostos parametrai)",
+    "message": "Šis skirtukas kaip tekstas (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Šis skirtukas kaip nuoroda (juostos parametrai)",
+    "message": "Šis skirtukas kaip nuoroda (✂️)",
     "description": ""
   }
 }

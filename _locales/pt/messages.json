@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copie guias como hiperlinks ou URLs de texto com ou sem parâmetros",
+    "message": "Copie os URLs das guias como hiperlinks ou texto simples",
     "description": ""
   },
   "selectaction": {
-    "message": "Selecione a ação do botão",
+    "message": "Definir ação do botão do meio",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Todas as guias como links",
+    "message": "Todas as guias como link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Todas as guias como URLs de texto",
+    "message": "Todas as guias como texto",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Guias selecionadas como links",
+    "message": "Selecionado como link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Guias selecionadas como URLs de texto",
+    "message": "Selecionado como texto",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Esta guia como URL de texto",
+    "message": "Esta guia como texto",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Todas as guias como links (parâmetros de faixa)",
+    "message": "Todas as guias como link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Todas as guias como URLs de texto (parâmetros de faixa)",
+    "message": "Todas as guias como texto (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Guias selecionadas como links (parâmetros de faixa)",
+    "message": "Selecionado como link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Guias selecionadas como URLs de texto (parâmetros de faixa)",
+    "message": "Selecionado como texto (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Esta guia como URL de texto (parâmetros de faixa)",
+    "message": "Esta guia como texto (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Esta guia como link (parâmetros da faixa)",
+    "message": "Esta guia como link (✂️)",
     "description": ""
   }
 }

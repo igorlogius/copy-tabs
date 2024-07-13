@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Копирование вкладок в виде гиперссылок или текстовых URL-адресов с параметрами или без них.",
+    "message": "Скопируйте URL-адреса вкладок в виде гиперссылок или обычного текста.",
     "description": ""
   },
   "selectaction": {
-    "message": "Выберите действие кнопки",
+    "message": "Установить действие средней кнопки",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Все вкладки как ссылки",
+    "message": "Все вкладки как ссылка",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Все вкладки как текстовые URL-адреса",
+    "message": "Все вкладки как текст",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Выбранные вкладки как ссылки",
+    "message": "Выбрано как ссылка",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Выбранные вкладки как текстовые URL-адреса",
+    "message": "Выбрано как текст",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Эта вкладка как текстовый URL-адрес",
+    "message": "Эта вкладка как текст",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Все вкладки как ссылки (параметры полосы)",
+    "message": "Все вкладки как ссылка (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Все вкладки в виде текстовых URL-адресов (параметры полосы)",
+    "message": "Все вкладки как текст (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Выбранные вкладки как ссылки (параметры полосы)",
+    "message": "Выбрано как ссылка (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Выбранные вкладки как текстовые URL-адреса (параметры полосы)",
+    "message": "Выбрано как текст (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Эта вкладка в виде текстового URL-адреса (параметры полосы)",
+    "message": "Эта вкладка как текст (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Эта вкладка как ссылка (параметры полосы)",
+    "message": "Эта вкладка как ссылка (✂️)",
     "description": ""
   }
 }

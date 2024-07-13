@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copia le schede come collegamenti ipertestuali o URL di testo con o senza parametri",
+    "message": "Copia gli URL delle schede come collegamenti ipertestuali o testo semplice",
     "description": ""
   },
   "selectaction": {
-    "message": "Seleziona l'azione del pulsante",
+    "message": "Imposta l'azione del pulsante centrale",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tutte le schede come collegamenti",
+    "message": "Tutte le schede come collegamento",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tutte le schede come URL di testo",
+    "message": "Tutte le schede come testo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Schede selezionate come collegamenti",
+    "message": "Selezionato come collegamento",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Schede selezionate come URL di testo",
+    "message": "Selezionato come testo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Questa scheda come URL di testo",
+    "message": "Questa scheda come Testo",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Questa scheda come collegamento",
+    "message": "Questa scheda come Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Tutte le schede come collegamenti (parametri della striscia)",
+    "message": "Tutte le schede come collegamento (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tutte le schede come URL di testo (parametri della striscia)",
+    "message": "Tutte le schede come testo (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Schede selezionate come collegamenti (parametri della striscia)",
+    "message": "Selezionato come collegamento (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Schede selezionate come URL di testo (parametri della striscia)",
+    "message": "Selezionato come testo (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Questa scheda come URL di testo (parametri della striscia)",
+    "message": "Questa scheda come Testo (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Questa scheda come collegamento (parametri della striscia)",
+    "message": "Questa scheda come Link (✂️)",
     "description": ""
   }
 }

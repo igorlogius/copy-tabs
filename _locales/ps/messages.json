@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪﺗﺮﭘ ﺎﯾ ﻩﺮﺳ ﻮﻧﻮټﯿﻣﺍﺮﯿﭘ ﺩ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺎﯾ ﻮﻧﻮﮑﻨﯿﻟ ﺮﭙﯾﺎﻫ ﺩ ﻪﻧﻮﺒټ",
+    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﻩﺩﺎﺳ ﺎﯾ ﮏﻨﯿﻟ ﺮﭙﯾﺎﻫ ﺩ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﺐټ ﺩ",
     "description": ""
   },
   "selectaction": {
-    "message": " ﺉړﮐ ﻩﺭﻮﻏ ﻞﻤﻋ ۍڼﺗ ﺩ",
+    "message": " ﺉړﮐ ﺐﯿﺗﺮﺗ ﻞﻤﻋ ۍڼﺗ ۍﻨځﻨﻣ ﺩ",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,19 +16,19 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
+    "message": " ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﻱﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ",
+    "message": " ﯼﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﻱﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ",
+    "message": " ﯼﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﺩ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﻪګﻮﺗ ﻪﭘ URL ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ",
+    "message": " ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " (ﻮﻧﻮټﯿﻣﺍﺮﯿﭘ ﻮټﭘ ﺩ) ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
+    "message": " ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " (ﻮﻧﻮټﯿﻣﺍﺮﯿﭘ ﻮټﭘ ﺩ) ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
+    "message": " ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " (ﻭﺮټﯿﻣﺍﺮﯿﭘ ﻮټﭘ ﺩ) ﻪﻧﻮﺒټ ﻱﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ",
+    "message": " ﯼﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " (ﻮﻧﻮټﯿﻣﺍﺮﯿﭘ ﻮټﭘ ﺩ) ﻱﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ",
+    "message": " ﯼﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﺩ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " (ﻮﻧﻮټﯿﻣﺍﺮﯿﭘ ﻮټﭘ ﺩ) ﻪګﻮﺗ ﻪﭘ URL ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ",
+    "message": " ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": " (ﻭﺮټﯿﻣﺍﺮﯿﭘ ﻮټﭘ ﺩ) ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﺐټ ﺍﺩ",
+    "message": " ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﺐټ ﺍﺩ (✂️)",
     "description": ""
   }
 }

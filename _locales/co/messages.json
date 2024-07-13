@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copia Tabs cum'è hyperlinks o URL di testu cù o senza parametri",
+    "message": "Copia l'urls di tabulazione cum'è ligami ipertesi o testu chjaru",
     "description": ""
   },
   "selectaction": {
-    "message": "Selezziunà l'azzione di u buttone",
+    "message": "Stabilite l'azzione di u buttone mediu",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tutti i Tabs cum'è Links",
+    "message": "Tutte e tabulazioni cum'è Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tutte e tabulazioni cum'è URL di testu",
+    "message": "Tutte e tabulazioni cum'è Testu",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tabs Scelti cum'è Links",
+    "message": "Sceltu cum'è Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabs Scelti cum'è URL di testu",
+    "message": "Sceltu cum'è Testu",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Questa Tabulazione cum'è URL di testu",
+    "message": "Questa tabulazione cum'è Testu",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Questa Tabulazione cum'è Link",
+    "message": "Questa tabulazione cum'è Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Tutte e tabulazioni cum'è ligami (parametri di striscia)",
+    "message": "Tutte e tabulazioni cum'è Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tutte e tabulazioni cum'è URL di testu (parametri di striscia)",
+    "message": "Tutte e tabulazioni cum'è Testu (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tabs Scelti cum'è Links (Parametri di Strip)",
+    "message": "Sceltu cum'è Link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tabs Scelti cum'è URL di testu (Parametri di striscia)",
+    "message": "Sceltu cum'è Testu (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Questa Tabulazione cum'è URL di testu (Parametri di striscia)",
+    "message": "Questa tabulazione cum'è Testu (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Questa Tabulazione cum'è Link (Parametri Strip)",
+    "message": "Questa tabulazione cum'è Link (✂️)",
     "description": ""
   }
 }

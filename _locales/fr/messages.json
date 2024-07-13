@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copier les onglets sous forme d'hyperliens ou d'URL de texte avec ou sans paramètres",
+    "message": "Copier les URL des onglets sous forme d'hyperliens ou de texte brut",
     "description": ""
   },
   "selectaction": {
-    "message": "Sélectionner l'action du bouton",
+    "message": "Définir l'action du bouton central",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tous les onglets sous forme de liens",
+    "message": "Tous les onglets sous forme de lien",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tous les onglets sous forme d'URL de texte",
+    "message": "Tous les onglets sous forme de texte",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Onglets sélectionnés comme liens",
+    "message": "Sélectionné comme lien",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Onglets sélectionnés en tant qu'URL de texte",
+    "message": "Sélectionné comme texte",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Cet onglet sous forme d'URL de texte",
+    "message": "Cet onglet sous forme de texte",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Tous les onglets sous forme de liens (paramètres de suppression)",
+    "message": "Tous les onglets sous forme de lien (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tous les onglets sous forme d'URL de texte (paramètres de suppression)",
+    "message": "Tous les onglets sous forme de texte (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Onglets sélectionnés en tant que liens (paramètres de bande)",
+    "message": "Sélectionné comme lien (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Onglets sélectionnés en tant qu'URL de texte (paramètres de suppression)",
+    "message": "Sélectionné comme texte (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Cet onglet sous forme d'URL de texte (paramètres de suppression)",
+    "message": "Cet onglet sous forme de texte (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Cet onglet comme lien (paramètres de bande)",
+    "message": "Cet onglet comme lien (✂️)",
     "description": ""
   }
 }

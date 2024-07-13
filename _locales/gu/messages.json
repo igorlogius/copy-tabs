@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ટેબ્સને હાઇપરલિંક્સ અથવા ટેક્સ્ટ URL ને પેરામીટર્સ સાથે અથવા વગર કૉપિ કરો",
+    "message": "ટેબ યુઆરએલને હાઇપરલિંક્સ અથવા સાદા ટેક્સ્ટ તરીકે કૉપિ કરો",
     "description": ""
   },
   "selectaction": {
-    "message": "બટન ક્રિયા પસંદ કરો",
+    "message": "મધ્ય બટન ક્રિયા સેટ કરો",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "લિંક્સ તરીકે તમામ ટૅબ્સ",
+    "message": "લિંક તરીકે તમામ ટૅબ્સ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "બધા ટૅબ્સ ટેક્સ્ટ URL તરીકે",
+    "message": "બધા ટૅબ્સ ટેક્સ્ટ તરીકે",
     "description": ""
   },
   "cpysellnk": {
-    "message": "લિંક્સ તરીકે પસંદ કરેલ ટૅબ્સ",
+    "message": "લિંક તરીકે પસંદ કરેલ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ટેક્સ્ટ URL તરીકે પસંદ કરેલ ટૅબ્સ",
+    "message": "ટેક્સ્ટ તરીકે પસંદ કરેલ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "આ ટેબ ટેક્સ્ટ URL તરીકે",
+    "message": "આ ટેબને ટેક્સ્ટ તરીકે",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "લિંક્સ તરીકે તમામ ટૅબ્સ (સ્ટ્રીપ પેરામીટર્સ)",
+    "message": "લિંક તરીકે તમામ ટૅબ્સ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "બધા ટૅબ્સ ટેક્સ્ટ URL તરીકે (સ્ટ્રીપ પેરામીટર્સ)",
+    "message": "બધા ટૅબ્સ ટેક્સ્ટ તરીકે (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "લિંક્સ તરીકે પસંદ કરેલ ટૅબ્સ (સ્ટ્રીપ પરિમાણો)",
+    "message": "લિંક તરીકે પસંદ કરેલ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ટેક્સ્ટ URL તરીકે પસંદ કરેલ ટૅબ્સ (સ્ટ્રીપ પેરામીટર્સ)",
+    "message": "ટેક્સ્ટ તરીકે પસંદ કરેલ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "આ ટેબ ટેક્સ્ટ URL તરીકે (સ્ટ્રીપ પેરામીટર્સ)",
+    "message": "આ ટેબને ટેક્સ્ટ તરીકે (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "લિંક તરીકે આ ટૅબ (સ્ટ્રીપ પરિમાણો)",
+    "message": "લિંક તરીકે આ ટેબ (✂️)",
     "description": ""
   }
 }

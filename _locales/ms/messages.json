@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Salin Tab sebagai hiperpautan atau URL teks dengan atau tanpa parameter",
+    "message": "Salin url tab sebagai hiperpautan atau teks biasa",
     "description": ""
   },
   "selectaction": {
-    "message": "Pilih tindakan butang",
+    "message": "Tetapkan tindakan butang tengah",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Semua Tab sebagai Pautan",
+    "message": "Semua tab sebagai Pautan",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Semua Tab sebagai URL Teks",
+    "message": "Semua tab sebagai Teks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tab yang Dipilih sebagai Pautan",
+    "message": "Dipilih sebagai Pautan",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tab yang Dipilih sebagai URL Teks",
+    "message": "Dipilih sebagai Teks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tab ini sebagai URL Teks",
+    "message": "Tab ini sebagai Teks",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Semua Tab sebagai Pautan (Parameter Jalur)",
+    "message": "Semua tab sebagai Pautan (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Semua Tab sebagai URL Teks (Parameter Jalur)",
+    "message": "Semua tab sebagai Teks (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tab yang Dipilih sebagai Pautan (Parameter Jalur)",
+    "message": "Dipilih sebagai Pautan (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tab yang Dipilih sebagai URL Teks (Parameter Jalur)",
+    "message": "Dipilih sebagai Teks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tab Ini sebagai URL Teks (Parameter Jalur)",
+    "message": "Tab ini sebagai Teks (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tab Ini sebagai Pautan (Parameter Jalur)",
+    "message": "Tab ini sebagai Pautan (✂️)",
     "description": ""
   }
 }

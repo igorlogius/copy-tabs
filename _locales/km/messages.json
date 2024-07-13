@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ចម្លងផ្ទាំងជាតំណខ្ពស់ ឬ URL អត្ថបទដែលមាន ឬគ្មានប៉ារ៉ាម៉ែត្រ",
+    "message": "ចម្លង url ផ្ទាំងជាតំណខ្ពស់ ឬអត្ថបទធម្មតា។",
     "description": ""
   },
   "selectaction": {
-    "message": "ជ្រើសរើសសកម្មភាពប៊ូតុង",
+    "message": "កំណត់សកម្មភាពប៊ូតុងកណ្តាល",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,19 +16,19 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ផ្ទាំងទាំងអស់ជា URL អត្ថបទ",
+    "message": "ផ្ទាំងទាំងអស់ជាអត្ថបទ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ផ្ទាំងដែលបានជ្រើសរើសជាតំណភ្ជាប់",
+    "message": "បានជ្រើសរើសជាតំណ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ផ្ទាំងដែលបានជ្រើសរើសជា URL អត្ថបទ",
+    "message": "បានជ្រើសរើសជាអត្ថបទ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ផ្ទាំងនេះជា URL អត្ថបទ",
+    "message": "ផ្ទាំងនេះជាអត្ថបទ",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "ផ្ទាំងទាំងអស់ជាតំណភ្ជាប់ (ប៉ារ៉ាម៉ែត្រឆ្នូត)",
+    "message": "ផ្ទាំងទាំងអស់ជាតំណភ្ជាប់ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ផ្ទាំងទាំងអស់ជា URL អត្ថបទ (ប៉ារ៉ាម៉ែត្រឆ្នូត)",
+    "message": "ផ្ទាំងទាំងអស់ជាអត្ថបទ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "ផ្ទាំងដែលបានជ្រើសរើសជាតំណភ្ជាប់ (ប៉ារ៉ាម៉ែត្រឆ្នូត)",
+    "message": "បានជ្រើសរើសជាតំណ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ផ្ទាំងដែលបានជ្រើសរើសជា URL អត្ថបទ (ប៉ារ៉ាម៉ែត្រឆ្នូត)",
+    "message": "បានជ្រើសរើសជាអត្ថបទ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ផ្ទាំងនេះជា URL អត្ថបទ (ប៉ារ៉ាម៉ែត្រឆ្នូត)",
+    "message": "ផ្ទាំងនេះជាអត្ថបទ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ផ្ទាំងនេះជាតំណភ្ជាប់ (ប៉ារ៉ាម៉ែត្រឆ្នូត)",
+    "message": "ផ្ទាំងនេះជាតំណភ្ជាប់ (✂️)",
     "description": ""
   }
 }

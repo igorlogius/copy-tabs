@@ -7,6 +7,7 @@
   },
   "browser_action": {
     "default_area": "navbar",
+    "default_popup": "popup.html",
     "theme_icons": [
       {
         "light": "dark.png",
@@ -44,10 +45,15 @@
   "icons": {
     "256": "icon.svg"
   },
+
+  "options_ui": {
+    "open_in_tab": false,
+    "page": "options.html"
+  },
   "manifest_version": 2,
   "name": "__MSG_addonName__",
   "description": "__MSG_addonDesc__",
   "permissions": ["clipboardWrite", "storage", "menus", "tabs"],
   "optional_permissions": ["notifications"],
-  "version": "1.15.45"
+  "version": "1.16.45"
 }

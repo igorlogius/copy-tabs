@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Daakọ Awọn taabu bi awọn ọna asopọ hyperlinks tabi awọn URL ọrọ pẹlu tabi laisi awọn paramita",
+    "message": "Daakọ url taabu bi hyperlinks tabi ọrọ itele",
     "description": ""
   },
   "selectaction": {
-    "message": "Yan iṣẹ bọtini",
+    "message": "Ṣeto iṣẹ bọtini aarin",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Gbogbo Awọn taabu bi Awọn ọna asopọ",
+    "message": "Gbogbo awọn taabu bi Ọna asopọ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Gbogbo Awọn taabu bi Awọn URL Ọrọ",
+    "message": "Gbogbo awọn taabu bi Ọrọ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Awọn taabu ti a yan bi Awọn ọna asopọ",
+    "message": "Ti yan bi Ọna asopọ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Awọn taabu ti a yan bi Awọn URL Ọrọ",
+    "message": "Ti yan bi Ọrọ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Taabu yii bi URL Ọrọ",
+    "message": "Yi taabu bi Ọrọ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Taabu yii bi Ọna asopọ",
+    "message": "Yi taabu bi Ọna asopọ",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Gbogbo Awọn taabu bi Awọn ọna asopọ (Awọn paramita gigun)",
+    "message": "Gbogbo awọn taabu bi Ọna asopọ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Gbogbo Awọn taabu bi Awọn URL Ọrọ (Awọn paramita Rinkiri)",
+    "message": "Gbogbo awọn taabu bi Ọrọ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Awọn taabu ti a ti yan bi Awọn ọna asopọ (Awọn paramita Rinkiri)",
+    "message": "Ti yan bi Ọna asopọ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Awọn taabu ti a ti yan bi Awọn URL Ọrọ (Awọn paramita Rirọ)",
+    "message": "Ti yan bi Ọrọ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Taabu yii gẹgẹbi URL Ọrọ (Awọn paramita Rinkiri)",
+    "message": "Yi taabu bi Ọrọ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Taabu yii bi Ọna asopọ (Awọn paramita gigun)",
+    "message": "Yi taabu bi Ọna asopọ (✂️)",
     "description": ""
   }
 }

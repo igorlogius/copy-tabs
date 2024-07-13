@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopioi välilehdet hyperlinkkeinä tai teksti-URL-osoitteina parametrien kanssa tai ilman",
+    "message": "Kopioi välilehtien URL-osoitteet hyperlinkkeinä tai pelkkänä tekstinä",
     "description": ""
   },
   "selectaction": {
-    "message": "Valitse painikkeen toiminta",
+    "message": "Aseta keskipainikkeen toiminta",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kaikki välilehdet linkkeinä",
+    "message": "Kaikki välilehdet linkkinä",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kaikki välilehdet teksti-URL-osoitteina",
+    "message": "Kaikki välilehdet tekstinä",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valitut välilehdet linkeiksi",
+    "message": "Valittu linkiksi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valitut välilehdet teksti-URL-osoitteiksi",
+    "message": "Valittu tekstiksi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tämä välilehti teksti-URL-osoitteena",
+    "message": "Tämä välilehti tekstinä",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Kaikki välilehdet linkkeinä (kaistaparametrit)",
+    "message": "Kaikki välilehdet linkkinä (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Kaikki välilehdet teksti-URL-osoitteina (kaistaparametrit)",
+    "message": "Kaikki välilehdet tekstinä (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valitut välilehdet linkeiksi (kaistaparametrit)",
+    "message": "Valittu linkiksi (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valitut välilehdet teksti-URL-osoitteiksi (kaistaparametrit)",
+    "message": "Valittu tekstiksi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tämä välilehti teksti-URL-osoitteena (kaistaparametrit)",
+    "message": "Tämä välilehti tekstinä (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tämä välilehti linkkinä (kaistan parametrit)",
+    "message": "Tämä välilehti linkkinä (✂️)",
     "description": ""
   }
 }

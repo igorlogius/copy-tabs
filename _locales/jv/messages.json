@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Salin Tab minangka hyperlink utawa URL teks kanthi utawa tanpa parameter",
+    "message": "Salin url tab minangka hyperlink utawa teks biasa",
     "description": ""
   },
   "selectaction": {
-    "message": "Pilih tumindak tombol",
+    "message": "Setel tumindak tombol tengah",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kabeh Tab minangka Link",
+    "message": "Kabeh tab minangka Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kabeh Tab minangka URL Teks",
+    "message": "Kabeh tab minangka Teks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tab sing dipilih minangka Tautan",
+    "message": "Dipilih minangka Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tab sing Dipilih minangka URL Teks",
+    "message": "Dipilih minangka Teks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tab iki minangka URL Teks",
+    "message": "Tab iki minangka Teks",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Kabeh Tab minangka Tautan (Parameter Strip)",
+    "message": "Kabeh tab minangka Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Kabeh Tab minangka URL Teks (Parameter Strip)",
+    "message": "Kabeh tab minangka Teks (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tab sing Dipilih minangka Tautan (Parameter Strip)",
+    "message": "Dipilih minangka Link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tab sing Dipilih minangka URL Teks (Parameter Strip)",
+    "message": "Dipilih minangka Teks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tab iki minangka URL Teks (Parameter Strip)",
+    "message": "Tab iki minangka Teks (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tab iki minangka Link (Parameter Strip)",
+    "message": "Tab iki minangka Link (✂️)",
     "description": ""
   }
 }

@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Nakili Vichupo kama viungo au URL za maandishi zilizo na au zisizo na vigezo",
+    "message": "Nakili url za kichupo kama viungo au maandishi wazi",
     "description": ""
   },
   "selectaction": {
-    "message": "Chagua kitendo cha kitufe",
+    "message": "Weka kitendo cha kitufe cha kati",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Vichupo Vyote kama Viungo",
+    "message": "Vichupo vyote kama Kiungo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Vichupo vyote kama URL za Maandishi",
+    "message": "Vichupo vyote kama Maandishi",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Vichupo Vilivyochaguliwa kama Viungo",
+    "message": "Imechaguliwa kama Kiungo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Vichupo Vilivyochaguliwa kama URL za Maandishi",
+    "message": "Imechaguliwa kama Maandishi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kichupo hiki kama URL ya Maandishi",
+    "message": "Kichupo hiki kama Maandishi",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Vichupo Vyote kama Viungo (Vigezo vya Ukanda)",
+    "message": "Vichupo vyote kama Kiungo (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Vichupo vyote kama URL za Maandishi (Vigezo vya Ukanda)",
+    "message": "Vichupo vyote kama Maandishi (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Vichupo Vilivyochaguliwa kama Viungo (Vigezo vya Ukanda)",
+    "message": "Imechaguliwa kama Kiungo (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Vichupo Vilivyochaguliwa kama URL za Maandishi (Vigezo vya Ukanda)",
+    "message": "Imechaguliwa kama Maandishi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Kichupo hiki kama URL ya Maandishi (Vigezo vya Ukanda)",
+    "message": "Kichupo hiki kama Maandishi (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Kichupo hiki kama Kiungo (Vigezo vya Ukanda)",
+    "message": "Kichupo hiki kama Kiungo (✂️)",
     "description": ""
   }
 }

@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﺮﺘﻣﺍﺭﺎﭘ ﻥﻭﺪﺑ ﺎﯾ ﺎﺑ ﯽﻨﺘﻣ URL ﺎﯾ ﮏﻨﯿﻟ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ",
+    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﻩﺩﺎﺳ ﻦﺘﻣ ﺎﯾ ﮏﻨﯿﻟ ﺕﺭﻮﺻ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ ﺱﺭﺩﺁ",
     "description": ""
   },
   "selectaction": {
-    "message": " ﺪﯿﻨﮐ ﺏﺎﺨﺘﻧﺍ ﺍﺭ ﻪﻤﮐﺩ ﺩﺮﮑﻠﻤﻋ",
+    "message": " ﻂﺳﻭ ﻪﻤﮐﺩ ﺩﺮﮑﻠﻤﻋ ﻢﯿﻈﻨﺗ",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,19 +16,19 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
+    "message": " ﻦﺘﻣ ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﺪﯿﻨﮐ ﺏﺎﺨﺘﻧﺍ ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ",
+    "message": " ﺖﺳﺍ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﺩﺮﮐ ﺏﺎﺨﺘﻧﺍ ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ",
+    "message": " ﺪﺷ ﺏﺎﺨﺘﻧﺍ ﻦﺘﻣ ﻥﺍﻮﻨﻋ ﻪﺑ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺐﺗ ﻦﯾﺍ",
+    "message": " ﻦﺘﻣ ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " (ﺭﺍﻮﻧ ﯼﺎﻫﺮﺘﻣﺍﺭﺎﭘ) ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
+    "message": " ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " (ﯼﺭﺍﻮﻧ ﯼﺎﻫﺮﺘﻣﺍﺭﺎﭘ) ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
+    "message": " ﻦﺘﻣ ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " (ﺭﺍﻮﻧ ﯼﺎﻫﺮﺘﻣﺍﺭﺎﭘ) ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯼﺎﻫ ﻪﮔﺮﺑ",
+    "message": " ﺖﺳﺍ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " (ﺭﺍﻮﻧ ﯼﺎﻫﺮﺘﻣﺍﺭﺎﭘ) ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯼﺎﻫ ﻪﮔﺮﺑ",
+    "message": " ﺪﺷ ﺏﺎﺨﺘﻧﺍ ﻦﺘﻣ ﻥﺍﻮﻨﻋ ﻪﺑ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " (ﺭﺍﻮﻧ ﯼﺎﻫﺮﺘﻣﺍﺭﺎﭘ) ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ",
+    "message": " ﻦﺘﻣ ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": " (ﺭﺍﻮﻧ ﯼﺎﻫﺮﺘﻣﺍﺭﺎﭘ) ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ",
+    "message": " ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ (✂️)",
     "description": ""
   }
 }

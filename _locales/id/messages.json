@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Salin Tab sebagai hyperlink atau URL teks dengan atau tanpa parameter",
+    "message": "Salin url tab sebagai hyperlink atau teks biasa",
     "description": ""
   },
   "selectaction": {
-    "message": "Pilih tindakan tombol",
+    "message": "Atur tindakan tombol tengah",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Semua Tab sebagai Tautan",
+    "message": "Semua tab sebagai Tautan",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Semua Tab sebagai URL Teks",
+    "message": "Semua tab sebagai Teks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tab yang Dipilih sebagai Tautan",
+    "message": "Dipilih sebagai Tautan",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tab yang Dipilih sebagai URL Teks",
+    "message": "Dipilih sebagai Teks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tab ini sebagai URL Teks",
+    "message": "Tab ini sebagai Teks",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Semua Tab sebagai Tautan (Parameter Strip)",
+    "message": "Semua tab sebagai Tautan (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Semua Tab sebagai URL Teks (Parameter Strip)",
+    "message": "Semua tab sebagai Teks (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tab yang Dipilih sebagai Tautan (Parameter Strip)",
+    "message": "Dipilih sebagai Tautan (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tab yang Dipilih sebagai URL Teks (Parameter Strip)",
+    "message": "Dipilih sebagai Teks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tab ini sebagai URL Teks (Parameter Strip)",
+    "message": "Tab ini sebagai Teks (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tab ini sebagai Tautan (Parameter Strip)",
+    "message": "Tab ini sebagai Tautan (✂️)",
     "description": ""
   }
 }

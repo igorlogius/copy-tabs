@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Копирайте раздели като хипервръзки или текстови URL адреси със или без параметри",
+    "message": "Копирайте URL адресите на раздели като хипервръзки или обикновен текст",
     "description": ""
   },
   "selectaction": {
-    "message": "Изберете действие на бутона",
+    "message": "Задайте действие на средния бутон",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Всички раздели като връзки",
+    "message": "Всички раздели като връзка",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Всички раздели като текстови URL адреси",
+    "message": "Всички раздели като текст",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Избрани раздели като връзки",
+    "message": "Избрано като връзка",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Избрани раздели като текстови URL адреси",
+    "message": "Избрано като текст",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Този раздел като текстов URL",
+    "message": "Този раздел като текст",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Всички раздели като връзки (параметри на лентата)",
+    "message": "Всички раздели като връзка (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Всички раздели като текстови URL адреси (параметри на лентата)",
+    "message": "Всички раздели като текст (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Избрани раздели като връзки (параметри на лентата)",
+    "message": "Избрано като връзка (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Избрани раздели като текстови URL адреси (параметри на лентата)",
+    "message": "Избрано като текст (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Този раздел като текстов URL (параметри на лентата)",
+    "message": "Този раздел като текст (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Този раздел като връзка (параметри на лентата)",
+    "message": "Този раздел като връзка (✂️)",
     "description": ""
   }
 }

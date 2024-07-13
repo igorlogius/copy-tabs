@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Adikao ho toy ny rohibe na URL lahatsoratra misy masontsivana na tsy misy mari-pamantarana ny Tabs",
+    "message": "Adikao ho toy ny rohibe na lahatsoratra tsotra ny url kiheba",
     "description": ""
   },
   "selectaction": {
-    "message": "Safidio ny hetsika bokotra",
+    "message": "Mametraha hetsika bokotra afovoany",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ny tabilao rehetra ho rohy",
+    "message": "Ny tabilao rehetra toy ny Rohy",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ny kiheba rehetra ho URL an-tsoratra",
+    "message": "Ny tabilao rehetra ho Text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tabilao voafantina ho Rohy",
+    "message": "Voafantina ho Rohy",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kiheba voafantina ho URL lahatsoratra",
+    "message": "Voafantina ho Text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ity kiheba ity ho URL lahatsoratra",
+    "message": "Ity tabilao ity ho Text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ity Tab ity ho Rohy",
+    "message": "Ity tabilao ity dia ho Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ny kiheba rehetra toy ny rohy (Parametera Strip)",
+    "message": "Ny tabilao rehetra toy ny Rohy (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ny kiheba rehetra ho URL an-tsoratra (Paramètres strip)",
+    "message": "Ny tabilao rehetra ho Text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Kiheba voafantina ho Rohy (Paramètres Strip)",
+    "message": "Voafantina ho Rohy (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Kiheba voafantina ho URL an-tsoratra (Paramètres Strip)",
+    "message": "Voafantina ho Text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ity kiheba ity ho URL an-tsoratra (Paramètres strip)",
+    "message": "Ity tabilao ity ho Text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ity Kiheba ity ho Rohy (Paramètres Strip)",
+    "message": "Ity tabilao ity dia ho Link (✂️)",
     "description": ""
   }
 }

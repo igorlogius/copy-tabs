@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopirajte kartice kao hiperveze ili tekstualne URL-ove sa ili bez parametara",
+    "message": "Kopirajte URL-ove kartica kao hiperveze ili čisti tekst",
     "description": ""
   },
   "selectaction": {
-    "message": "Odaberite akciju gumba",
+    "message": "Postavite radnju srednjeg gumba",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Sve kartice kao veze",
+    "message": "Sve kartice kao veza",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Sve kartice kao tekstualni URL-ovi",
+    "message": "Sve kartice kao tekst",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Odabrane kartice kao veze",
+    "message": "Odabrano kao veza",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Odabrane kartice kao tekstualni URL-ovi",
+    "message": "Odabrano kao tekst",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ova kartica kao tekstualni URL",
+    "message": "Ova kartica kao Tekst",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ova kartica kao veza",
+    "message": "Ova kartica kao Veza",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Sve kartice kao veze (parametri trake)",
+    "message": "Sve kartice kao veza (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Sve kartice kao tekstualni URL-ovi (parametri trake)",
+    "message": "Sve kartice kao tekst (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Odabrane kartice kao veze (parametri trake)",
+    "message": "Odabrano kao veza (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Odabrane kartice kao URL-ovi teksta (parametri trake)",
+    "message": "Odabrano kao tekst (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ova kartica kao tekstualni URL (parametri trake)",
+    "message": "Ova kartica kao Tekst (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ova kartica kao veza (parametri trake)",
+    "message": "Ova kartica kao Veza (✂️)",
     "description": ""
   }
 }

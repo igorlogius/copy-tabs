@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Afritaðu flipa sem tengla eða textaslóðir með eða án stika",
+    "message": "Afritaðu vefslóðir flipa sem tengla eða venjulegur texti",
     "description": ""
   },
   "selectaction": {
-    "message": "Veldu hnappaaðgerð",
+    "message": "Stilltu aðgerð á miðjuhnappi",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Allir flipar sem tenglar",
+    "message": "Allir flipar sem hlekkur",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Allir flipar sem textaslóðir",
+    "message": "Allir flipar sem texti",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valdir flipar sem tenglar",
+    "message": "Valið sem hlekkur",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valdir flipar sem textaslóðir",
+    "message": "Valið sem texti",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Þessi flipi sem texti URL",
+    "message": "Þessi flipi sem texti",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Allir flipar sem tenglar (Strip færibreytur)",
+    "message": "Allir flipar sem hlekkur (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Allir flipar sem textavefslóðir (Strip færibreytur)",
+    "message": "Allir flipar sem texti (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valdir flipar sem tenglar (Strip færibreytur)",
+    "message": "Valið sem hlekkur (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valdir flipar sem textavefslóðir (Strip færibreytur)",
+    "message": "Valið sem texti (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Þessi flipi sem textaslóð (Strip færibreytur)",
+    "message": "Þessi flipi sem texti (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Þessi flipi sem hlekkur (Strip færibreytur)",
+    "message": "Þessi flipi sem hlekkur (✂️)",
     "description": ""
   }
 }

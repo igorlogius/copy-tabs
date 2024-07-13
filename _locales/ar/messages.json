@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " ﺕﺎﻤﻠﻌﻣ ﻥﻭﺪﺑ ﻭﺃ ﻊﻣ ﺔﻴﺼﻧ URL ﻦﻳﻭﺎﻨﻋ ﻭﺃ ﺔﻴﺒﻌﺸﺗ ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺦﺴﻧﺍ",
+    "message": " ﻱﺩﺎﻋ ﺺﻧ ﻭﺃ ﺔﻴﺒﻌﺸﺗ ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻌﻟ URL ﻦﻳﻭﺎﻨﻋ ﺦﺴﻧﺍ",
     "description": ""
   },
   "selectaction": {
-    "message": " ﺭﺰﻟﺍ ءﺍﺮﺟﺇ ﺩﺪﺣ",
+    "message": " ﻂﺳﻭﻷ﻿ﺍ ﺭﺰﻟﺍ ءﺍﺮﺟﺇ ﻂﺒﺿ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺔﻓﺎﻛ",
+    "message": " ﻂﺑﺍﺮﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻌﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ",
+    "message": " ﺺﻨﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ",
+    "message": " ﻂﺑﺍﺮﻛ ﺪﻳﺪﺤﺘﻟﺍ ﻢﺗ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻌﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ",
+    "message": " ﺺﻨﻛ ﻩﺪﻳﺪﺤﺗ ﻢﺗ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﻲﺼﻧ URL ﻥﺍﻮﻨﻌﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
+    "message": " ﺺﻨﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " (ﻂﻳﺮﺸﻟﺍ ﺕﺎﻤﻠﻌﻣ) ﻂﺑﺍﻭﺮﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺔﻓﺎﻛ",
+    "message": " ﻂﺑﺍﺮﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " (ﻂﻳﺮﺸﻟﺍ ﺕﺎﻤﻠﻌﻣ) ﺔﻴﺼﻧ URL ﻦﻳﻭﺎﻨﻌﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ",
+    "message": " ﺺﻨﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " (ﻂﻳﺮﺸﻟﺍ ﺕﺎﻤﻠﻌﻣ) ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ",
+    "message": " ﻂﺑﺍﺮﻛ ﺪﻳﺪﺤﺘﻟﺍ ﻢﺗ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " (ﻂﻳﺮﺸﻟﺍ ﺕﺎﻤﻠﻌﻣ) ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻌﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ",
+    "message": " ﺺﻨﻛ ﻩﺪﻳﺪﺤﺗ ﻢﺗ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " (ﻂﻳﺮﺸﻟﺍ ﺕﺎﻤﻠﻌﻣ) ﻲﺼﻧ URL ﻥﺍﻮﻨﻌﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
+    "message": " ﺺﻨﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": " (ﻂﻳﺮﺸﻟﺍ ﺕﺎﻤﻠﻌﻣ) ﻂﺑﺍﺮﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
+    "message": " ﻂﺑﺍﺮﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ (✂️)",
     "description": ""
   }
 }

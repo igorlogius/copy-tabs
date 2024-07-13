@@ -6,6 +6,11 @@ const extname = manifest.name;
 let toolbarAction = "cpyalllnk";
 let noURLParams = false;
 let ready = false;
+let runtab = null;
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+let noURLParamsFunctionCode = "return url;";
 
 async function setToStorage(id, value) {
   let obj = {};
@@ -44,39 +49,54 @@ function notify(title, message = "", iconUrl = "icon.png") {
 }
 
 async function copyTabsAsText(tabs) {
-  const text = tabs
-    .map((t) => {
-      if (noURLParams) {
-        try {
-          let tmp = new URL(t.url);
-          if (tmp.origin !== "null") {
-            // origin seems to be "null" when not available which is a strange value, might be worth raising a bug on bugzilla for
-            tmp = tmp.origin + tmp.pathname;
-            return tmp;
+  runtab = await browser.tabs.create({
+    active: false,
+    url: "empty.html",
+  });
+
+  const text = (
+    await Promise.all(
+      tabs.map(async (t) => {
+        if (noURLParams) {
+          try {
+            tmp = await browser.tabs.executeScript(runtab.id, {
+              code: `((url) => { ${noURLParamsFunctionCode} ;return url;})("${t.url}")`,
+            });
+            if (Array.isArray(tmp) && typeof tmp[0] === "string") {
+              return tmp[0].replace(/\s+/g, "");
+            }
+          } catch (e) {
+            console.error(e);
           }
-        } catch (e) {
-          console.error(e);
         }
-      }
-      return t.url;
-    })
-    .join("\n");
+        return t.url;
+      }),
+    )
+  ).join("\n");
   try {
     await navigator.clipboard.writeText(text);
+    browser.tabs.remove(runtab.id);
     return true;
   } catch (e) {
     console.error(e);
   }
+  browser.tabs.remove(runtab.id);
   return false;
 }
 
 async function copyTabsAsHtml(tabs) {
+  runtab = await browser.tabs.create({
+    active: false,
+    url: "empty.html",
+  });
+
   try {
-    let txtFallBackClipboardItem = "";
-    let div = document.createElement("span"); // needs to be a <span> to prevent the final linebreak
-    div.style.position = "absolute";
-    div.style.bottom = "-9999999"; // move it offscreen
-    document.body.append(div);
+    let fallbackTextClipboardItem = "";
+    let span = document.createElement("span"); // needs to be a <span> to prevent the final linebreak
+    span.style.position = "absolute";
+    span.style.bottom = "-9999999"; // move it offscreen
+    document.body.append(span);
+
     const tabs_len = tabs.length;
     for (let i = 0; i < tabs.length; i++) {
       let t = tabs[i];
@@ -84,20 +104,35 @@ async function copyTabsAsHtml(tabs) {
 
       if (t.url.startsWith("http") || t.url.startsWith("file")) {
         if (noURLParams) {
+          try {
+            tmp = await browser.tabs.executeScript(runtab.id, {
+              code: `((url) => { ${noURLParamsFunctionCode} ;return url;})("${t.url}")`,
+            });
+
+            //console.debug("copyTabsAsHtml", tmp);
+            if (Array.isArray(tmp) && typeof tmp[0] === "string") {
+              a.href = tmp[0].replace(/\s+/g, "");
+            }
+          } catch (e) {
+            console.error(e);
+          }
+          /*
           let tmp = new URL(t.url);
           tmp = tmp.origin + tmp.pathname;
-          a.href = tmp;
+          a.href = noURLParamsFunction(t.url);
+            */
+          //a.href = tmp;
         } else {
           a.href = t.url;
         }
       }
       a.textContent = t.title;
-      div.append(a);
-      txtFallBackClipboardItem += a.href;
+      span.append(a);
+      fallbackTextClipboardItem += a.href;
       if (i !== tabs_len - 1) {
         let br = document.createElement("br");
-        div.append(br);
-        txtFallBackClipboardItem += "\n";
+        span.append(br);
+        fallbackTextClipboardItem += "\n";
       }
     }
 
@@ -105,35 +140,37 @@ async function copyTabsAsHtml(tabs) {
       typeof navigator.clipboard.write === "undefined" ||
       typeof ClipboardItem === "undefined"
     ) {
-      console.debug("execCommand");
-      div.focus();
+      span.focus();
       document.getSelection().removeAllRanges();
       var range = document.createRange();
-      range.selectNode(div);
+      range.selectNode(span);
       document.getSelection().addRange(range);
       document.execCommand("copy");
     } else {
-      console.debug("ClipboardItem");
       await navigator.clipboard.write([
         new ClipboardItem({
-          "text/plain": new Blob([txtFallBackClipboardItem], {
+          "text/plain": new Blob([fallbackTextClipboardItem], {
             type: "text/plain",
           }),
-          "text/html": new Blob([div.innerHTML], {
+          "text/html": new Blob([span.innerHTML], {
             type: "text/html",
           }),
         }),
       ]);
     }
-    div.remove();
+    span.remove();
+    browser.tabs.remove(runtab.id);
     return true;
   } catch (e) {
     console.error(e);
   }
+  browser.tabs.remove(runtab.id);
   return false;
 }
 
 async function onCommand(cmd) {
+  //await sleep(2000);
+
   if (!ready) {
     return;
   }
@@ -144,7 +181,13 @@ async function onCommand(cmd) {
     noURLParams = false;
   }
 
-  let qryObj = { hidden: false, currentWindow: true },
+  let qryObj = {
+      currentWindow: true,
+      hidden: false,
+      url: "<all_urls>",
+      discarded: false,
+      status: "complete",
+    },
     tabs,
     ret = false;
   switch (cmd) {
@@ -206,6 +249,12 @@ async function onStorageChange() {
   }
 
   browser.browserAction.setBadgeText({ text: txt });
+
+  noURLParamsFunctionCode = await getFromStorage(
+    "string",
+    "noURLParamsFunction",
+    "return url;",
+  );
 }
 
 (async () => {
@@ -301,15 +350,23 @@ browser.commands.onCommand.addListener(onCommand);
 
 // proxy toolbar button click
 browser.browserAction.onClicked.addListener((tab, info) => {
-  onCommand(toolbarAction);
+  console.debug("middle clicked toolbar button", info);
+  if (info.button === 1) {
+    onCommand(toolbarAction);
+  }
 });
 
 // add some slight transparancy
 browser.browserAction.setBadgeBackgroundColor({ color: [0, 0, 0, 115] });
 
-// show the options page on first installation
-browser.runtime.onInstalled.addListener((details) => {
+browser.runtime.onInstalled.addListener(async (details) => {
   if (details.reason === "install") {
-    browser.runtime.openOptionsPage();
+    let tmp = await fetch(browser.runtime.getURL("noURLParamsFunction.js"));
+    tmp = await tmp.text();
+    browser.storage.local.set({ noURLParamsFunction: tmp });
   }
+});
+
+browser.runtime.onMessage.addListener(async (req, sender) => {
+  onCommand(req.cmd);
 });

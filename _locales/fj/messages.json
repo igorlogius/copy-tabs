@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Lavetaka na Bulukau me hyperlinks se text URL ena se sega na kena ivakarau",
+    "message": "Lavetaka na URL ni bulukau me hyperlinks se text rawarawa",
     "description": ""
   },
   "selectaction": {
-    "message": "Digitaka na cakacaka ni bulukau",
+    "message": "Vakarautaka na cakacaka ni bulukau e loma",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "iVakatakilakila Taucoko me iSema",
+    "message": "Bulukau taucoko me iSema",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Bulukau Taucoko me URL ni Itukutuku",
+    "message": "Bulukau taucoko me Vaka na Text ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Bulukau Digitaki me iSema",
+    "message": "Digitaki me iSema",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Bulukau Digitaki me URL ni Itukutuku",
+    "message": "Digitaki me Text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Na Bulukau oqo me URL ni text",
+    "message": "Na bulukau oqo me iTukutuku",
     "description": ""
   },
   "cpytablnk": {
-    "message": "iVakatakilakila Oqo me iSema",
+    "message": "Na bulukau oqo me iSema",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "iVakatakilakila Taucoko me iSema (Strip Parameters)",
+    "message": "Bulukau taucoko me iSema (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Bulukau Taucoko me URL ni itukutuku (Strip Parameters)",
+    "message": "Bulukau taucoko me Vaka na Text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Bulukau Digitaki me iSema (Strip Parameters)",
+    "message": "Digitaki me iSema (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Bulukau Digitaki me URL ni iTukutuku (Strip Parameters)",
+    "message": "Digitaki me Text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Na Bulukau oqo me URL ni iTukutuku (iTuvatuva Ni iTuvatuva Lalai)",
+    "message": "Na bulukau oqo me iTukutuku (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Na Bulukau oqo me iSema (Strip Parameters)",
+    "message": "Na bulukau oqo me iSema (✂️)",
     "description": ""
   }
 }

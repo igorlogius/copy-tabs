@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopa Tabs se hyperlink kana mavara ma URL ane kana asina ma parameter",
+    "message": "Kopa urls tebhu semahyperlink kana mavara akajeka",
     "description": ""
   },
   "selectaction": {
-    "message": "Sarudza bhatani chiito",
+    "message": "Seta yepakati bhatani chiito",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "MaTabo ese seManongedzo",
+    "message": "Matebu ese seChibatanidza",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ese Tabs seMavara URLs",
+    "message": "Matebu ese seChinyorwa",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Akasarudzwa Tabs seZvisungo",
+    "message": "Yakasarudzwa seChibatanidza",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Akasarudzwa Tabs seMavara URLs",
+    "message": "Yakasarudzwa seChinyorwa",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Iyi Tabhu seChinyorwa URL",
+    "message": "Iyi tebhu seChinyorwa",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Iyi Tabhu seChibatanidza",
+    "message": "Iyi tab se Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ese Tabs seManongedzo (Strip Parameters)",
+    "message": "Matebu ese seChibatanidza (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ese maTabhu seMavara URL (Strip Parameters)",
+    "message": "Matebu ese seChinyorwa (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Akasarudzwa Tabs seManongedzo (Strip Parameters)",
+    "message": "Yakasarudzwa seChibatanidza (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Akasarudzwa Tabs seMavara URL (Strip Parameters)",
+    "message": "Yakasarudzwa seChinyorwa (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Iyi Tabhu seChinyorwa URL (Strip Parameters)",
+    "message": "Iyi tebhu seChinyorwa (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Iyi Tabhu seChibatanidza (Strip Parameters)",
+    "message": "Iyi tab se Link (✂️)",
     "description": ""
   }
 }

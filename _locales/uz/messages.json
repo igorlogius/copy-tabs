@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Yorliqlarni giperhavolalar yoki parametrli yoki parametrsiz matnli URL manzillari sifatida nusxalash",
+    "message": "Yorliq URL manzillarini giperhavolalar yoki oddiy matn sifatida nusxalash",
     "description": ""
   },
   "selectaction": {
-    "message": "Tugma harakatini tanlang",
+    "message": "O'rta tugma harakatini o'rnating",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Barcha varaqlar havola sifatida",
+    "message": "Barcha yorliqlar havola sifatida",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Barcha tablar matn URL manzillari sifatida",
+    "message": "Barcha yorliqlar matn sifatida",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Havola sifatida tanlangan tablar",
+    "message": "Havola sifatida tanlangan",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Matn URL manzillari sifatida tanlangan yorliqlar",
+    "message": "Matn sifatida tanlangan",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ushbu yorliq matn URL manzili sifatida",
+    "message": "Ushbu yorliq matn sifatida",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ushbu varaq havola sifatida",
+    "message": "Ushbu yorliq havola sifatida",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Barcha yorliqlar havola sifatida (chiziq parametrlari)",
+    "message": "Barcha yorliqlar havola sifatida (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Barcha yorliqlar matnli URL manzillari (chiziq parametrlari)",
+    "message": "Barcha yorliqlar matn sifatida (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tanlangan yorliqlar havola sifatida (chiziq parametrlari)",
+    "message": "Havola sifatida tanlangan (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Matn URL manzillari sifatida tanlangan yorliqlar (tasma parametrlari)",
+    "message": "Matn sifatida tanlangan (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ushbu yorliq matnli URL sifatida (Strip parametrlari)",
+    "message": "Ushbu yorliq matn sifatida (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ushbu yorliq havola sifatida (chiziq parametrlari)",
+    "message": "Ushbu yorliq havola sifatida (✂️)",
     "description": ""
   }
 }

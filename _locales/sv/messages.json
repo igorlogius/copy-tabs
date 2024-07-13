@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiera flikar som hyperlänkar eller text-URL:er med eller utan parametrar",
+    "message": "Kopiera webbadresser till flikar som hyperlänkar eller vanlig text",
     "description": ""
   },
   "selectaction": {
-    "message": "Välj knappåtgärd",
+    "message": "Ställ in mittknappens åtgärd",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alla flikar som länkar",
+    "message": "Alla flikar som länk",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alla flikar som textwebbadresser",
+    "message": "Alla flikar som text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valda flikar som länkar",
+    "message": "Vald som länk",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valda flikar som textwebbadresser",
+    "message": "Vald som text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Denna flik som text-URL",
+    "message": "Denna flik som text",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alla flikar som länkar (Strip-parametrar)",
+    "message": "Alla flikar som länk (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alla flikar som textwebbadresser (remsa parametrar)",
+    "message": "Alla flikar som text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valda flikar som länkar (Strip-parametrar)",
+    "message": "Vald som länk (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valda flikar som textwebbadresser (Strip-parametrar)",
+    "message": "Vald som text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Denna flik som text-URL (Strip-parametrar)",
+    "message": "Denna flik som text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Den här fliken som länk (Strip-parametrar)",
+    "message": "Denna flik som länk (✂️)",
     "description": ""
   }
 }

@@ -4,59 +4,59 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Koperani Ma tabu ngati ma hyperlink kapena ma URL okhala ndi kapena opanda magawo",
+    "message": "Koperani ma urls ngati ma hyperlink kapena mawu osavuta",
     "description": ""
   },
   "selectaction": {
-    "message": "Sankhani zochita batani",
+    "message": "Khazikitsani batani lapakati",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ma Tabs Onse Monga Maulalo",
+    "message": "Ma tabu onse ngati Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ma Tabu Onse ngati Ma URL a Mawu",
+    "message": "Ma tabu onse ngati Text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ma Tabs Osankhidwa Monga Maulalo",
+    "message": "Yasankhidwa ngati Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ma Tabu Osankhidwa Monga Ma URL a Mawu",
+    "message": "Zosankhidwa ngati Zolemba",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tabu ili ngati URL ya Mawu",
+    "message": "Tsamba ili ngati Text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tabu iyi ngati Ulalo",
+    "message": "Tsamba ili ngati Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ma Tabu Onse Monga Maulalo (Mizere Yoyambira)",
+    "message": "Ma tabu onse ngati Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ma Tabu Onse Monga Maulalo Olemba (Mizere ya Strip)",
+    "message": "Ma tabu onse ngati Text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ma Tabu Osankhidwa Monga Maulalo (Mizere ya Strip)",
+    "message": "Yasankhidwa ngati Link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ma Tabu Osankhidwa Monga Maulalo Olemba (Mizere ya Strip)",
+    "message": "Zosankhidwa ngati Zolemba (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tabu iyi ngati Ulalo Wolemba (Mizere ya Mizere)",
+    "message": "Tsamba ili ngati Text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tabu iyi ngati Ulalo (Mizere ya Mizere)",
+    "message": "Tsamba ili ngati Link (✂️)",
     "description": ""
   }
 }

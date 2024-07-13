@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopírovat karty jako hypertextové odkazy nebo textové adresy URL s parametry nebo bez nich",
+    "message": "Zkopírujte adresy URL karet jako hypertextové odkazy nebo prostý text",
     "description": ""
   },
   "selectaction": {
-    "message": "Vyberte akci tlačítka",
+    "message": "Nastavte akci středního tlačítka",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Všechny karty jako odkazy",
+    "message": "Všechny karty jako odkaz",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Všechny karty jako textové adresy URL",
+    "message": "Všechny karty jako Text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Vybrané karty jako odkazy",
+    "message": "Vybráno jako odkaz",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Vybrané karty jako textové adresy URL",
+    "message": "Vybráno jako Text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tato karta jako textová adresa URL",
+    "message": "Tato karta jako Text",
     "description": ""
   },
   "cpytablnk": {
@@ -36,27 +36,27 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Všechny karty jako odkazy (parametry stripu)",
+    "message": "Všechny karty jako odkaz (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Všechny karty jako textové adresy URL (parametry stripů)",
+    "message": "Všechny karty jako Text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Vybrané karty jako odkazy (parametry stripu)",
+    "message": "Vybráno jako odkaz (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Vybrané karty jako textové adresy URL (parametry stripů)",
+    "message": "Vybráno jako Text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tato karta jako textová adresa URL (parametry stripu)",
+    "message": "Tato karta jako Text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tato karta jako odkaz (parametry stripu)",
+    "message": "Tato karta jako odkaz (✂️)",
     "description": ""
   }
 }
