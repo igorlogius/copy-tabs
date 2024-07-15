@@ -7,6 +7,7 @@ let toolbarAction = "cpyalllnk";
 let noURLParams = false;
 let ready = false;
 let runtab = null;
+let popupmode = false;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -223,6 +224,7 @@ async function onCommand(cmd) {
 
 async function onStorageChange() {
   toolbarAction = await getFromStorage("string", "toolbarAction", "cpyalllnk");
+  popupmode = await getFromStorage("boolean", "popupmode", false);
 
   browser.browserAction.setTitle({
     title: manifest.commands[toolbarAction].description,
@@ -351,8 +353,22 @@ browser.commands.onCommand.addListener(onCommand);
 // proxy toolbar button click
 browser.browserAction.onClicked.addListener((tab, info) => {
   console.debug("middle clicked toolbar button", info);
-  if (info.button === 1) {
-    onCommand(toolbarAction);
+
+  if (popupmode) {
+    if (info.button === 1) {
+      browser.browserAction.setPopup({ popup: "popup.html" });
+      browser.browserAction.openPopup();
+    } else {
+      onCommand(toolbarAction);
+    }
+  } else {
+    if (info.button === 1) {
+      onCommand(toolbarAction);
+    } else {
+      // default
+      browser.browserAction.setPopup({ popup: "popup.html" });
+      browser.browserAction.openPopup();
+    }
   }
 });
 

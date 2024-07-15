@@ -7,7 +7,6 @@
   },
   "browser_action": {
     "default_area": "navbar",
-    "default_popup": "popup.html",
     "theme_icons": [
       {
         "light": "dark.png",
@@ -55,5 +54,5 @@
   "description": "__MSG_addonDesc__",
   "permissions": ["clipboardWrite", "storage", "menus", "tabs"],
   "optional_permissions": ["notifications"],
-  "version": "1.16.45"
+  "version": "1.16.46"
 }

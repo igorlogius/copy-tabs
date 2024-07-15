@@ -5,6 +5,7 @@
   <title>Copy Tabs - Options</title>
   <style>
     body {
+      padding: 3px;
     }
     #noURLParamsFunction {
       background-color: lightgray;
@@ -22,6 +23,12 @@
   </style>
 </head>
 <body style="background: silver">
+  <fieldset>
+    <input type="checkbox" id="popupmode" />
+    Flip <abbr title="Left Mouse Button Action">LMB</abbr> and
+    <abbr title="Middle Mouse Button">MMB</abbr> action on the toolbar button
+    <abbr title="unchecked: LMB - show popup and MMB - instant copy">(?)</abbr>
+  </fieldset>
   <fieldset>
     <legend><b>Strip Parameters</b></legend>
     <textarea spellcheck="false" id="noURLParamsFunction"></textarea>

@@ -49,6 +49,7 @@ function restoreOptions() {
   [
     /* add individual settings here */
     "noURLParamsFunction",
+    "popupmode",
   ].map((id) => {
     browser.storage.local
       .get(id)
