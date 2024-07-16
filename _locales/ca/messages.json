@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Estableix l'acció del botó central",
+    "message": "Estableix l'acció del tercer botó del ratolí",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Totes les pestanyes com a enllaç",
+    "message": "Totes les pestanyes com a enllaços",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Totes les pestanyes com a text",
+    "message": "Totes les pestanyes com a URL de text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Seleccionat com a Enllaç",
+    "message": "Seleccionat com a enllaços",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Seleccionat com a text",
+    "message": "Seleccionat com a URL de text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Aquesta pestanya com a text",
+    "message": "Aquesta pestanya com a URL de text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Aquesta pestanya com a Enllaç",
+    "message": "Aquesta pestanya com a enllaç",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Totes les pestanyes com a enllaç (✂️)",
+    "message": "Totes les pestanyes com a enllaços (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Totes les pestanyes com a text (✂️)",
+    "message": "Totes les pestanyes com a URL de text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Seleccionat com a Enllaç (✂️)",
+    "message": "Seleccionat com a enllaços (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Seleccionat com a text (✂️)",
+    "message": "Seleccionat com a URL de text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Aquesta pestanya com a text (✂️)",
+    "message": "Aquesta pestanya com a URL de text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Aquesta pestanya com a Enllaç (✂️)",
+    "message": "Aquesta pestanya com a enllaç (✂️)",
     "description": ""
   }
 }

@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": "ਮੱਧ ਬਟਨ ਕਾਰਵਾਈ ਸੈੱਟ ਕਰੋ",
+    "message": "ਤੀਜਾ ਮਾਊਸ ਬਟਨ ਐਕਸ਼ਨ ਸੈੱਟ ਕਰੋ",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ ਵਜੋਂ",
+    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ URL ਵਜੋਂ",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,15 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ਟੈਕਸਟ ਵਜੋਂ ਚੁਣਿਆ ਗਿਆ",
+    "message": "ਟੈਕਸਟ URLs ਵਜੋਂ ਚੁਣਿਆ ਗਿਆ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ ਦੇ ਰੂਪ ਵਿੱਚ",
+    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ URL ਵਜੋਂ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ਲਿੰਕ ਦੇ ਰੂਪ ਵਿੱਚ ਇਹ ਟੈਬ",
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ 'ਤੇ ਇਹ ਟੈਬ",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ ਵਜੋਂ (✂️)",
+    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ URL ਵਜੋਂ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +48,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ਟੈਕਸਟ ਵਜੋਂ ਚੁਣਿਆ ਗਿਆ (✂️)",
+    "message": "ਟੈਕਸਟ URLs ਵਜੋਂ ਚੁਣਿਆ ਗਿਆ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ ਦੇ ਰੂਪ ਵਿੱਚ (✂️)",
+    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ URL ਵਜੋਂ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ਲਿੰਕ ਦੇ ਰੂਪ ਵਿੱਚ ਇਹ ਟੈਬ (✂️)",
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ 'ਤੇ ਇਹ ਟੈਬ (✂️)",
     "description": ""
   }
 }

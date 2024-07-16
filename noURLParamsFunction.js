@@ -1,6 +1,6 @@
 /*
  *  Strip Parameter Code
- *  Add key/value pairs to to the allowPatternParams Map to add exceptions
+ *  Add key/value pairs to to the allowedMap to add exceptions
  *  (aka. allow parameter for certain domains)
  *  the `url` variable is globally available
  *  learn more: https://developer.mozilla.org/en-US/docs/Web/javascript

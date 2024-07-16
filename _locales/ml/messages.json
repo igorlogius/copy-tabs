@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "മധ്യ ബട്ടൺ പ്രവർത്തനം സജ്ജമാക്കുക",
+    "message": "മൂന്നാമത്തെ മൗസ് ബട്ടൺ പ്രവർത്തനം സജ്ജമാക്കുക",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "എല്ലാ ടാബുകളും ലിങ്കായി",
+    "message": "എല്ലാ ടാബുകളും ലിങ്കുകളായി",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "എല്ലാ ടാബുകളും വാചകമായി",
+    "message": "എല്ലാ ടാബുകളും ടെക്u200cസ്u200cറ്റ് URL ആയി",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ലിങ്കായി തിരഞ്ഞെടുത്തു",
+    "message": "ലിങ്കുകളായി തിരഞ്ഞെടുത്തു",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "വാചകമായി തിരഞ്ഞെടുത്തു",
+    "message": "ടെക്u200cസ്u200cറ്റ് URL-കളായി തിരഞ്ഞെടുത്തു",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ഈ ടാബ് വാചകമായി",
+    "message": "ഈ ടാബ് ടെക്സ്റ്റ് URL ആയി",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "എല്ലാ ടാബുകളും ലിങ്കായി (✂️)",
+    "message": "എല്ലാ ടാബുകളും ലിങ്കുകളായി (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "എല്ലാ ടാബുകളും വാചകമായി (✂️)",
+    "message": "എല്ലാ ടാബുകളും ടെക്u200cസ്u200cറ്റ് URL ആയി (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "ലിങ്കായി തിരഞ്ഞെടുത്തു (✂️)",
+    "message": "ലിങ്കുകളായി തിരഞ്ഞെടുത്തു (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "വാചകമായി തിരഞ്ഞെടുത്തു (✂️)",
+    "message": "ടെക്u200cസ്u200cറ്റ് URL-കളായി തിരഞ്ഞെടുത്തു (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ഈ ടാബ് വാചകമായി (✂️)",
+    "message": "ഈ ടാബ് ടെക്സ്റ്റ് URL ആയി (✂️)",
     "description": ""
   },
   "cpytablnknp": {

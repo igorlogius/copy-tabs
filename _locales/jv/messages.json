@@ -8,15 +8,15 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Setel tumindak tombol tengah",
+    "message": "Setel tumindak tombol mouse katelu",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kabeh tab minangka Link",
+    "message": "Kabeh Tab minangka Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kabeh tab minangka Teks",
+    "message": "Kabeh Tab minangka URL Teks",
     "description": ""
   },
   "cpysellnk": {
@@ -24,11 +24,11 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Dipilih minangka Teks",
+    "message": "Dipilih minangka URL Teks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tab iki minangka Teks",
+    "message": "Tab iki minangka URL Teks",
     "description": ""
   },
   "cpytablnk": {
@@ -36,11 +36,11 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Kabeh tab minangka Link (✂️)",
+    "message": "Kabeh Tab minangka Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Kabeh tab minangka Teks (✂️)",
+    "message": "Kabeh Tab minangka URL Teks (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +48,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Dipilih minangka Teks (✂️)",
+    "message": "Dipilih minangka URL Teks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tab iki minangka Teks (✂️)",
+    "message": "Tab iki minangka URL Teks (✂️)",
     "description": ""
   },
   "cpytablnknp": {

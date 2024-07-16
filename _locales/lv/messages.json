@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Iestatiet vidējās pogas darbību",
+    "message": "Iestatiet trešās peles pogas darbību",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Visas cilnes kā saite",
+    "message": "Visas cilnes kā saites",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Visas cilnes kā teksts",
+    "message": "Visas cilnes kā teksta URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Atlasīts kā saite",
+    "message": "Atlasīts kā saites",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Atlasīts kā teksts",
+    "message": "Atlasīts kā teksta URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Šī cilne kā teksts",
+    "message": "Šī cilne kā teksta URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Visas cilnes kā saite (✂️)",
+    "message": "Visas cilnes kā saites (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Visas cilnes kā teksts (✂️)",
+    "message": "Visas cilnes kā teksta URL (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Atlasīts kā saite (✂️)",
+    "message": "Atlasīts kā saites (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Atlasīts kā teksts (✂️)",
+    "message": "Atlasīts kā teksta URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Šī cilne kā teksts (✂️)",
+    "message": "Šī cilne kā teksta URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

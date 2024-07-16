@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Définir l'action du bouton central",
+    "message": "Définir l'action du troisième bouton de la souris",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tous les onglets sous forme de lien",
+    "message": "Tous les onglets sous forme de liens",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tous les onglets sous forme de texte",
+    "message": "Tous les onglets sous forme d'URL de texte",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Sélectionné comme lien",
+    "message": "Sélectionné comme liens",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Sélectionné comme texte",
+    "message": "Sélectionné comme URL de texte",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Cet onglet sous forme de texte",
+    "message": "Cet onglet sous forme d'URL de texte",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Tous les onglets sous forme de lien (✂️)",
+    "message": "Tous les onglets sous forme de liens (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tous les onglets sous forme de texte (✂️)",
+    "message": "Tous les onglets sous forme d'URL de texte (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Sélectionné comme lien (✂️)",
+    "message": "Sélectionné comme liens (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Sélectionné comme texte (✂️)",
+    "message": "Sélectionné comme URL de texte (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Cet onglet sous forme de texte (✂️)",
+    "message": "Cet onglet sous forme d'URL de texte (✂️)",
     "description": ""
   },
   "cpytablnknp": {

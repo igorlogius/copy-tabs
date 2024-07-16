@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "ಮಧ್ಯದ ಬಟನ್ ಕ್ರಿಯೆಯನ್ನು ಹೊಂದಿಸಿ",
+    "message": "ಮೂರನೇ ಮೌಸ್ ಬಟನ್ ಕ್ರಿಯೆಯನ್ನು ಹೊಂದಿಸಿ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್ ಆಗಿ",
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್u200cಗಳಾಗಿ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಪಠ್ಯವಾಗಿ",
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಪಠ್ಯ URL ಗಳಂತೆ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ಲಿಂಕ್ ಆಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ",
+    "message": "ಲಿಂಕ್u200cಗಳಾಗಿ ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ಪಠ್ಯವಾಗಿ ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ",
+    "message": "ಪಠ್ಯ URL ಗಳಂತೆ ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯದಂತೆ",
+    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯ URL ನಂತೆ",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್ ಆಗಿ (✂️)",
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್u200cಗಳಾಗಿ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಪಠ್ಯವಾಗಿ (✂️)",
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಪಠ್ಯ URL ಗಳಂತೆ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "ಲಿಂಕ್ ಆಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ (✂️)",
+    "message": "ಲಿಂಕ್u200cಗಳಾಗಿ ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ಪಠ್ಯವಾಗಿ ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ (✂️)",
+    "message": "ಪಠ್ಯ URL ಗಳಂತೆ ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯದಂತೆ (✂️)",
+    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯ URL ನಂತೆ (✂️)",
     "description": ""
   },
   "cpytablnknp": {

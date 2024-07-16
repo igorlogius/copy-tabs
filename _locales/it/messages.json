@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Imposta l'azione del pulsante centrale",
+    "message": "Imposta l'azione del terzo pulsante del mouse",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tutte le schede come collegamento",
+    "message": "Tutte le schede come collegamenti",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tutte le schede come testo",
+    "message": "Tutte le schede come URL di testo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Selezionato come collegamento",
+    "message": "Selezionato come Collegamenti",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Selezionato come testo",
+    "message": "Selezionati come URL di testo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Questa scheda come Testo",
+    "message": "Questa scheda come URL di testo",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Questa scheda come Link",
+    "message": "Questa scheda come collegamento",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Tutte le schede come collegamento (✂️)",
+    "message": "Tutte le schede come collegamenti (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tutte le schede come testo (✂️)",
+    "message": "Tutte le schede come URL di testo (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Selezionato come collegamento (✂️)",
+    "message": "Selezionato come Collegamenti (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Selezionato come testo (✂️)",
+    "message": "Selezionati come URL di testo (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Questa scheda come Testo (✂️)",
+    "message": "Questa scheda come URL di testo (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Questa scheda come Link (✂️)",
+    "message": "Questa scheda come collegamento (✂️)",
     "description": ""
   }
 }

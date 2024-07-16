@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Legen Sie die Aktion der mittleren Taste fest",
+    "message": "Legen Sie die Aktion der dritten Maustaste fest",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle Tabs als Link",
+    "message": "Alle Tabs als Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle Registerkarten als Text",
+    "message": "Alle Tabs als Text-URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Als Link ausgewählt",
+    "message": "Als Links ausgewählt",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Als Text ausgewählt",
+    "message": "Als Text-URLs ausgewählt",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Diese Registerkarte als Text",
+    "message": "Diese Registerkarte als Text-URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Diese Registerkarte als Link",
+    "message": "Dieser Tab als Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alle Tabs als Link (✂️)",
+    "message": "Alle Tabs als Links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle Registerkarten als Text (✂️)",
+    "message": "Alle Tabs als Text-URLs (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Als Link ausgewählt (✂️)",
+    "message": "Als Links ausgewählt (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Als Text ausgewählt (✂️)",
+    "message": "Als Text-URLs ausgewählt (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Diese Registerkarte als Text (✂️)",
+    "message": "Diese Registerkarte als Text-URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Diese Registerkarte als Link (✂️)",
+    "message": "Dieser Tab als Link (✂️)",
     "description": ""
   }
 }

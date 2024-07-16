@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Урта төйөккә һылтанма",
+    "message": "Тышса төймәһенең өсөнсө хәрәкәтен ҡуйығыҙ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Все таблица как Һылтанма",
+    "message": "Все таблица как Һылтанмалар",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Все таблица как Текст ",
+    "message": "Все таблица как Тексты URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Һылтанма булараҡ һайланған",
+    "message": "Һылтанмалар булараҡ һайланған",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Текст итеп һайланған",
+    "message": "Текст URL-ы итеп һайланған",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "",
+    "message": "Был таблица ULL тексы булараҡ",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Все таблица как Һылтанма (✂️)",
+    "message": "Все таблица как Һылтанмалар (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Все таблица как Текст (✂️)",
+    "message": "Все таблица как Тексты URLs (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Һылтанма булараҡ һайланған (✂️)",
+    "message": "Һылтанмалар булараҡ һайланған (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Текст итеп һайланған (✂️)",
+    "message": "Текст URL-ы итеп һайланған (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " (✂️)",
+    "message": "Был таблица ULL тексы булараҡ (✂️)",
     "description": ""
   },
   "cpytablnknp": {

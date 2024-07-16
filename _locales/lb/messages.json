@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Set Mëtt Knäppchen Aktioun",
+    "message": "Set drëtt Maustast Aktioun",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "All Tabs als Link",
+    "message": "All Tabs als Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "All Tabs als Text",
+    "message": "All Tabs als Text URLen",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Als Link ausgewielt",
+    "message": "Ausgewielt als Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ausgewielt als Text",
+    "message": "Ausgewielt als Text URLen",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Dësen Tab als Text",
+    "message": "Dësen Tab als Text URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "All Tabs als Link (✂️)",
+    "message": "All Tabs als Links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "All Tabs als Text (✂️)",
+    "message": "All Tabs als Text URLen (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Als Link ausgewielt (✂️)",
+    "message": "Ausgewielt als Links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ausgewielt als Text (✂️)",
+    "message": "Ausgewielt als Text URLen (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Dësen Tab als Text (✂️)",
+    "message": "Dësen Tab als Text URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

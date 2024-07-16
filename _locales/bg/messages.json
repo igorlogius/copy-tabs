@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Задайте действие на средния бутон",
+    "message": "Задайте действие на третия бутон на мишката",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Всички раздели като връзка",
+    "message": "Всички раздели като връзки",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Всички раздели като текст",
+    "message": "Всички раздели като текстови URL адреси",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Избрано като връзка",
+    "message": "Избрано като връзки",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Избрано като текст",
+    "message": "Избрани като текстови URL адреси",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Този раздел като текст",
+    "message": "Този раздел като текстов URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Всички раздели като връзка (✂️)",
+    "message": "Всички раздели като връзки (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Всички раздели като текст (✂️)",
+    "message": "Всички раздели като текстови URL адреси (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Избрано като връзка (✂️)",
+    "message": "Избрано като връзки (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Избрано като текст (✂️)",
+    "message": "Избрани като текстови URL адреси (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Този раздел като текст (✂️)",
+    "message": "Този раздел като текстов URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

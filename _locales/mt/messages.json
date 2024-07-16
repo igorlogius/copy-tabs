@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Issettja l-azzjoni tal-buttuna tan-nofs",
+    "message": "Issettja t-tielet azzjoni tal-buttuna tal-maws",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "It-tabs kollha bħala Link",
+    "message": "It-Tabs kollha bħala Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "It-tabs kollha bħala Test",
+    "message": "It-Tabs kollha bħala URLs tat-Test",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Magħżula bħala Link",
+    "message": "Magħżula bħala Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Magħżula bħala Test",
+    "message": "Magħżula bħala Test URLs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Din it-tab bħala Test",
+    "message": "Din it-Tab bħala Test URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Din it-tab bħala Link",
+    "message": "Dan Tab bħala Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "It-tabs kollha bħala Link (✂️)",
+    "message": "It-Tabs kollha bħala Links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "It-tabs kollha bħala Test (✂️)",
+    "message": "It-Tabs kollha bħala URLs tat-Test (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Magħżula bħala Link (✂️)",
+    "message": "Magħżula bħala Links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Magħżula bħala Test (✂️)",
+    "message": "Magħżula bħala Test URLs (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Din it-tab bħala Test (✂️)",
+    "message": "Din it-Tab bħala Test URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Din it-tab bħala Link (✂️)",
+    "message": "Dan Tab bħala Link (✂️)",
     "description": ""
   }
 }

@@ -8,15 +8,15 @@
     "description": ""
   },
   "selectaction": {
-    "message": "ກໍານົດການດໍາເນີນການປຸ່ມກາງ",
+    "message": "ກໍານົດການປະຕິບັດປຸ່ມຫນູທີສາມ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "ແຖບທັງໝົດເປັນ Link",
+    "message": "ແຖບທັງໝົດເປັນລິ້ງ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ແຖບທັງໝົດເປັນຂໍ້ຄວາມ",
+    "message": "ແຖບທັງໝົດເປັນ URL ຂໍ້ຄວາມ",
     "description": ""
   },
   "cpysellnk": {
@@ -24,23 +24,23 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ເລືອກເປັນຂໍ້ຄວາມ",
+    "message": "ເລືອກເປັນ URL ຂໍ້ຄວາມ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ແຖບນີ້ເປັນຂໍ້ຄວາມ",
+    "message": "ແຖບນີ້ເປັນ URL ຂໍ້ຄວາມ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ແຖບນີ້ເປັນ Link",
+    "message": "ແຖບນີ້ເປັນລິ້ງ",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "ແຖບທັງໝົດເປັນ Link (✂️)",
+    "message": "ແຖບທັງໝົດເປັນລິ້ງ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ແຖບທັງໝົດເປັນຂໍ້ຄວາມ (✂️)",
+    "message": "ແຖບທັງໝົດເປັນ URL ຂໍ້ຄວາມ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +48,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ເລືອກເປັນຂໍ້ຄວາມ (✂️)",
+    "message": "ເລືອກເປັນ URL ຂໍ້ຄວາມ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ແຖບນີ້ເປັນຂໍ້ຄວາມ (✂️)",
+    "message": "ແຖບນີ້ເປັນ URL ຂໍ້ຄວາມ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ແຖບນີ້ເປັນ Link (✂️)",
+    "message": "ແຖບນີ້ເປັນລິ້ງ (✂️)",
     "description": ""
   }
 }

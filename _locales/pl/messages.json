@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Ustaw działanie środkowego przycisku",
+    "message": "Ustaw akcję trzeciego przycisku myszy",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Wszystkie zakładki jako Link",
+    "message": "Wszystkie karty jako łącza",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Wszystkie karty jako tekst",
+    "message": "Wszystkie karty jako tekstowe adresy URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Wybrano jako łącze",
+    "message": "Wybrane jako linki",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Wybrano jako tekst",
+    "message": "Wybrane jako tekstowe adresy URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ta zakładka jako Tekst",
+    "message": "Ta zakładka jako tekstowy adres URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ta zakładka jako Link",
+    "message": "Ta zakładka jako link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Wszystkie zakładki jako Link (✂️)",
+    "message": "Wszystkie karty jako łącza (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Wszystkie karty jako tekst (✂️)",
+    "message": "Wszystkie karty jako tekstowe adresy URL (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Wybrano jako łącze (✂️)",
+    "message": "Wybrane jako linki (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Wybrano jako tekst (✂️)",
+    "message": "Wybrane jako tekstowe adresy URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ta zakładka jako Tekst (✂️)",
+    "message": "Ta zakładka jako tekstowy adres URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ta zakładka jako Link (✂️)",
+    "message": "Ta zakładka jako link (✂️)",
     "description": ""
   }
 }

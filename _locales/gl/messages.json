@@ -4,31 +4,31 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copia os URL das pestanas como hipervínculos ou texto simple",
+    "message": "Copia os URL das pestanas como hipervínculos ou texto sen formato",
     "description": ""
   },
   "selectaction": {
-    "message": "Establece a acción do botón central",
+    "message": "Establece a acción do terceiro botón do rato",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Todas as pestanas como ligazón",
+    "message": "Todas as pestanas como ligazóns",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Todas as pestanas como texto",
+    "message": "Todas as pestanas como URL de texto",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Seleccionado como ligazón",
+    "message": "Seleccionado como ligazóns",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Seleccionado como texto",
+    "message": "Seleccionado como URL de texto",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Esta pestana como texto",
+    "message": "Esta pestana como URL de texto",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Todas as pestanas como ligazón (✂️)",
+    "message": "Todas as pestanas como ligazóns (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Todas as pestanas como texto (✂️)",
+    "message": "Todas as pestanas como URL de texto (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Seleccionado como ligazón (✂️)",
+    "message": "Seleccionado como ligazóns (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Seleccionado como texto (✂️)",
+    "message": "Seleccionado como URL de texto (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Esta pestana como texto (✂️)",
+    "message": "Esta pestana como URL de texto (✂️)",
     "description": ""
   },
   "cpytablnknp": {

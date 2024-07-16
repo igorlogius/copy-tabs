@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "დააყენეთ შუა ღილაკის მოქმედება",
+    "message": "დააყენეთ მაუსის მესამე ღილაკის მოქმედება",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "ყველა ჩანართი როგორც ბმული",
+    "message": "ყველა ჩანართი ბმულების სახით",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ყველა ჩანართი ტექსტის სახით",
+    "message": "ყველა ჩანართი, როგორც ტექსტური URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "არჩეულია ბმულად",
+    "message": "არჩეულია როგორც ბმულები",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "არჩეულია ტექსტად",
+    "message": "არჩეულია ტექსტის მისამართებად",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ეს ჩანართი როგორც ტექსტი",
+    "message": "ეს ჩანართი, როგორც ტექსტის URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ეს ჩანართი, როგორც ბმული",
+    "message": "ეს ჩანართი როგორც ბმული",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "ყველა ჩანართი როგორც ბმული (✂️)",
+    "message": "ყველა ჩანართი ბმულების სახით (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ყველა ჩანართი ტექსტის სახით (✂️)",
+    "message": "ყველა ჩანართი, როგორც ტექსტური URL (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "არჩეულია ბმულად (✂️)",
+    "message": "არჩეულია როგორც ბმულები (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "არჩეულია ტექსტად (✂️)",
+    "message": "არჩეულია ტექსტის მისამართებად (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ეს ჩანართი როგორც ტექსტი (✂️)",
+    "message": "ეს ჩანართი, როგორც ტექსტის URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ეს ჩანართი, როგორც ბმული (✂️)",
+    "message": "ეს ჩანართი როგორც ბმული (✂️)",
     "description": ""
   }
 }

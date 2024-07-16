@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Stel middelste knop aksje",
+    "message": "Stel tredde mûsknop aksje",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle ljeppers as Link",
+    "message": "Alle ljeppers as keppelings",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle ljeppers as tekst",
+    "message": "Alle ljeppers as tekst-URL's",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Selektearre as keppeling",
+    "message": "Selektearre as keppelings",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Selektearre as tekst",
+    "message": "Selektearre as tekst-URL's",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Dizze ljepper as Tekst",
+    "message": "Dizze ljepper as tekst-URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Dizze ljepper as Link",
+    "message": "Dizze ljepper as keppeling",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alle ljeppers as Link (✂️)",
+    "message": "Alle ljeppers as keppelings (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle ljeppers as tekst (✂️)",
+    "message": "Alle ljeppers as tekst-URL's (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Selektearre as keppeling (✂️)",
+    "message": "Selektearre as keppelings (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Selektearre as tekst (✂️)",
+    "message": "Selektearre as tekst-URL's (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Dizze ljepper as Tekst (✂️)",
+    "message": "Dizze ljepper as tekst-URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Dizze ljepper as Link (✂️)",
+    "message": "Dizze ljepper as keppeling (✂️)",
     "description": ""
   }
 }

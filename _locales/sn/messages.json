@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Seta yepakati bhatani chiito",
+    "message": "Seta yechitatu bhatani bhatani chiito",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Matebu ese seChibatanidza",
+    "message": "MaTabo ese seManongedzo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Matebu ese seChinyorwa",
+    "message": "Ese Tabs seMavara URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Yakasarudzwa seChibatanidza",
+    "message": "Yakasarudzwa seZvibatanidza",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Yakasarudzwa seChinyorwa",
+    "message": "Yakasarudzwa seMavara URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Iyi tebhu seChinyorwa",
+    "message": "Iyi Tabhu seChinyorwa URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Iyi tab se Link",
+    "message": "Iyi Tab se Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Matebu ese seChibatanidza (✂️)",
+    "message": "MaTabo ese seManongedzo (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Matebu ese seChinyorwa (✂️)",
+    "message": "Ese Tabs seMavara URLs (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Yakasarudzwa seChibatanidza (✂️)",
+    "message": "Yakasarudzwa seZvibatanidza (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Yakasarudzwa seChinyorwa (✂️)",
+    "message": "Yakasarudzwa seMavara URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Iyi tebhu seChinyorwa (✂️)",
+    "message": "Iyi Tabhu seChinyorwa URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Iyi tab se Link (✂️)",
+    "message": "Iyi Tab se Link (✂️)",
     "description": ""
   }
 }

@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Fokotuʻu e meʻa lomi ʻi loto",
+    "message": "Fokotuʻu e meʻa lomi mausi hono tolu",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ko e ngaahi ʻuluʻitohi kotoa pe ko e fehokotakiʻanga",
+    "message": "Ngaahi ʻuluʻitohi kotoa ko ha ngaahi fehokotakiʻanga",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ko e ngaahi ʻuluʻitohi kotoa pe ko e fakamatala ",
+    "message": "Ngaahi ʻuluʻitohi kotoa ko e text URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Fili ko ha Fehokotakiʻanga",
+    "message": "Fili ko ha Ngaahi Fehokotakiʻanga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Fili ko e Text",
+    "message": "Fili ko e text URLs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ko e konga ko ʻeni ko e fakamatala",
+    "message": "Ko e tab ko ʻeni ko e text URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ko e ngaahi ʻuluʻitohi kotoa pe ko e fehokotakiʻanga (✂️)",
+    "message": "Ngaahi ʻuluʻitohi kotoa ko ha ngaahi fehokotakiʻanga (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ko e ngaahi ʻuluʻitohi kotoa pe ko e fakamatala (✂️)",
+    "message": "Ngaahi ʻuluʻitohi kotoa ko e text URLs (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Fili ko ha Fehokotakiʻanga (✂️)",
+    "message": "Fili ko ha Ngaahi Fehokotakiʻanga (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Fili ko e Text (✂️)",
+    "message": "Fili ko e text URLs (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ko e konga ko ʻeni ko e fakamatala (✂️)",
+    "message": "Ko e tab ko ʻeni ko e text URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

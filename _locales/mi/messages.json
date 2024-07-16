@@ -8,15 +8,15 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Tautuhia te mahi paatene waenga",
+    "message": "Tautuhia te mahi paatene kiore tuatoru",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ripa katoa hei Hononga",
+    "message": "Ripa Katoa hei Hononga",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ripa katoa hei Kuputuhi",
+    "message": "Ripa Katoa hei URL Kuputuhi",
     "description": ""
   },
   "cpysellnk": {
@@ -24,23 +24,23 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kua tohua hei Kuputuhi",
+    "message": "Kua tohua hei URL Kuputuhi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ko tenei ripa hei Kuputuhi",
+    "message": "Tenei Ripa hei URL Kuputuhi",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ko tenei ripa hei Hononga",
+    "message": "Tenei Ripa hei Hononga",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ripa katoa hei Hononga (✂️)",
+    "message": "Ripa Katoa hei Hononga (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ripa katoa hei Kuputuhi (✂️)",
+    "message": "Ripa Katoa hei URL Kuputuhi (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +48,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Kua tohua hei Kuputuhi (✂️)",
+    "message": "Kua tohua hei URL Kuputuhi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ko tenei ripa hei Kuputuhi (✂️)",
+    "message": "Tenei Ripa hei URL Kuputuhi (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ko tenei ripa hei Hononga (✂️)",
+    "message": "Tenei Ripa hei Hononga (✂️)",
     "description": ""
   }
 }

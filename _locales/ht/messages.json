@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Mete aksyon bouton mitan an",
+    "message": "Mete twazyèm aksyon bouton sourit",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tout onglè kòm Link",
+    "message": "Tout Tabs kòm Lyen",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tout onglè yo kòm tèks",
+    "message": "Tout Tabs kòm URL tèks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Chwazi kòm Link",
+    "message": "Chwazi kòm Lyen",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Chwazi kòm tèks",
+    "message": "Chwazi kòm URL tèks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tab sa a kòm Tèks",
+    "message": "Tab sa a kòm URL tèks",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Tout onglè kòm Link (✂️)",
+    "message": "Tout Tabs kòm Lyen (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tout onglè yo kòm tèks (✂️)",
+    "message": "Tout Tabs kòm URL tèks (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Chwazi kòm Link (✂️)",
+    "message": "Chwazi kòm Lyen (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Chwazi kòm tèks (✂️)",
+    "message": "Chwazi kòm URL tèks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tab sa a kòm Tèks (✂️)",
+    "message": "Tab sa a kòm URL tèks (✂️)",
     "description": ""
   },
   "cpytablnknp": {

@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Амали тугмаи миёнаро таъин кунед",
+    "message": "Амали сеюми тугмаи мушро таъин кунед",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ҳама ҷадвалҳо ҳамчун пайванд",
+    "message": "Ҳама ҷадвалҳо ҳамчун пайвандҳо",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ҳама ҷадвалҳо ҳамчун матн",
+    "message": "Ҳама ҷадвалҳо ҳамчун URL-и матн",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ҳамчун пайванд интихобшуда",
+    "message": "Ҳамчун Пайвандҳо интихобшуда",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ҳамчун Матн интихоб шудааст",
+    "message": "Ҳамчун URL-и матн интихобшуда",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ин ҷадвал ҳамчун Матн",
+    "message": "Ин ҷадвал ҳамчун URL-и матн",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ҳама ҷадвалҳо ҳамчун пайванд (✂️)",
+    "message": "Ҳама ҷадвалҳо ҳамчун пайвандҳо (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ҳама ҷадвалҳо ҳамчун матн (✂️)",
+    "message": "Ҳама ҷадвалҳо ҳамчун URL-и матн (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ҳамчун пайванд интихобшуда (✂️)",
+    "message": "Ҳамчун Пайвандҳо интихобшуда (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ҳамчун Матн интихоб шудааст (✂️)",
+    "message": "Ҳамчун URL-и матн интихобшуда (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ин ҷадвал ҳамчун Матн (✂️)",
+    "message": "Ин ҷадвал ҳамчун URL-и матн (✂️)",
     "description": ""
   },
   "cpytablnknp": {

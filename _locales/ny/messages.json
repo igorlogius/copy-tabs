@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Khazikitsani batani lapakati",
+    "message": "Khazikitsani batani lachitatu la mbewa",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ma tabu onse ngati Link",
+    "message": "Ma Tabs Onse Monga Maulalo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ma tabu onse ngati Text",
+    "message": "Ma Tabu Onse ngati Ma URL a Mawu",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Yasankhidwa ngati Link",
+    "message": "Zosankhidwa ngati Maulalo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Zosankhidwa ngati Zolemba",
+    "message": "Zosankhidwa ngati Maulalo a Mawu",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tsamba ili ngati Text",
+    "message": "Tabu ili ngati URL ya Mawu",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tsamba ili ngati Link",
+    "message": "Tabu iyi ngati Ulalo",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ma tabu onse ngati Link (✂️)",
+    "message": "Ma Tabs Onse Monga Maulalo (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ma tabu onse ngati Text (✂️)",
+    "message": "Ma Tabu Onse ngati Ma URL a Mawu (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Yasankhidwa ngati Link (✂️)",
+    "message": "Zosankhidwa ngati Maulalo (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Zosankhidwa ngati Zolemba (✂️)",
+    "message": "Zosankhidwa ngati Maulalo a Mawu (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tsamba ili ngati Text (✂️)",
+    "message": "Tabu ili ngati URL ya Mawu (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tsamba ili ngati Link (✂️)",
+    "message": "Tabu iyi ngati Ulalo (✂️)",
     "description": ""
   }
 }

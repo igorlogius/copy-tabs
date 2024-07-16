@@ -23,7 +23,7 @@ function iconBlink() {
   browser.browserAction.disable();
   setTimeout(() => {
     browser.browserAction.enable();
-  }, 300); // make the icon blink
+  }, 300);
 }
 
 async function getFromStorage(type, id, fallback) {
@@ -42,10 +42,10 @@ function notify(title, message = "", iconUrl = "icon.png") {
     if (nid > -1) {
       setTimeout(() => {
         browser.notifications.clear(nid);
-      }, 3000); // hide notification after 3 seconds
+      }, 3000);
     }
   } catch (e) {
-    // noop permission missing
+    // noop
   }
 }
 
@@ -74,14 +74,13 @@ async function copyTabsAsText(tabs) {
       }),
     )
   ).join("\n");
+  browser.tabs.remove(runtab.id);
   try {
-    await navigator.clipboard.writeText(text);
-    browser.tabs.remove(runtab.id);
+    navigator.clipboard.writeText(text);
     return true;
   } catch (e) {
     console.error(e);
   }
-  browser.tabs.remove(runtab.id);
   return false;
 }
 
@@ -103,29 +102,20 @@ async function copyTabsAsHtml(tabs) {
       let t = tabs[i];
       let a = document.createElement("a");
 
-      if (t.url.startsWith("http") || t.url.startsWith("file")) {
-        if (noURLParams) {
-          try {
-            tmp = await browser.tabs.executeScript(runtab.id, {
-              code: `((url) => { ${noURLParamsFunctionCode} ;return url;})("${t.url}")`,
-            });
+      if (noURLParams) {
+        try {
+          tmp = await browser.tabs.executeScript(runtab.id, {
+            code: `((url) => { ${noURLParamsFunctionCode} ;return url;})("${t.url}")`,
+          });
 
-            //console.debug("copyTabsAsHtml", tmp);
-            if (Array.isArray(tmp) && typeof tmp[0] === "string") {
-              a.href = tmp[0].replace(/\s+/g, "");
-            }
-          } catch (e) {
-            console.error(e);
+          if (Array.isArray(tmp) && typeof tmp[0] === "string") {
+            a.href = tmp[0].replace(/\s+/g, "");
           }
-          /*
-          let tmp = new URL(t.url);
-          tmp = tmp.origin + tmp.pathname;
-          a.href = noURLParamsFunction(t.url);
-            */
-          //a.href = tmp;
-        } else {
-          a.href = t.url;
+        } catch (e) {
+          console.error(e);
         }
+      } else {
+        a.href = t.url;
       }
       a.textContent = t.title;
       span.append(a);
@@ -136,6 +126,8 @@ async function copyTabsAsHtml(tabs) {
         fallbackTextClipboardItem += "\n";
       }
     }
+
+    browser.tabs.remove(runtab.id);
 
     if (
       typeof navigator.clipboard.write === "undefined" ||
@@ -148,7 +140,7 @@ async function copyTabsAsHtml(tabs) {
       document.getSelection().addRange(range);
       document.execCommand("copy");
     } else {
-      await navigator.clipboard.write([
+      navigator.clipboard.write([
         new ClipboardItem({
           "text/plain": new Blob([fallbackTextClipboardItem], {
             type: "text/plain",
@@ -160,18 +152,14 @@ async function copyTabsAsHtml(tabs) {
       ]);
     }
     span.remove();
-    browser.tabs.remove(runtab.id);
     return true;
   } catch (e) {
     console.error(e);
   }
-  browser.tabs.remove(runtab.id);
   return false;
 }
 
 async function onCommand(cmd) {
-  //await sleep(2000);
-
   if (!ready) {
     return;
   }
@@ -255,11 +243,50 @@ async function onStorageChange() {
   noURLParamsFunctionCode = await getFromStorage(
     "string",
     "noURLParamsFunction",
-    "return url;",
+    "",
   );
 }
 
+// proxy toolbar button click
+function onBAClicked(tab, info) {
+  if (popupmode) {
+    if (info.button === 1) {
+      browser.browserAction.setPopup({
+        popup: browser.runtime.getURL("popup.html"),
+      });
+      browser.browserAction.openPopup();
+    } else {
+      onCommand(toolbarAction);
+    }
+  } else {
+    if (info.button === 1) {
+      onCommand(toolbarAction);
+    } else {
+      // default
+      browser.browserAction.setPopup({
+        popup: browser.runtime.getURL("popup.html"),
+      });
+      browser.browserAction.openPopup();
+    }
+  }
+}
+
+async function onInstalled(details) {
+  if (details.reason === "install") {
+    let tmp = await fetch(browser.runtime.getURL("noURLParamsFunction.js"));
+    tmp = await tmp.text();
+    browser.storage.local.set({ noURLParamsFunction: tmp });
+  }
+}
+
+function onMessage(req) {
+  onCommand(req.cmd);
+}
+
 (async () => {
+  // add some transparancy
+  browser.browserAction.setBadgeBackgroundColor({ color: [0, 0, 0, 115] });
+
   // add context entries to copy the clicked tab
   browser.menus.create({
     title: browser.i18n.getMessage("cpytablnk"),
@@ -298,6 +325,7 @@ async function onStorageChange() {
       }
     },
   });
+
   browser.menus.create({
     title: browser.i18n.getMessage("cpytabtxtnp"),
     contexts: ["tab"],
@@ -345,44 +373,12 @@ async function onStorageChange() {
 
   await onStorageChange();
   ready = true;
+
+  browser.storage.onChanged.addListener(onStorageChange);
+  browser.commands.onCommand.addListener(onCommand);
+  browser.browserAction.onClicked.addListener(onBAClicked);
+  browser.runtime.onInstalled.addListener(onInstalled);
+  browser.runtime.onMessage.addListener(onMessage);
 })();
 
-browser.storage.onChanged.addListener(onStorageChange);
-browser.commands.onCommand.addListener(onCommand);
-
-// proxy toolbar button click
-browser.browserAction.onClicked.addListener((tab, info) => {
-  console.debug("middle clicked toolbar button", info);
-
-  if (popupmode) {
-    if (info.button === 1) {
-      browser.browserAction.setPopup({ popup: "popup.html" });
-      browser.browserAction.openPopup();
-    } else {
-      onCommand(toolbarAction);
-    }
-  } else {
-    if (info.button === 1) {
-      onCommand(toolbarAction);
-    } else {
-      // default
-      browser.browserAction.setPopup({ popup: "popup.html" });
-      browser.browserAction.openPopup();
-    }
-  }
-});
-
-// add some slight transparancy
-browser.browserAction.setBadgeBackgroundColor({ color: [0, 0, 0, 115] });
-
-browser.runtime.onInstalled.addListener(async (details) => {
-  if (details.reason === "install") {
-    let tmp = await fetch(browser.runtime.getURL("noURLParamsFunction.js"));
-    tmp = await tmp.text();
-    browser.storage.local.set({ noURLParamsFunction: tmp });
-  }
-});
-
-browser.runtime.onMessage.addListener(async (req, sender) => {
-  onCommand(req.cmd);
-});
+// EOF

@@ -8,15 +8,15 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Cakto veprimin e butonit të mesëm",
+    "message": "Cakto veprimin e butonit të tretë të miut",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Të gjitha skedat si Lidhje",
+    "message": "Të gjitha skedat si lidhje",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Të gjitha skedat si Tekst",
+    "message": "Të gjitha skedat si URL teksti",
     "description": ""
   },
   "cpysellnk": {
@@ -24,23 +24,23 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Zgjedhur si Tekst",
+    "message": "Zgjedhur si URL teksti",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kjo skedë si Tekst",
+    "message": "Kjo skedë si URL e tekstit",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kjo skedë si Lidhje",
+    "message": "Kjo skedë si lidhje",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Të gjitha skedat si Lidhje (✂️)",
+    "message": "Të gjitha skedat si lidhje (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Të gjitha skedat si Tekst (✂️)",
+    "message": "Të gjitha skedat si URL teksti (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +48,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Zgjedhur si Tekst (✂️)",
+    "message": "Zgjedhur si URL teksti (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Kjo skedë si Tekst (✂️)",
+    "message": "Kjo skedë si URL e tekstit (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Kjo skedë si Lidhje (✂️)",
+    "message": "Kjo skedë si lidhje (✂️)",
     "description": ""
   }
 }

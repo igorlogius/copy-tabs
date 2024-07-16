@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Indstil den midterste knaphandling",
+    "message": "Indstil tredje museknaphandling",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle faner som link",
+    "message": "Alle faner som links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle faner som tekst",
+    "message": "Alle faner som tekst-URL'er",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valgt som link",
+    "message": "Valgt som links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valgt som tekst",
+    "message": "Valgt som tekst-URL'er",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Denne fane som tekst",
+    "message": "Denne fane som tekst-URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alle faner som link (✂️)",
+    "message": "Alle faner som links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle faner som tekst (✂️)",
+    "message": "Alle faner som tekst-URL'er (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valgt som link (✂️)",
+    "message": "Valgt som links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valgt som tekst (✂️)",
+    "message": "Valgt som tekst-URL'er (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Denne fane som tekst (✂️)",
+    "message": "Denne fane som tekst-URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

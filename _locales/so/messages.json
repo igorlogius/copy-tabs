@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Deji ficil badhanka dhexe",
+    "message": "Deji ficil badhanka jiirka saddexaad",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Dhammaan tabs sida Link",
+    "message": "Dhammaan tabs sida Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Dhammaan tabs sida Qoraal",
+    "message": "Dhammaan tabs sida URL-yada qoraalka ah",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Loo doortay sida Link",
+    "message": "Loo doortay sida Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Loo doortay sidii Qoraal",
+    "message": "Loo doortay URL-yo Qoraal",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tabkan sida Text",
+    "message": "Tabkan sida Qoraal URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Dhammaan tabs sida Link (✂️)",
+    "message": "Dhammaan tabs sida Links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Dhammaan tabs sida Qoraal (✂️)",
+    "message": "Dhammaan tabs sida URL-yada qoraalka ah (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Loo doortay sida Link (✂️)",
+    "message": "Loo doortay sida Links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Loo doortay sidii Qoraal (✂️)",
+    "message": "Loo doortay URL-yo Qoraal (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tabkan sida Text (✂️)",
+    "message": "Tabkan sida Qoraal URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

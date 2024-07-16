@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Ρυθμίστε τη δράση του μεσαίου κουμπιού",
+    "message": "Ρύθμιση τρίτης ενέργειας κουμπιού ποντικιού",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Όλες οι καρτέλες ως σύνδεσμος",
+    "message": "Όλες οι καρτέλες ως σύνδεσμοι",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Όλες οι καρτέλες ως Κείμενο",
+    "message": "Όλες οι καρτέλες ως διευθύνσεις URL κειμένου",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Επιλέχθηκε ως Σύνδεσμος",
+    "message": "Επιλέχθηκε ως Σύνδεσμοι",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Επιλέχθηκε ως Κείμενο",
+    "message": "Επιλέχθηκε ως URL κειμένου",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Αυτή η καρτέλα ως Κείμενο",
+    "message": "Αυτή η καρτέλα ως διεύθυνση URL κειμένου",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Αυτή η καρτέλα ως Σύνδεσμος",
+    "message": "Αυτή η καρτέλα ως σύνδεσμος",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Όλες οι καρτέλες ως σύνδεσμος (✂️)",
+    "message": "Όλες οι καρτέλες ως σύνδεσμοι (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Όλες οι καρτέλες ως Κείμενο (✂️)",
+    "message": "Όλες οι καρτέλες ως διευθύνσεις URL κειμένου (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Επιλέχθηκε ως Σύνδεσμος (✂️)",
+    "message": "Επιλέχθηκε ως Σύνδεσμοι (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Επιλέχθηκε ως Κείμενο (✂️)",
+    "message": "Επιλέχθηκε ως URL κειμένου (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Αυτή η καρτέλα ως Κείμενο (✂️)",
+    "message": "Αυτή η καρτέλα ως διεύθυνση URL κειμένου (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Αυτή η καρτέλα ως Σύνδεσμος (✂️)",
+    "message": "Αυτή η καρτέλα ως σύνδεσμος (✂️)",
     "description": ""
   }
 }

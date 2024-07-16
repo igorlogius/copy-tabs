@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Nastavite dejanje srednjega gumba",
+    "message": "Nastavite dejanje tretjega gumba miške",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Vsi zavihki kot povezava",
+    "message": "Vsi zavihki kot povezave",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Vsi zavihki kot besedilo",
+    "message": "Vsi zavihki kot besedilni URL-ji",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Izbrano kot povezava",
+    "message": "Izbrano kot povezave",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Izbrano kot besedilo",
+    "message": "Izbrano kot besedilni URL-ji",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ta zavihek kot besedilo",
+    "message": "Ta zavihek kot besedilni URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Vsi zavihki kot povezava (✂️)",
+    "message": "Vsi zavihki kot povezave (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Vsi zavihki kot besedilo (✂️)",
+    "message": "Vsi zavihki kot besedilni URL-ji (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Izbrano kot povezava (✂️)",
+    "message": "Izbrano kot povezave (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Izbrano kot besedilo (✂️)",
+    "message": "Izbrano kot besedilni URL-ji (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ta zavihek kot besedilo (✂️)",
+    "message": "Ta zavihek kot besedilni URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

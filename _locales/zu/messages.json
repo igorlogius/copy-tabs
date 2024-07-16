@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Setha isenzo senkinobho ephakathi",
+    "message": "Setha isenzo senkinobho yegundane yesithathu",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Wonke amathebhu njengesixhumanisi",
+    "message": "Wonke Amathebhu Njengezixhumanisi",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Wonke amathebhu Njengombhalo",
+    "message": "Wonke Amathebhu njengama-URL wombhalo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kukhethwe njengesixhumanisi",
+    "message": "Kukhethwe njengezixhumanisi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kukhethwe Njengombhalo",
+    "message": "Kukhethwe njengama-URL wombhalo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Le thebhu njengombhalo",
+    "message": "Le Thebhu njenge-URL yombhalo",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Le thebhu njengesixhumanisi",
+    "message": "Le Thebhu njengesixhumanisi",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Wonke amathebhu njengesixhumanisi (✂️)",
+    "message": "Wonke Amathebhu Njengezixhumanisi (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Wonke amathebhu Njengombhalo (✂️)",
+    "message": "Wonke Amathebhu njengama-URL wombhalo (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Kukhethwe njengesixhumanisi (✂️)",
+    "message": "Kukhethwe njengezixhumanisi (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Kukhethwe Njengombhalo (✂️)",
+    "message": "Kukhethwe njengama-URL wombhalo (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Le thebhu njengombhalo (✂️)",
+    "message": "Le Thebhu njenge-URL yombhalo (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Le thebhu njengesixhumanisi (✂️)",
+    "message": "Le Thebhu njengesixhumanisi (✂️)",
     "description": ""
   }
 }

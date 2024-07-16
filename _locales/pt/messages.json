@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Definir ação do botão do meio",
+    "message": "Definir a ação do terceiro botão do mouse",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Todas as guias como link",
+    "message": "Todas as guias como links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Todas as guias como texto",
+    "message": "Todas as guias como URLs de texto",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Selecionado como link",
+    "message": "Selecionado como links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Selecionado como texto",
+    "message": "Selecionados como URLs de texto",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Esta guia como texto",
+    "message": "Esta guia como URL de texto",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Todas as guias como link (✂️)",
+    "message": "Todas as guias como links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Todas as guias como texto (✂️)",
+    "message": "Todas as guias como URLs de texto (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Selecionado como link (✂️)",
+    "message": "Selecionado como links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Selecionado como texto (✂️)",
+    "message": "Selecionados como URLs de texto (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Esta guia como texto (✂️)",
+    "message": "Esta guia como URL de texto (✂️)",
     "description": ""
   },
   "cpytablnknp": {

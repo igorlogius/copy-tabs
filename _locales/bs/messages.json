@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Postavite radnju srednjeg dugmeta",
+    "message": "Podesite akciju trećeg dugmeta miša",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Sve kartice kao Link",
+    "message": "Sve kartice kao veze",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Sve kartice kao tekst",
+    "message": "Sve kartice kao tekstualni URL-ovi",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Odabrano kao Link",
+    "message": "Odabrano kao Linkovi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Odabrano kao tekst",
+    "message": "Odabrano kao tekstualni URL-ovi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ova kartica kao Tekst",
+    "message": "Ova kartica kao tekstualni URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ova kartica kao Link",
+    "message": "Ova kartica kao veza",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Sve kartice kao Link (✂️)",
+    "message": "Sve kartice kao veze (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Sve kartice kao tekst (✂️)",
+    "message": "Sve kartice kao tekstualni URL-ovi (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Odabrano kao Link (✂️)",
+    "message": "Odabrano kao Linkovi (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Odabrano kao tekst (✂️)",
+    "message": "Odabrano kao tekstualni URL-ovi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ova kartica kao Tekst (✂️)",
+    "message": "Ova kartica kao tekstualni URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ova kartica kao Link (✂️)",
+    "message": "Ova kartica kao veza (✂️)",
     "description": ""
   }
 }

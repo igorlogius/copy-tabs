@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Ṣeto iṣẹ bọtini aarin",
+    "message": "Ṣeto iṣẹ bọtini Asin kẹta",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Gbogbo awọn taabu bi Ọna asopọ",
+    "message": "Gbogbo Awọn taabu bi Awọn ọna asopọ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Gbogbo awọn taabu bi Ọrọ",
+    "message": "Gbogbo Awọn taabu bi Awọn URL Ọrọ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ti yan bi Ọna asopọ",
+    "message": "Ti yan bi Awọn ọna asopọ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ti yan bi Ọrọ",
+    "message": "Ti yan bi Awọn URL Ọrọ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Yi taabu bi Ọrọ",
+    "message": "Taabu yii bi URL Ọrọ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Yi taabu bi Ọna asopọ",
+    "message": "Taabu yii bi Ọna asopọ",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Gbogbo awọn taabu bi Ọna asopọ (✂️)",
+    "message": "Gbogbo Awọn taabu bi Awọn ọna asopọ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Gbogbo awọn taabu bi Ọrọ (✂️)",
+    "message": "Gbogbo Awọn taabu bi Awọn URL Ọrọ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ti yan bi Ọna asopọ (✂️)",
+    "message": "Ti yan bi Awọn ọna asopọ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ti yan bi Ọrọ (✂️)",
+    "message": "Ti yan bi Awọn URL Ọrọ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Yi taabu bi Ọrọ (✂️)",
+    "message": "Taabu yii bi URL Ọrọ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Yi taabu bi Ọna asopọ (✂️)",
+    "message": "Taabu yii bi Ọna asopọ (✂️)",
     "description": ""
   }
 }

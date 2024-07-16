@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Set middle button action",
+    "message": "Set third mouse button action",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "All tabs as Link",
+    "message": "All Tabs as Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "All tabs as Text",
+    "message": "All Tabs as Text URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Selected as Link",
+    "message": "Selected as Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Selected as Text",
+    "message": "Selected as Text URLs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "This tab as Text",
+    "message": "This Tab as Text URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "This tab as Link",
+    "message": "This Tab as Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "All tabs as Link (✂️)",
+    "message": "All Tabs as Links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "All tabs as Text (✂️)",
+    "message": "All Tabs as Text URLs (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Selected as Link (✂️)",
+    "message": "Selected as Links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Selected as Text (✂️)",
+    "message": "Selected as Text URLs (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "This tab as Text (✂️)",
+    "message": "This Tab as Text URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "This tab as Link (✂️)",
+    "message": "This Tab as Link (✂️)",
     "description": ""
   }
 }

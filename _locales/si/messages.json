@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "මැද බොත්තම් ක්u200dරියාව සකසන්න",
+    "message": "තෙවන මූසික බොත්තම් ක්u200dරියාව සකසන්න",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "සියලුම ටැබ් සබැඳිය ලෙස",
+    "message": "සියලුම ටැබ් සබැඳි ලෙස",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "සියලුම ටැබ් පෙළ ලෙස",
+    "message": "සියලුම ටැබ් පෙළ URL ලෙස",
     "description": ""
   },
   "cpysellnk": {
-    "message": "සබැඳිය ලෙස තෝරා ඇත",
+    "message": "සබැඳි ලෙස තෝරා ඇත",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "පෙළ ලෙස තෝරා ඇත",
+    "message": "පෙළ URL ලෙස තෝරා ඇත",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "මෙම ටැබය පෙළ ලෙස",
+    "message": "මෙම ටැබය පෙළ URL ලෙස",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "සියලුම ටැබ් සබැඳිය ලෙස (✂️)",
+    "message": "සියලුම ටැබ් සබැඳි ලෙස (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "සියලුම ටැබ් පෙළ ලෙස (✂️)",
+    "message": "සියලුම ටැබ් පෙළ URL ලෙස (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "සබැඳිය ලෙස තෝරා ඇත (✂️)",
+    "message": "සබැඳි ලෙස තෝරා ඇත (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "පෙළ ලෙස තෝරා ඇත (✂️)",
+    "message": "පෙළ URL ලෙස තෝරා ඇත (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "මෙම ටැබය පෙළ ලෙස (✂️)",
+    "message": "මෙම ටැබය පෙළ URL ලෙස (✂️)",
     "description": ""
   },
   "cpytablnknp": {

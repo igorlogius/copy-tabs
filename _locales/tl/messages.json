@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Itakda ang pagkilos sa gitnang button",
+    "message": "Itakda ang pangatlong pagkilos ng mouse button",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Lahat ng tab bilang Link",
+    "message": "Lahat ng Tab bilang Mga Link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Lahat ng tab bilang Text",
+    "message": "Lahat ng Tab bilang Text URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Pinili bilang Link",
+    "message": "Pinili bilang Mga Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Pinili bilang Teksto",
+    "message": "Pinili bilang Text URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ang tab na ito bilang Text",
+    "message": "Ang Tab na ito bilang Text URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ang tab na ito bilang Link",
+    "message": "Ang Tab na ito bilang Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Lahat ng tab bilang Link (✂️)",
+    "message": "Lahat ng Tab bilang Mga Link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Lahat ng tab bilang Text (✂️)",
+    "message": "Lahat ng Tab bilang Text URL (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Pinili bilang Link (✂️)",
+    "message": "Pinili bilang Mga Link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Pinili bilang Teksto (✂️)",
+    "message": "Pinili bilang Text URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ang tab na ito bilang Text (✂️)",
+    "message": "Ang Tab na ito bilang Text URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ang tab na ito bilang Link (✂️)",
+    "message": "Ang Tab na ito bilang Link (✂️)",
     "description": ""
   }
 }

@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Weka kitendo cha kitufe cha kati",
+    "message": "Weka kitendo cha kitufe cha tatu cha kipanya",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Vichupo vyote kama Kiungo",
+    "message": "Vichupo Vyote kama Viungo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Vichupo vyote kama Maandishi",
+    "message": "Vichupo vyote kama URL za Maandishi",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Imechaguliwa kama Kiungo",
+    "message": "Imechaguliwa kama Viungo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Imechaguliwa kama Maandishi",
+    "message": "Imechaguliwa kama URL za Maandishi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kichupo hiki kama Maandishi",
+    "message": "Kichupo hiki kama URL ya Maandishi",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Vichupo vyote kama Kiungo (✂️)",
+    "message": "Vichupo Vyote kama Viungo (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Vichupo vyote kama Maandishi (✂️)",
+    "message": "Vichupo vyote kama URL za Maandishi (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Imechaguliwa kama Kiungo (✂️)",
+    "message": "Imechaguliwa kama Viungo (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Imechaguliwa kama Maandishi (✂️)",
+    "message": "Imechaguliwa kama URL za Maandishi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Kichupo hiki kama Maandishi (✂️)",
+    "message": "Kichupo hiki kama URL ya Maandishi (✂️)",
     "description": ""
   },
   "cpytablnknp": {

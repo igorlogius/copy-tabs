@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Stel middelste knoppie aksie",
+    "message": "Stel derde muisknoppie aksie",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle oortjies as skakel",
+    "message": "Alle oortjies as skakels",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle oortjies as teks",
+    "message": "Alle oortjies as teks-URL'e",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Gekies as skakel",
+    "message": "Gekies as skakels",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Gekies as teks",
+    "message": "Gekies as teks-URL'e",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Hierdie oortjie as teks",
+    "message": "Hierdie oortjie as teks-URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alle oortjies as skakel (✂️)",
+    "message": "Alle oortjies as skakels (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle oortjies as teks (✂️)",
+    "message": "Alle oortjies as teks-URL'e (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Gekies as skakel (✂️)",
+    "message": "Gekies as skakels (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Gekies as teks (✂️)",
+    "message": "Gekies as teks-URL'e (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Hierdie oortjie as teks (✂️)",
+    "message": "Hierdie oortjie as teks-URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

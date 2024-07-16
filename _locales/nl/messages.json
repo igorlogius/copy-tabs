@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Actie van de middelste knop instellen",
+    "message": "Stel de derde muisknopactie in",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle tabbladen als link",
+    "message": "Alle tabbladen als koppelingen",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle tabbladen als tekst",
+    "message": "Alle tabbladen als tekst-URL's",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Geselecteerd als koppeling",
+    "message": "Geselecteerd als koppelingen",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Geselecteerd als tekst",
+    "message": "Geselecteerd als tekst-URL's",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Dit tabblad als Tekst",
+    "message": "Dit tabblad als tekst-URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Dit tabblad als Link",
+    "message": "Dit tabblad als link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alle tabbladen als link (✂️)",
+    "message": "Alle tabbladen als koppelingen (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle tabbladen als tekst (✂️)",
+    "message": "Alle tabbladen als tekst-URL's (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Geselecteerd als koppeling (✂️)",
+    "message": "Geselecteerd als koppelingen (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Geselecteerd als tekst (✂️)",
+    "message": "Geselecteerd als tekst-URL's (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Dit tabblad als Tekst (✂️)",
+    "message": "Dit tabblad als tekst-URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Dit tabblad als Link (✂️)",
+    "message": "Dit tabblad als link (✂️)",
     "description": ""
   }
 }

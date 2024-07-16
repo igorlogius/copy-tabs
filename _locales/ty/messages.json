@@ -8,15 +8,15 @@
     "description": ""
   },
   "selectaction": {
-    "message": "A tuu i te pitopito i ropu",
+    "message": "A tuu i te toru o te pitopito i ni'a i te api parau",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Te feia atoa e farii, ia faaite mai te reira",
+    "message": "Te mau tapao atoa ei mau taairaa",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Te mau tapa'o atoa ei parau papa'i ",
+    "message": "Te mau tapa'o atoa ei mau parau papa'i",
     "description": ""
   },
   "cpysellnk": {
@@ -24,23 +24,23 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ma'itihia ei parau papa'i",
+    "message": "Ma'itihia ei mau niuniu afa'ifa'i",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Teie tapa'o ei parau papa'i",
+    "message": "Teie tapa'o ei URL papa'iraa",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Teie tapa'o ei hono",
+    "message": "E tu'ati te reira i te",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Te feia atoa e farii, ia faaite mai te reira (✂️)",
+    "message": "Te mau tapao atoa ei mau taairaa (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Te mau tapa'o atoa ei parau papa'i (✂️)",
+    "message": "Te mau tapa'o atoa ei mau parau papa'i (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +48,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ma'itihia ei parau papa'i (✂️)",
+    "message": "Ma'itihia ei mau niuniu afa'ifa'i (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Teie tapa'o ei parau papa'i (✂️)",
+    "message": "Teie tapa'o ei URL papa'iraa (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Teie tapa'o ei hono (✂️)",
+    "message": "E tu'ati te reira i te (✂️)",
     "description": ""
   }
 }

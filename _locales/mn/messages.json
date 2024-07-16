@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Дунд товчлуурын үйлдлийг тохируулна уу",
+    "message": "Гурав дахь хулганы товчлуурын үйлдлийг тохируулна уу",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Бүх табуудыг Текст хэлбэрээр",
+    "message": "Бүх табуудыг текстийн URL хэлбэрээр",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,15 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Текст болгон сонгосон",
+    "message": "Текст URL болгон сонгосон",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Энэ табыг Текст хэлбэрээр",
+    "message": "Энэ табыг Текст URL хэлбэрээр",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Энэ табыг Холбоос гэж үзнэ",
+    "message": "Энэ табыг холбоос хэлбэрээр",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Бүх табуудыг Текст хэлбэрээр (✂️)",
+    "message": "Бүх табуудыг текстийн URL хэлбэрээр (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +48,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Текст болгон сонгосон (✂️)",
+    "message": "Текст URL болгон сонгосон (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Энэ табыг Текст хэлбэрээр (✂️)",
+    "message": "Энэ табыг Текст URL хэлбэрээр (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Энэ табыг Холбоос гэж үзнэ (✂️)",
+    "message": "Энэ табыг холбоос хэлбэрээр (✂️)",
     "description": ""
   }
 }

@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Урта төймә хәрәкәтен куегыз",
+    "message": "Тычкан төймәсенең өченче хәрәкәтен куегыз",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,19 +16,19 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Барлык кыстыргычлар Текст",
+    "message": "Барлык кыстыргычлар да текст URLлары",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ссылка итеп сайланган",
+    "message": "Сылтамалар итеп сайланган",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Текст итеп сайланган",
+    "message": "Текст URL-лары итеп сайланган",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Бу кыстыргыч Текст",
+    "message": "Бу кыстыргыч текст URL",
     "description": ""
   },
   "cpytablnk": {
@@ -40,19 +40,19 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Барлык кыстыргычлар Текст (✂️)",
+    "message": "Барлык кыстыргычлар да текст URLлары (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ссылка итеп сайланган (✂️)",
+    "message": "Сылтамалар итеп сайланган (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Текст итеп сайланган (✂️)",
+    "message": "Текст URL-лары итеп сайланган (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Бу кыстыргыч Текст (✂️)",
+    "message": "Бу кыстыргыч текст URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

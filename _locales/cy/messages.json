@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Gosod gweithred botwm canol",
+    "message": "Gosod trydydd gweithred botwm llygoden",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Pob tab fel Dolen",
+    "message": "Pob Tab fel Dolenni",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Pob tab fel Testun",
+    "message": "Pob Tab fel URLs Testun",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Wedi'i ddewis fel Cyswllt",
+    "message": "Wedi'i ddewis fel Dolenni",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Wedi'i ddewis fel Testun",
+    "message": "Wedi'i ddewis fel URLs Testun",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Mae'r tab hwn fel Testun",
+    "message": "Y Tab hwn fel URL Testun",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Mae'r tab hwn fel Link",
+    "message": "Mae'r Tab hwn fel Dolen",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Pob tab fel Dolen (✂️)",
+    "message": "Pob Tab fel Dolenni (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Pob tab fel Testun (✂️)",
+    "message": "Pob Tab fel URLs Testun (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Wedi'i ddewis fel Cyswllt (✂️)",
+    "message": "Wedi'i ddewis fel Dolenni (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Wedi'i ddewis fel Testun (✂️)",
+    "message": "Wedi'i ddewis fel URLs Testun (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Mae'r tab hwn fel Testun (✂️)",
+    "message": "Y Tab hwn fel URL Testun (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Mae'r tab hwn fel Link (✂️)",
+    "message": "Mae'r Tab hwn fel Dolen (✂️)",
     "description": ""
   }
 }

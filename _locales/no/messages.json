@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Angi handling på midtre knapp",
+    "message": "Still inn tredje museknapphandling",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle faner som lenke",
+    "message": "Alle faner som lenker",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle faner som tekst",
+    "message": "Alle faner som tekst-URL-er",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valgt som lenke",
+    "message": "Valgt som lenker",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valgt som tekst",
+    "message": "Valgt som tekst-URL-er",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Denne kategorien som tekst",
+    "message": "Denne fanen som tekst-URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Denne kategorien som Link",
+    "message": "Denne fanen som lenke",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alle faner som lenke (✂️)",
+    "message": "Alle faner som lenker (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle faner som tekst (✂️)",
+    "message": "Alle faner som tekst-URL-er (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valgt som lenke (✂️)",
+    "message": "Valgt som lenker (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valgt som tekst (✂️)",
+    "message": "Valgt som tekst-URL-er (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Denne kategorien som tekst (✂️)",
+    "message": "Denne fanen som tekst-URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Denne kategorien som Link (✂️)",
+    "message": "Denne fanen som lenke (✂️)",
     "description": ""
   }
 }

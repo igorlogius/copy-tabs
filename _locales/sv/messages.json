@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Ställ in mittknappens åtgärd",
+    "message": "Ställ in tredje musknappsåtgärd",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alla flikar som länk",
+    "message": "Alla flikar som länkar",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alla flikar som text",
+    "message": "Alla flikar som textwebbadresser",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Vald som länk",
+    "message": "Vald som länkar",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Vald som text",
+    "message": "Vald som text-URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Denna flik som text",
+    "message": "Denna flik som text-URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alla flikar som länk (✂️)",
+    "message": "Alla flikar som länkar (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alla flikar som text (✂️)",
+    "message": "Alla flikar som textwebbadresser (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Vald som länk (✂️)",
+    "message": "Vald som länkar (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Vald som text (✂️)",
+    "message": "Vald som text-URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Denna flik som text (✂️)",
+    "message": "Denna flik som text-URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

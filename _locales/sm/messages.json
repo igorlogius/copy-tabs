@@ -8,15 +8,15 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Seti le gaioiga o le faamau ogatotonu",
+    "message": "Seti le fa'agaioiga fa'amau lona tolu",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Fa'amau uma e fai ma So'oga",
+    "message": "Tapa uma e fai ma So'oga",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Fa'amau uma e pei o Tusitusiga",
+    "message": "Tape uma e pei o URL o Tusitusiga",
     "description": ""
   },
   "cpysellnk": {
@@ -24,23 +24,23 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Filifilia e fai ma Tusitusiga",
+    "message": "Filifilia e avea ma URL o Tusitusiga",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "O lenei fa'ailoga e pei o Tusitusiga",
+    "message": "Lenei Tab e pei o Tusitusiga URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "O lenei fa'ailoga e pei o So'oga",
+    "message": "Lenei Tab e fai ma So'oga",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Fa'amau uma e fai ma So'oga (✂️)",
+    "message": "Tapa uma e fai ma So'oga (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Fa'amau uma e pei o Tusitusiga (✂️)",
+    "message": "Tape uma e pei o URL o Tusitusiga (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +48,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Filifilia e fai ma Tusitusiga (✂️)",
+    "message": "Filifilia e avea ma URL o Tusitusiga (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "O lenei fa'ailoga e pei o Tusitusiga (✂️)",
+    "message": "Lenei Tab e pei o Tusitusiga URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "O lenei fa'ailoga e pei o So'oga (✂️)",
+    "message": "Lenei Tab e fai ma So'oga (✂️)",
     "description": ""
   }
 }

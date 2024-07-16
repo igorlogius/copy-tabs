@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "हाइपरलिङ्क वा सादा पाठको रूपमा ट्याब urls प्रतिलिपि गर्नुहोस्",
+    "message": "हाइपरलिङ्क वा सादा पाठको रूपमा ट्याब यूआरएलहरू प्रतिलिपि गर्नुहोस्",
     "description": ""
   },
   "selectaction": {
-    "message": "मध्य बटन कार्य सेट गर्नुहोस्",
+    "message": "तेस्रो माउस बटन कार्य सेट गर्नुहोस्",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "सबै ट्याबहरू पाठको रूपमा",
+    "message": "पाठ URL को रूपमा सबै ट्याबहरू",
     "description": ""
   },
   "cpysellnk": {
@@ -24,11 +24,11 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "पाठको रूपमा चयन गरियो",
+    "message": "पाठ URL को रूपमा चयन गरियो",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "यो ट्याब पाठको रूपमा",
+    "message": "यो ट्याब पाठ URL को रूपमा",
     "description": ""
   },
   "cpytablnk": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "सबै ट्याबहरू पाठको रूपमा (✂️)",
+    "message": "पाठ URL को रूपमा सबै ट्याबहरू (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +48,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "पाठको रूपमा चयन गरियो (✂️)",
+    "message": "पाठ URL को रूपमा चयन गरियो (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "यो ट्याब पाठको रूपमा (✂️)",
+    "message": "यो ट्याब पाठ URL को रूपमा (✂️)",
     "description": ""
   },
   "cpytablnknp": {

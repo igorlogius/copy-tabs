@@ -8,15 +8,15 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Atur tindakan tombol tengah",
+    "message": "Atur tindakan tombol mouse ketiga",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Semua tab sebagai Tautan",
+    "message": "Semua Tab sebagai Tautan",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Semua tab sebagai Teks",
+    "message": "Semua Tab sebagai URL Teks",
     "description": ""
   },
   "cpysellnk": {
@@ -24,11 +24,11 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Dipilih sebagai Teks",
+    "message": "Dipilih sebagai URL Teks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tab ini sebagai Teks",
+    "message": "Tab ini sebagai URL Teks",
     "description": ""
   },
   "cpytablnk": {
@@ -36,11 +36,11 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Semua tab sebagai Tautan (✂️)",
+    "message": "Semua Tab sebagai Tautan (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Semua tab sebagai Teks (✂️)",
+    "message": "Semua Tab sebagai URL Teks (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +48,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Dipilih sebagai Teks (✂️)",
+    "message": "Dipilih sebagai URL Teks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tab ini sebagai Teks (✂️)",
+    "message": "Tab ini sebagai URL Teks (✂️)",
     "description": ""
   },
   "cpytablnknp": {

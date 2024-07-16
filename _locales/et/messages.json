@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Keskmise nupu toimingu määramine",
+    "message": "Määra kolmanda hiirenupu toiming",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kõik vahelehed lingina",
+    "message": "Kõik vahekaardid linkidena",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kõik vahekaardid tekstina",
+    "message": "Kõik vahelehed teksti URL-ina",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valitud lingiks",
+    "message": "Valitud linkidena",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valitud tekstina",
+    "message": "Valitud teksti URL-ina",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "See vahekaart tekstina",
+    "message": "See vahekaart teksti URL-ina",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Kõik vahelehed lingina (✂️)",
+    "message": "Kõik vahekaardid linkidena (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Kõik vahekaardid tekstina (✂️)",
+    "message": "Kõik vahelehed teksti URL-ina (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valitud lingiks (✂️)",
+    "message": "Valitud linkidena (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valitud tekstina (✂️)",
+    "message": "Valitud teksti URL-ina (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "See vahekaart tekstina (✂️)",
+    "message": "See vahekaart teksti URL-ina (✂️)",
     "description": ""
   },
   "cpytablnknp": {

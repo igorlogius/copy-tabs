@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Establecer la acción del botón central",
+    "message": "Establecer la acción del tercer botón del mouse",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Todas las pestañas como enlace",
+    "message": "Todas las pestañas como enlaces",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Todas las pestañas como texto",
+    "message": "Todas las pestañas como URL de texto",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Seleccionado como enlace",
+    "message": "Seleccionados como enlaces",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Seleccionado como texto",
+    "message": "Seleccionadas como URL de texto",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Esta pestaña como Texto",
+    "message": "Esta pestaña como URL de texto",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Todas las pestañas como enlace (✂️)",
+    "message": "Todas las pestañas como enlaces (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Todas las pestañas como texto (✂️)",
+    "message": "Todas las pestañas como URL de texto (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Seleccionado como enlace (✂️)",
+    "message": "Seleccionados como enlaces (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Seleccionado como texto (✂️)",
+    "message": "Seleccionadas como URL de texto (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Esta pestaña como Texto (✂️)",
+    "message": "Esta pestaña como URL de texto (✂️)",
     "description": ""
   },
   "cpytablnknp": {

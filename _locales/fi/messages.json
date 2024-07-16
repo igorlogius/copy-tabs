@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Aseta keskipainikkeen toiminta",
+    "message": "Aseta hiiren kolmannen painikkeen toiminto",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kaikki välilehdet linkkinä",
+    "message": "Kaikki välilehdet linkkeinä",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kaikki välilehdet tekstinä",
+    "message": "Kaikki välilehdet teksti-URL-osoitteina",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valittu linkiksi",
+    "message": "Valittu linkeiksi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valittu tekstiksi",
+    "message": "Valittu teksti-URL-osoitteiksi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tämä välilehti tekstinä",
+    "message": "Tämä välilehti teksti-URL-osoitteena",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Kaikki välilehdet linkkinä (✂️)",
+    "message": "Kaikki välilehdet linkkeinä (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Kaikki välilehdet tekstinä (✂️)",
+    "message": "Kaikki välilehdet teksti-URL-osoitteina (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valittu linkiksi (✂️)",
+    "message": "Valittu linkeiksi (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valittu tekstiksi (✂️)",
+    "message": "Valittu teksti-URL-osoitteiksi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tämä välilehti tekstinä (✂️)",
+    "message": "Tämä välilehti teksti-URL-osoitteena (✂️)",
     "description": ""
   },
   "cpytablnknp": {

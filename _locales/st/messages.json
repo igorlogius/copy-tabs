@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Seta ketso ea konopo e bohareng",
+    "message": "Beha ketso ea konopo ea boraro ea toeba",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Li-tab tsohle e le Link",
+    "message": "Li-Tabs Tsohle e le Lihokelo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Li-tab tsohle e le Mongolo",
+    "message": "Li-tab tsohle joalo ka li-URL tsa mongolo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "E khethiloe e le Sehokelo",
+    "message": "E khethiloe e le Lihokelo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "E khethiloe e le Mongolo",
+    "message": "E khethiloe joalo ka li-URL tsa mongolo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Taba ena e le Mongolo",
+    "message": "Taba ena e le URL ea Mongolo",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Taba ena e le Link",
+    "message": "Taba ena e le Sehokelo",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Li-tab tsohle e le Link (✂️)",
+    "message": "Li-Tabs Tsohle e le Lihokelo (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Li-tab tsohle e le Mongolo (✂️)",
+    "message": "Li-tab tsohle joalo ka li-URL tsa mongolo (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "E khethiloe e le Sehokelo (✂️)",
+    "message": "E khethiloe e le Lihokelo (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "E khethiloe e le Mongolo (✂️)",
+    "message": "E khethiloe joalo ka li-URL tsa mongolo (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Taba ena e le Mongolo (✂️)",
+    "message": "Taba ena e le URL ea Mongolo (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Taba ena e le Link (✂️)",
+    "message": "Taba ena e le Sehokelo (✂️)",
     "description": ""
   }
 }

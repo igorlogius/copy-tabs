@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": " ףמאַק לפּענק ןטימ ןלעטש",
+    "message": " ףמאַק לפּענק זיומ טירד ןלעטש",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " קניל יוו סבאַט עלאַ",
+    "message": " סקניל יוו סבאַט עלאַ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " טסקעט יוו סבאַט עלאַ",
+    "message": " ס URL טסקעט יוו סבאַט עלאַ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " קניל יוו ןבילקעגסיוא",
+    "message": " סקניל יוו ןבילקעגסיוא",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " טסקעט יוו ןבילקעגסיוא",
+    "message": " ס URL טסקעט יוו ןבילקעגסיוא",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " טסקעט יוו לטיווק םעד",
+    "message": " URL טסקעט יוו באַט םעד",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " קניל יוו סבאַט עלאַ (✂️)",
+    "message": " סקניל יוו סבאַט עלאַ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " טסקעט יוו סבאַט עלאַ (✂️)",
+    "message": " ס URL טסקעט יוו סבאַט עלאַ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " קניל יוו ןבילקעגסיוא (✂️)",
+    "message": " סקניל יוו ןבילקעגסיוא (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " טסקעט יוו ןבילקעגסיוא (✂️)",
+    "message": " ס URL טסקעט יוו ןבילקעגסיוא (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " טסקעט יוו לטיווק םעד (✂️)",
+    "message": " URL טסקעט יוו באַט םעד (✂️)",
     "description": ""
   },
   "cpytablnknp": {

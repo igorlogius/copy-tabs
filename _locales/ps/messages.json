@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": " ﺉړﮐ ﺐﯿﺗﺮﺗ ﻞﻤﻋ ۍڼﺗ ۍﻨځﻨﻣ ﺩ",
+    "message": " ﺉړﮐ ﻢﯿﻈﻨﺗ ﻞﻤﻋ ۍڼﺗ ﮎږﻮﻣ ﻢﯾﺭﺩ ﺩ",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,19 +16,19 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
+    "message": " ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﯼﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ",
+    "message": " ﯼﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﯼﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﺩ",
+    "message": " ﯼﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ",
+    "message": " ﻪګﻮﺗ ﻪﭘ URL ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ",
     "description": ""
   },
   "cpytablnk": {
@@ -40,19 +40,19 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ (✂️)",
+    "message": " ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " ﯼﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ (✂️)",
+    "message": " ﯼﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " ﯼﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﺩ (✂️)",
+    "message": " ﯼﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ (✂️)",
+    "message": " ﻪګﻮﺗ ﻪﭘ URL ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ (✂️)",
     "description": ""
   },
   "cpytablnknp": {

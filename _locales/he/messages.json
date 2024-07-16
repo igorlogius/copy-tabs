@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": " יעצמאה ןצחלה תלועפ תא רדגה",
+    "message": " תישילשה רבכעה רותפכ תלועפ תא רדגה",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " רושיקכ תויסיטרכה לכ",
+    "message": " םירושיקכ תויסיטרכה לכ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " טסקטכ תויסיטרכה לכ",
+    "message": " טסקט לש םירתא תובותככ תויסיטרכה לכ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " רושיקכ רחבנ",
+    "message": " םירושיקכ רחבנ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " טסקטכ רחבנ",
+    "message": " טסקט םירתא תובותככ רחבנ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " טסקטכ וז הייסיטרכ",
+    "message": " טסקט תבותככ וז הייסיטרכ",
     "description": ""
   },
   "cpytablnk": {
-    "message": " רושיק רותב וז הייסיטרכ",
+    "message": " רושיקכ וז הייסיטרכ",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " רושיקכ תויסיטרכה לכ (✂️)",
+    "message": " םירושיקכ תויסיטרכה לכ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " טסקטכ תויסיטרכה לכ (✂️)",
+    "message": " טסקט לש םירתא תובותככ תויסיטרכה לכ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " רושיקכ רחבנ (✂️)",
+    "message": " םירושיקכ רחבנ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " טסקטכ רחבנ (✂️)",
+    "message": " טסקט םירתא תובותככ רחבנ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " טסקטכ וז הייסיטרכ (✂️)",
+    "message": " טסקט תבותככ וז הייסיטרכ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": " רושיק רותב וז הייסיטרכ (✂️)",
+    "message": " רושיקכ וז הייסיטרכ (✂️)",
     "description": ""
   }
 }

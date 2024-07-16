@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Set medium actionis button",
+    "message": "Set tertium mus button actio",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Omnes tabs ut Link",
+    "message": "Omnes Tab ut Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Omnes tabs ut Text",
+    "message": "Omnes Tab ut Text URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Electus ut Link",
+    "message": "Electus ut Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Electus ut Text",
+    "message": "Electus ut Text URLs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Hoc tab ut Text",
+    "message": "Hoc Tab ut Text URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Hoc tab ut Link",
+    "message": "Hoc Tab ut Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Omnes tabs ut Link (✂️)",
+    "message": "Omnes Tab ut Links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Omnes tabs ut Text (✂️)",
+    "message": "Omnes Tab ut Text URLs (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Electus ut Link (✂️)",
+    "message": "Electus ut Links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Electus ut Text (✂️)",
+    "message": "Electus ut Text URLs (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Hoc tab ut Text (✂️)",
+    "message": "Hoc Tab ut Text URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Hoc tab ut Link (✂️)",
+    "message": "Hoc Tab ut Link (✂️)",
     "description": ""
   }
 }

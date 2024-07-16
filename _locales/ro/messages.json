@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Setați acțiunea butonului din mijloc",
+    "message": "Setați al treilea buton al mouse-ului",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Toate filele ca Link",
+    "message": "Toate filele ca linkuri",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Toate filele ca text",
+    "message": "Toate filele ca URL-uri text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Selectat ca Link",
+    "message": "Selectat ca Link-uri",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Selectat ca text",
+    "message": "Selectat ca URL-uri text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Această filă ca text",
+    "message": "Această filă ca adresă URL text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Această filă ca Link",
+    "message": "Această filă ca link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Toate filele ca Link (✂️)",
+    "message": "Toate filele ca linkuri (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Toate filele ca text (✂️)",
+    "message": "Toate filele ca URL-uri text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Selectat ca Link (✂️)",
+    "message": "Selectat ca Link-uri (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Selectat ca text (✂️)",
+    "message": "Selectat ca URL-uri text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Această filă ca text (✂️)",
+    "message": "Această filă ca adresă URL text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Această filă ca Link (✂️)",
+    "message": "Această filă ca link (✂️)",
     "description": ""
   }
 }

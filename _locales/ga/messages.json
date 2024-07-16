@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Socraigh gníomh cnaipe lár",
+    "message": "Socraigh an tríú gníomh cnaipe luiche",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Gach cluaisín mar Nasc",
+    "message": "Gach Cluaisín mar Naisc",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Gach cluaisín mar Téacs",
+    "message": "Gach Cluaisín mar URLanna Téacs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Roghnaithe mar Nasc",
+    "message": "Roghnaithe mar Naisc",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Roghnaithe mar Théacs",
+    "message": "Roghnaithe mar URLanna Téacs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "An cluaisín seo mar Téacs",
+    "message": "An Cluaisín seo mar URL Téacs",
     "description": ""
   },
   "cpytablnk": {
-    "message": "An cluaisín seo mar Nasc",
+    "message": "An Cluaisín seo mar Nasc",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Gach cluaisín mar Nasc (✂️)",
+    "message": "Gach Cluaisín mar Naisc (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Gach cluaisín mar Téacs (✂️)",
+    "message": "Gach Cluaisín mar URLanna Téacs (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Roghnaithe mar Nasc (✂️)",
+    "message": "Roghnaithe mar Naisc (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Roghnaithe mar Théacs (✂️)",
+    "message": "Roghnaithe mar URLanna Téacs (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "An cluaisín seo mar Téacs (✂️)",
+    "message": "An Cluaisín seo mar URL Téacs (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "An cluaisín seo mar Nasc (✂️)",
+    "message": "An Cluaisín seo mar Nasc (✂️)",
     "description": ""
   }
 }

@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Установити дію середньої кнопки",
+    "message": "Встановити дію третьої кнопки миші",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Усі вкладки як текст",
+    "message": "Усі вкладки як текстові URL-адреси",
     "description": ""
   },
   "cpysellnk": {
@@ -24,11 +24,11 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Вибрано як текст",
+    "message": "Вибрано як текстові URL-адреси",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ця вкладка як Текст",
+    "message": "Ця вкладка як текстова URL-адреса",
     "description": ""
   },
   "cpytablnk": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Усі вкладки як текст (✂️)",
+    "message": "Усі вкладки як текстові URL-адреси (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +48,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Вибрано як текст (✂️)",
+    "message": "Вибрано як текстові URL-адреси (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ця вкладка як Текст (✂️)",
+    "message": "Ця вкладка як текстова URL-адреса (✂️)",
     "description": ""
   },
   "cpytablnknp": {

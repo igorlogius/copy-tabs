@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": " ۔ﮟﯾﺮﮐ ﭧﯿﺳ ﻦﺸﮑﯾﺍ ﻦﭩﺑ ﯽﻧﺎﯿﻣﺭﺩ",
+    "message": " ۔ﮟﯾﺮﮐ ﭧﯿﺳ ﻦﺸﮑﯾﺍ ﻦﭩﺑ ﺱﺅﺎﻣ ﺍﺮﺴﯿﺗ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " ﮏﻨﻟ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
+    "message": " ﺲﮑﻨﻟ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
+    "message": " URLs ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ۔ﺎﯿﮔ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﮏﻨﻟ",
+    "message": " ۔ﺎﯿﮔ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﺲﮑﻨﻟ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ۔ﺎﯿﮔ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﻦﺘﻣ",
+    "message": " ۔ﺎﯿﮔ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﺭﻮﻄﺑ ﮯﮐ URLs ﯽﻨﺘﻣ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﻦﺘﻣ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ",
+    "message": " URL ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " ﮏﻨﻟ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ (✂️)",
+    "message": " ﺲﮑﻨﻟ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ (✂️)",
+    "message": " URLs ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " ۔ﺎﯿﮔ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﮏﻨﻟ (✂️)",
+    "message": " ۔ﺎﯿﮔ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﺲﮑﻨﻟ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " ۔ﺎﯿﮔ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﻦﺘﻣ (✂️)",
+    "message": " ۔ﺎﯿﮔ ﺎﯿﮐ ﺐﺨﺘﻨﻣ ﺭﻮﻄﺑ ﮯﮐ URLs ﯽﻨﺘﻣ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " ﻦﺘﻣ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ (✂️)",
+    "message": " URL ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ (✂️)",
     "description": ""
   },
   "cpytablnknp": {

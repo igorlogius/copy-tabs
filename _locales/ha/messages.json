@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Saita aikin maɓallin tsakiya",
+    "message": "Saita aikin maɓallin linzamin kwamfuta na uku",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Duk shafuka azaman Link",
+    "message": "Duk Shafukan azaman hanyoyin haɗin gwiwa",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Duk shafuka azaman Rubutu",
+    "message": "Duk Shafuka azaman URLs Rubutu",
     "description": ""
   },
   "cpysellnk": {
-    "message": "An zaɓa azaman hanyar haɗi",
+    "message": "Aka zaɓa azaman Haɗin kai",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Zaba azaman Rubutu",
+    "message": "Zaba azaman URLs Rubutu",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Wannan shafin azaman Rubutu",
+    "message": "Wannan Tab a matsayin URL Rubutu",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Wannan shafin a matsayin Link",
+    "message": "Wannan Tab a matsayin Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Duk shafuka azaman Link (✂️)",
+    "message": "Duk Shafukan azaman hanyoyin haɗin gwiwa (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Duk shafuka azaman Rubutu (✂️)",
+    "message": "Duk Shafuka azaman URLs Rubutu (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "An zaɓa azaman hanyar haɗi (✂️)",
+    "message": "Aka zaɓa azaman Haɗin kai (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Zaba azaman Rubutu (✂️)",
+    "message": "Zaba azaman URLs Rubutu (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Wannan shafin azaman Rubutu (✂️)",
+    "message": "Wannan Tab a matsayin URL Rubutu (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Wannan shafin a matsayin Link (✂️)",
+    "message": "Wannan Tab a matsayin Link (✂️)",
     "description": ""
   }
 }

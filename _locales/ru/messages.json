@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Установить действие средней кнопки",
+    "message": "Установить действие третьей кнопки мыши",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Все вкладки как ссылка",
+    "message": "Все вкладки как ссылки",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Все вкладки как текст",
+    "message": "Все вкладки как текстовые URL-адреса",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Выбрано как ссылка",
+    "message": "Выбрано как ссылки",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Выбрано как текст",
+    "message": "Выбрано как текстовые URL-адреса",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Эта вкладка как текст",
+    "message": "Эта вкладка как текстовый URL-адрес",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Все вкладки как ссылка (✂️)",
+    "message": "Все вкладки как ссылки (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Все вкладки как текст (✂️)",
+    "message": "Все вкладки как текстовые URL-адреса (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Выбрано как ссылка (✂️)",
+    "message": "Выбрано как ссылки (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Выбрано как текст (✂️)",
+    "message": "Выбрано как текстовые URL-адреса (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Эта вкладка как текст (✂️)",
+    "message": "Эта вкладка как текстовый URL-адрес (✂️)",
     "description": ""
   },
   "cpytablnknp": {

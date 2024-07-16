@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Đặt hành động nút giữa",
+    "message": "Đặt hành động của nút chuột thứ ba",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tất cả các tab dưới dạng văn bản",
+    "message": "Tất cả các tab dưới dạng URL văn bản",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,15 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Đã chọn làm văn bản",
+    "message": "Đã chọn làm URL văn bản",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tab này dưới dạng văn bản",
+    "message": "Tab này dưới dạng URL văn bản",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tab này là Liên kết",
+    "message": "Tab này là liên kết",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tất cả các tab dưới dạng văn bản (✂️)",
+    "message": "Tất cả các tab dưới dạng URL văn bản (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +48,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Đã chọn làm văn bản (✂️)",
+    "message": "Đã chọn làm URL văn bản (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tab này dưới dạng văn bản (✂️)",
+    "message": "Tab này dưới dạng URL văn bản (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tab này là Liên kết (✂️)",
+    "message": "Tab này là liên kết (✂️)",
     "description": ""
   }
 }

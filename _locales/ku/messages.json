@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Çalakiya bişkoja navîn saz bikin",
+    "message": "Çalakiya bişkoja mişkê ya sêyemîn saz bikin",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Hemî tabloyên wekî Link",
+    "message": "Hemî Tabî wekî Girêdan",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Hemî tabloyên wekî Nivîsar",
+    "message": "Hemî tabloyên wekî URL-yên nivîsê",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Wek Girêdan hate hilbijartin",
+    "message": "Wek Girêdan hatine hilbijartin",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Wek Nivîsar hatiye hilbijartin",
+    "message": "Wek URLên Nivîsar hatine hilbijartin",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ev tablo wekî Nivîsar",
+    "message": "Ev tablo wekî URL-ya nivîsê",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ev tablo wekî Link",
+    "message": "Ev Tablo wekî Girêdan",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Hemî tabloyên wekî Link (✂️)",
+    "message": "Hemî Tabî wekî Girêdan (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Hemî tabloyên wekî Nivîsar (✂️)",
+    "message": "Hemî tabloyên wekî URL-yên nivîsê (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Wek Girêdan hate hilbijartin (✂️)",
+    "message": "Wek Girêdan hatine hilbijartin (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Wek Nivîsar hatiye hilbijartin (✂️)",
+    "message": "Wek URLên Nivîsar hatine hilbijartin (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ev tablo wekî Nivîsar (✂️)",
+    "message": "Ev tablo wekî URL-ya nivîsê (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ev tablo wekî Link (✂️)",
+    "message": "Ev Tablo wekî Girêdan (✂️)",
     "description": ""
   }
 }

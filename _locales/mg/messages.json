@@ -8,15 +8,15 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Mametraha hetsika bokotra afovoany",
+    "message": "Mametraka hetsika bokotra totozy fahatelo",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ny tabilao rehetra toy ny Rohy",
+    "message": "Ny tabilao rehetra ho rohy",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ny tabilao rehetra ho Text",
+    "message": "Ny kiheba rehetra ho URL an-tsoratra",
     "description": ""
   },
   "cpysellnk": {
@@ -24,23 +24,23 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Voafantina ho Text",
+    "message": "Voafantina ho URL lahatsoratra",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ity tabilao ity ho Text",
+    "message": "Ity kiheba ity ho URL lahatsoratra",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ity tabilao ity dia ho Link",
+    "message": "Ity Tab ity ho Rohy",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ny tabilao rehetra toy ny Rohy (✂️)",
+    "message": "Ny tabilao rehetra ho rohy (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ny tabilao rehetra ho Text (✂️)",
+    "message": "Ny kiheba rehetra ho URL an-tsoratra (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +48,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Voafantina ho Text (✂️)",
+    "message": "Voafantina ho URL lahatsoratra (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ity tabilao ity ho Text (✂️)",
+    "message": "Ity kiheba ity ho URL lahatsoratra (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ity tabilao ity dia ho Link (✂️)",
+    "message": "Ity Tab ity ho Rohy (✂️)",
     "description": ""
   }
 }

@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Ортоңку баскыч аракетин коюу",
+    "message": "Чычкандын үчүнчү баскычынын аракетин коюңуз",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,23 +16,23 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Бардык өтмөктөр Текст катары",
+    "message": "Бардык өтмөктөр Текст URL'дери катары",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Шилтеме катары тандалды",
+    "message": "Шилтемелер катары тандалган",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Текст катары тандалган",
+    "message": "Текст URL катары тандалган",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Бул өтмөк Текст катары",
+    "message": "Бул өтмөк Текст URL катары",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Бул өтмөк Шилтеме катары",
+    "message": "Бул өтмөк шилтеме катары",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,23 +40,23 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Бардык өтмөктөр Текст катары (✂️)",
+    "message": "Бардык өтмөктөр Текст URL'дери катары (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Шилтеме катары тандалды (✂️)",
+    "message": "Шилтемелер катары тандалган (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Текст катары тандалган (✂️)",
+    "message": "Текст URL катары тандалган (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Бул өтмөк Текст катары (✂️)",
+    "message": "Бул өтмөк Текст URL катары (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Бул өтмөк Шилтеме катары (✂️)",
+    "message": "Бул өтмөк шилтеме катары (✂️)",
     "description": ""
   }
 }

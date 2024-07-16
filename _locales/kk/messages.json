@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Ортаңғы түйме әрекетін орнату",
+    "message": "Тінтуірдің үшінші түймесінің әрекетін орнатыңыз",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Барлық қойындылар Сілтеме ретінде",
+    "message": "Барлық қойындылар сілтемелер ретінде",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Барлық қойындылар мәтін ретінде",
+    "message": "Барлық қойындылар мәтіндік URL мекенжайлары ретінде",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Сілтеме ретінде таңдалды",
+    "message": "Сілтемелер ретінде таңдалған",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Мәтін ретінде таңдалған",
+    "message": "Мәтіндік URL мекенжайлары ретінде таңдалған",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Бұл қойынды мәтін ретінде",
+    "message": "Бұл қойынды мәтін URL мекенжайы ретінде",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Барлық қойындылар Сілтеме ретінде (✂️)",
+    "message": "Барлық қойындылар сілтемелер ретінде (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Барлық қойындылар мәтін ретінде (✂️)",
+    "message": "Барлық қойындылар мәтіндік URL мекенжайлары ретінде (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Сілтеме ретінде таңдалды (✂️)",
+    "message": "Сілтемелер ретінде таңдалған (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Мәтін ретінде таңдалған (✂️)",
+    "message": "Мәтіндік URL мекенжайлары ретінде таңдалған (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Бұл қойынды мәтін ретінде (✂️)",
+    "message": "Бұл қойынды мәтін URL мекенжайы ретінде (✂️)",
     "description": ""
   },
   "cpytablnknp": {

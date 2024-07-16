@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Stilltu aðgerð á miðjuhnappi",
+    "message": "Stilltu þriðja músarhnappinn",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Allir flipar sem hlekkur",
+    "message": "Allir flipar sem tenglar",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Allir flipar sem texti",
+    "message": "Allir flipar sem textaslóðir",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valið sem hlekkur",
+    "message": "Valið sem hlekkir",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valið sem texti",
+    "message": "Valdar sem textaslóðir",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Þessi flipi sem texti",
+    "message": "Þessi flipi sem texti URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Allir flipar sem hlekkur (✂️)",
+    "message": "Allir flipar sem tenglar (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Allir flipar sem texti (✂️)",
+    "message": "Allir flipar sem textaslóðir (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valið sem hlekkur (✂️)",
+    "message": "Valið sem hlekkir (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valið sem texti (✂️)",
+    "message": "Valdar sem textaslóðir (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Þessi flipi sem texti (✂️)",
+    "message": "Þessi flipi sem texti URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

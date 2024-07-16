@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Orta düymənin hərəkətini təyin edin",
+    "message": "Üçüncü siçan düyməsinin hərəkətini təyin edin",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Bütün tablar Link olaraq",
+    "message": "Bütün Nişanlar Linklər kimi",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Bütün tablar Mətn kimi",
+    "message": "Bütün Nişanlar Mətn URL-ləri kimi",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Link olaraq seçildi",
+    "message": "Linklər kimi seçildi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Mətn kimi seçildi",
+    "message": "Mətn URL-ləri kimi seçilmişdir",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Bu nişanı Mətn olaraq",
+    "message": "Bu Tab Mətn URL kimi",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Bu tab Link olaraq",
+    "message": "Bu Tab Link olaraq",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Bütün tablar Link olaraq (✂️)",
+    "message": "Bütün Nişanlar Linklər kimi (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Bütün tablar Mətn kimi (✂️)",
+    "message": "Bütün Nişanlar Mətn URL-ləri kimi (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Link olaraq seçildi (✂️)",
+    "message": "Linklər kimi seçildi (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Mətn kimi seçildi (✂️)",
+    "message": "Mətn URL-ləri kimi seçilmişdir (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Bu nişanı Mətn olaraq (✂️)",
+    "message": "Bu Tab Mətn URL kimi (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Bu tab Link olaraq (✂️)",
+    "message": "Bu Tab Link olaraq (✂️)",
     "description": ""
   }
 }

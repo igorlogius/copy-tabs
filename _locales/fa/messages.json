@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": " ﻂﺳﻭ ﻪﻤﮐﺩ ﺩﺮﮑﻠﻤﻋ ﻢﯿﻈﻨﺗ",
+    "message": " ﺱﻭﺎﻣ ﻡﻮﺳ ﻪﻤﮐﺩ ﺩﺮﮑﻠﻤﻋ ﻢﯿﻈﻨﺗ",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﻦﺘﻣ ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
+    "message": " ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
     "description": ""
   },
   "cpysellnk": {
@@ -24,11 +24,11 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﺪﺷ ﺏﺎﺨﺘﻧﺍ ﻦﺘﻣ ﻥﺍﻮﻨﻋ ﻪﺑ",
+    "message": " ﺖﺳﺍ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﻦﺘﻣ ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ",
+    "message": " ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺐﺗ ﻦﯾﺍ",
     "description": ""
   },
   "cpytablnk": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " ﻦﺘﻣ ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ (✂️)",
+    "message": " ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +48,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " ﺪﺷ ﺏﺎﺨﺘﻧﺍ ﻦﺘﻣ ﻥﺍﻮﻨﻋ ﻪﺑ (✂️)",
+    "message": " ﺖﺳﺍ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " ﻦﺘﻣ ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ (✂️)",
+    "message": " ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺐﺗ ﻦﯾﺍ (✂️)",
     "description": ""
   },
   "cpytablnknp": {

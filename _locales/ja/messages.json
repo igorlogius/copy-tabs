@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": "中ボタンのアクションを設定する",
+    "message": "3 番目のマウス ボタンのアクションを設定する",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "すべてのタブをテキストとして表示",
+    "message": "すべてのタブをテキスト URL として表示",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,15 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "テキストとして選択されました",
+    "message": "テキスト URL として選択されました",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "このタブをテキストとして表示",
+    "message": "このタブをテキスト URL として表示",
     "description": ""
   },
   "cpytablnk": {
-    "message": "このタブはリンクとして表示されます",
+    "message": "このタブをリンクとして表示",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "すべてのタブをテキストとして表示 (✂️)",
+    "message": "すべてのタブをテキスト URL として表示 (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +48,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "テキストとして選択されました (✂️)",
+    "message": "テキスト URL として選択されました (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "このタブをテキストとして表示 (✂️)",
+    "message": "このタブをテキスト URL として表示 (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "このタブはリンクとして表示されます (✂️)",
+    "message": "このタブをリンクとして表示 (✂️)",
     "description": ""
   }
 }

@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "အလယ်ခလုတ်လုပ်ဆောင်ချက်ကို သတ်မှတ်ပါ။",
+    "message": "တတိယမောက်စ်ခလုတ်လုပ်ဆောင်ချက်ကို သတ်မှတ်ပါ။",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "တဘ်များအားလုံးသည် Link အဖြစ်",
+    "message": "တဘ်များအားလုံးကို လင့်ခ်များအဖြစ်",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "စာသားအဖြစ် တက်ဘ်များအားလုံး",
+    "message": "စာသား URL များအဖြစ် တဘ်များအားလုံး",
     "description": ""
   },
   "cpysellnk": {
-    "message": "လင့်ခ်အဖြစ် ရွေးချယ်ထားသည်။",
+    "message": "လင့်များအဖြစ် ရွေးချယ်ထားသည်။",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "စာသားအဖြစ် ရွေးချယ်ထားသည်။",
+    "message": "စာသား URLs အဖြစ် ရွေးချယ်ထားသည်။",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ဤတက်ဘ်ကို စာသားအဖြစ်",
+    "message": "ဤတဘ်ကို စာသား URL အဖြစ်",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ဤတက်ဘ်ကို Link အဖြစ်",
+    "message": "ဤ Tab ကို Link အဖြစ်",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "တဘ်များအားလုံးသည် Link အဖြစ် (✂️)",
+    "message": "တဘ်များအားလုံးကို လင့်ခ်များအဖြစ် (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "စာသားအဖြစ် တက်ဘ်များအားလုံး (✂️)",
+    "message": "စာသား URL များအဖြစ် တဘ်များအားလုံး (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "လင့်ခ်အဖြစ် ရွေးချယ်ထားသည်။ (✂️)",
+    "message": "လင့်များအဖြစ် ရွေးချယ်ထားသည်။ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "စာသားအဖြစ် ရွေးချယ်ထားသည်။ (✂️)",
+    "message": "စာသား URLs အဖြစ် ရွေးချယ်ထားသည်။ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ဤတက်ဘ်ကို စာသားအဖြစ် (✂️)",
+    "message": "ဤတဘ်ကို စာသား URL အဖြစ် (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ဤတက်ဘ်ကို Link အဖြစ် (✂️)",
+    "message": "ဤ Tab ကို Link အဖြစ် (✂️)",
     "description": ""
   }
 }

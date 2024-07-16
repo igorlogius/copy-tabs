@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Stabilite l'azzione di u buttone mediu",
+    "message": "Stabilite l'azzione di u terzu buttone di u mouse",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tutte e tabulazioni cum'è Link",
+    "message": "Tutti i Tabs cum'è Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tutte e tabulazioni cum'è Testu",
+    "message": "Tutte e tabulazioni cum'è URL di testu",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Sceltu cum'è Link",
+    "message": "Sceltu cum'è Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Sceltu cum'è Testu",
+    "message": "Sceltu cum'è URL di testu",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Questa tabulazione cum'è Testu",
+    "message": "Questa Tabulazione cum'è URL di testu",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Questa tabulazione cum'è Link",
+    "message": "Questa Tabulazione cum'è Link",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Tutte e tabulazioni cum'è Link (✂️)",
+    "message": "Tutti i Tabs cum'è Links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tutte e tabulazioni cum'è Testu (✂️)",
+    "message": "Tutte e tabulazioni cum'è URL di testu (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Sceltu cum'è Link (✂️)",
+    "message": "Sceltu cum'è Links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Sceltu cum'è Testu (✂️)",
+    "message": "Sceltu cum'è URL di testu (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Questa tabulazione cum'è Testu (✂️)",
+    "message": "Questa Tabulazione cum'è URL di testu (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Questa tabulazione cum'è Link (✂️)",
+    "message": "Questa Tabulazione cum'è Link (✂️)",
     "description": ""
   }
 }

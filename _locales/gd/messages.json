@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Suidhich gnìomh putan meadhanach",
+    "message": "Suidhich gnìomh treas putan luchag",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "A h-uile taba mar Link",
+    "message": "A h-uile taba mar cheanglaichean",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "A h-uile taba mar Text",
+    "message": "A h-uile taba mar URLan teacsa",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Air a thaghadh mar Ceangal",
+    "message": "Air a thaghadh mar Ceanglaichean",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Air a thaghadh mar Text",
+    "message": "Air a thaghadh mar URLan teacsa",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "An taba seo mar Text",
+    "message": "An tab seo mar URL teacsa",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tha an taba seo mar Link",
+    "message": "An tab seo mar Ceangal",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "A h-uile taba mar Link (✂️)",
+    "message": "A h-uile taba mar cheanglaichean (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "A h-uile taba mar Text (✂️)",
+    "message": "A h-uile taba mar URLan teacsa (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Air a thaghadh mar Ceangal (✂️)",
+    "message": "Air a thaghadh mar Ceanglaichean (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Air a thaghadh mar Text (✂️)",
+    "message": "Air a thaghadh mar URLan teacsa (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "An taba seo mar Text (✂️)",
+    "message": "An tab seo mar URL teacsa (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tha an taba seo mar Link (✂️)",
+    "message": "An tab seo mar Ceangal (✂️)",
     "description": ""
   }
 }

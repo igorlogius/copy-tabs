@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": "मध्य बटन क्रिया सेट करें",
+    "message": "तीसरी माउस बटन क्रिया सेट करें",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "सभी टैब टेक्स्ट के रूप में",
+    "message": "सभी टैब टेक्स्ट यूआरएल के रूप में",
     "description": ""
   },
   "cpysellnk": {
@@ -24,11 +24,11 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "पाठ के रूप में चयनित",
+    "message": "टेक्स्ट यूआरएल के रूप में चयनित",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "यह टैब टेक्स्ट के रूप में है",
+    "message": "यह टैब टेक्स्ट यूआरएल के रूप में है",
     "description": ""
   },
   "cpytablnk": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "सभी टैब टेक्स्ट के रूप में (✂️)",
+    "message": "सभी टैब टेक्स्ट यूआरएल के रूप में (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +48,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "पाठ के रूप में चयनित (✂️)",
+    "message": "टेक्स्ट यूआरएल के रूप में चयनित (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "यह टैब टेक्स्ट के रूप में है (✂️)",
+    "message": "यह टैब टेक्स्ट यूआरएल के रूप में है (✂️)",
     "description": ""
   },
   "cpytablnknp": {

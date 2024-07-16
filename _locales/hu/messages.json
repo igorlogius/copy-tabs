@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Középső gomb műveletének beállítása",
+    "message": "Állítsa be a harmadik egérgomb műveletét",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,19 +16,19 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Minden lap szövegként",
+    "message": "Minden lap szöveges URL-ként",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Linkként kiválasztva",
+    "message": "Linkekként kiválasztva",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Szövegként kiválasztva",
+    "message": "Szöveges URL-ként kiválasztva",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ez a lap szövegként",
+    "message": "Ez a lap szöveges URL-ként",
     "description": ""
   },
   "cpytablnk": {
@@ -40,19 +40,19 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Minden lap szövegként (✂️)",
+    "message": "Minden lap szöveges URL-ként (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Linkként kiválasztva (✂️)",
+    "message": "Linkekként kiválasztva (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Szövegként kiválasztva (✂️)",
+    "message": "Szöveges URL-ként kiválasztva (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ez a lap szövegként (✂️)",
+    "message": "Ez a lap szöveges URL-ként (✂️)",
     "description": ""
   },
   "cpytablnknp": {

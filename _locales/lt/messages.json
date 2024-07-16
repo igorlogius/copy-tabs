@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Nustatykite vidurinio mygtuko veiksmą",
+    "message": "Nustatykite trečiojo pelės mygtuko veiksmą",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Visi skirtukai kaip nuoroda",
+    "message": "Visi skirtukai kaip nuorodos",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Visi skirtukai kaip tekstas",
+    "message": "Visi skirtukai kaip teksto URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Pasirinkta kaip nuoroda",
+    "message": "Pasirinkta kaip nuorodos",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Pasirinktas kaip tekstas",
+    "message": "Pasirinkta kaip teksto URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Šis skirtukas kaip tekstas",
+    "message": "Šis skirtukas kaip teksto URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Visi skirtukai kaip nuoroda (✂️)",
+    "message": "Visi skirtukai kaip nuorodos (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Visi skirtukai kaip tekstas (✂️)",
+    "message": "Visi skirtukai kaip teksto URL (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Pasirinkta kaip nuoroda (✂️)",
+    "message": "Pasirinkta kaip nuorodos (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Pasirinktas kaip tekstas (✂️)",
+    "message": "Pasirinkta kaip teksto URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Šis skirtukas kaip tekstas (✂️)",
+    "message": "Šis skirtukas kaip teksto URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

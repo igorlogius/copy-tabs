@@ -8,15 +8,15 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Vakarautaka na cakacaka ni bulukau e loma",
+    "message": "Vakarautaka na cakacaka ni bulukau ni mouse ikatolu",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Bulukau taucoko me iSema",
+    "message": "iVakatakilakila Taucoko me iSema",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Bulukau taucoko me Vaka na Text ",
+    "message": "Bulukau Taucoko me URL ni Itukutuku",
     "description": ""
   },
   "cpysellnk": {
@@ -24,23 +24,23 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Digitaki me Text",
+    "message": "Digitaki me URL ni Itukutuku",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Na bulukau oqo me iTukutuku",
+    "message": "Na Bulukau oqo me URL ni text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Na bulukau oqo me iSema",
+    "message": "iVakatakilakila Oqo me iSema",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Bulukau taucoko me iSema (✂️)",
+    "message": "iVakatakilakila Taucoko me iSema (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Bulukau taucoko me Vaka na Text (✂️)",
+    "message": "Bulukau Taucoko me URL ni Itukutuku (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +48,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Digitaki me Text (✂️)",
+    "message": "Digitaki me URL ni Itukutuku (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Na bulukau oqo me iTukutuku (✂️)",
+    "message": "Na Bulukau oqo me URL ni text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Na bulukau oqo me iSema (✂️)",
+    "message": "iVakatakilakila Oqo me iSema (✂️)",
     "description": ""
   }
 }

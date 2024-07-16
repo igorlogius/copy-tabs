@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "O'rta tugma harakatini o'rnating",
+    "message": "Sichqonchaning uchinchi tugmasi harakatini o'rnating",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Barcha yorliqlar havola sifatida",
+    "message": "Barcha varaqlar havola sifatida",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Barcha yorliqlar matn sifatida",
+    "message": "Barcha tablar matn URL manzillari sifatida",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Havola sifatida tanlangan",
+    "message": "Havolalar sifatida tanlangan",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Matn sifatida tanlangan",
+    "message": "Matn URL manzillari sifatida tanlangan",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ushbu yorliq matn sifatida",
+    "message": "Ushbu yorliq matn URL manzili sifatida",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ushbu yorliq havola sifatida",
+    "message": "Ushbu varaq havola sifatida",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Barcha yorliqlar havola sifatida (✂️)",
+    "message": "Barcha varaqlar havola sifatida (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Barcha yorliqlar matn sifatida (✂️)",
+    "message": "Barcha tablar matn URL manzillari sifatida (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Havola sifatida tanlangan (✂️)",
+    "message": "Havolalar sifatida tanlangan (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Matn sifatida tanlangan (✂️)",
+    "message": "Matn URL manzillari sifatida tanlangan (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ushbu yorliq matn sifatida (✂️)",
+    "message": "Ushbu yorliq matn URL manzili sifatida (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ushbu yorliq havola sifatida (✂️)",
+    "message": "Ushbu varaq havola sifatida (✂️)",
     "description": ""
   }
 }

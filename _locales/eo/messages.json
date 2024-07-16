@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Agordu meza butonan agon",
+    "message": "Agordi trian musbutonon",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ĉiuj langetoj kiel Ligo",
+    "message": "Ĉiuj Langetoj kiel Ligiloj",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ĉiuj langetoj kiel Teksto",
+    "message": "Ĉiuj Langetoj kiel Tekstaj URLoj",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Elektita kiel Ligo",
+    "message": "Elektita kiel Ligiloj",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Elektita kiel Teksto",
+    "message": "Elektita kiel Tekstaj URLoj",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ĉi tiu langeto kiel Teksto",
+    "message": "Ĉi tiu langeto kiel Teksta URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ĉiuj langetoj kiel Ligo (✂️)",
+    "message": "Ĉiuj Langetoj kiel Ligiloj (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ĉiuj langetoj kiel Teksto (✂️)",
+    "message": "Ĉiuj Langetoj kiel Tekstaj URLoj (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Elektita kiel Ligo (✂️)",
+    "message": "Elektita kiel Ligiloj (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Elektita kiel Teksto (✂️)",
+    "message": "Elektita kiel Tekstaj URLoj (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ĉi tiu langeto kiel Teksto (✂️)",
+    "message": "Ĉi tiu langeto kiel Teksta URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

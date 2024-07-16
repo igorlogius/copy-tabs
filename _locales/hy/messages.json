@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Սահմանել միջին կոճակի գործողությունը",
+    "message": "Սահմանեք մկնիկի երրորդ կոճակի գործողությունը",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Բոլոր ներդիրները որպես հղում",
+    "message": "Բոլոր ներդիրները որպես հղումներ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Բոլոր ներդիրները որպես տեքստ",
+    "message": "Բոլոր ներդիրները որպես տեքստային URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ընտրված է որպես հղում",
+    "message": "Ընտրված է որպես Հղումներ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ընտրված է որպես տեքստ",
+    "message": "Ընտրված է որպես Տեքստային URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Այս ներդիրը որպես Տեքստ",
+    "message": "Այս ներդիրը որպես տեքստային URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Այս ներդիրը որպես Հղում",
+    "message": "Այս ներդիրը որպես հղում",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Բոլոր ներդիրները որպես հղում (✂️)",
+    "message": "Բոլոր ներդիրները որպես հղումներ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Բոլոր ներդիրները որպես տեքստ (✂️)",
+    "message": "Բոլոր ներդիրները որպես տեքստային URL (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ընտրված է որպես հղում (✂️)",
+    "message": "Ընտրված է որպես Հղումներ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ընտրված է որպես տեքստ (✂️)",
+    "message": "Ընտրված է որպես Տեքստային URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Այս ներդիրը որպես Տեքստ (✂️)",
+    "message": "Այս ներդիրը որպես տեքստային URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Այս ներդիրը որպես Հղում (✂️)",
+    "message": "Այս ներդիրը որպես հղում (✂️)",
     "description": ""
   }
 }

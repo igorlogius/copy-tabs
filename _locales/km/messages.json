@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": "កំណត់សកម្មភាពប៊ូតុងកណ្តាល",
+    "message": "កំណត់សកម្មភាពប៊ូតុងកណ្ដុរទីបី",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,19 +16,19 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ផ្ទាំងទាំងអស់ជាអត្ថបទ",
+    "message": "ផ្ទាំងទាំងអស់ជា URL អត្ថបទ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "បានជ្រើសរើសជាតំណ",
+    "message": "បានជ្រើសរើសជាតំណភ្ជាប់",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "បានជ្រើសរើសជាអត្ថបទ",
+    "message": "បានជ្រើសរើសជា URLs អត្ថបទ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ផ្ទាំងនេះជាអត្ថបទ",
+    "message": "ផ្ទាំងនេះជា URL អត្ថបទ",
     "description": ""
   },
   "cpytablnk": {
@@ -40,19 +40,19 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ផ្ទាំងទាំងអស់ជាអត្ថបទ (✂️)",
+    "message": "ផ្ទាំងទាំងអស់ជា URL អត្ថបទ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "បានជ្រើសរើសជាតំណ (✂️)",
+    "message": "បានជ្រើសរើសជាតំណភ្ជាប់ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "បានជ្រើសរើសជាអត្ថបទ (✂️)",
+    "message": "បានជ្រើសរើសជា URLs អត្ថបទ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ផ្ទាំងនេះជាអត្ថបទ (✂️)",
+    "message": "ផ្ទាំងនេះជា URL អត្ថបទ (✂️)",
     "description": ""
   },
   "cpytablnknp": {

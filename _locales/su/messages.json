@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Nyetél aksi tombol tengah",
+    "message": "Setel aksi tombol mouse katilu",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Sadaya tab salaku Patalina",
+    "message": "Sadaya Tab salaku Tumbu",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Sadaya tab salaku Téks",
+    "message": "Sadaya Tab salaku URL téks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Dipilih salaku Link",
+    "message": "Dipilih salaku Tumbu",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Dipilih salaku téks",
+    "message": "Dipilih salaku URL téks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tab ieu salaku téks",
+    "message": "Tab ieu salaku URL téks",
     "description": ""
   },
   "cpytablnk": {
-    "message": "tab ieu salaku Link",
+    "message": "Tab ieu salaku Patalina",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Sadaya tab salaku Patalina (✂️)",
+    "message": "Sadaya Tab salaku Tumbu (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Sadaya tab salaku Téks (✂️)",
+    "message": "Sadaya Tab salaku URL téks (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Dipilih salaku Link (✂️)",
+    "message": "Dipilih salaku Tumbu (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Dipilih salaku téks (✂️)",
+    "message": "Dipilih salaku URL téks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tab ieu salaku téks (✂️)",
+    "message": "Tab ieu salaku URL téks (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "tab ieu salaku Link (✂️)",
+    "message": "Tab ieu salaku Patalina (✂️)",
     "description": ""
   }
 }

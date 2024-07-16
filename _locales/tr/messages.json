@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Orta düğme eylemini ayarlayın",
+    "message": "Üçüncü fare düğmesi eylemini ayarla",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Bağlantı olarak tüm sekmeler",
+    "message": "Bağlantı Olarak Tüm Sekmeler",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tüm sekmeler Metin olarak",
+    "message": "Tüm Sekmeler Metin URL'si Olarak",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Bağlantı Olarak Seçildi",
+    "message": "Bağlantılar Olarak Seçildi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Metin Olarak Seçildi",
+    "message": "Metin URL'leri olarak seçildi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Bu sekme Metin olarak",
+    "message": "Metin URL'si olarak Bu Sekme",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Bağlantı olarak bu sekme",
+    "message": "Bağlantı Olarak Bu Sekme",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Bağlantı olarak tüm sekmeler (✂️)",
+    "message": "Bağlantı Olarak Tüm Sekmeler (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tüm sekmeler Metin olarak (✂️)",
+    "message": "Tüm Sekmeler Metin URL'si Olarak (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Bağlantı Olarak Seçildi (✂️)",
+    "message": "Bağlantılar Olarak Seçildi (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Metin Olarak Seçildi (✂️)",
+    "message": "Metin URL'leri olarak seçildi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Bu sekme Metin olarak (✂️)",
+    "message": "Metin URL'si olarak Bu Sekme (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Bağlantı olarak bu sekme (✂️)",
+    "message": "Bağlantı Olarak Bu Sekme (✂️)",
     "description": ""
   }
 }

@@ -13,12 +13,19 @@ function onDOMContentLoaded() {
     let btn = document.createElement("button");
     let tmp = manifest.commands[cmd].description;
 
-    if (tmp.includes("✂️")) {
+    if (cmd.endsWith("np")) {
       btn.innerText = "✂️";
       btn.setAttribute("title", "Strip Params");
     } else {
       btn.innerText = tmp;
-      //btn.setAttribute('title', "");
+      /*
+        if (cmd.endsWith("lnk")) {
+            btn.innerText = tmp + " 🔗";
+        }else
+        if (cmd.endsWith("txt")) {
+            btn.innerText = tmp + " ✏️";
+        }
+        */
     }
 
     btn.addEventListener("click", async () => {
@@ -27,13 +34,10 @@ function onDOMContentLoaded() {
       });
     });
 
-    //btncontainer.appendChild(btn);
     fs.appendChild(btn);
     if (breakToggle) {
       breakToggle = false;
       btncontainer.appendChild(fs);
-      //let br = document.createElement("br");
-      //btncontainer.appendChild(br);
       fs = document.createElement("fieldset");
     } else {
       breakToggle = true;

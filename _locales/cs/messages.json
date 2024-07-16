@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Nastavte akci středního tlačítka",
+    "message": "Nastavte akci třetího tlačítka myši",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Všechny karty jako odkaz",
+    "message": "Všechny karty jako odkazy",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Všechny karty jako Text",
+    "message": "Všechny karty jako textové adresy URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Vybráno jako odkaz",
+    "message": "Vybráno jako Odkazy",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Vybráno jako Text",
+    "message": "Vybráno jako textové adresy URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tato karta jako Text",
+    "message": "Tato karta jako textová adresa URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Všechny karty jako odkaz (✂️)",
+    "message": "Všechny karty jako odkazy (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Všechny karty jako Text (✂️)",
+    "message": "Všechny karty jako textové adresy URL (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Vybráno jako odkaz (✂️)",
+    "message": "Vybráno jako Odkazy (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Vybráno jako Text (✂️)",
+    "message": "Vybráno jako textové adresy URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tato karta jako Text (✂️)",
+    "message": "Tato karta jako textová adresa URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

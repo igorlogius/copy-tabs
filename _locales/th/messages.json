@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": "ตั้งค่าการทำงานของปุ่มกลาง",
+    "message": "ตั้งค่าการกระทำของปุ่มเมาส์ที่สาม",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "แท็บทั้งหมดเป็นข้อความ",
+    "message": "แท็บทั้งหมดเป็น URL ข้อความ",
     "description": ""
   },
   "cpysellnk": {
@@ -24,11 +24,11 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "เลือกเป็นข้อความ",
+    "message": "เลือกเป็น URL ข้อความ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "แท็บนี้เป็นข้อความ",
+    "message": "แท็บนี้เป็น URL ข้อความ",
     "description": ""
   },
   "cpytablnk": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "แท็บทั้งหมดเป็นข้อความ (✂️)",
+    "message": "แท็บทั้งหมดเป็น URL ข้อความ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +48,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "เลือกเป็นข้อความ (✂️)",
+    "message": "เลือกเป็น URL ข้อความ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "แท็บนี้เป็นข้อความ (✂️)",
+    "message": "แท็บนี้เป็น URL ข้อความ (✂️)",
     "description": ""
   },
   "cpytablnknp": {

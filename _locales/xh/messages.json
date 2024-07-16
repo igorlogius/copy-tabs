@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Cwangcisa intshukumo yeqhosha eliphakathi",
+    "message": "Cwangcisa intshukumo yesithathu yeqhosha lemouse",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Zonke iithebhu njengekhonkco",
+    "message": "Zonke iiTab njengeekhonkco",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Zonke iithebhu njenge-Text",
+    "message": "Zonke iiTabhu njengee-URL zokubhaliweyo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ikhethwe njengekhonkco",
+    "message": "Ikhethwe njengamakhonkco",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ikhethwe Njengombhalo",
+    "message": "Ikhethwe njengee-URL zesiqendu",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Le thebhu njengesiqendu",
+    "message": "Le Tabhu njenge-URL yokubhaliweyo",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Le thebhu njengekhonkco",
+    "message": "Le Tabhu njengekhonkco",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Zonke iithebhu njengekhonkco (✂️)",
+    "message": "Zonke iiTab njengeekhonkco (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Zonke iithebhu njenge-Text (✂️)",
+    "message": "Zonke iiTabhu njengee-URL zokubhaliweyo (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ikhethwe njengekhonkco (✂️)",
+    "message": "Ikhethwe njengamakhonkco (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ikhethwe Njengombhalo (✂️)",
+    "message": "Ikhethwe njengee-URL zesiqendu (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Le thebhu njengesiqendu (✂️)",
+    "message": "Le Tabhu njenge-URL yokubhaliweyo (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Le thebhu njengekhonkco (✂️)",
+    "message": "Le Tabhu njengekhonkco (✂️)",
     "description": ""
   }
 }

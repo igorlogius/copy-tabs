@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": "మధ్య బటన్ చర్యను సెట్ చేయండి",
+    "message": "మూడవ మౌస్ బటన్ చర్యను సెట్ చేయండి",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "లింక్u200cగా అన్ని ట్యాబ్u200cలు",
+    "message": "అన్ని ట్యాబ్u200cలు లింక్u200cలుగా",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్u200cగా",
+    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్ URLలుగా",
     "description": ""
   },
   "cpysellnk": {
-    "message": "లింక్u200cగా ఎంపిక చేయబడింది",
+    "message": "లింక్u200cలుగా ఎంపిక చేయబడింది",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "టెక్స్ట్u200cగా ఎంపిక చేయబడింది",
+    "message": "టెక్స్ట్ URLలుగా ఎంచుకోబడ్డాయి",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ఈ ట్యాబ్ వచనంగా",
+    "message": "ఈ ట్యాబ్ టెక్స్ట్ URLగా",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "లింక్u200cగా అన్ని ట్యాబ్u200cలు (✂️)",
+    "message": "అన్ని ట్యాబ్u200cలు లింక్u200cలుగా (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్u200cగా (✂️)",
+    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్ URLలుగా (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "లింక్u200cగా ఎంపిక చేయబడింది (✂️)",
+    "message": "లింక్u200cలుగా ఎంపిక చేయబడింది (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "టెక్స్ట్u200cగా ఎంపిక చేయబడింది (✂️)",
+    "message": "టెక్స్ట్ URLలుగా ఎంచుకోబడ్డాయి (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ఈ ట్యాబ్ వచనంగా (✂️)",
+    "message": "ఈ ట్యాబ్ టెక్స్ట్ URLగా (✂️)",
     "description": ""
   },
   "cpytablnknp": {

@@ -8,7 +8,7 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Tọọ mmemme bọtịnụ etiti",
+    "message": "Tọọ mmemme bọtịnụ òké nke atọ",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Taabụ niile dị ka Ederede",
+    "message": "Taabụ niile dị ka URL ederede",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,15 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ahọpụtara dị ka Ederede",
+    "message": "Ahọpụtara dị ka URL ederede",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Nke a taabụ dị ka Ederede",
+    "message": "Taabụ a dị ka URL ederede",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Nke a taabụ dị ka njikọ",
+    "message": "Tab a dị ka njikọ",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Taabụ niile dị ka Ederede (✂️)",
+    "message": "Taabụ niile dị ka URL ederede (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +48,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ahọpụtara dị ka Ederede (✂️)",
+    "message": "Ahọpụtara dị ka URL ederede (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Nke a taabụ dị ka Ederede (✂️)",
+    "message": "Taabụ a dị ka URL ederede (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Nke a taabụ dị ka njikọ (✂️)",
+    "message": "Tab a dị ka njikọ (✂️)",
     "description": ""
   }
 }

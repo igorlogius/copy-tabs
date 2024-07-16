@@ -8,27 +8,27 @@
     "description": ""
   },
   "selectaction": {
-    "message": " ﻂﺳﻭﻷ﻿ﺍ ﺭﺰﻟﺍ ءﺍﺮﺟﺇ ﻂﺒﺿ",
+    "message": " ﺚﻟﺎﺜﻟﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺯ ءﺍﺮﺟﺇ ﻂﺒﺿ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " ﻂﺑﺍﺮﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ",
+    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺔﻓﺎﻛ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﺺﻨﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ",
+    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻌﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﻂﺑﺍﺮﻛ ﺪﻳﺪﺤﺘﻟﺍ ﻢﺗ",
+    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺎﻫﺪﻳﺪﺤﺗ ﻢﺗ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﺺﻨﻛ ﻩﺪﻳﺪﺤﺗ ﻢﺗ",
+    "message": " ﺔﻴﺼﻧ URL ﻦﻳﻭﺎﻨﻌﻛ ﺎﻫﺪﻳﺪﺤﺗ ﻢﺗ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﺺﻨﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
+    "message": " ﻲﺼﻧ URL ﻥﺍﻮﻨﻌﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
     "description": ""
   },
   "cpytablnk": {
@@ -36,23 +36,23 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " ﻂﺑﺍﺮﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ (✂️)",
+    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺔﻓﺎﻛ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " ﺺﻨﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ (✂️)",
+    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻌﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " ﻂﺑﺍﺮﻛ ﺪﻳﺪﺤﺘﻟﺍ ﻢﺗ (✂️)",
+    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺎﻫﺪﻳﺪﺤﺗ ﻢﺗ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " ﺺﻨﻛ ﻩﺪﻳﺪﺤﺗ ﻢﺗ (✂️)",
+    "message": " ﺔﻴﺼﻧ URL ﻦﻳﻭﺎﻨﻌﻛ ﺎﻫﺪﻳﺪﺤﺗ ﻢﺗ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " ﺺﻨﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ (✂️)",
+    "message": " ﻲﺼﻧ URL ﻥﺍﻮﻨﻌﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ (✂️)",
     "description": ""
   },
   "cpytablnknp": {

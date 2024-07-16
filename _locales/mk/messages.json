@@ -8,55 +8,55 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Поставете дејство на средното копче",
+    "message": "Поставете трето дејство на копче на глувчето",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Сите јазичиња како линк",
+    "message": "Сите јазичиња како врски",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Сите јазичиња како Текст",
+    "message": "Сите јазичиња како текстуални URL-адреси",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Избрано како врска",
+    "message": "Избрано како Врски",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Избрано како Текст",
+    "message": "Избрани како текстуални URL-адреси",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ова јазиче како Текст",
+    "message": "Оваа картичка како URL на текст",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ова јазиче како врска",
+    "message": "Оваа картичка како врска",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Сите јазичиња како линк (✂️)",
+    "message": "Сите јазичиња како врски (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Сите јазичиња како Текст (✂️)",
+    "message": "Сите јазичиња како текстуални URL-адреси (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Избрано како врска (✂️)",
+    "message": "Избрано како Врски (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Избрано како Текст (✂️)",
+    "message": "Избрани како текстуални URL-адреси (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ова јазиче како Текст (✂️)",
+    "message": "Оваа картичка како URL на текст (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ова јазиче како врска (✂️)",
+    "message": "Оваа картичка како врска (✂️)",
     "description": ""
   }
 }
