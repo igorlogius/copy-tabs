@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "እንደ አገናኞች ተመርጠዋል",
+    "message": "የተመረጡ ትሮች እንደ አገናኞች",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "እንደ የጽሑፍ URLs ተመርጧል",
+    "message": "የተመረጡ ትሮች እንደ የጽሑፍ URLs",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "እንደ አገናኞች ተመርጠዋል (✂️)",
+    "message": "የተመረጡ ትሮች እንደ አገናኞች (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "እንደ የጽሑፍ URLs ተመርጧል (✂️)",
+    "message": "የተመረጡ ትሮች እንደ የጽሑፍ URLs (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

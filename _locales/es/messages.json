@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Seleccionados como enlaces",
+    "message": "Pestañas seleccionadas como enlaces",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Seleccionadas como URL de texto",
+    "message": "Pestañas seleccionadas como URL de texto",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Seleccionados como enlaces (✂️)",
+    "message": "Pestañas seleccionadas como enlaces (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Seleccionadas como URL de texto (✂️)",
+    "message": "Pestañas seleccionadas como URL de texto (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "இணைப்புகளாக தேர்ந்தெடுக்கப்பட்டது",
+    "message": "இணைப்புகளாகத் தேர்ந்தெடுக்கப்பட்ட தாவல்கள்",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "உரை URLகளாக தேர்ந்தெடுக்கப்பட்டது",
+    "message": "உரை URLகளாக தாவல்கள் தேர்ந்தெடுக்கப்பட்டன",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "இணைப்புகளாக தேர்ந்தெடுக்கப்பட்டது (✂️)",
+    "message": "இணைப்புகளாகத் தேர்ந்தெடுக்கப்பட்ட தாவல்கள் (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "உரை URLகளாக தேர்ந்தெடுக்கப்பட்டது (✂️)",
+    "message": "உரை URLகளாக தாவல்கள் தேர்ந்தெடுக்கப்பட்டன (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

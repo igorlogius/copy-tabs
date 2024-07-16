@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Selectat ca Link-uri",
+    "message": "Filele selectate ca linkuri",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Selectat ca URL-uri text",
+    "message": "Filele selectate ca URL-uri text",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Selectat ca Link-uri (✂️)",
+    "message": "Filele selectate ca linkuri (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Selectat ca URL-uri text (✂️)",
+    "message": "Filele selectate ca URL-uri text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Холбоос болгон сонгосон",
+    "message": "Сонгосон табуудыг холбоос болгон",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Текст URL болгон сонгосон",
+    "message": "Сонгосон табуудыг текстийн URL хэлбэрээр",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Холбоос болгон сонгосон (✂️)",
+    "message": "Сонгосон табуудыг холбоос болгон (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Текст URL болгон сонгосон (✂️)",
+    "message": "Сонгосон табуудыг текстийн URL хэлбэрээр (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

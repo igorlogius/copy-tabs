@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Havolalar sifatida tanlangan",
+    "message": "Havola sifatida tanlangan tablar",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Matn URL manzillari sifatida tanlangan",
+    "message": "Matn URL manzillari sifatida tanlangan yorliqlar",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Havolalar sifatida tanlangan (✂️)",
+    "message": "Havola sifatida tanlangan tablar (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Matn URL manzillari sifatida tanlangan (✂️)",
+    "message": "Matn URL manzillari sifatida tanlangan yorliqlar (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

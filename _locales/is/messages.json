@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valið sem hlekkir",
+    "message": "Valdir flipar sem tenglar",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valdar sem textaslóðir",
+    "message": "Valdir flipar sem textaslóðir",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valið sem hlekkir (✂️)",
+    "message": "Valdir flipar sem tenglar (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valdar sem textaslóðir (✂️)",
+    "message": "Valdir flipar sem textaslóðir (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

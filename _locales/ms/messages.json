@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Dipilih sebagai Pautan",
+    "message": "Tab yang Dipilih sebagai Pautan",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Dipilih sebagai URL Teks",
+    "message": "Tab yang Dipilih sebagai URL Teks",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Dipilih sebagai Pautan (✂️)",
+    "message": "Tab yang Dipilih sebagai Pautan (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Dipilih sebagai URL Teks (✂️)",
+    "message": "Tab yang Dipilih sebagai URL Teks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

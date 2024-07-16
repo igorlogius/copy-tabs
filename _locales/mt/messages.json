@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Magħżula bħala Links",
+    "message": "Tabs Magħżula bħala Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Magħżula bħala Test URLs",
+    "message": "Tabs Magħżula bħala URLs tat-Test",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Magħżula bħala Links (✂️)",
+    "message": "Tabs Magħżula bħala Links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Magħżula bħala Test URLs (✂️)",
+    "message": "Tabs Magħżula bħala URLs tat-Test (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Odabrano kao Linkovi",
+    "message": "Odabrane kartice kao veze",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Odabrano kao tekstualni URL-ovi",
+    "message": "Odabrane kartice kao tekstualni URL-ovi",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Odabrano kao Linkovi (✂️)",
+    "message": "Odabrane kartice kao veze (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Odabrano kao tekstualni URL-ovi (✂️)",
+    "message": "Odabrane kartice kao tekstualni URL-ovi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Dipilih minangka Link",
+    "message": "Tab sing dipilih minangka Tautan",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Dipilih minangka URL Teks",
+    "message": "Tab sing Dipilih minangka URL Teks",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Dipilih minangka Link (✂️)",
+    "message": "Tab sing dipilih minangka Tautan (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Dipilih minangka URL Teks (✂️)",
+    "message": "Tab sing Dipilih minangka URL Teks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

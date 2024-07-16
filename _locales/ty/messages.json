@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ma'itihia ei hono",
+    "message": "Te mau tapa'o i ma'itihia ei hono",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ma'itihia ei mau niuniu afa'ifa'i",
+    "message": "Ma'itihia ei mau tapa'o faahoro parau",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ma'itihia ei hono (✂️)",
+    "message": "Te mau tapa'o i ma'itihia ei hono (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ma'itihia ei mau niuniu afa'ifa'i (✂️)",
+    "message": "Ma'itihia ei mau tapa'o faahoro parau (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

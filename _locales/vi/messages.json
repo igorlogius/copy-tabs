@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Đã chọn làm liên kết",
+    "message": "Các tab đã chọn làm liên kết",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Đã chọn làm URL văn bản",
+    "message": "Các tab đã chọn làm URL văn bản",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Đã chọn làm liên kết (✂️)",
+    "message": "Các tab đã chọn làm liên kết (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Đã chọn làm URL văn bản (✂️)",
+    "message": "Các tab đã chọn làm URL văn bản (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

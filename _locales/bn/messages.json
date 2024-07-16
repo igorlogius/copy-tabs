@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "লিঙ্ক হিসাবে নির্বাচিত",
+    "message": "লিঙ্ক হিসাবে ট্যাব নির্বাচিত",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "টেক্সট ইউআরএল হিসেবে বেছে নেওয়া হয়েছে",
+    "message": "টেক্সট ইউআরএল হিসেবে ট্যাব বেছে নেওয়া হয়েছে",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "লিঙ্ক হিসাবে নির্বাচিত (✂️)",
+    "message": "লিঙ্ক হিসাবে ট্যাব নির্বাচিত (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "টেক্সট ইউআরএল হিসেবে বেছে নেওয়া হয়েছে (✂️)",
+    "message": "টেক্সট ইউআরএল হিসেবে ট্যাব বেছে নেওয়া হয়েছে (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

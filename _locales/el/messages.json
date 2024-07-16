@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Επιλέχθηκε ως Σύνδεσμοι",
+    "message": "Επιλεγμένες καρτέλες ως σύνδεσμοι",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Επιλέχθηκε ως URL κειμένου",
+    "message": "Επιλεγμένες καρτέλες ως διευθύνσεις URL κειμένου",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Επιλέχθηκε ως Σύνδεσμοι (✂️)",
+    "message": "Επιλεγμένες καρτέλες ως σύνδεσμοι (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Επιλέχθηκε ως URL κειμένου (✂️)",
+    "message": "Επιλεγμένες καρτέλες ως διευθύνσεις URL κειμένου (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

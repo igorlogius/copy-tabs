@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﺭﻮﻃ ﺲڪﻨﻟ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
+    "message": " ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﺭﻮﻃ URLs ﻦﺘﻣ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
+    "message": " URLs ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": " ﺭﻮﻃ ﺲڪﻨﻟ ﻞﻴﭤ ﺐﺨﺘﻨﻣ (✂️)",
+    "message": " ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " ﺭﻮﻃ URLs ﻦﺘﻣ ﻞﻴﭤ ﺐﺨﺘﻨﻣ (✂️)",
+    "message": " URLs ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

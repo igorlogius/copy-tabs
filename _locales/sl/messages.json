@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Izbrano kot povezave",
+    "message": "Izbrani zavihki kot povezave",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Izbrano kot besedilni URL-ji",
+    "message": "Izbrani zavihki kot besedilni URL-ji",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Izbrano kot povezave (✂️)",
+    "message": "Izbrani zavihki kot povezave (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Izbrano kot besedilni URL-ji (✂️)",
+    "message": "Izbrani zavihki kot besedilni URL-ji (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

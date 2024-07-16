@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Избрано како Врски",
+    "message": "Избрани јазичиња како врски",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Избрани како текстуални URL-адреси",
+    "message": "Избрани јазичиња како текстуални URL-адреси",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Избрано како Врски (✂️)",
+    "message": "Избрани јазичиња како врски (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Избрани како текстуални URL-адреси (✂️)",
+    "message": "Избрани јазичиња како текстуални URL-адреси (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

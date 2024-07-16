@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Сылтамалар итеп сайланган",
+    "message": "Сылтамалар итеп сайланган кыстыргычлар",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Текст URL-лары итеп сайланган",
+    "message": "Текст URL-лары итеп сайланган кыстыргычлар",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Сылтамалар итеп сайланган (✂️)",
+    "message": "Сылтамалар итеп сайланган кыстыргычлар (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Текст URL-лары итеп сайланган (✂️)",
+    "message": "Текст URL-лары итеп сайланган кыстыргычлар (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

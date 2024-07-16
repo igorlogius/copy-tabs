@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Linklər kimi seçildi",
+    "message": "Bağlantılar kimi Seçilmiş Nişanlar",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Mətn URL-ləri kimi seçilmişdir",
+    "message": "Mətn URL-ləri kimi Seçilmiş Nişanlar",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Linklər kimi seçildi (✂️)",
+    "message": "Bağlantılar kimi Seçilmiş Nişanlar (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Mətn URL-ləri kimi seçilmişdir (✂️)",
+    "message": "Mətn URL-ləri kimi Seçilmiş Nişanlar (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "เลือกเป็นลิงค์",
+    "message": "แท็บที่เลือกเป็นลิงก์",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "เลือกเป็น URL ข้อความ",
+    "message": "แท็บที่เลือกเป็น URL ข้อความ",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "เลือกเป็นลิงค์ (✂️)",
+    "message": "แท็บที่เลือกเป็นลิงก์ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "เลือกเป็น URL ข้อความ (✂️)",
+    "message": "แท็บที่เลือกเป็น URL ข้อความ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

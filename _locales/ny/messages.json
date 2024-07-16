@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Zosankhidwa ngati Maulalo",
+    "message": "Ma Tabs Osankhidwa Monga Maulalo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Zosankhidwa ngati Maulalo a Mawu",
+    "message": "Ma Tabu Osankhidwa Monga Ma URL a Mawu",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Zosankhidwa ngati Maulalo (✂️)",
+    "message": "Ma Tabs Osankhidwa Monga Maulalo (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Zosankhidwa ngati Maulalo a Mawu (✂️)",
+    "message": "Ma Tabu Osankhidwa Monga Ma URL a Mawu (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

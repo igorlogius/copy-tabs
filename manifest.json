@@ -54,5 +54,5 @@
   "description": "__MSG_addonDesc__",
   "permissions": ["clipboardWrite", "storage", "menus", "tabs"],
   "optional_permissions": ["notifications"],
-  "version": "1.16.47"
+  "version": "1.16.48"
 }

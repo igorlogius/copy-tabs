@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Wedi'i ddewis fel Dolenni",
+    "message": "Tabiau a ddewiswyd fel Dolenni",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Wedi'i ddewis fel URLs Testun",
+    "message": "Tabiau a ddewiswyd fel URLs testun",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Wedi'i ddewis fel Dolenni (✂️)",
+    "message": "Tabiau a ddewiswyd fel Dolenni (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Wedi'i ddewis fel URLs Testun (✂️)",
+    "message": "Tabiau a ddewiswyd fel URLs testun (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

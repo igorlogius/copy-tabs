@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Шилтемелер катары тандалган",
+    "message": "Шилтемелер катары тандалган өтмөктөр",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Текст URL катары тандалган",
+    "message": "Текст URL катары тандалган өтмөктөр",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Шилтемелер катары тандалган (✂️)",
+    "message": "Шилтемелер катары тандалган өтмөктөр (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Текст URL катары тандалган (✂️)",
+    "message": "Текст URL катары тандалган өтмөктөр (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

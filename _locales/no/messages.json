@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valgt som lenker",
+    "message": "Valgte faner som koblinger",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valgt som tekst-URL-er",
+    "message": "Valgte faner som tekst-URL-er",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valgt som lenker (✂️)",
+    "message": "Valgte faner som koblinger (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valgt som tekst-URL-er (✂️)",
+    "message": "Valgte faner som tekst-URL-er (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valitud linkidena",
+    "message": "Valitud vahekaardid linkidena",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valitud teksti URL-ina",
+    "message": "Teksti URL-idena valitud vahelehed",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valitud linkidena (✂️)",
+    "message": "Valitud vahekaardid linkidena (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valitud teksti URL-ina (✂️)",
+    "message": "Teksti URL-idena valitud vahelehed (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

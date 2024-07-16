@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Selecionado como links",
+    "message": "Guias selecionadas como links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Selecionados como URLs de texto",
+    "message": "Guias selecionadas como URLs de texto",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Selecionado como links (✂️)",
+    "message": "Guias selecionadas como links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Selecionados como URLs de texto (✂️)",
+    "message": "Guias selecionadas como URLs de texto (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

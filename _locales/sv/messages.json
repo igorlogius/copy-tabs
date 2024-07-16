@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Vald som länkar",
+    "message": "Valda flikar som länkar",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Vald som text-URL",
+    "message": "Valda flikar som textwebbadresser",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Vald som länkar (✂️)",
+    "message": "Valda flikar som länkar (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Vald som text-URL (✂️)",
+    "message": "Valda flikar som textwebbadresser (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

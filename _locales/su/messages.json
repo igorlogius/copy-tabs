@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Dipilih salaku Tumbu",
+    "message": "Dipilih Tab salaku Tumbu",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Dipilih salaku URL téks",
+    "message": "Tab Dipilih salaku URL téks",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Dipilih salaku Tumbu (✂️)",
+    "message": "Dipilih Tab salaku Tumbu (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Dipilih salaku URL téks (✂️)",
+    "message": "Tab Dipilih salaku URL téks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

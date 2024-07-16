@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Sélectionné comme liens",
+    "message": "Onglets sélectionnés comme liens",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Sélectionné comme URL de texte",
+    "message": "Onglets sélectionnés en tant qu'URL de texte",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Sélectionné comme liens (✂️)",
+    "message": "Onglets sélectionnés comme liens (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Sélectionné comme URL de texte (✂️)",
+    "message": "Onglets sélectionnés en tant qu'URL de texte (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

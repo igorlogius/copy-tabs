@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ausgewielt als Links",
+    "message": "Ausgewielten Tabs als Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ausgewielt als Text URLen",
+    "message": "Ausgewielt Tabs als Text URLen",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ausgewielt als Links (✂️)",
+    "message": "Ausgewielten Tabs als Links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ausgewielt als Text URLen (✂️)",
+    "message": "Ausgewielt Tabs als Text URLen (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

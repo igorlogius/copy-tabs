@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Һылтанмалар булараҡ һайланған",
+    "message": "Һылтанмалар сифатында һайланған таблицалар",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Текст URL-ы итеп һайланған",
+    "message": "Һайланма таблицалар текст URLs сифатында",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Һылтанмалар булараҡ һайланған (✂️)",
+    "message": "Һылтанмалар сифатында һайланған таблицалар (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Текст URL-ы итеп һайланған (✂️)",
+    "message": "Һайланма таблицалар текст URLs сифатында (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

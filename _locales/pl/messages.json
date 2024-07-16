@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Wybrane jako linki",
+    "message": "Wybrane karty jako łącza",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Wybrane jako tekstowe adresy URL",
+    "message": "Wybrane karty jako tekstowe adresy URL",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Wybrane jako linki (✂️)",
+    "message": "Wybrane karty jako łącza (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Wybrane jako tekstowe adresy URL (✂️)",
+    "message": "Wybrane karty jako tekstowe adresy URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

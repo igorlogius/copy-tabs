@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "लिङ्कको रूपमा चयन गरियो",
+    "message": "लिङ्कको रूपमा ट्याबहरू चयन गरियो",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "पाठ URL को रूपमा चयन गरियो",
+    "message": "पाठ URL को रूपमा ट्याबहरू चयन गरियो",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "लिङ्कको रूपमा चयन गरियो (✂️)",
+    "message": "लिङ्कको रूपमा ट्याबहरू चयन गरियो (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "पाठ URL को रूपमा चयन गरियो (✂️)",
+    "message": "पाठ URL को रूपमा ट्याबहरू चयन गरियो (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

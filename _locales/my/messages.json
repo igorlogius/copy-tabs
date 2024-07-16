@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "လင့်များအဖြစ် ရွေးချယ်ထားသည်။",
+    "message": "လင့်များအဖြစ် ရွေးချယ်ထားသော တဘ်များ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "စာသား URLs အဖြစ် ရွေးချယ်ထားသည်။",
+    "message": "Text URLs အဖြစ် ရွေးချယ်ထားသော တဘ်များ",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "လင့်များအဖြစ် ရွေးချယ်ထားသည်။ (✂️)",
+    "message": "လင့်များအဖြစ် ရွေးချယ်ထားသော တဘ်များ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "စာသား URLs အဖြစ် ရွေးချယ်ထားသည်။ (✂️)",
+    "message": "Text URLs အဖြစ် ရွေးချယ်ထားသော တဘ်များ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

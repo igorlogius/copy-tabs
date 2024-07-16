@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valittu linkeiksi",
+    "message": "Valitut välilehdet linkeiksi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valittu teksti-URL-osoitteiksi",
+    "message": "Valitut välilehdet teksti-URL-osoitteiksi",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valittu linkeiksi (✂️)",
+    "message": "Valitut välilehdet linkeiksi (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valittu teksti-URL-osoitteiksi (✂️)",
+    "message": "Valitut välilehdet teksti-URL-osoitteiksi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

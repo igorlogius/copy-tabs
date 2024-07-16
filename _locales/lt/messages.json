@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Pasirinkta kaip nuorodos",
+    "message": "Pasirinkti skirtukai kaip nuorodos",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Pasirinkta kaip teksto URL",
+    "message": "Pasirinkti skirtukai kaip teksto URL",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Pasirinkta kaip nuorodos (✂️)",
+    "message": "Pasirinkti skirtukai kaip nuorodos (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Pasirinkta kaip teksto URL (✂️)",
+    "message": "Pasirinkti skirtukai kaip teksto URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

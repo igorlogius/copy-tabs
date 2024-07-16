@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Geselecteerd als koppelingen",
+    "message": "Geselecteerde tabbladen als koppelingen",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Geselecteerd als tekst-URL's",
+    "message": "Geselecteerde tabbladen als tekst-URL's",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Geselecteerd als koppelingen (✂️)",
+    "message": "Geselecteerde tabbladen als koppelingen (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Geselecteerd als tekst-URL's (✂️)",
+    "message": "Geselecteerde tabbladen als tekst-URL's (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Air a thaghadh mar Ceanglaichean",
+    "message": "Tabaichean taghte mar cheanglaichean",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Air a thaghadh mar URLan teacsa",
+    "message": "Tabaichean taghte mar URLan teacsa",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Air a thaghadh mar Ceanglaichean (✂️)",
+    "message": "Tabaichean taghte mar cheanglaichean (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Air a thaghadh mar URLan teacsa (✂️)",
+    "message": "Tabaichean taghte mar URLan teacsa (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

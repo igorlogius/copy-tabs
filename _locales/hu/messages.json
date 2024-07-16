@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Linkekként kiválasztva",
+    "message": "Kijelölt lapok hivatkozásként",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Szöveges URL-ként kiválasztva",
+    "message": "Szöveges URL-ként kiválasztott lapok",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Linkekként kiválasztva (✂️)",
+    "message": "Kijelölt lapok hivatkozásként (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Szöveges URL-ként kiválasztva (✂️)",
+    "message": "Szöveges URL-ként kiválasztott lapok (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Selezionato come Collegamenti",
+    "message": "Schede selezionate come collegamenti",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Selezionati come URL di testo",
+    "message": "Schede selezionate come URL di testo",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Selezionato come Collegamenti (✂️)",
+    "message": "Schede selezionate come collegamenti (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Selezionati come URL di testo (✂️)",
+    "message": "Schede selezionate come URL di testo (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

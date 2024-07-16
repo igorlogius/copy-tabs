@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "არჩეულია როგორც ბმულები",
+    "message": "არჩეული ჩანართები ბმულებად",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "არჩეულია ტექსტის მისამართებად",
+    "message": "არჩეული ჩანართები ტექსტის მისამართებად",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "არჩეულია როგორც ბმულები (✂️)",
+    "message": "არჩეული ჩანართები ბმულებად (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "არჩეულია ტექსტის მისამართებად (✂️)",
+    "message": "არჩეული ჩანართები ტექსტის მისამართებად (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

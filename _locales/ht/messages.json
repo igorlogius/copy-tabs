@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Chwazi kòm Lyen",
+    "message": "Onglet Chwazi kòm Lyen",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Chwazi kòm URL tèks",
+    "message": "Onglet yo chwazi kòm URL tèks",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Chwazi kòm Lyen (✂️)",
+    "message": "Onglet Chwazi kòm Lyen (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Chwazi kòm URL tèks (✂️)",
+    "message": "Onglet yo chwazi kòm URL tèks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

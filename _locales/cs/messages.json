@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Vybráno jako Odkazy",
+    "message": "Vybrané karty jako odkazy",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Vybráno jako textové adresy URL",
+    "message": "Vybrané karty jako textové adresy URL",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Vybráno jako Odkazy (✂️)",
+    "message": "Vybrané karty jako odkazy (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Vybráno jako textové adresy URL (✂️)",
+    "message": "Vybrané karty jako textové adresy URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Pinili bilang Mga Link",
+    "message": "Mga Piniling Tab bilang Mga Link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Pinili bilang Text URL",
+    "message": "Mga Piniling Tab bilang Mga URL ng Teksto",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Pinili bilang Mga Link (✂️)",
+    "message": "Mga Piniling Tab bilang Mga Link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Pinili bilang Text URL (✂️)",
+    "message": "Mga Piniling Tab bilang Mga URL ng Teksto (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

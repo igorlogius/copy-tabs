@@ -16,8 +16,8 @@ while read line;do
 	cpytabtxt=$(trans -brief -from en -to $line "This Tab as Text URL")
 	cpyalllnk=$(trans -brief -from en -to $line "All Tabs as Links")
 	cpyalltxt=$(trans -brief -from en -to $line "All Tabs as Text URLs")
-	cpysellnk=$(trans -brief -from en -to $line "Selected as Links")
-	cpyseltxt=$(trans -brief -from en -to $line "Selected as Text URLs")
+	cpysellnk=$(trans -brief -from en -to $line "Selected Tabs as Links")
+	cpyseltxt=$(trans -brief -from en -to $line "Selected Tabs as Text URLs")
 
 	cpytablnknp="$cpytablnk (✂️)"
 	cpytabtxtnp="$cpytabtxt (✂️)"

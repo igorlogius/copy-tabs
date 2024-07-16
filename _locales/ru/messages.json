@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Выбрано как ссылки",
+    "message": "Выбранные вкладки как ссылки",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Выбрано как текстовые URL-адреса",
+    "message": "Выбранные вкладки как текстовые URL-адреса",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Выбрано как ссылки (✂️)",
+    "message": "Выбранные вкладки как ссылки (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Выбрано как текстовые URL-адреса (✂️)",
+    "message": "Выбранные вкладки как текстовые URL-адреса (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Gekies as skakels",
+    "message": "Geselekteerde oortjies as skakels",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Gekies as teks-URL'e",
+    "message": "Geselekteerde oortjies as teks-URL'e",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Gekies as skakels (✂️)",
+    "message": "Geselekteerde oortjies as skakels (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Gekies as teks-URL'e (✂️)",
+    "message": "Geselekteerde oortjies as teks-URL'e (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

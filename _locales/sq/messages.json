@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Zgjedhur si Lidhje",
+    "message": "Skedat e zgjedhura si lidhje",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Zgjedhur si URL teksti",
+    "message": "Skedat e zgjedhura si URL teksti",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Zgjedhur si Lidhje (✂️)",
+    "message": "Skedat e zgjedhura si lidhje (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Zgjedhur si URL teksti (✂️)",
+    "message": "Skedat e zgjedhura si URL teksti (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

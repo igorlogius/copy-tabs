@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "リンクとして選択されました",
+    "message": "選択したタブをリンクとして表示",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "テキスト URL として選択されました",
+    "message": "選択したタブをテキスト URL として表示",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "リンクとして選択されました (✂️)",
+    "message": "選択したタブをリンクとして表示 (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "テキスト URL として選択されました (✂️)",
+    "message": "選択したタブをテキスト URL として表示 (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

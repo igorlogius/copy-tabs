@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Selected as Links",
+    "message": "Selected Tabs as Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Selected as Text URLs",
+    "message": "Selected Tabs as Text URLs",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Selected as Links (✂️)",
+    "message": "Selected Tabs as Links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Selected as Text URLs (✂️)",
+    "message": "Selected Tabs as Text URLs (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

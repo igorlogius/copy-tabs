@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Atlasīts kā saites",
+    "message": "Atlasītas cilnes kā saites",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Atlasīts kā teksta URL",
+    "message": "Atlasītas cilnes kā teksta URL",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Atlasīts kā saites (✂️)",
+    "message": "Atlasītas cilnes kā saites (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Atlasīts kā teksta URL (✂️)",
+    "message": "Atlasītas cilnes kā teksta URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

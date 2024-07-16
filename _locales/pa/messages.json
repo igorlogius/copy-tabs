@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "ਲਿੰਕ ਵਜੋਂ ਚੁਣਿਆ ਗਿਆ",
+    "message": "ਲਿੰਕਾਂ ਵਜੋਂ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ਟੈਕਸਟ URLs ਵਜੋਂ ਚੁਣਿਆ ਗਿਆ",
+    "message": "ਟੈਕਸਟ URL ਦੇ ਤੌਰ 'ਤੇ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "ਲਿੰਕ ਵਜੋਂ ਚੁਣਿਆ ਗਿਆ (✂️)",
+    "message": "ਲਿੰਕਾਂ ਵਜੋਂ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ਟੈਕਸਟ URLs ਵਜੋਂ ਚੁਣਿਆ ਗਿਆ (✂️)",
+    "message": "ਟੈਕਸਟ URL ਦੇ ਤੌਰ 'ਤੇ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

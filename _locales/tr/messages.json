@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Bağlantılar Olarak Seçildi",
+    "message": "Bağlantı Olarak Seçilen Sekmeler",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Metin URL'leri olarak seçildi",
+    "message": "Metin URL'leri Olarak Seçilen Sekmeler",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Bağlantılar Olarak Seçildi (✂️)",
+    "message": "Bağlantı Olarak Seçilen Sekmeler (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Metin URL'leri olarak seçildi (✂️)",
+    "message": "Metin URL'leri Olarak Seçilen Sekmeler (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

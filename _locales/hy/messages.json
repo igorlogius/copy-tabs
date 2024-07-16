@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ընտրված է որպես Հղումներ",
+    "message": "Ընտրված ներդիրները որպես հղումներ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ընտրված է որպես Տեքստային URL",
+    "message": "Ընտրված ներդիրները որպես տեքստային URL",
     "description": ""
   },
   "cpytabtxt": {
@@ -44,11 +44,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ընտրված է որպես Հղումներ (✂️)",
+    "message": "Ընտրված ներդիրները որպես հղումներ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ընտրված է որպես Տեքստային URL (✂️)",
+    "message": "Ընտրված ներդիրները որպես տեքստային URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
