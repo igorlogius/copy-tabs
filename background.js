@@ -252,7 +252,7 @@ function onBAClicked(tab, info) {
   if (popupmode) {
     if (info.button === 1) {
       browser.browserAction.setPopup({
-        popup: browser.runtime.getURL("popup.html"),
+        popup: "popup.html",
       });
       browser.browserAction.openPopup();
     } else {
@@ -264,7 +264,7 @@ function onBAClicked(tab, info) {
     } else {
       // default
       browser.browserAction.setPopup({
-        popup: browser.runtime.getURL("popup.html"),
+        popup: "popup.html",
       });
       browser.browserAction.openPopup();
     }
@@ -272,10 +272,15 @@ function onBAClicked(tab, info) {
 }
 
 async function onInstalled(details) {
-  if (details.reason === "install") {
-    let tmp = await fetch(browser.runtime.getURL("noURLParamsFunction.js"));
-    tmp = await tmp.text();
-    browser.storage.local.set({ noURLParamsFunction: tmp });
+  noURLParamsFunctionCode = await getFromStorage(
+    "string",
+    "noURLParamsFunction",
+    "",
+  );
+  if (details.reason === "install" || noURLParamsFunctionCode === "") {
+    let tmp = await fetch("noURLParamsFunction.js");
+    noURLParamsFunctionCode = await tmp.text();
+    browser.storage.local.set({ noURLParamsFunction: noURLParamsFunctionCode });
   }
 }
 
@@ -373,12 +378,11 @@ function onMessage(req) {
 
   await onStorageChange();
   ready = true;
-
-  browser.storage.onChanged.addListener(onStorageChange);
-  browser.commands.onCommand.addListener(onCommand);
-  browser.browserAction.onClicked.addListener(onBAClicked);
-  browser.runtime.onInstalled.addListener(onInstalled);
-  browser.runtime.onMessage.addListener(onMessage);
 })();
 
+browser.runtime.onInstalled.addListener(onInstalled);
+browser.runtime.onMessage.addListener(onMessage);
+browser.browserAction.onClicked.addListener(onBAClicked);
+browser.commands.onCommand.addListener(onCommand);
+browser.storage.onChanged.addListener(onStorageChange);
 // EOF
