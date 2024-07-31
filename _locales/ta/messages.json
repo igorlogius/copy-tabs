@@ -58,5 +58,41 @@
   "cpytablnknp": {
     "message": "இணைப்பாக இந்த தாவல் (✂️)",
     "description": ""
+  },
+  "tip1": {
+    "message": "The active tab is always selected",
+    "description": ""
+  },
+  "tip2": {
+    "message": "Hold the CTRL key to select additional tabs",
+    "description": ""
+  },
+  "tip3": {
+    "message": "Hold SHIFT key to select a range of tabs",
+    "description": ""
+  },
+  "tip4": {
+    "message": "You can set custom shortcuts for all copy actions",
+    "description": ""
+  },
+  "tip5": {
+    "message": "All actions can also be found in the tab context menu",
+    "description": ""
+  },
+  "tip6": {
+    "message": "You can disable this popup in the addons preferences page",
+    "description": ""
+  },
+  "tip7": {
+    "message": "Use the middle mouse button to invoke the direct action",
+    "description": ""
+  },
+  "tip8": {
+    "message": "Set the direct copy action in the toolbar buttons context menu",
+    "description": ""
+  },
+  "tip9": {
+    "message": "Give the developer some feedback so he'll know whats good and what needs impovement",
+    "description": ""
   }
 }

@@ -26,6 +26,16 @@ while read line;do
 	cpysellnknp="$cpysellnk (✂️)"
 	cpyseltxtnp="$cpyseltxt (✂️)"
 
+    tip1="The active tab is always selected"
+    tip2="Hold the CTRL key to select additional tabs"
+    tip3="Hold SHIFT key to select a range of tabs"
+    tip4="You can set custom shortcuts for all copy actions"
+    tip5="All actions can also be found in the tab context menu"
+    tip6="You can disable this popup in the addons preferences page"
+    tip7="Use the middle mouse button to invoke the direct action"
+    tip8="Set the direct copy action in the toolbar buttons context menu"
+    tip9="Give the developer some feedback so he'll know whats good and what needs impovement"
+
 	JSON=$(cat << EOI
 
 {
@@ -87,6 +97,42 @@ while read line;do
   },
   "cpytablnknp": {
     "message": "$cpytablnknp",
+    "description": ""
+  },
+  "tip1": {
+    "message": "$tip1",
+    "description": ""
+  },
+  "tip2": {
+    "message": "$tip2",
+    "description": ""
+  },
+  "tip3": {
+    "message": "$tip3",
+    "description": ""
+  },
+  "tip4": {
+    "message": "$tip4",
+    "description": ""
+  },
+  "tip5": {
+    "message": "$tip5",
+    "description": ""
+  },
+  "tip6": {
+    "message": "$tip6",
+    "description": ""
+  },
+  "tip7": {
+    "message": "$tip7",
+    "description": ""
+  },
+  "tip8": {
+    "message": "$tip8",
+    "description": ""
+  },
+  "tip9": {
+    "message": "$tip9",
     "description": ""
   }
 }

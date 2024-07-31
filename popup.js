@@ -1,15 +1,15 @@
 /* global browser */
 
 const tipCollection = [
-  "The active tab is always selected",
-  "Hold CTRL to select addional tabs",
-  "Hold SHIFT to select a range of tabs",
-  "You can set custom shortcuts for all copy actions",
-  "All actions are can also be found in the tab context menu",
-  "You can disable this popup on the addons preference page",
-  "Use the 3rd/middle mouse button to invoke the direct action",
-  "Set the direct copy action in the toolbar buttons context menu",
-  "Give the developer some feedback so he'll know whats good and what needs impovement",
+   browser.i18n.getMessage("tip1"),
+   browser.i18n.getMessage("tip2"),
+   browser.i18n.getMessage("tip3"),
+   browser.i18n.getMessage("tip4"),
+   browser.i18n.getMessage("tip5"),
+   browser.i18n.getMessage("tip6"),
+   browser.i18n.getMessage("tip7"),
+   browser.i18n.getMessage("tip8"),
+   browser.i18n.getMessage("tip9")
 ];
 
 function onDOMContentLoaded() {
