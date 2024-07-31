@@ -345,7 +345,15 @@ function onMessage(req) {
   });
 
   // add the 4 context entries
+  lastCmdgrp = "";
   for (const cmd of Object.keys(manifest.commands)) {
+    if (cmd.slice(3, 6) !== lastCmdgrp) {
+      browser.menus.create({
+        contexts: ["tab"],
+        type: "separator",
+      });
+      lastCmdgrp = cmd.slice(3, 6);
+    }
     browser.menus.create({
       id: "" + cmd,
       title: manifest.commands[cmd].description,
@@ -365,7 +373,16 @@ function onMessage(req) {
   });
 
   // add the 4 context entries
+  lastCmdgrp = "all";
   for (const cmd of Object.keys(manifest.commands)) {
+    if (cmd.slice(3, 6) !== lastCmdgrp) {
+      browser.menus.create({
+        contexts: ["browser_action"],
+        parentId: "basela",
+        type: "separator",
+      });
+      lastCmdgrp = cmd.slice(3, 6);
+    }
     browser.menus.create({
       parentId: "basela",
       title: manifest.commands[cmd].description,
