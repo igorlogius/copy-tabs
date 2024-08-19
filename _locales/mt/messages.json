@@ -8,11 +8,11 @@
     "description": ""
   },
   "selectaction": {
-    "message": "Issettja t-tielet azzjoni tal-buttuna tal-maws",
+    "message": "Agħżel azzjoni MMB",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "It-Tabs kollha bħala Links",
+    "message": "Tabs kollha bħala Links",
     "description": ""
   },
   "cpyalltxt": {
@@ -28,7 +28,7 @@
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Din it-Tab bħala URL tat-Test",
+    "message": "Din it-Tab bħala Test URL",
     "description": ""
   },
   "cpytablnk": {
@@ -36,7 +36,7 @@
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "It-Tabs kollha bħala Links (✂️)",
+    "message": "Tabs kollha bħala Links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
@@ -52,7 +52,7 @@
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Din it-Tab bħala URL tat-Test (✂️)",
+    "message": "Din it-Tab bħala Test URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
@@ -60,39 +60,39 @@
     "description": ""
   },
   "tip1": {
-    "message": "The active tab is always selected",
+    "message": "The active tab is per default selected",
     "description": ""
   },
   "tip2": {
-    "message": "Hold the CTRL key to select additional tabs",
+    "message": "Use CTRL to select additional tabs",
     "description": ""
   },
   "tip3": {
-    "message": "Hold SHIFT key to select a range of tabs",
+    "message": "Use SHIFT to select a range of tabs",
     "description": ""
   },
   "tip4": {
-    "message": "You can set custom shortcuts for all copy actions",
+    "message": "All copy actions can be assigned shortcuts",
     "description": ""
   },
   "tip5": {
-    "message": "All actions can also be found in the tab context menu",
+    "message": "All copy actions are also available via the tab context menu",
     "description": ""
   },
   "tip6": {
-    "message": "You can disable this popup in the addons preferences page",
+    "message": "LMB and MMB action of the toolbar button can be switched",
     "description": ""
   },
   "tip7": {
-    "message": "Use the middle mouse button to invoke the direct action",
+    "message": "Use MMB/LMB to invoke a copy action immediately",
     "description": ""
   },
   "tip8": {
-    "message": "Set the direct copy action in the toolbar buttons context menu",
+    "message": "Select the immediate copy action via the toolbar buttons context menu",
     "description": ""
   },
   "tip9": {
-    "message": "Give the developer some feedback so he'll know whats good and what needs impovement",
+    "message": "Give the developer some feedback so he'll know whats good and what needs impovement.",
     "description": ""
   }
 }
