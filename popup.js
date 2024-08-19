@@ -1,15 +1,15 @@
 /* global browser */
 
 const tipCollection = [
-   browser.i18n.getMessage("tip1"),
-   browser.i18n.getMessage("tip2"),
-   browser.i18n.getMessage("tip3"),
-   browser.i18n.getMessage("tip4"),
-   browser.i18n.getMessage("tip5"),
-   browser.i18n.getMessage("tip6"),
-   browser.i18n.getMessage("tip7"),
-   browser.i18n.getMessage("tip8"),
-   browser.i18n.getMessage("tip9")
+  browser.i18n.getMessage("tip1"),
+  browser.i18n.getMessage("tip2"),
+  browser.i18n.getMessage("tip3"),
+  browser.i18n.getMessage("tip4"),
+  browser.i18n.getMessage("tip5"),
+  browser.i18n.getMessage("tip6"),
+  browser.i18n.getMessage("tip7"),
+  browser.i18n.getMessage("tip8"),
+  browser.i18n.getMessage("tip9"),
 ];
 
 function onDOMContentLoaded() {

@@ -260,15 +260,20 @@ function onBAClicked(tab, info) {
     }
   } else {
     if (info.button === 1) {
+      browser.browserAction.setPopup({
+        popup: "",
+      });
       onCommand(toolbarAction);
     } else {
-      // default
       browser.browserAction.setPopup({
         popup: "popup.html",
       });
       browser.browserAction.openPopup();
     }
   }
+  browser.browserAction.setPopup({
+    popup: "",
+  });
 }
 
 async function onInstalled(details) {
