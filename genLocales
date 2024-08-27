@@ -11,7 +11,7 @@ while read line;do
 	name=$(trans -brief -from en -to "$line" "Copy Tabs")
 	desc=$(trans -brief -from en -to $line "Copy tab urls as hyperlinks or plain text")
 
-	selectaction=$(trans -brief -from en -to $line "Select MMB action")
+	selectaction=$(trans -brief -from en -to $line "Select Immediate Action")
 	cpytablnk=$(trans -brief -from en -to $line "This Tab as Link")
 	cpytabtxt=$(trans -brief -from en -to $line "This Tab as Text URL")
 	cpyalllnk=$(trans -brief -from en -to $line "All Tabs as Links")
@@ -26,15 +26,15 @@ while read line;do
 	cpysellnknp="$cpysellnk (✂️)"
 	cpyseltxtnp="$cpyseltxt (✂️)"
 
-    tip1="The active tab is per default selected"
-    tip2="Use CTRL to select additional tabs"
-    tip3="Use SHIFT to select a range of tabs"
-    tip4="All copy actions can be assigned shortcuts"
+    tip1="The active tab is always selected"
+    tip2="Use the CTRL key to select additional tabs"
+    tip3="Use the SHIFT key to select a range of tabs"
+    tip4="All copy actions can be assigned to hotkeys/shortcuts"
     tip5="All copy actions are also available via the tab context menu"
     tip6="LMB and MMB action of the toolbar button can be switched"
-    tip7="Use MMB/LMB to invoke a copy action immediately"
-    tip8="Select the immediate copy action via the toolbar buttons context menu"
-    tip9="Give the developer some feedback so he'll know whats good and what needs impovement."
+    tip7="Use MMB/LMB to immediately invoke a copy action"
+    tip8="Change the immediate copy action via the toolbar buttons context menu"
+    tip9="Give the developers feedback so they'll know what is good and what needs impovement"
 
 	JSON=$(cat << EOI
 
