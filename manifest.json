@@ -1,11 +1,13 @@
 {
   "author": "igorlogius",
+  "browser_style": true,
   "default_locale": "en",
   "homepage_url": "https://github.com/igorlogius",
   "background": {
     "scripts": ["background.js"]
   },
   "browser_action": {
+    "browser_style": true,
     "default_area": "navbar",
     "theme_icons": [
       {
@@ -46,6 +48,7 @@
   },
 
   "options_ui": {
+    "browser_style": true,
     "open_in_tab": false,
     "page": "options.html"
   },
@@ -54,5 +57,5 @@
   "description": "__MSG_addonDesc__",
   "permissions": ["clipboardWrite", "storage", "menus", "tabs"],
   "optional_permissions": ["notifications"],
-  "version": "1.16.54"
+  "version": "1.16.55"
 }

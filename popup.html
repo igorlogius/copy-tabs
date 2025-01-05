@@ -4,27 +4,30 @@
   <link rel="icon" type="image/png" href="icon.png" />
   <title>Copy Tabs - Popup</title>
   <style>
+    :root {
+      color-scheme: light dark;
+    }
     body {
-      font-family: monospace;
-      width: 300px;
+      padding: 0.6em;
+      margin: 0;
+      color: light-dark(black, white);
+      background-color: light-dark(gainsboro, darkgray);
     }
     button {
-      font-family: monospace;
-      text-align: left;
-      margin: 3px;
-      padding: 0.5em;
+      color: light-dark(black, black);
+      background-color: light-dark(white, gainsboro);
+      padding: 3px;
+      margin: 5px;
+    }
+    button:hover {
+      background-color: light-dark(gainsboro, white);
     }
   </style>
 </head>
-<body style="background: silver">
-  <fieldset>
-    <div
-      id="btncontainer"
-      style="display: grid; grid-template-columns: 2fr 0.25fr"
-    ></div>
-  </fieldset>
-  <fieldset>
-    <small> <b>Tip:</b> <span id="tip"></span> </small>
-  </fieldset>
+<body>
+  <div
+    id="btncontainer"
+    style="display: grid; grid-template-columns: 2fr 0.25fr"
+  ></div>
   <script src="popup.js"></script>
 </body>

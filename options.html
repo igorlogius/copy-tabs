@@ -4,13 +4,19 @@
   <link rel="icon" type="image/png" href="icon.png" />
   <title>Copy Tabs - Options</title>
   <style>
+    :root {
+      color-scheme: light dark;
+    }
     body {
-      padding: 3px;
+      padding: 0;
+      margin: 0;
+      color: light-dark(black, white);
+      background-color: light-dark(white, black);
     }
     #noURLParamsFunction {
-      background-color: lightgray;
-      height: 50em;
-      height: 50em;
+      color: light-dark(black, white);
+      background-color: light-dark(white, black);
+      height: 40em;
       resize: vertical;
       white-space: pre-wrap;
       width: 99%;
@@ -20,20 +26,40 @@
       margin-left: 25%;
       width: 50%;
     }
+    button {
+      color: light-dark(black, black);
+      background-color: light-dark(white, gainsboro);
+      padding: 3px;
+      margin: 5px;
+    }
+    button:hover {
+      background-color: light-dark(gainsboro, white);
+    }
   </style>
 </head>
-<body style="background: silver">
+<body>
   <fieldset>
+    <b>Toolbar button</b>: Swap
+    <abbr title="Left Mouse Button"><b>LMB</b></abbr> and
+    <abbr title="Middle Mouse Button"><b>MMB</b></abbr> actions
     <input type="checkbox" id="popupmode" />
-    Switch <abbr title="Left Mouse Button">LMB</abbr> and
-    <abbr title="Middle Mouse Button">MMB</abbr> actions on the toolbar button
-    <abbr title="unchecked: LMB - show popup and MMB - instant copy">(?)</abbr>
+    <abbr
+      title="unchecked: LMB: shows popup and MMB: invokes the immediate action"
+      >(?)</abbr
+    >
   </fieldset>
   <fieldset>
-    <legend><b>Strip Parameters</b></legend>
-    <textarea spellcheck="false" id="noURLParamsFunction"></textarea>
+    <b>Notifications</b>: "Permissions" &gt; "Display notifications to you"
+  </fieldset>
+  <fieldset>
+    <b>Customize the strip parameter function:</b><br />
+    <textarea
+      class="browser-style"
+      spellcheck="false"
+      id="noURLParamsFunction"
+    ></textarea>
   </fieldset>
 
-  <button id="reset">Reset to default</button>
+  <button class="browser-style" id="reset">Reset to default</button>
   <script src="options.js"></script>
 </body>

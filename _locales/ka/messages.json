@@ -58,41 +58,5 @@
   "cpytablnknp": {
     "message": "ეს ჩანართი როგორც ბმული (✂️)",
     "description": ""
-  },
-  "tip1": {
-    "message": "The active tab is always selected",
-    "description": ""
-  },
-  "tip2": {
-    "message": "Use the CTRL key to select additional tabs",
-    "description": ""
-  },
-  "tip3": {
-    "message": "Use the SHIFT key to select a range of tabs",
-    "description": ""
-  },
-  "tip4": {
-    "message": "All copy actions can be assigned to hotkeys/shortcuts",
-    "description": ""
-  },
-  "tip5": {
-    "message": "All copy actions are also available via the tab context menu",
-    "description": ""
-  },
-  "tip6": {
-    "message": "LMB and MMB action of the toolbar button can be switched",
-    "description": ""
-  },
-  "tip7": {
-    "message": "Use MMB/LMB to immediately invoke a copy action",
-    "description": ""
-  },
-  "tip8": {
-    "message": "Change the immediate copy action via the toolbar buttons context menu",
-    "description": ""
-  },
-  "tip9": {
-    "message": "Give the developers feedback so they'll know what is good and what needs impovement",
-    "description": ""
   }
 }

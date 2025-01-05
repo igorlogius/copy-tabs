@@ -26,16 +26,6 @@ while read line;do
 	cpysellnknp="$cpysellnk (✂️)"
 	cpyseltxtnp="$cpyseltxt (✂️)"
 
-    tip1="The active tab is always selected"
-    tip2="Use the CTRL key to select additional tabs"
-    tip3="Use the SHIFT key to select a range of tabs"
-    tip4="All copy actions can be assigned to hotkeys/shortcuts"
-    tip5="All copy actions are also available via the tab context menu"
-    tip6="LMB and MMB action of the toolbar button can be switched"
-    tip7="Use MMB/LMB to immediately invoke a copy action"
-    tip8="Change the immediate copy action via the toolbar buttons context menu"
-    tip9="Give the developers feedback so they'll know what is good and what needs impovement"
-
 	JSON=$(cat << EOI
 
 {
@@ -97,42 +87,6 @@ while read line;do
   },
   "cpytablnknp": {
     "message": "$cpytablnknp",
-    "description": ""
-  },
-  "tip1": {
-    "message": "$tip1",
-    "description": ""
-  },
-  "tip2": {
-    "message": "$tip2",
-    "description": ""
-  },
-  "tip3": {
-    "message": "$tip3",
-    "description": ""
-  },
-  "tip4": {
-    "message": "$tip4",
-    "description": ""
-  },
-  "tip5": {
-    "message": "$tip5",
-    "description": ""
-  },
-  "tip6": {
-    "message": "$tip6",
-    "description": ""
-  },
-  "tip7": {
-    "message": "$tip7",
-    "description": ""
-  },
-  "tip8": {
-    "message": "$tip8",
-    "description": ""
-  },
-  "tip9": {
-    "message": "$tip9",
     "description": ""
   }
 }
