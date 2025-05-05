@@ -19,11 +19,10 @@ async function setToStorage(id, value) {
   return browser.storage.local.set(obj);
 }
 
-function iconBlink() {
-  browser.browserAction.disable();
+function iconReset() {
   setTimeout(() => {
     browser.browserAction.enable();
-  }, 300);
+  }, 450);
 }
 
 async function getFromStorage(type, id, fallback) {
@@ -31,25 +30,9 @@ async function getFromStorage(type, id, fallback) {
   return typeof tmp[id] === type ? tmp[id] : fallback;
 }
 
-function notify(title, message = "", iconUrl = "icon.png") {
-  try {
-    const nid = browser.notifications.create("" + Date.now(), {
-      type: "basic",
-      iconUrl,
-      title,
-      message,
-    });
-    if (nid > -1) {
-      setTimeout(() => {
-        browser.notifications.clear(nid);
-      }, 3000);
-    }
-  } catch (e) {
-    // noop
-  }
-}
-
 async function copyTabsAsText(tabs) {
+  browser.browserAction.disable();
+
   runtab = await browser.tabs.create({
     active: false,
     url: "empty.html",
@@ -75,88 +58,82 @@ async function copyTabsAsText(tabs) {
     )
   ).join("\n");
   browser.tabs.remove(runtab.id);
-  try {
-    navigator.clipboard.writeText(text);
-    return true;
-  } catch (e) {
-    console.error(e);
-  }
-  return false;
+
+  navigator.clipboard.writeText(text);
+
+  iconReset();
 }
 
 async function copyTabsAsHtml(tabs) {
+  browser.browserAction.disable();
+
   runtab = await browser.tabs.create({
     active: false,
     url: "empty.html",
   });
 
-  try {
-    let fallbackTextClipboardItem = "";
-    let span = document.createElement("span"); // needs to be a <span> to prevent the final linebreak
-    span.style.position = "absolute";
-    span.style.bottom = "-9999999"; // move it offscreen
-    document.body.append(span);
+  let fallbackTextClipboardItem = "";
+  let span = document.createElement("span"); // needs to be a <span> to prevent the final linebreak
+  span.style.position = "absolute";
+  span.style.bottom = "-9999999"; // move it offscreen
+  document.body.append(span);
 
-    const tabs_len = tabs.length;
-    for (let i = 0; i < tabs.length; i++) {
-      let t = tabs[i];
-      let a = document.createElement("a");
+  const tabs_len = tabs.length;
+  for (let i = 0; i < tabs.length; i++) {
+    let t = tabs[i];
+    let a = document.createElement("a");
 
-      if (noURLParams) {
-        try {
-          tmp = await browser.tabs.executeScript(runtab.id, {
-            code: `((url) => { ${noURLParamsFunctionCode} ;return url;})("${t.url}")`,
-          });
+    if (noURLParams) {
+      try {
+        tmp = await browser.tabs.executeScript(runtab.id, {
+          code: `((url) => { ${noURLParamsFunctionCode} ;return url;})("${t.url}")`,
+        });
 
-          if (Array.isArray(tmp) && typeof tmp[0] === "string") {
-            a.href = tmp[0].replace(/\s+/g, "");
-          }
-        } catch (e) {
-          console.error(e);
+        if (Array.isArray(tmp) && typeof tmp[0] === "string") {
+          a.href = tmp[0].replace(/\s+/g, "");
         }
-      } else {
-        a.href = t.url;
+      } catch (e) {
+        console.error(e);
       }
-      a.textContent = t.title;
-      span.append(a);
-      fallbackTextClipboardItem += a.href;
-      if (i !== tabs_len - 1) {
-        let br = document.createElement("br");
-        span.append(br);
-        fallbackTextClipboardItem += "\n";
-      }
-    }
-
-    browser.tabs.remove(runtab.id);
-
-    if (
-      typeof navigator.clipboard.write === "undefined" ||
-      typeof ClipboardItem === "undefined"
-    ) {
-      span.focus();
-      document.getSelection().removeAllRanges();
-      var range = document.createRange();
-      range.selectNode(span);
-      document.getSelection().addRange(range);
-      document.execCommand("copy");
     } else {
-      navigator.clipboard.write([
-        new ClipboardItem({
-          "text/plain": new Blob([fallbackTextClipboardItem], {
-            type: "text/plain",
-          }),
-          "text/html": new Blob([span.innerHTML], {
-            type: "text/html",
-          }),
-        }),
-      ]);
+      a.href = t.url;
     }
-    span.remove();
-    return true;
-  } catch (e) {
-    console.error(e);
+    a.textContent = t.title;
+    span.append(a);
+    fallbackTextClipboardItem += a.href;
+    if (i !== tabs_len - 1) {
+      let br = document.createElement("br");
+      span.append(br);
+      fallbackTextClipboardItem += "\n";
+    }
   }
-  return false;
+
+  browser.tabs.remove(runtab.id);
+
+  if (
+    typeof navigator.clipboard.write === "undefined" ||
+    typeof ClipboardItem === "undefined"
+  ) {
+    span.focus();
+    document.getSelection().removeAllRanges();
+    var range = document.createRange();
+    range.selectNode(span);
+    document.getSelection().addRange(range);
+    document.execCommand("copy");
+  } else {
+    navigator.clipboard.write([
+      new ClipboardItem({
+        "text/plain": new Blob([fallbackTextClipboardItem], {
+          type: "text/plain",
+        }),
+        "text/html": new Blob([span.innerHTML], {
+          type: "text/html",
+        }),
+      }),
+    ]);
+  }
+  span.remove();
+  iconReset();
 }
 
 async function onCommand(cmd) {
@@ -174,40 +151,32 @@ async function onCommand(cmd) {
       currentWindow: true,
       hidden: false,
       url: "<all_urls>",
-      discarded: false,
-      status: "complete",
     },
-    tabs,
-    ret = false;
+    tabs;
   switch (cmd) {
     case "cpyalllnk":
     case "cpyalllnknp":
       tabs = await browser.tabs.query(qryObj);
-      ret = copyTabsAsHtml(tabs);
+      copyTabsAsHtml(tabs);
       break;
     case "cpyalltxt":
     case "cpyalltxtnp":
       tabs = await browser.tabs.query(qryObj);
-      ret = copyTabsAsText(tabs);
+      copyTabsAsText(tabs);
       break;
     case "cpysellnk":
     case "cpysellnknp":
       qryObj["highlighted"] = true;
       tabs = await browser.tabs.query(qryObj);
-      ret = copyTabsAsHtml(tabs);
+      copyTabsAsHtml(tabs);
       break;
     case "cpyseltxt":
     case "cpyseltxtnp":
       qryObj["highlighted"] = true;
       tabs = await browser.tabs.query(qryObj);
-      ret = copyTabsAsText(tabs);
+      copyTabsAsText(tabs);
       break;
   }
-  if (ret) {
-    iconBlink();
-    notify(extname, manifest.commands[cmd].description);
-  }
-  return ret;
 }
 
 async function onStorageChange() {
@@ -303,11 +272,7 @@ function onMessage(req) {
     contexts: ["tab"],
     onclick: async (info, tab) => {
       noURLParams = false;
-      const ret = copyTabsAsHtml([tab]);
-      if (ret) {
-        iconBlink();
-        notify(extname, browser.i18n.getMessage("cpytablnk"));
-      }
+      copyTabsAsHtml([tab]);
     },
   });
   browser.menus.create({
@@ -315,11 +280,7 @@ function onMessage(req) {
     contexts: ["tab"],
     onclick: async (info, tab) => {
       noURLParams = true;
-      const ret = copyTabsAsHtml([tab]);
-      if (ret) {
-        iconBlink();
-        notify(extname, browser.i18n.getMessage("cpytablnk"));
-      }
+      copyTabsAsHtml([tab]);
     },
   });
 
@@ -328,11 +289,7 @@ function onMessage(req) {
     contexts: ["tab"],
     onclick: async (info, tab) => {
       noURLParams = false;
-      const ret = copyTabsAsText([tab]);
-      if (ret) {
-        iconBlink();
-        notify(extname, browser.i18n.getMessage("cpytabtxt"));
-      }
+      copyTabsAsText([tab]);
     },
   });
 
@@ -341,11 +298,7 @@ function onMessage(req) {
     contexts: ["tab"],
     onclick: async (info, tab) => {
       noURLParams = true;
-      const ret = copyTabsAsText([tab]);
-      if (ret) {
-        iconBlink();
-        notify(extname, browser.i18n.getMessage("cpytabtxt"));
-      }
+      copyTabsAsText([tab]);
     },
   });
 

@@ -1,21 +1,13 @@
 {
   "author": "igorlogius",
-  "browser_style": true,
   "default_locale": "en",
-  "homepage_url": "https://github.com/igorlogius",
+  "homepage_url": "https://github.com/igorlogius/copy-tabs",
   "background": {
     "scripts": ["background.js"]
   },
   "browser_action": {
     "browser_style": true,
-    "default_area": "navbar",
-    "theme_icons": [
-      {
-        "light": "dark.png",
-        "dark": "light.png",
-        "size": 128
-      }
-    ]
+    "default_area": "navbar"
   },
   "commands": {
     "cpyalllnk": {
@@ -44,7 +36,7 @@
     }
   },
   "icons": {
-    "256": "icon.svg"
+    "320": "icon.png"
   },
 
   "options_ui": {
@@ -56,6 +48,5 @@
   "name": "__MSG_addonName__",
   "description": "__MSG_addonDesc__",
   "permissions": ["clipboardWrite", "storage", "menus", "tabs"],
-  "optional_permissions": ["notifications"],
-  "version": "1.16.55"
+  "version": "1.16.56"
 }
