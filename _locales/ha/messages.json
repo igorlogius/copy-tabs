@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Kwafi Shafukan",
+    "message": "Kwafi shafuka",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kwafi urls shafin azaman hanyoyin haɗin kai ko rubutu na fili",
+    "message": "Kwafi shafuka azaman hyperlinks ko urls rubutu",
     "description": ""
   },
   "selectaction": {
-    "message": "Zaɓi Mataki na gaggawa",
+    "message": "Zabi wani aiki na gaggawa",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Duk Shafukan azaman hanyoyin haɗin gwiwa",
+    "message": "Duk shafuka azaman hanyar haɗin yanar gizo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Duk Shafuka azaman URLs Rubutu",
+    "message": "Duk shafuka azaman urls rubutu",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Shafukan da aka zaɓa azaman Haɗin kai",
+    "message": "Shafuka da aka zaɓa azaman hanyar haɗin yanar gizo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Shafukan da aka zaɓa azaman URLs Rubutu",
+    "message": "An zabi shafuka a matsayin URLs rubutu",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Wannan Tab a matsayin URL Rubutu",
+    "message": "Wannan shafin azaman URL rubutu",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Wannan Tab a matsayin Link",
+    "message": "Wannan shafin azaman hanyar haɗi",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Tabungiyoyi na rukuni azaman urls rubutu",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Tabungiyoyi na rukuni azaman urls rubutu (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Tabungiyoyi na rukuni azaman hanyar haɗin yanar gizo",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Tabungiyoyi na rukuni azaman hanyar haɗin yanar gizo (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Duk Shafukan azaman hanyoyin haɗin gwiwa (✂️)",
+    "message": "Duk shafuka azaman hanyar haɗin yanar gizo (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Duk Shafuka azaman URLs Rubutu (✂️)",
+    "message": "Duk shafuka azaman urls rubutu (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Shafukan da aka zaɓa azaman Haɗin kai (✂️)",
+    "message": "Shafuka da aka zaɓa azaman hanyar haɗin yanar gizo (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Shafukan da aka zaɓa azaman URLs Rubutu (✂️)",
+    "message": "An zabi shafuka a matsayin URLs rubutu (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Wannan Tab a matsayin URL Rubutu (✂️)",
+    "message": "Wannan shafin azaman URL rubutu (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Wannan Tab a matsayin Link (✂️)",
+    "message": "Wannan shafin azaman hanyar haɗi (✂️)",
     "description": ""
   }
 }

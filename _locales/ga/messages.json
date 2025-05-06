@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Cóipeáil Cluaisíní",
+    "message": "Cóipeála Cluaisíní",
     "description": ""
   },
   "addonDesc": {
-    "message": "Cóipeáil urls cluaisín mar hipearnasc nó gnáth-théacs",
+    "message": "Cóipeáil cluaisíní mar hyperlinks nó URLanna téacs",
     "description": ""
   },
   "selectaction": {
-    "message": "Roghnaigh Gníomh Láithreach",
+    "message": "Roghnaigh gníomh láithreach",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Gach Cluaisín mar Naisc",
+    "message": "Gach cluaisín mar naisc",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Gach Cluaisín mar URLanna Téacs",
+    "message": "Gach cluaisín mar URLanna téacs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Cluaisíní Roghnaithe mar Naisc",
+    "message": "Cluaisíní roghnaithe mar naisc",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Cluaisíní Roghnaithe mar URLanna Téacs",
+    "message": "Cluaisíní roghnaithe mar URLanna téacs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "An Cluaisín seo mar URL Téacs",
+    "message": "An cluaisín seo mar URL téacs",
     "description": ""
   },
   "cpytablnk": {
-    "message": "An Cluaisín seo mar Nasc",
+    "message": "An cluaisín seo mar nasc",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Cluaisíní grúpa mar URLanna téacs",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Cluaisíní grúpa mar URLanna téacs (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Cluaisíní grúpa mar naisc",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Cluaisíní grúpa mar naisc (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Gach Cluaisín mar Naisc (✂️)",
+    "message": "Gach cluaisín mar naisc (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Gach Cluaisín mar URLanna Téacs (✂️)",
+    "message": "Gach cluaisín mar URLanna téacs (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Cluaisíní Roghnaithe mar Naisc (✂️)",
+    "message": "Cluaisíní roghnaithe mar naisc (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Cluaisíní Roghnaithe mar URLanna Téacs (✂️)",
+    "message": "Cluaisíní roghnaithe mar URLanna téacs (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "An Cluaisín seo mar URL Téacs (✂️)",
+    "message": "An cluaisín seo mar URL téacs (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "An Cluaisín seo mar Nasc (✂️)",
+    "message": "An cluaisín seo mar nasc (✂️)",
     "description": ""
   }
 }

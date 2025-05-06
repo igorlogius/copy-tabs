@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copia gli URL delle schede come collegamenti ipertestuali o testo semplice",
+    "message": "Copia le schede come collegamenti ipertestuali o URL di testo",
     "description": ""
   },
   "selectaction": {
@@ -33,6 +33,22 @@
   },
   "cpytablnk": {
     "message": "Questa scheda come collegamento",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Schede del gruppo come URL di testo",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Schede del gruppo come URL di testo (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Schede di gruppo come collegamenti",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Schede di gruppo come collegamenti (✂️)",
     "description": ""
   },
   "cpyalllnknp": {

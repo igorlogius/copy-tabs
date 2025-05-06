@@ -1,58 +1,74 @@
 {
   "addonName": {
-    "message": "Copiar pestanas",
+    "message": "Pestañas de copia",
     "description": ""
   },
   "addonDesc": {
-    "message": "Copia os URL das pestanas como hipervínculos ou texto simple",
+    "message": "Copia pestanas como hipervínculos ou URL de texto",
     "description": ""
   },
   "selectaction": {
-    "message": "Seleccione Acción inmediata",
+    "message": "Selecciona acción inmediata",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Todas as pestanas como ligazóns",
+    "message": "Todas as pestañas como ligazóns",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Todas as pestanas como URL de texto",
+    "message": "Todas as pestañas como URL de texto",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Pestanas seleccionadas como ligazóns",
+    "message": "Fichas seleccionadas como ligazóns",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Pestanas seleccionadas como URL de texto",
+    "message": "Fichas seleccionadas como URL de texto",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Esta pestana como URL de texto",
+    "message": "Esta pestana como url de texto",
     "description": ""
   },
   "cpytablnk": {
     "message": "Esta pestana como ligazón",
     "description": ""
   },
+  "cpygrptxt": {
+    "message": "Fichas do grupo como URL de texto",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Fichas do grupo como URL de texto (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Fichas do grupo como ligazóns",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Fichas do grupo como ligazóns (✂️)",
+    "description": ""
+  },
   "cpyalllnknp": {
-    "message": "Todas as pestanas como ligazóns (✂️)",
+    "message": "Todas as pestañas como ligazóns (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Todas as pestanas como URL de texto (✂️)",
+    "message": "Todas as pestañas como URL de texto (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Pestanas seleccionadas como ligazóns (✂️)",
+    "message": "Fichas seleccionadas como ligazóns (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Pestanas seleccionadas como URL de texto (✂️)",
+    "message": "Fichas seleccionadas como URL de texto (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Esta pestana como URL de texto (✂️)",
+    "message": "Esta pestana como url de texto (✂️)",
     "description": ""
   },
   "cpytablnknp": {

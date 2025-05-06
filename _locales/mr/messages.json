@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "टॅब कॉपी करा",
+    "message": "कॉपी टॅब",
     "description": ""
   },
   "addonDesc": {
-    "message": "हायपरलिंक्स किंवा साधा मजकूर म्हणून टॅब urls कॉपी करा",
+    "message": "हायपरलिंक्स किंवा मजकूर url म्हणून टॅब कॉपी करा",
     "description": ""
   },
   "selectaction": {
@@ -16,23 +16,39 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "सर्व टॅब मजकूर URL म्हणून",
+    "message": "मजकूर url म्हणून सर्व टॅब",
     "description": ""
   },
   "cpysellnk": {
-    "message": "दुवे म्हणून टॅब निवडले",
+    "message": "दुवे म्हणून निवडलेले टॅब",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "मजकूर URL म्हणून टॅब निवडले",
+    "message": "मजकूर url म्हणून निवडलेले टॅब",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "हा टॅब मजकूर URL म्हणून",
+    "message": "मजकूर url म्हणून हा टॅब",
     "description": ""
   },
   "cpytablnk": {
-    "message": "लिंक म्हणून हा टॅब",
+    "message": "दुवा म्हणून हा टॅब",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "मजकूर url म्हणून गट टॅब",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "मजकूर url म्हणून गट टॅब (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "दुवे म्हणून गट टॅब",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "दुवे म्हणून गट टॅब (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,23 +56,23 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "सर्व टॅब मजकूर URL म्हणून (✂️)",
+    "message": "मजकूर url म्हणून सर्व टॅब (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "दुवे म्हणून टॅब निवडले (✂️)",
+    "message": "दुवे म्हणून निवडलेले टॅब (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "मजकूर URL म्हणून टॅब निवडले (✂️)",
+    "message": "मजकूर url म्हणून निवडलेले टॅब (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "हा टॅब मजकूर URL म्हणून (✂️)",
+    "message": "मजकूर url म्हणून हा टॅब (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "लिंक म्हणून हा टॅब (✂️)",
+    "message": "दुवा म्हणून हा टॅब (✂️)",
     "description": ""
   }
 }

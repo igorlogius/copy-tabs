@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Lapok másolása",
+    "message": "Másolás fülek",
     "description": ""
   },
   "addonDesc": {
-    "message": "Lapok URL-címeinek másolása hiperhivatkozásként vagy egyszerű szövegként",
+    "message": "Másolja a füleket hiperhivatkozásokként vagy szöveges URL -ként",
     "description": ""
   },
   "selectaction": {
-    "message": "Válassza az Azonnali művelet lehetőséget",
+    "message": "Válassza ki az azonnali műveletet",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Minden lap hivatkozásként",
+    "message": "Minden fül linkekként",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Minden lap szöveges URL-ként",
+    "message": "Az összes fül szöveges URL -ként",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Kijelölt lapok hivatkozásként",
+    "message": "Kiválasztott lapok linkekként",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Szöveges URL-ként kiválasztott lapok",
+    "message": "Kiválasztott fülek szöveges URL -ként",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ez a lap szöveges URL-ként",
+    "message": "Ez a fül szöveges URL -ként",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ez a lap hivatkozásként",
+    "message": "Ez a lap linkként",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Csoportos fülek szöveges URL -ként",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Csoportos fülek szöveges URL -ként (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Csoportos fülek linkekként",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Csoportos fülek linkekként (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Minden lap hivatkozásként (✂️)",
+    "message": "Minden fül linkekként (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Minden lap szöveges URL-ként (✂️)",
+    "message": "Az összes fül szöveges URL -ként (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Kijelölt lapok hivatkozásként (✂️)",
+    "message": "Kiválasztott lapok linkekként (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Szöveges URL-ként kiválasztott lapok (✂️)",
+    "message": "Kiválasztott fülek szöveges URL -ként (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ez a lap szöveges URL-ként (✂️)",
+    "message": "Ez a fül szöveges URL -ként (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ez a lap hivatkozásként (✂️)",
+    "message": "Ez a lap linkként (✂️)",
     "description": ""
   }
 }

@@ -4,55 +4,71 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copiați adresele URL ale filelor ca hyperlinkuri sau text simplu",
+    "message": "Copiați filele ca hyperlink -uri sau adrese URL de text",
     "description": ""
   },
   "selectaction": {
-    "message": "Selectați Acțiune imediată",
+    "message": "Selectați acțiune imediată",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Toate filele ca linkuri",
+    "message": "Toate filele ca link -uri",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Toate filele ca URL-uri text",
+    "message": "Toate filele ca adrese URL de text",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Filele selectate ca linkuri",
+    "message": "Filele selectate ca link -uri",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Filele selectate ca URL-uri text",
+    "message": "Filele selectate ca adrese URL de text",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Această filă ca URL text",
+    "message": "Această filă ca adresă URL de text",
     "description": ""
   },
   "cpytablnk": {
     "message": "Această filă ca link",
     "description": ""
   },
+  "cpygrptxt": {
+    "message": "Filele de grup ca adrese URL de text",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Filele de grup ca adrese URL de text (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Filele de grup ca link -uri",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Filele de grup ca link -uri (✂️)",
+    "description": ""
+  },
   "cpyalllnknp": {
-    "message": "Toate filele ca linkuri (✂️)",
+    "message": "Toate filele ca link -uri (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Toate filele ca URL-uri text (✂️)",
+    "message": "Toate filele ca adrese URL de text (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Filele selectate ca linkuri (✂️)",
+    "message": "Filele selectate ca link -uri (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Filele selectate ca URL-uri text (✂️)",
+    "message": "Filele selectate ca adrese URL de text (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Această filă ca URL text (✂️)",
+    "message": "Această filă ca adresă URL de text (✂️)",
     "description": ""
   },
   "cpytablnknp": {

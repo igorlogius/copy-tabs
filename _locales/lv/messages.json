@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopējiet ciļņu URL kā hipersaites vai vienkāršu tekstu",
+    "message": "Kopēt cilnes kā hipersaites vai teksta URL",
     "description": ""
   },
   "selectaction": {
-    "message": "Atlasiet Tūlītēja darbība",
+    "message": "Atlasiet tūlītēju darbību",
     "description": ""
   },
   "cpyalllnk": {
@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Atlasītas cilnes kā saites",
+    "message": "Atlasītās cilnes kā saites",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Atlasītas cilnes kā teksta URL",
+    "message": "Atlasītās cilnes kā teksta URL",
     "description": ""
   },
   "cpytabtxt": {
@@ -33,6 +33,22 @@
   },
   "cpytablnk": {
     "message": "Šī cilne kā saite",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Grupas cilnes kā teksta URL",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Grupas cilnes kā teksta URL (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Grupas cilnes kā saites",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Grupas cilnes kā saites (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -44,11 +60,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Atlasītas cilnes kā saites (✂️)",
+    "message": "Atlasītās cilnes kā saites (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Atlasītas cilnes kā teksta URL (✂️)",
+    "message": "Atlasītās cilnes kā teksta URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

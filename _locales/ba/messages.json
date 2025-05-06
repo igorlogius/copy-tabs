@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Таблица күсермәһе",
+    "message": "Копирование вкладок",
     "description": ""
   },
   "addonDesc": {
-    "message": "Таблицаның гиперлинк йәки ябай текст кеүек күсермәһе",
+    "message": "Копировать вкладки в виде гиперссылок или текстовых URL-адресов",
     "description": ""
   },
   "selectaction": {
-    "message": "Кисекмәҫтән эш итеүҙе һайлағыҙ",
+    "message": "Кисектергеһеҙ ғәмәлдәрҙе һайлағыҙ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Все таблица как Һылтанмалар",
+    "message": "Все вкладки как ссылки",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Все таблица как Тексты URLs",
+    "message": "Все вкладки как текстовые URL-адреса",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Һылтанмалар сифатында һайланған таблицалар",
+    "message": "Выбранные вкладки в качестве ссылок",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Һайланма таблицалар текст URLs сифатында",
+    "message": "Выбранные вкладки в качестве текстовых URL-адресов",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Был таблица ULL тексы булараҡ",
+    "message": "Эта вкладка в качестве текстового URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Был таблица Һылтанма булараҡ",
+    "message": "Эта вкладка как ссылка",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Вкладкаларҙы текст URL-адрестары итеп төркөмләү",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Вкладкаларҙы текст URL-адрестары итеп төркөмләү (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Групповые вкладки в виде ссылок",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Групповые вкладки в виде ссылок (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Все таблица как Һылтанмалар (✂️)",
+    "message": "Все вкладки как ссылки (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Все таблица как Тексты URLs (✂️)",
+    "message": "Все вкладки как текстовые URL-адреса (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Һылтанмалар сифатында һайланған таблицалар (✂️)",
+    "message": "Выбранные вкладки в качестве ссылок (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Һайланма таблицалар текст URLs сифатында (✂️)",
+    "message": "Выбранные вкладки в качестве текстовых URL-адресов (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Был таблица ULL тексы булараҡ (✂️)",
+    "message": "Эта вкладка в качестве текстового URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Был таблица Һылтанма булараҡ (✂️)",
+    "message": "Эта вкладка как ссылка (✂️)",
     "description": ""
   }
 }

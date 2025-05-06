@@ -1,14 +1,14 @@
 {
   "addonName": {
-    "message": "Copy Tabs",
+    "message": "Kapoka tabilao",
     "description": ""
   },
   "addonDesc": {
-    "message": "Adikao ho toy ny rohibe na lahatsoratra tsotra ny url kiheba",
+    "message": "Adikao ny tabilao ho toy ny hyperlink na url text",
     "description": ""
   },
   "selectaction": {
-    "message": "Safidio ny hetsika avy hatrany",
+    "message": "Safidio ny hetsika eo no ho eo",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,23 +16,39 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ny kiheba rehetra ho URL an-tsoratra",
+    "message": "Ny tabilao rehetra ho URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tabilao voafantina ho Rohy",
+    "message": "TABS voafantina ho rohy",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Kiheba voafantina ho URL lahatsoratra",
+    "message": "Tabilao voafantina ho toy ny URL lahatsoratra",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ity kiheba ity ho URL lahatsoratra",
+    "message": "Ity tabilao ity ho URL text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ity Tab ity ho Rohy",
+    "message": "Ity tabilao ity ho rohy",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "TABS GROUP ho URL",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "TABS GROUP ho URL (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Ny tabilao vondrona dia rohy",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Ny tabilao vondrona dia rohy (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,23 +56,23 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ny kiheba rehetra ho URL an-tsoratra (✂️)",
+    "message": "Ny tabilao rehetra ho URL (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tabilao voafantina ho Rohy (✂️)",
+    "message": "TABS voafantina ho rohy (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Kiheba voafantina ho URL lahatsoratra (✂️)",
+    "message": "Tabilao voafantina ho toy ny URL lahatsoratra (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ity kiheba ity ho URL lahatsoratra (✂️)",
+    "message": "Ity tabilao ity ho URL text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ity Tab ity ho Rohy (✂️)",
+    "message": "Ity tabilao ity ho rohy (✂️)",
     "description": ""
   }
 }

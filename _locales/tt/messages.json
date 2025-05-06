@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Күчермәләрне күчерү",
+    "message": "Таблицаларны күчерегез",
     "description": ""
   },
   "addonDesc": {
-    "message": "Гиперштамалар яки гади текст итеп кыстыргыч урлларын күчерегез",
+    "message": "Таблицаларны гиперштаклар яки текст урла итеп күчерегез",
     "description": ""
   },
   "selectaction": {
-    "message": "Шунда ук эшне сайлагыз",
+    "message": "Тиз арада эш сайлагыз",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Барлык кыстыргычлар",
+    "message": "Барлык таблицалар",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Барлык кыстыргычлар да текст URLлары",
+    "message": "Барлык таблицалар",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Сылтамалар итеп сайланган кыстыргычлар",
+    "message": "Сылтам кебек сайланган",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Текст URL-лары итеп сайланган кыстыргычлар",
+    "message": "Текст углес кебек сайланган",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Бу кыстыргыч текст URL",
+    "message": "Текст URL буларак бу кыстыргыч",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Бу сылтама",
+    "message": "Бу кыстыр",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Төркем җиләк",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Төркем җиләк (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Төркемнәр",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Төркемнәр (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Барлык кыстыргычлар (✂️)",
+    "message": "Барлык таблицалар (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Барлык кыстыргычлар да текст URLлары (✂️)",
+    "message": "Барлык таблицалар (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Сылтамалар итеп сайланган кыстыргычлар (✂️)",
+    "message": "Сылтам кебек сайланган (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Текст URL-лары итеп сайланган кыстыргычлар (✂️)",
+    "message": "Текст углес кебек сайланган (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Бу кыстыргыч текст URL (✂️)",
+    "message": "Текст URL буларак бу кыстыргыч (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Бу сылтама (✂️)",
+    "message": "Бу кыстыр (✂️)",
     "description": ""
   }
 }

@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Скопируйте URL-адреса вкладок в виде гиперссылок или обычного текста.",
+    "message": "Скопировать вкладки как гиперссылки или текстовые URL -адреса",
     "description": ""
   },
   "selectaction": {
@@ -16,23 +16,39 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Все вкладки как текстовые URL-адреса",
+    "message": "Все вкладки как текстовые URL",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Выбранные вкладки как ссылки",
+    "message": "Выбранные вкладки в качестве ссылок",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Выбранные вкладки как текстовые URL-адреса",
+    "message": "Выбранные вкладки в качестве текстовых URL -адресов",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Эта вкладка как текстовый URL-адрес",
+    "message": "Эта вкладка в виде текстового URL",
     "description": ""
   },
   "cpytablnk": {
     "message": "Эта вкладка как ссылка",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Групповые вкладки как текстовые URL",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Групповые вкладки как текстовые URL (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Групповые вкладки как ссылки",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Групповые вкладки как ссылки (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,19 +56,19 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Все вкладки как текстовые URL-адреса (✂️)",
+    "message": "Все вкладки как текстовые URL (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Выбранные вкладки как ссылки (✂️)",
+    "message": "Выбранные вкладки в качестве ссылок (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Выбранные вкладки как текстовые URL-адреса (✂️)",
+    "message": "Выбранные вкладки в качестве текстовых URL -адресов (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Эта вкладка как текстовый URL-адрес (✂️)",
+    "message": "Эта вкладка в виде текстового URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

@@ -1,14 +1,14 @@
 {
   "addonName": {
-    "message": "Kopiraj zavihke",
+    "message": "Zavihki za kopiranje",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiraj URL-je zavihkov kot hiperpovezave ali golo besedilo",
+    "message": "Kopirajte zavihke kot hiperpovezave ali besedilne URL -je",
     "description": ""
   },
   "selectaction": {
-    "message": "Izberite Takojšnje ukrepanje",
+    "message": "Izberite takojšnjo dejanje",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Vsi zavihki kot besedilni URL-ji",
+    "message": "Vsi zavihki kot besedilni URL -ji",
     "description": ""
   },
   "cpysellnk": {
@@ -24,7 +24,7 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Izbrani zavihki kot besedilni URL-ji",
+    "message": "Izbrani zavihki kot besedilni URL -ji",
     "description": ""
   },
   "cpytabtxt": {
@@ -35,12 +35,28 @@
     "message": "Ta zavihek kot povezava",
     "description": ""
   },
+  "cpygrptxt": {
+    "message": "Skupinski zavihki kot besedilni URL -ji",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Skupinski zavihki kot besedilni URL -ji (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Skupinski zavihki kot povezave",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Skupinski zavihki kot povezave (✂️)",
+    "description": ""
+  },
   "cpyalllnknp": {
     "message": "Vsi zavihki kot povezave (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Vsi zavihki kot besedilni URL-ji (✂️)",
+    "message": "Vsi zavihki kot besedilni URL -ji (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,7 +64,7 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Izbrani zavihki kot besedilni URL-ji (✂️)",
+    "message": "Izbrani zavihki kot besedilni URL -ji (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

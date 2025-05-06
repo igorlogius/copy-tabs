@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "A nene'i i te tapa'o tab urls ei mau tapa'o e aore râ, ei parau papa'i maramarama",
+    "message": "A nene'i i te mau tapa'o ei mau tapa'o e aore râ, ei mau parau papa'i",
     "description": ""
   },
   "selectaction": {
@@ -33,6 +33,22 @@
   },
   "cpytablnk": {
     "message": "E tu'ati te reira i te",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Te mau tapa'o o te mau parau papa'i",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Te mau tapa'o o te mau parau papa'i (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Te mau tapa'o o te pŭpŭ ei mau hono",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Te mau tapa'o o te pŭpŭ ei mau hono (✂️)",
     "description": ""
   },
   "cpyalllnknp": {

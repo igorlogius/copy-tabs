@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Tabloyên kopî bikin",
+    "message": "Tabloyan kopî bikin",
     "description": ""
   },
   "addonDesc": {
-    "message": "Url-yên tabloyê wekî hîpergirêdan an nivîsek sade kopî bikin",
+    "message": "Tabên wekî urlsên nivîsaran kopî bikin",
     "description": ""
   },
   "selectaction": {
-    "message": "Çalakiya Yekser hilbijêrin",
+    "message": "Çalakiya bilez hilbijêrin",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Hemî Tabî wekî Girêdan",
+    "message": "Hemî tabloyên wekî girêdan",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Hemî tabloyên wekî URLên nivîsê",
+    "message": "Hemî tabloyên wekî urlên nivîsê",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tabên Hilbijartî wekî Girêdan",
+    "message": "Tabên bijartî wekî girêdan",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabên Hilbijartî wekî URLên Nivîsar",
+    "message": "Tabên bijartî wekî URLên Nivîsar",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ev tablo wekî URL-ya nivîsê",
+    "message": "Vê tabloyê wekî URL ya nivîsê",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ev Tablo wekî Girêdan",
+    "message": "Vê tabê wekî girêdanê",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Tabloyên komê wekî URLên nivîsê",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Tabloyên komê wekî URLên nivîsê (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Tabên komê wekî girêdan",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Tabên komê wekî girêdan (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Hemî Tabî wekî Girêdan (✂️)",
+    "message": "Hemî tabloyên wekî girêdan (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Hemî tabloyên wekî URLên nivîsê (✂️)",
+    "message": "Hemî tabloyên wekî urlên nivîsê (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tabên Hilbijartî wekî Girêdan (✂️)",
+    "message": "Tabên bijartî wekî girêdan (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tabên Hilbijartî wekî URLên Nivîsar (✂️)",
+    "message": "Tabên bijartî wekî URLên Nivîsar (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ev tablo wekî URL-ya nivîsê (✂️)",
+    "message": "Vê tabloyê wekî URL ya nivîsê (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ev Tablo wekî Girêdan (✂️)",
+    "message": "Vê tabê wekî girêdanê (✂️)",
     "description": ""
   }
 }

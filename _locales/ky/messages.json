@@ -4,27 +4,27 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Өтмөктүн URL даректерин гипершилтемелер же жөнөкөй текст катары көчүрүү",
+    "message": "Өтмөктөрдү гипершилтеме же тексттик URL' катары көчүрүңүз",
     "description": ""
   },
   "selectaction": {
-    "message": "Дароо аракетти тандаңыз",
+    "message": "Тез арада иш-аракеттерди тандаңыз",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Бардык өтмөктөр Шилтеме катары",
+    "message": "Бардык өтмөктөрү",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Бардык өтмөктөр Текст URL даректери катары",
+    "message": "Бардык өтмөктөрү тексттик URL катары",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Шилтемелер катары тандалган өтмөктөр",
+    "message": "Тандалган өтмөктөр Шилтемелер катары",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Текст URL катары тандалган өтмөктөр",
+    "message": "Тандалган өтмөктөр SMS URL катары",
     "description": ""
   },
   "cpytabtxt": {
@@ -35,20 +35,36 @@
     "message": "Бул өтмөк шилтеме катары",
     "description": ""
   },
+  "cpygrptxt": {
+    "message": "Топ табулатура Текст URL катары",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Топ табулатура Текст URL катары (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Топ табулатура Шилтемелер катары",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Топ табулатура Шилтемелер катары (✂️)",
+    "description": ""
+  },
   "cpyalllnknp": {
-    "message": "Бардык өтмөктөр Шилтеме катары (✂️)",
+    "message": "Бардык өтмөктөрү (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Бардык өтмөктөр Текст URL даректери катары (✂️)",
+    "message": "Бардык өтмөктөрү тексттик URL катары (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Шилтемелер катары тандалган өтмөктөр (✂️)",
+    "message": "Тандалган өтмөктөр Шилтемелер катары (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Текст URL катары тандалган өтмөктөр (✂️)",
+    "message": "Тандалган өтмөктөр SMS URL катары (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

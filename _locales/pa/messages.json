@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "ਟੈਬਾਂ ਨੂੰ ਕਾਪੀ ਕਰੋ",
+    "message": "ਕਾਪੀਆਂ ਕਾਪੀਆਂ",
     "description": ""
   },
   "addonDesc": {
-    "message": "ਟੈਬ urls ਨੂੰ ਹਾਈਪਰਲਿੰਕਸ ਜਾਂ ਪਲੇਨ ਟੈਕਸਟ ਵਜੋਂ ਕਾਪੀ ਕਰੋ",
+    "message": "ਹਾਈਪਰਲਿੰਕਸ ਜਾਂ ਟੈਕਸਟ URL ਦੇ ਤੌਰ ਤੇ ਟੈਬਾਂ ਦੀ ਨਕਲ ਕਰੋ",
     "description": ""
   },
   "selectaction": {
-    "message": "ਤੁਰੰਤ ਕਾਰਵਾਈ ਚੁਣੋ",
+    "message": "ਤੁਰੰਤ ਕਾਰਵਾਈ ਦੀ ਚੋਣ ਕਰੋ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "ਲਿੰਕ ਦੇ ਤੌਰ 'ਤੇ ਸਾਰੀਆਂ ਟੈਬਾਂ",
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ ਤੇ ਸਾਰੀਆਂ ਟੈਬਾਂ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ URL ਵਜੋਂ",
+    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਟੈਕਸਟ URL ਦੇ ਤੌਰ ਤੇ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ਲਿੰਕਾਂ ਵਜੋਂ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ",
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ ਤੇ ਚੁਣੀਆਂ ਟੈਬਾਂ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ਟੈਕਸਟ URL ਦੇ ਤੌਰ 'ਤੇ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ",
+    "message": "ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ ਜਿਵੇਂ ਕਿ ਟੈਕਸਟ ਯੂਆਰਐਲ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ URL ਵਜੋਂ",
+    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ URL ਦੇ ਤੌਰ ਤੇ",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ਲਿੰਕ ਦੇ ਤੌਰ 'ਤੇ ਇਹ ਟੈਬ",
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ ਤੇ ਇਹ ਟੈਬ",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "ਟੈਕਸਟ ਯੂਆਰਐਲ ਦੇ ਤੌਰ ਤੇ ਸਮੂਹ ਟੈਬਸ",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "ਟੈਕਸਟ ਯੂਆਰਐਲ ਦੇ ਤੌਰ ਤੇ ਸਮੂਹ ਟੈਬਸ (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ ਤੇ ਸਮੂਹ ਟੈਬਸ",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ ਤੇ ਸਮੂਹ ਟੈਬਸ (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "ਲਿੰਕ ਦੇ ਤੌਰ 'ਤੇ ਸਾਰੀਆਂ ਟੈਬਾਂ (✂️)",
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ ਤੇ ਸਾਰੀਆਂ ਟੈਬਾਂ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੈਕਸਟ URL ਵਜੋਂ (✂️)",
+    "message": "ਸਾਰੀਆਂ ਟੈਬਾਂ ਟੈਕਸਟ URL ਦੇ ਤੌਰ ਤੇ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "ਲਿੰਕਾਂ ਵਜੋਂ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ (✂️)",
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ ਤੇ ਚੁਣੀਆਂ ਟੈਬਾਂ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ਟੈਕਸਟ URL ਦੇ ਤੌਰ 'ਤੇ ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ (✂️)",
+    "message": "ਚੁਣੀਆਂ ਗਈਆਂ ਟੈਬਾਂ ਜਿਵੇਂ ਕਿ ਟੈਕਸਟ ਯੂਆਰਐਲ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ URL ਵਜੋਂ (✂️)",
+    "message": "ਇਹ ਟੈਬ ਟੈਕਸਟ URL ਦੇ ਤੌਰ ਤੇ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ਲਿੰਕ ਦੇ ਤੌਰ 'ਤੇ ਇਹ ਟੈਬ (✂️)",
+    "message": "ਲਿੰਕ ਦੇ ਤੌਰ ਤੇ ਇਹ ਟੈਬ (✂️)",
     "description": ""
   }
 }

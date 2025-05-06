@@ -1,58 +1,74 @@
 {
   "addonName": {
-    "message": "Kopieer tabbladen",
+    "message": "Kopieertabbladen",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopieer tabblad-URL's als hyperlinks of platte tekst",
+    "message": "Kopieer tabbladen als hyperlinks of tekst -URL's",
     "description": ""
   },
   "selectaction": {
-    "message": "Selecteer Onmiddellijke actie",
+    "message": "Selecteer onmiddellijke actie",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle tabbladen als koppelingen",
+    "message": "Alle tabbladen als links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle tabbladen als tekst-URL's",
+    "message": "Alle tabbladen als tekst -URL's",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Geselecteerde tabbladen als koppelingen",
+    "message": "Geselecteerde tabbladen als links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Geselecteerde tabbladen als tekst-URL's",
+    "message": "Geselecteerde tabbladen als tekst -URL's",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Dit tabblad als tekst-URL",
+    "message": "Dit tabblad als tekst -url",
     "description": ""
   },
   "cpytablnk": {
     "message": "Dit tabblad als link",
     "description": ""
   },
+  "cpygrptxt": {
+    "message": "Groepietabbladen als tekst -URL's",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Groepietabbladen als tekst -URL's (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Groepietabbladen als links",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Groepietabbladen als links (✂️)",
+    "description": ""
+  },
   "cpyalllnknp": {
-    "message": "Alle tabbladen als koppelingen (✂️)",
+    "message": "Alle tabbladen als links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle tabbladen als tekst-URL's (✂️)",
+    "message": "Alle tabbladen als tekst -URL's (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Geselecteerde tabbladen als koppelingen (✂️)",
+    "message": "Geselecteerde tabbladen als links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Geselecteerde tabbladen als tekst-URL's (✂️)",
+    "message": "Geselecteerde tabbladen als tekst -URL's (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Dit tabblad als tekst-URL (✂️)",
+    "message": "Dit tabblad als tekst -url (✂️)",
     "description": ""
   },
   "cpytablnknp": {

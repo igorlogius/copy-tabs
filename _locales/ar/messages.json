@@ -4,59 +4,75 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " ﻱﺩﺎﻋ ﺺﻧ ﻭﺃ ﺔﻴﺒﻌﺸﺗ ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻌﻟ URL ﻦﻳﻭﺎﻨﻋ ﺦﺴﻧﺍ",
+    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻋ ﻭﺃ ﺔﻴﺒﻌﺸﺗ ﻂﺑﺍﻭﺮﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺦﺴﻧ",
     "description": ""
   },
   "selectaction": {
-    "message": " ﻱﺭﻮﻔﻟﺍ ءﺍﺮﺟﻹ﻿ﺍ ﺩﺪﺣ",
+    "message": " ﻱﺭﻮﻓ ءﺍﺮﺟﺇ ﺩﺪﺣ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺔﻓﺎﻛ",
+    "message": " ﻂﺑﺍﻭﺮﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻌﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ",
+    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻋ ﻞﺜﻣ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ",
+    "message": " ﻂﺑﺍﻭﺮﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻌﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ",
+    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻋ ﻥﺍﻮﻨﻌﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﻲﺼﻧ URL ﻥﺍﻮﻨﻌﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
+    "message": " ﺺﻨﻟﺍ URL ﻥﺍﻮﻨﻌﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
     "description": ""
   },
   "cpytablnk": {
-    "message": " ﻂﺑﺍﺮﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
+    "message": " ﻂﺑﺍﺭ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻋ ﻥﺍﻮﻨﻌﻛ ﺔﻋﻮﻤﺠﻤﻟﺍ ﺐﻳﻮﺒﺗ ﺕﺎﻣﻼ﻿ﻋ",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻋ ﻥﺍﻮﻨﻌﻛ ﺔﻋﻮﻤﺠﻤﻟﺍ ﺐﻳﻮﺒﺗ ﺕﺎﻣﻼ﻿ﻋ (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": " ﻂﺑﺍﻭﺮﻛ ﺔﻋﻮﻤﺠﻤﻟﺍ ﺐﻳﻮﺒﺗ ﺕﺎﻣﻼ﻿ﻋ",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": " ﻂﺑﺍﻭﺮﻛ ﺔﻋﻮﻤﺠﻤﻟﺍ ﺐﻳﻮﺒﺗ ﺕﺎﻣﻼ﻿ﻋ (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﺔﻓﺎﻛ (✂️)",
+    "message": " ﻂﺑﺍﻭﺮﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻌﻛ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ (✂️)",
+    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻋ ﻞﺜﻣ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ ﻊﻴﻤﺟ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " ﺕﺎﻃﺎﺒﺗﺭﺎﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ (✂️)",
+    "message": " ﻂﺑﺍﻭﺮﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻌﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ (✂️)",
+    "message": " ﺔﻴﺼﻨﻟﺍ URL ﻦﻳﻭﺎﻨﻋ ﻥﺍﻮﻨﻌﻛ ﺓﺩﺪﺤﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼ﻿ﻋ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " ﻲﺼﻧ URL ﻥﺍﻮﻨﻌﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ (✂️)",
+    "message": " ﺺﻨﻟﺍ URL ﻥﺍﻮﻨﻌﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": " ﻂﺑﺍﺮﻛ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ (✂️)",
+    "message": " ﻂﺑﺍﺭ ﻩﺬﻫ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼ﻿ﻋ (✂️)",
     "description": ""
   }
 }

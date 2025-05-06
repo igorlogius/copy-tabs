@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Salin Tab",
+    "message": "Tab Salin",
     "description": ""
   },
   "addonDesc": {
-    "message": "Salin url tab minangka hyperlink utawa teks biasa",
+    "message": "Tab salinan minangka hiperlink utawa url teks",
     "description": ""
   },
   "selectaction": {
-    "message": "Pilih Tindakan Langsung",
+    "message": "Pilih tumindak langsung",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kabeh Tab minangka Link",
+    "message": "Kabeh tab minangka tautan",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kabeh Tab minangka URL Teks",
+    "message": "Kabeh tab minangka URL teks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tab sing dipilih minangka Tautan",
+    "message": "Tab sing dipilih minangka tautan",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tab sing Dipilih minangka URL Teks",
+    "message": "Tab sing dipilih minangka URL teks",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tab iki minangka URL Teks",
+    "message": "Tab iki minangka URL teks",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tab iki minangka Link",
+    "message": "Tab iki minangka link",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Tab klompok minangka URL teks",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Tab klompok minangka URL teks (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Tab klompok minangka tautan",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Tab klompok minangka tautan (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Kabeh Tab minangka Link (✂️)",
+    "message": "Kabeh tab minangka tautan (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Kabeh Tab minangka URL Teks (✂️)",
+    "message": "Kabeh tab minangka URL teks (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tab sing dipilih minangka Tautan (✂️)",
+    "message": "Tab sing dipilih minangka tautan (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tab sing Dipilih minangka URL Teks (✂️)",
+    "message": "Tab sing dipilih minangka URL teks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tab iki minangka URL Teks (✂️)",
+    "message": "Tab iki minangka URL teks (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tab iki minangka Link (✂️)",
+    "message": "Tab iki minangka link (✂️)",
     "description": ""
   }
 }

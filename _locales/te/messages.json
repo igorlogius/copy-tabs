@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "టాబ్ urlలను హైపర్u200cలింక్u200cలుగా లేదా సాదా వచనంగా కాపీ చేయండి",
+    "message": "ట్యాబ్u200cలను హైపర్u200cలింక్u200cలు లేదా టెక్స్ట్ urls గా కాపీ చేయండి",
     "description": ""
   },
   "selectaction": {
@@ -16,23 +16,39 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్ URLలుగా",
+    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్ urls గా",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ట్యాబ్u200cలను లింక్u200cలుగా ఎంచుకున్నారు",
+    "message": "ఎంచుకున్న ట్యాబ్u200cలను లింక్u200cలుగా",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "టెక్స్ట్ URLలుగా ట్యాబ్u200cలు ఎంచుకోబడ్డాయి",
+    "message": "ఎంచుకున్న ట్యాబ్u200cలు టెక్స్ట్ URLS గా",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "టెక్స్ట్ URLగా ఈ ట్యాబ్",
+    "message": "ఈ టాబ్ టెక్స్ట్ url గా",
     "description": ""
   },
   "cpytablnk": {
-    "message": "లింక్u200cగా ఈ ట్యాబ్",
+    "message": "ఈ టాబ్ లింక్u200cగా",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "సమూహ ట్యాబ్u200cలు టెక్స్ట్ urls గా",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "సమూహ ట్యాబ్u200cలు టెక్స్ట్ urls గా (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "సమూహ ట్యాబ్u200cలు లింక్u200cలుగా",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "సమూహ ట్యాబ్u200cలు లింక్u200cలుగా (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,23 +56,23 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్ URLలుగా (✂️)",
+    "message": "అన్ని ట్యాబ్u200cలు టెక్స్ట్ urls గా (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "ట్యాబ్u200cలను లింక్u200cలుగా ఎంచుకున్నారు (✂️)",
+    "message": "ఎంచుకున్న ట్యాబ్u200cలను లింక్u200cలుగా (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "టెక్స్ట్ URLలుగా ట్యాబ్u200cలు ఎంచుకోబడ్డాయి (✂️)",
+    "message": "ఎంచుకున్న ట్యాబ్u200cలు టెక్స్ట్ URLS గా (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "టెక్స్ట్ URLగా ఈ ట్యాబ్ (✂️)",
+    "message": "ఈ టాబ్ టెక్స్ట్ url గా (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "లింక్u200cగా ఈ ట్యాబ్ (✂️)",
+    "message": "ఈ టాబ్ లింక్u200cగా (✂️)",
     "description": ""
   }
 }

@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Tabs kopieren",
+    "message": "Registerkarten kopieren",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopieren Sie Tab-URLs als Hyperlinks oder als einfachen Text",
+    "message": "Kopieren Sie Registerkarten als Hyperlinks oder Text -URLs",
     "description": ""
   },
   "selectaction": {
-    "message": "Wählen Sie „Sofortige Aktion“.",
+    "message": "Wählen Sie sofortige Aktion",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle Tabs als Links",
+    "message": "Alle Registerkarten als Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle Tabs als Text-URLs",
+    "message": "Alle Registerkarten als Text -URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ausgewählte Tabs als Links",
+    "message": "Ausgewählte Registerkarten als Links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ausgewählte Tabs als Text-URLs",
+    "message": "Ausgewählte Registerkarten als Text -URLs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Diese Registerkarte als Text-URL",
+    "message": "Diese Registerkarte als Text -URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Dieser Tab als Link",
+    "message": "Diese Registerkarte als Link",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Gruppenregisterkarten als Text -URLs",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Gruppenregisterkarten als Text -URLs (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Gruppenregisterkarten als Links",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Gruppenregisterkarten als Links (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alle Tabs als Links (✂️)",
+    "message": "Alle Registerkarten als Links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle Tabs als Text-URLs (✂️)",
+    "message": "Alle Registerkarten als Text -URLs (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ausgewählte Tabs als Links (✂️)",
+    "message": "Ausgewählte Registerkarten als Links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ausgewählte Tabs als Text-URLs (✂️)",
+    "message": "Ausgewählte Registerkarten als Text -URLs (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Diese Registerkarte als Text-URL (✂️)",
+    "message": "Diese Registerkarte als Text -URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Dieser Tab als Link (✂️)",
+    "message": "Diese Registerkarte als Link (✂️)",
     "description": ""
   }
 }

@@ -1,22 +1,22 @@
 {
   "addonName": {
-    "message": "Dèan lethbhreac de na tabaichean",
+    "message": "Dèan lethbhreac de tabaichean",
     "description": ""
   },
   "addonDesc": {
-    "message": "Dèan lethbhreac de urls tab mar hyperlinks no teacsa sìmplidh",
+    "message": "Dèan lethbhreac de tabaichean mar hyperlinks no urls teacsa",
     "description": ""
   },
   "selectaction": {
-    "message": "Tagh Gnìomh sa bhad",
+    "message": "Tagh gnìomh sa bhad",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "A h-uile taba mar cheanglaichean",
+    "message": "A h-uile tabaichean mar cheanglaichean",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "A h-uile taba mar URLan teacsa",
+    "message": "A h-uile tabaichean mar urls teacsa",
     "description": ""
   },
   "cpysellnk": {
@@ -24,23 +24,39 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabaichean taghte mar URLan teacsa",
+    "message": "Tabaichean taghte mar urls teacsa",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "An tab seo mar URL teacsa",
+    "message": "An tab seo mar url teacsa",
     "description": ""
   },
   "cpytablnk": {
-    "message": "An tab seo mar Ceangal",
+    "message": "An taba seo mar cheangal",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Tabaichean buidhne mar urls teacsa",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Tabaichean buidhne mar urls teacsa (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Tabaichean buidhne mar cheanglaichean",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Tabaichean buidhne mar cheanglaichean (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "A h-uile taba mar cheanglaichean (✂️)",
+    "message": "A h-uile tabaichean mar cheanglaichean (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "A h-uile taba mar URLan teacsa (✂️)",
+    "message": "A h-uile tabaichean mar urls teacsa (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +64,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tabaichean taghte mar URLan teacsa (✂️)",
+    "message": "Tabaichean taghte mar urls teacsa (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "An tab seo mar URL teacsa (✂️)",
+    "message": "An tab seo mar url teacsa (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "An tab seo mar Ceangal (✂️)",
+    "message": "An taba seo mar cheangal (✂️)",
     "description": ""
   }
 }

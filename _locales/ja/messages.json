@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "タブのコピー",
+    "message": "タブをコピーします",
     "description": ""
   },
   "addonDesc": {
-    "message": "タブの URL をハイパーリンクまたはプレーン テキストとしてコピーする",
+    "message": "タブをハイパーリンクまたはテキストURLとしてコピーします",
     "description": ""
   },
   "selectaction": {
-    "message": "即時アクションを選択",
+    "message": "即時アクションを選択します",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "すべてのタブをリンクとして表示",
+    "message": "リンクとしてのすべてのタブ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "すべてのタブをテキスト URL として表示",
+    "message": "テキストURLとしてのすべてのタブ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "選択したタブをリンクとして表示",
+    "message": "リンクとして選択されたタブ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "選択したタブをテキスト URL として表示",
+    "message": "テキストURLとして選択されたタブ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "このタブをテキスト URL として表示",
+    "message": "このタブはテキストURLとして",
     "description": ""
   },
   "cpytablnk": {
-    "message": "このタブをリンクとして表示",
+    "message": "リンクとしてのこのタブ",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "テキストURLとしてのグループタブ",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "テキストURLとしてのグループタブ (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "リンクとしてのグループタブ",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "リンクとしてのグループタブ (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "すべてのタブをリンクとして表示 (✂️)",
+    "message": "リンクとしてのすべてのタブ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "すべてのタブをテキスト URL として表示 (✂️)",
+    "message": "テキストURLとしてのすべてのタブ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "選択したタブをリンクとして表示 (✂️)",
+    "message": "リンクとして選択されたタブ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "選択したタブをテキスト URL として表示 (✂️)",
+    "message": "テキストURLとして選択されたタブ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "このタブをテキスト URL として表示 (✂️)",
+    "message": "このタブはテキストURLとして (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "このタブをリンクとして表示 (✂️)",
+    "message": "リンクとしてのこのタブ (✂️)",
     "description": ""
   }
 }

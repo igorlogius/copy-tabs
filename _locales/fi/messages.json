@@ -4,55 +4,71 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopioi välilehtien URL-osoitteet hyperlinkkeinä tai pelkkänä tekstinä",
+    "message": "Kopioi välilehdet hyperlinkkeinä tai teksti -URL -osoitteina",
     "description": ""
   },
   "selectaction": {
-    "message": "Valitse Välitön toiminta",
+    "message": "Valitse välitön toiminto",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Kaikki välilehdet linkkeinä",
+    "message": "Kaikki välilehdet linkeinä",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kaikki välilehdet teksti-URL-osoitteina",
+    "message": "Kaikki välilehdet tekstin URL -osoitteina",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valitut välilehdet linkeiksi",
+    "message": "Valitut välilehdet linkkinä",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valitut välilehdet teksti-URL-osoitteiksi",
+    "message": "Valitut välilehdet teksti -URL -osoitteina",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tämä välilehti teksti-URL-osoitteena",
+    "message": "Tämä välilehti tekstin URL -osoitteena",
     "description": ""
   },
   "cpytablnk": {
     "message": "Tämä välilehti linkkinä",
     "description": ""
   },
+  "cpygrptxt": {
+    "message": "Ryhmä -välilehdet teksti -URL -osoitteina",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Ryhmä -välilehdet teksti -URL -osoitteina (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Ryhmä -välilehdet linkkinä",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Ryhmä -välilehdet linkkinä (✂️)",
+    "description": ""
+  },
   "cpyalllnknp": {
-    "message": "Kaikki välilehdet linkkeinä (✂️)",
+    "message": "Kaikki välilehdet linkeinä (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Kaikki välilehdet teksti-URL-osoitteina (✂️)",
+    "message": "Kaikki välilehdet tekstin URL -osoitteina (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valitut välilehdet linkeiksi (✂️)",
+    "message": "Valitut välilehdet linkkinä (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valitut välilehdet teksti-URL-osoitteiksi (✂️)",
+    "message": "Valitut välilehdet teksti -URL -osoitteina (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tämä välilehti teksti-URL-osoitteena (✂️)",
+    "message": "Tämä välilehti tekstin URL -osoitteena (✂️)",
     "description": ""
   },
   "cpytablnknp": {

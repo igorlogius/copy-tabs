@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Copy Tabs",
+    "message": "Koperani tabu",
     "description": ""
   },
   "addonDesc": {
-    "message": "Koperani ma urls ngati ma hyperlink kapena mawu osavuta",
+    "message": "Koperani tabu ngati ma hyperlink kapena ma urls",
     "description": ""
   },
   "selectaction": {
-    "message": "Sankhani Zochita Mwamsanga",
+    "message": "Sankhani mwachangu",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ma Tabs Onse Monga Maulalo",
+    "message": "Ma tabu onse ngati maulalo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ma Tabu Onse ngati Ma URL a Mawu",
+    "message": "Ma tabu onse ngati ma urls",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ma Tabs Osankhidwa Monga Maulalo",
+    "message": "Masamba osankhidwa ngati maulalo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ma Tabu Osankhidwa Monga Ma URL a Mawu",
+    "message": "Masamba osankhidwa ngati ma urls",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tabu ili ngati URL ya Mawu",
+    "message": "Tsamba ili ngati URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tabu iyi ngati Ulalo",
+    "message": "Tsamba ili ngati ulalo",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Ma tabu a gulu ngati ma urls",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Ma tabu a gulu ngati ma urls (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Ma tabu am'magulu ngati maulalo",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Ma tabu am'magulu ngati maulalo (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ma Tabs Onse Monga Maulalo (✂️)",
+    "message": "Ma tabu onse ngati maulalo (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ma Tabu Onse ngati Ma URL a Mawu (✂️)",
+    "message": "Ma tabu onse ngati ma urls (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ma Tabs Osankhidwa Monga Maulalo (✂️)",
+    "message": "Masamba osankhidwa ngati maulalo (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ma Tabu Osankhidwa Monga Ma URL a Mawu (✂️)",
+    "message": "Masamba osankhidwa ngati ma urls (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tabu ili ngati URL ya Mawu (✂️)",
+    "message": "Tsamba ili ngati URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tabu iyi ngati Ulalo (✂️)",
+    "message": "Tsamba ili ngati ulalo (✂️)",
     "description": ""
   }
 }

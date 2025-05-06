@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Copïo Tabiau",
+    "message": "Copïwch dabiau",
     "description": ""
   },
   "addonDesc": {
-    "message": "Copïo urls tab fel hyperddolenni neu destun plaen",
+    "message": "Copïo tabiau fel hypergysylltiadau neu URLau testun",
     "description": ""
   },
   "selectaction": {
-    "message": "Dewiswch Gweithredu ar unwaith",
+    "message": "Dewiswch weithredu ar unwaith",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Pob Tab fel Dolenni",
+    "message": "Pob tab fel dolenni",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Pob Tab fel URLs Testun",
+    "message": "Pob tab fel URLau testun",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tabiau a ddewiswyd fel Dolenni",
+    "message": "Tabiau dethol fel dolenni",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabiau a ddewiswyd fel URLs testun",
+    "message": "Tabiau dethol fel urls testun",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Y Tab hwn fel URL Testun",
+    "message": "Y tab hwn fel url testun",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Mae'r Tab hwn fel Dolen",
+    "message": "Y tab hwn fel dolen",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Tabiau grŵp fel urls testun",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Tabiau grŵp fel urls testun (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Tabiau grŵp fel dolenni",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Tabiau grŵp fel dolenni (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Pob Tab fel Dolenni (✂️)",
+    "message": "Pob tab fel dolenni (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Pob Tab fel URLs Testun (✂️)",
+    "message": "Pob tab fel URLau testun (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tabiau a ddewiswyd fel Dolenni (✂️)",
+    "message": "Tabiau dethol fel dolenni (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tabiau a ddewiswyd fel URLs testun (✂️)",
+    "message": "Tabiau dethol fel urls testun (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Y Tab hwn fel URL Testun (✂️)",
+    "message": "Y tab hwn fel url testun (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Mae'r Tab hwn fel Dolen (✂️)",
+    "message": "Y tab hwn fel dolen (✂️)",
     "description": ""
   }
 }

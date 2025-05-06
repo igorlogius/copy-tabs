@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "የትር ዩአርኤሎችን እንደ hyperlinks ወይም ግልጽ ጽሑፍ ቅዳ",
+    "message": "ትሮችን እንደ አቋራጭ አገናኞች ወይም የጽሑፍ ዩ.አር.ኤል.",
     "description": ""
   },
   "selectaction": {
-    "message": "ፈጣን እርምጃን ይምረጡ",
+    "message": "ወዲያውኑ እርምጃ ይምረጡ",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ሁሉም ትሮች እንደ የጽሑፍ ዩአርኤሎች",
+    "message": "ሁሉም ትሮች እንደ ጽሁፎች ዩ አር ኤልዎች",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "የተመረጡ ትሮች እንደ የጽሑፍ URLs",
+    "message": "የተመረጡ ትሮችን እንደ ጽሁፍ ዩአርኤሎች",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ይህ ትር እንደ የጽሑፍ URL",
+    "message": "ይህ ትሩ እንደ ጽሑፍ ዩአርኤል",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ይህ ትር እንደ አገናኝ",
+    "message": "ይህ ትሩ እንደ አገናኝ",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "የቡድን ትሮች እንደ ጽሁፉ ዩአርኤልዎች",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "የቡድን ትሮች እንደ ጽሁፉ ዩአርኤልዎች (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "እንደ አገናኞች የቡድን ትሮች",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "እንደ አገናኞች የቡድን ትሮች (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +56,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ሁሉም ትሮች እንደ የጽሑፍ ዩአርኤሎች (✂️)",
+    "message": "ሁሉም ትሮች እንደ ጽሁፎች ዩ አር ኤልዎች (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +64,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "የተመረጡ ትሮች እንደ የጽሑፍ URLs (✂️)",
+    "message": "የተመረጡ ትሮችን እንደ ጽሁፍ ዩአርኤሎች (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ይህ ትር እንደ የጽሑፍ URL (✂️)",
+    "message": "ይህ ትሩ እንደ ጽሑፍ ዩአርኤል (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ይህ ትር እንደ አገናኝ (✂️)",
+    "message": "ይህ ትሩ እንደ አገናኝ (✂️)",
     "description": ""
   }
 }

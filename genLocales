@@ -5,22 +5,27 @@ rm -rf ./_locales/*
 
 
 while read line;do
+    sleep 5s
 	echo $line
 	mkdir -p ./_locales/$line 2>/dev/null
 
 	name=$(trans -brief -from en -to "$line" "Copy Tabs")
-	desc=$(trans -brief -from en -to $line "Copy tab urls as hyperlinks or plain text")
+	desc=$(trans -brief -from en -to $line "Copy tabs as hyperlinks or text URLs")
 
 	selectaction=$(trans -brief -from en -to $line "Select Immediate Action")
 	cpytablnk=$(trans -brief -from en -to $line "This Tab as Link")
+	cpygrplnk=$(trans -brief -from en -to $line "Group Tabs as Links")
 	cpytabtxt=$(trans -brief -from en -to $line "This Tab as Text URL")
+	cpygrptxt=$(trans -brief -from en -to $line "Group Tabs as Text URLs")
 	cpyalllnk=$(trans -brief -from en -to $line "All Tabs as Links")
 	cpyalltxt=$(trans -brief -from en -to $line "All Tabs as Text URLs")
 	cpysellnk=$(trans -brief -from en -to $line "Selected Tabs as Links")
 	cpyseltxt=$(trans -brief -from en -to $line "Selected Tabs as Text URLs")
 
 	cpytablnknp="$cpytablnk (✂️)"
+	cpygrplnknp="$cpygrplnk (✂️)"
 	cpytabtxtnp="$cpytabtxt (✂️)"
+	cpygrptxtnp="$cpygrptxt (✂️)"
 	cpyalllnknp="$cpyalllnk (✂️)"
 	cpyalltxtnp="$cpyalltxt (✂️)"
 	cpysellnknp="$cpysellnk (✂️)"
@@ -63,6 +68,22 @@ while read line;do
   },
   "cpytablnk": {
     "message": "$cpytablnk",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "$cpygrptxt",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "$cpygrptxtnp",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "$cpygrplnk",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "$cpygrplnknp",
     "description": ""
   },
   "cpyalllnknp": {

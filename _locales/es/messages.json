@@ -1,14 +1,14 @@
 {
   "addonName": {
-    "message": "Copiar pestañas",
+    "message": "Pestañas de copia",
     "description": ""
   },
   "addonDesc": {
-    "message": "Copie las URL de las pestañas como hipervínculos o texto sin formato",
+    "message": "Copiar pestañas como hipervínculos o URL de texto",
     "description": ""
   },
   "selectaction": {
-    "message": "Seleccione acción inmediata",
+    "message": "Seleccionar acción inmediata",
     "description": ""
   },
   "cpyalllnk": {
@@ -33,6 +33,22 @@
   },
   "cpytablnk": {
     "message": "Esta pestaña como enlace",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Pestañas de grupo como URL de texto",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Pestañas de grupo como URL de texto (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Pestañas de grupo como enlaces",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Pestañas de grupo como enlaces (✂️)",
     "description": ""
   },
   "cpyalllnknp": {

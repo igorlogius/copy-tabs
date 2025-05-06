@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Tārua Ripa",
+    "message": "Tapahia nga ripa",
     "description": ""
   },
   "addonDesc": {
-    "message": "Tāruatia ngā url ripa hei honongaitua, hei kuputuhi noa",
+    "message": "Kapa nga ripa hei hononga hono me te URL kuputuhi ranei",
     "description": ""
   },
   "selectaction": {
-    "message": "Tīpakohia te Mahi Tere",
+    "message": "Whiriwhiria te Mahi Tere",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ripa Katoa hei Hononga",
+    "message": "Katoa nga ripa ano he hononga",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ripa Katoa hei URL Kuputuhi",
+    "message": "Katoa nga ripa ano he URL tuhinga",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ripa kua tohua hei Hononga",
+    "message": "Ripa kua tohua hei hononga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ripa kua tohua hei URL Kuputuhi",
+    "message": "Ripa kua tohua hei URL kuputuhi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tenei Ripa hei URL Kuputuhi",
+    "message": "Ko tenei ripa hei URL tuhinga",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tenei Ripa hei Hononga",
+    "message": "He ripa tenei ripa hei hononga",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Ripa Rōpū Hei URL tuhinga",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Ripa Rōpū Hei URL tuhinga (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Ripa Rōpū Hei Hononga",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Ripa Rōpū Hei Hononga (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ripa Katoa hei Hononga (✂️)",
+    "message": "Katoa nga ripa ano he hononga (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ripa Katoa hei URL Kuputuhi (✂️)",
+    "message": "Katoa nga ripa ano he URL tuhinga (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ripa kua tohua hei Hononga (✂️)",
+    "message": "Ripa kua tohua hei hononga (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ripa kua tohua hei URL Kuputuhi (✂️)",
+    "message": "Ripa kua tohua hei URL kuputuhi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tenei Ripa hei URL Kuputuhi (✂️)",
+    "message": "Ko tenei ripa hei URL tuhinga (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tenei Ripa hei Hononga (✂️)",
+    "message": "He ripa tenei ripa hei hononga (✂️)",
     "description": ""
   }
 }

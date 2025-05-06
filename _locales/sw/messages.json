@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Nakili Vichupo",
+    "message": "Nakala za tabo",
     "description": ""
   },
   "addonDesc": {
-    "message": "Nakili url za kichupo kama viungo au maandishi wazi",
+    "message": "Nakili tabo kama viunga au urls za maandishi",
     "description": ""
   },
   "selectaction": {
-    "message": "Chagua Hatua ya Mara Moja",
+    "message": "Chagua hatua ya haraka",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Vichupo Vyote kama Viungo",
+    "message": "Tabo zote kama viungo",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Vichupo vyote kama URL za Maandishi",
+    "message": "Tabo zote kama URL za maandishi",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Vichupo Vilivyochaguliwa kama Viungo",
+    "message": "Tabo zilizochaguliwa kama viungo",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Vichupo Vilivyochaguliwa kama URL za Maandishi",
+    "message": "Tabo zilizochaguliwa kama URL za maandishi",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Kichupo hiki kama URL ya Maandishi",
+    "message": "Kichupo hiki kama URL ya maandishi",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Kichupo hiki kama Kiungo",
+    "message": "Kichupo hiki kama kiunga",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Tabo za Kikundi kama URL za maandishi",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Tabo za Kikundi kama URL za maandishi (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Vichupo vya kikundi kama viungo",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Vichupo vya kikundi kama viungo (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Vichupo Vyote kama Viungo (✂️)",
+    "message": "Tabo zote kama viungo (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Vichupo vyote kama URL za Maandishi (✂️)",
+    "message": "Tabo zote kama URL za maandishi (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Vichupo Vilivyochaguliwa kama Viungo (✂️)",
+    "message": "Tabo zilizochaguliwa kama viungo (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Vichupo Vilivyochaguliwa kama URL za Maandishi (✂️)",
+    "message": "Tabo zilizochaguliwa kama URL za maandishi (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Kichupo hiki kama URL ya Maandishi (✂️)",
+    "message": "Kichupo hiki kama URL ya maandishi (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Kichupo hiki kama Kiungo (✂️)",
+    "message": "Kichupo hiki kama kiunga (✂️)",
     "description": ""
   }
 }

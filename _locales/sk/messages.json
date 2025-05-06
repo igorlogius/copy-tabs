@@ -1,14 +1,14 @@
 {
   "addonName": {
-    "message": "Kopírovať karty",
+    "message": "Skopírovať",
     "description": ""
   },
   "addonDesc": {
-    "message": "Skopírujte adresy URL kariet ako hypertextové odkazy alebo obyčajný text",
+    "message": "Kantopy skopírujte ako hypertextové odkazy alebo textové adresy URL",
     "description": ""
   },
   "selectaction": {
-    "message": "Vyberte možnosť Okamžitá akcia",
+    "message": "Vyberte okamžitú akciu",
     "description": ""
   },
   "cpyalllnk": {
@@ -20,11 +20,11 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Vybraté karty ako odkazy",
+    "message": "Vybrané karty ako odkazy",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Vybraté karty ako textové adresy URL",
+    "message": "Vybrané karty ako textové adresy URL",
     "description": ""
   },
   "cpytabtxt": {
@@ -33,6 +33,22 @@
   },
   "cpytablnk": {
     "message": "Táto karta ako odkaz",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Skupinové karty ako textové adresy URL",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Skupinové karty ako textové adresy URL (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Karty skupiny ako odkazy",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Karty skupiny ako odkazy (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -44,11 +60,11 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Vybraté karty ako odkazy (✂️)",
+    "message": "Vybrané karty ako odkazy (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Vybraté karty ako textové adresy URL (✂️)",
+    "message": "Vybrané karty ako textové adresy URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

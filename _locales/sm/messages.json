@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Kopi Tabs",
+    "message": "Kopi tabs",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopi url fa'amau e fai ma hyperlinks po'o tusitusiga manino",
+    "message": "Kopi Tabs e pei o Hyperlinks poʻo Tusitusiga Faʻamalosi",
     "description": ""
   },
   "selectaction": {
-    "message": "Filifili Fa'agaioiga Fa'anatinati",
+    "message": "Filifili vave gaioiga",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tapa uma e fai ma So'oga",
+    "message": "Uma tabs pei ona fesoʻotaʻi",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tape uma e pei o URL o Tusitusiga",
+    "message": "Uma tabs pei o tusitusiga urls",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tapa Filifilia e fai ma So'oga",
+    "message": "Filifilia Tabs pei o sootaga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Pepa Filifilia e avea ma URL o Tusitusiga",
+    "message": "Filifilia Tabs pei o tusitusiga urls",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Lenei Tab e pei o Tusitusiga URL",
+    "message": "Lenei tab pei o tusitusiga url",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Lenei Tab e fai ma So'oga",
+    "message": "Lenei tab pei o le sootaga",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Vaega Tabs pei o tusitusiga urls",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Vaega Tabs pei o tusitusiga urls (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Vaega Tabs pei o fesoʻotaʻiga",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Vaega Tabs pei o fesoʻotaʻiga (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Tapa uma e fai ma So'oga (✂️)",
+    "message": "Uma tabs pei ona fesoʻotaʻi (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tape uma e pei o URL o Tusitusiga (✂️)",
+    "message": "Uma tabs pei o tusitusiga urls (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tapa Filifilia e fai ma So'oga (✂️)",
+    "message": "Filifilia Tabs pei o sootaga (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Pepa Filifilia e avea ma URL o Tusitusiga (✂️)",
+    "message": "Filifilia Tabs pei o tusitusiga urls (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Lenei Tab e pei o Tusitusiga URL (✂️)",
+    "message": "Lenei tab pei o tusitusiga url (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Lenei Tab e fai ma So'oga (✂️)",
+    "message": "Lenei tab pei o le sootaga (✂️)",
     "description": ""
   }
 }

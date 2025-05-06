@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ടാബ് url-കൾ ഹൈപ്പർലിങ്കുകൾ അല്ലെങ്കിൽ പ്ലെയിൻ ടെക്സ്റ്റ് ആയി പകർത്തുക",
+    "message": "ടാബുകൾ ഹൈപ്പർലിങ്കുകളോ ടെക്സ്റ്റ് URL കളികളായി പകർത്തുക",
     "description": ""
   },
   "selectaction": {
-    "message": "ഉടനടിയുള്ള പ്രവർത്തനം തിരഞ്ഞെടുക്കുക",
+    "message": "ഉടനടി പ്രവർത്തനം തിരഞ്ഞെടുക്കുക",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,23 +16,39 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "എല്ലാ ടാബുകളും ടെക്u200cസ്u200cറ്റ് URL ആയി",
+    "message": "ടെക്സ്റ്റ് URL- കളിലെ എല്ലാ ടാബുകളും",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ലിങ്കുകളായി തിരഞ്ഞെടുത്ത ടാബുകൾ",
+    "message": "തിരഞ്ഞെടുത്ത ടാബുകൾ ലിങ്കുകളായി",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ടെക്u200cസ്u200cറ്റ് URL-കളായി തിരഞ്ഞെടുത്ത ടാബുകൾ",
+    "message": "ടെക്സ്റ്റ് URL- കളികളായി തിരഞ്ഞെടുത്ത ടാബുകൾ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ഈ ടാബ് ടെക്സ്റ്റ് URL ആയി",
+    "message": "ടെക്സ്റ്റ് URL ആയി ഈ ടാബ്",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ലിങ്കായി ഈ ടാബ്",
+    "message": "ലിങ്ക് ആയി ഈ ടാബ്",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "ടെക്സ്റ്റ് URL- കളികളായി ഗ്രൂപ്പ് ടാബുകൾ",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "ടെക്സ്റ്റ് URL- കളികളായി ഗ്രൂപ്പ് ടാബുകൾ (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "ഗ്രൂപ്പ് ടാബുകൾ ലിങ്കുകളായി",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "ഗ്രൂപ്പ് ടാബുകൾ ലിങ്കുകളായി (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,23 +56,23 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "എല്ലാ ടാബുകളും ടെക്u200cസ്u200cറ്റ് URL ആയി (✂️)",
+    "message": "ടെക്സ്റ്റ് URL- കളിലെ എല്ലാ ടാബുകളും (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "ലിങ്കുകളായി തിരഞ്ഞെടുത്ത ടാബുകൾ (✂️)",
+    "message": "തിരഞ്ഞെടുത്ത ടാബുകൾ ലിങ്കുകളായി (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ടെക്u200cസ്u200cറ്റ് URL-കളായി തിരഞ്ഞെടുത്ത ടാബുകൾ (✂️)",
+    "message": "ടെക്സ്റ്റ് URL- കളികളായി തിരഞ്ഞെടുത്ത ടാബുകൾ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ഈ ടാബ് ടെക്സ്റ്റ് URL ആയി (✂️)",
+    "message": "ടെക്സ്റ്റ് URL ആയി ഈ ടാബ് (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ലിങ്കായി ഈ ടാബ് (✂️)",
+    "message": "ലിങ്ക് ആയി ഈ ടാബ് (✂️)",
     "description": ""
   }
 }

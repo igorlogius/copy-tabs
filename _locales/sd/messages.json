@@ -4,59 +4,75 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ﻦﺘﻣ ﻱﺩﺎﺳ ﺎﻳ ﺲڪﻨﻟ ﺮﭙﺋﺎﻫ ﻲﮐ ﻞﻳﺍ ﺭﺁ ﻮﻳ ﺐﻴٽ ﻮﻳﺮڪ ﻞﻘﻧ",
+    "message": " ﺰﻠﻳﺍ ﺭﺁ ﻮﻳ ٽﺴڪﻴٽ ﺎﻳ ڪﻨﻟ ﺮﭙﺋﺎﻫ ﺮﮕﻧﺍﻭ ﺰﺒﻴٽ ﻲﭘﺎڪ",
     "description": ""
   },
   "selectaction": {
-    "message": " ﻞﻤﻋ ﻱﺭﻮﻓ ﻮﻳﺮڪ ﺐﺨﺘﻨﻣ",
+    "message": " ﻮﻳڊﻧﻮﭼ ﻲﺋﺍﻭﺭﺭﺎڪ ﻱﺭﻮﻓ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﻴٽ ﭛﺳ",
+    "message": " ﺐﻴٽ ﻲﺌﭝﺳ ﺭﻮﻃ ﺲڪﻨﻟ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " URLs ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﭛﺳ",
+    "message": " ﺐﻴٽ ﻲﺌﭝﺳ ﺭﻮﻃ ﺰﻠﻳﺍ ﺭﺁ ﻮﻳ ﻦﺘﻣ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ",
+    "message": " ﺐﻴٽ ﻞﻳڊﻧﻮﭼ ﺭﻮﻃ ڪﻨﻟ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " URLs ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ",
+    "message": " ﺐﻴٽ ﻞﻳڊﻧﻮﭼ ﺭﻮﻃ ﺰﻠﻳﺍ ﺭﺁ ﻮﻳ ٽﺴڪﻴٽ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " URL ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﻲﻫ",
+    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ﻞﻳﺍ ﺭﺁ ﻮﻳ ٽﺴڪﻴٽ ﺐﻴٽ ﻲﻫ",
     "description": ""
   },
   "cpytablnk": {
-    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﺌٽ ﻲﻫ",
+    "message": " ﺭﻮﻃ ڪﻨﻟ ﻲﮐ ﺐﻴٽ ﻦﻫ",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": " ﺐﻴٽ ﺎﺟ ﭖﻭﺮﮔ ﺭﻮﻃ ﺰﻠﻳﺍ ﺭﺁ ﻮﻳ ﻦﺘﻣ",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": " ﺐﻴٽ ﺎﺟ ﭖﻭﺮﮔ ﺭﻮﻃ ﺰﻠﻳﺍ ﺭﺁ ﻮﻳ ﻦﺘﻣ (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": " ﺲڪﻨﻟ ﺐﻴٽ ﺎﺟ ڪﻨﻟ",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": " ﺲڪﻨﻟ ﺐﻴٽ ﺎﺟ ڪﻨﻟ (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﻴٽ ﭛﺳ (✂️)",
+    "message": " ﺐﻴٽ ﻲﺌﭝﺳ ﺭﻮﻃ ﺲڪﻨﻟ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " URLs ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﭛﺳ (✂️)",
+    "message": " ﺐﻴٽ ﻲﺌﭝﺳ ﺭﻮﻃ ﺰﻠﻳﺍ ﺭﺁ ﻮﻳ ﻦﺘﻣ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ (✂️)",
+    "message": " ﺐﻴٽ ﻞﻳڊﻧﻮﭼ ﺭﻮﻃ ڪﻨﻟ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " URLs ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﻞﻴﭤ ﺐﺨﺘﻨﻣ (✂️)",
+    "message": " ﺐﻴٽ ﻞﻳڊﻧﻮﭼ ﺭﻮﻃ ﺰﻠﻳﺍ ﺭﺁ ﻮﻳ ٽﺴڪﻴٽ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " URL ﻦﺘﻣ ﻦﺌﻴﺟ ﺐﻴٽ ﻲﻫ (✂️)",
+    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ﻞﻳﺍ ﺭﺁ ﻮﻳ ٽﺴڪﻴٽ ﺐﻴٽ ﻲﻫ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": " ﻲﺗ ﺭﻮﻃ ﻲﺟ ڪﻨﻟ ﺐﺌٽ ﻲﻫ (✂️)",
+    "message": " ﺭﻮﻃ ڪﻨﻟ ﻲﮐ ﺐﻴٽ ﻦﻫ (✂️)",
     "description": ""
   }
 }

@@ -1,18 +1,18 @@
 {
   "addonName": {
-    "message": " סבאַט יפּאָק",
+    "message": " סבאַט עיפּאָק",
     "description": ""
   },
   "addonDesc": {
-    "message": " טסקעט ראָלק רעדאָ סקגנילרעפּייכ יוו ס URL לטיווק יפּאָק",
+    "message": " ס URL טסקעט רעדאָ סקגנילרעפּייכ יוו סבאַט עיפּאָק",
     "description": ""
   },
   "selectaction": {
-    "message": " ףמאַק ךיילג ןביַילקסיוא",
+    "message": " ףמאַק ךיילג ןריטקעלעס",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " סקניל יוו סבאַט עלאַ",
+    "message": " סקניל יוו סבאַט לכ",
     "description": ""
   },
   "cpyalltxt": {
@@ -28,15 +28,31 @@
     "description": ""
   },
   "cpytabtxt": {
-    "message": " URL טסקעט יוו באַט םעד",
+    "message": " URL טסקעט יוו לטיווק רעד",
     "description": ""
   },
   "cpytablnk": {
-    "message": " קניל יוו לטיווק םעד",
+    "message": " קניל יוו לטיווק רעד",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": " ס URL טסקעט יוו סבאַט עפּורג",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": " ס URL טסקעט יוו סבאַט עפּורג (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": " סקניל יוו סבאַט עפּורג",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": " סקניל יוו סבאַט עפּורג (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " סקניל יוו סבאַט עלאַ (✂️)",
+    "message": " סקניל יוו סבאַט לכ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
@@ -52,11 +68,11 @@
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " URL טסקעט יוו באַט םעד (✂️)",
+    "message": " URL טסקעט יוו לטיווק רעד (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": " קניל יוו לטיווק םעד (✂️)",
+    "message": " קניל יוו לטיווק רעד (✂️)",
     "description": ""
   }
 }

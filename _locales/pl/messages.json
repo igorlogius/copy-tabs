@@ -4,59 +4,75 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Skopiuj adresy URL kart jako hiperłącza lub zwykły tekst",
+    "message": "Kopiuj zakładki jako hiperłącze lub adresy URL tekstu",
     "description": ""
   },
   "selectaction": {
-    "message": "Wybierz opcję Natychmiastowe działanie",
+    "message": "Wybierz natychmiastowe działanie",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Wszystkie karty jako łącza",
+    "message": "Wszystkie zakładki jako linki",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Wszystkie karty jako tekstowe adresy URL",
+    "message": "Wszystkie zakładki jako adresy URL tekstu",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Wybrane karty jako łącza",
+    "message": "Wybrane zakładki jako linki",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Wybrane karty jako tekstowe adresy URL",
+    "message": "Wybrane zakładki jako adresy URL tekstu",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ta karta jako tekstowy adres URL",
+    "message": "Ta zakładka jako adres URL tekstu",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ta zakładka jako link",
+    "message": "Ta karta jako link",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Zakładki grupy jako adresy URL tekstu",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Zakładki grupy jako adresy URL tekstu (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Zakładki grupy jako linki",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Zakładki grupy jako linki (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Wszystkie karty jako łącza (✂️)",
+    "message": "Wszystkie zakładki jako linki (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Wszystkie karty jako tekstowe adresy URL (✂️)",
+    "message": "Wszystkie zakładki jako adresy URL tekstu (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Wybrane karty jako łącza (✂️)",
+    "message": "Wybrane zakładki jako linki (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Wybrane karty jako tekstowe adresy URL (✂️)",
+    "message": "Wybrane zakładki jako adresy URL tekstu (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ta karta jako tekstowy adres URL (✂️)",
+    "message": "Ta zakładka jako adres URL tekstu (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ta zakładka jako link (✂️)",
+    "message": "Ta karta jako link (✂️)",
     "description": ""
   }
 }

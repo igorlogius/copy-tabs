@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Sao chép url tab dưới dạng siêu liên kết hoặc văn bản thuần túy",
+    "message": "Sao chép các tab dưới dạng siêu liên kết hoặc URL văn bản",
     "description": ""
   },
   "selectaction": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Các tab đã chọn làm URL văn bản",
+    "message": "Các tab được chọn làm URL văn bản",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tab này dưới dạng URL văn bản",
+    "message": "Tab này dưới dạng url văn bản",
     "description": ""
   },
   "cpytablnk": {
     "message": "Tab này là liên kết",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Tab nhóm dưới dạng URL văn bản",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Tab nhóm dưới dạng URL văn bản (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Tab nhóm dưới dạng liên kết",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Tab nhóm dưới dạng liên kết (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -48,11 +64,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Các tab đã chọn làm URL văn bản (✂️)",
+    "message": "Các tab được chọn làm URL văn bản (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tab này dưới dạng URL văn bản (✂️)",
+    "message": "Tab này dưới dạng url văn bản (✂️)",
     "description": ""
   },
   "cpytablnknp": {

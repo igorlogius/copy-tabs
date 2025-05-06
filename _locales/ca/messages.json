@@ -1,14 +1,14 @@
 {
   "addonName": {
-    "message": "Copiar pestanyes",
+    "message": "Copia les pestanyes",
     "description": ""
   },
   "addonDesc": {
-    "message": "Copieu els URL de les pestanyes com a hiperenllaços o text sense format",
+    "message": "Copieu les pestanyes com a hiperenllaços o URL de text",
     "description": ""
   },
   "selectaction": {
-    "message": "Seleccioneu Acció immediata",
+    "message": "Seleccioneu l'acció immediata",
     "description": ""
   },
   "cpyalllnk": {
@@ -28,11 +28,27 @@
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Aquesta pestanya com a URL de text",
+    "message": "Aquesta pestanya com a url de text",
     "description": ""
   },
   "cpytablnk": {
     "message": "Aquesta pestanya com a enllaç",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Pestanyes de grup com a URL de text",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Pestanyes de grup com a URL de text (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Pestanyes de grup com a enllaços",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Pestanyes de grup com a enllaços (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -52,7 +68,7 @@
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Aquesta pestanya com a URL de text (✂️)",
+    "message": "Aquesta pestanya com a url de text (✂️)",
     "description": ""
   },
   "cpytablnknp": {

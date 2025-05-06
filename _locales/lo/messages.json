@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "ສຳເນົາແຖບ",
+    "message": "ສໍາເນົາແທັບ",
     "description": ""
   },
   "addonDesc": {
-    "message": "ຄັດລອກ url ແຖບເປັນ hyperlinks ຫຼືຂໍ້ຄວາມທໍາມະດາ",
+    "message": "Copy Tabs ເປັນ hyperlinks ຫຼື urls ຕົວຫນັງສື",
     "description": ""
   },
   "selectaction": {
-    "message": "ເລືອກການປະຕິບັດທັນທີ",
+    "message": "ເລືອກການກະທໍາທີ່ທັນທີ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "ແຖບທັງໝົດເປັນລິ້ງ",
+    "message": "ແທັບທັງຫມົດເປັນ link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ແຖບທັງໝົດເປັນ URL ຂໍ້ຄວາມ",
+    "message": "ແທັບທັງຫມົດເປັນ URLs ຕົວຫນັງສື",
     "description": ""
   },
   "cpysellnk": {
-    "message": "ເລືອກແຖບເປັນລິ້ງ",
+    "message": "ແທັບທີ່ຖືກເລືອກເປັນ link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ແຖບທີ່ເລືອກເປັນ URL ຂໍ້ຄວາມ",
+    "message": "ແທັບທີ່ຖືກເລືອກເປັນ URLs ຕົວຫນັງສື",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ແຖບນີ້ເປັນ URL ຂໍ້ຄວາມ",
+    "message": "ແທັບນີ້ເປັນ URL ຂອງຕົວຫນັງສື",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ແຖບນີ້ເປັນລິ້ງ",
+    "message": "ແທັບນີ້ເປັນ link",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "ແທັບກຸ່ມເປັນ urls ຕົວຫນັງສື",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "ແທັບກຸ່ມເປັນ urls ຕົວຫນັງສື (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "ແທັບກຸ່ມເປັນ link",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "ແທັບກຸ່ມເປັນ link (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "ແຖບທັງໝົດເປັນລິ້ງ (✂️)",
+    "message": "ແທັບທັງຫມົດເປັນ link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ແຖບທັງໝົດເປັນ URL ຂໍ້ຄວາມ (✂️)",
+    "message": "ແທັບທັງຫມົດເປັນ URLs ຕົວຫນັງສື (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "ເລືອກແຖບເປັນລິ້ງ (✂️)",
+    "message": "ແທັບທີ່ຖືກເລືອກເປັນ link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ແຖບທີ່ເລືອກເປັນ URL ຂໍ້ຄວາມ (✂️)",
+    "message": "ແທັບທີ່ຖືກເລືອກເປັນ URLs ຕົວຫນັງສື (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ແຖບນີ້ເປັນ URL ຂໍ້ຄວາມ (✂️)",
+    "message": "ແທັບນີ້ເປັນ URL ຂອງຕົວຫນັງສື (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ແຖບນີ້ເປັນລິ້ງ (✂️)",
+    "message": "ແທັບນີ້ເປັນ link (✂️)",
     "description": ""
   }
 }

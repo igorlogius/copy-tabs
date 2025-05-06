@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ටැබ් url අධි සබැඳි හෝ සරල පෙළ ලෙස පිටපත් කරන්න",
+    "message": "ටැබ් හයිපර්ලින්ක් හෝ පෙළ URL ලෙස පිටපත් කරන්න",
     "description": ""
   },
   "selectaction": {
-    "message": "Immedate Action තෝරන්න",
+    "message": "ක්ෂණික ක්රියාමාර්ග තෝරන්න",
     "description": ""
   },
   "cpyalllnk": {
@@ -20,19 +20,35 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "සබැඳි ලෙස තෝරාගත් ටැබ්",
+    "message": "තෝරාගත් ටැබ් සබැඳි ලෙස",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "පෙළ URL ලෙස තෝරාගත් ටැබ්",
+    "message": "තෝරාගත් ටැබ් පෙළ URL ලෙස",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "මෙම ටැබය පෙළ URL ලෙස",
+    "message": "පෙළ URL ලෙස මෙම පටිත්ත",
     "description": ""
   },
   "cpytablnk": {
-    "message": "මෙම ටැබය සබැඳිය ලෙස",
+    "message": "මෙම පටිත්ත සබැඳිය ලෙස",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "කණ්ඩායම් ටැබ් පෙළ URL ලෙස",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "කණ්ඩායම් ටැබ් පෙළ URL ලෙස (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "කණ්ඩායම් ටැබ් සබැඳි ලෙස",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "කණ්ඩායම් ටැබ් සබැඳි ලෙස (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -44,19 +60,19 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "සබැඳි ලෙස තෝරාගත් ටැබ් (✂️)",
+    "message": "තෝරාගත් ටැබ් සබැඳි ලෙස (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "පෙළ URL ලෙස තෝරාගත් ටැබ් (✂️)",
+    "message": "තෝරාගත් ටැබ් පෙළ URL ලෙස (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "මෙම ටැබය පෙළ URL ලෙස (✂️)",
+    "message": "පෙළ URL ලෙස මෙම පටිත්ත (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "මෙම ටැබය සබැඳිය ලෙස (✂️)",
+    "message": "මෙම පටිත්ත සබැඳිය ලෙස (✂️)",
     "description": ""
   }
 }

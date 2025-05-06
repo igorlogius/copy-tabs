@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "हाइपरलिङ्क वा सादा पाठको रूपमा ट्याब यूआरएलहरू प्रतिलिपि गर्नुहोस्",
+    "message": "ट्याबहरू प्रतिलिपि गर्नुहोस् हाइपरलिंक वा पाठ URLS प्रतिलिपि गर्नुहोस्",
     "description": ""
   },
   "selectaction": {
@@ -12,19 +12,19 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": "लिङ्कको रूपमा सबै ट्याबहरू",
+    "message": "सबै ट्याबहरू लिंकहरूको रूपमा",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "पाठ URL को रूपमा सबै ट्याबहरू",
+    "message": "सबै ट्याबहरू पाठ युआरएलको रूपमा",
     "description": ""
   },
   "cpysellnk": {
-    "message": "लिङ्कको रूपमा ट्याबहरू चयन गरियो",
+    "message": "लिंकहरूको रूपमा चयनित ट्याबहरू",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "पाठ URL को रूपमा ट्याबहरू चयन गरियो",
+    "message": "चयनित ट्याबहरू पाठ URLS को रूपमा",
     "description": ""
   },
   "cpytabtxt": {
@@ -32,23 +32,39 @@
     "description": ""
   },
   "cpytablnk": {
-    "message": "लिङ्कको रूपमा यो ट्याब",
+    "message": "यो ट्याब लिंक को रूप मा",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "समूह ट्याबहरू पाठ URLS को रूपमा",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "समूह ट्याबहरू पाठ URLS को रूपमा (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "समूह ट्याब लिंकहरूको रूपमा",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "समूह ट्याब लिंकहरूको रूपमा (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "लिङ्कको रूपमा सबै ट्याबहरू (✂️)",
+    "message": "सबै ट्याबहरू लिंकहरूको रूपमा (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "पाठ URL को रूपमा सबै ट्याबहरू (✂️)",
+    "message": "सबै ट्याबहरू पाठ युआरएलको रूपमा (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "लिङ्कको रूपमा ट्याबहरू चयन गरियो (✂️)",
+    "message": "लिंकहरूको रूपमा चयनित ट्याबहरू (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "पाठ URL को रूपमा ट्याबहरू चयन गरियो (✂️)",
+    "message": "चयनित ट्याबहरू पाठ URLS को रूपमा (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
@@ -56,7 +72,7 @@
     "description": ""
   },
   "cpytablnknp": {
-    "message": "लिङ्कको रूपमा यो ट्याब (✂️)",
+    "message": "यो ट्याब लिंक को रूप मा (✂️)",
     "description": ""
   }
 }

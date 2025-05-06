@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Nukopijuokite skirtukų URL kaip hipersaitus arba paprastą tekstą",
+    "message": "Nukopijuokite skirtukus kaip hipersaitai arba teksto URL",
     "description": ""
   },
   "selectaction": {
-    "message": "Pasirinkite Greitas veiksmas",
+    "message": "Pasirinkite neatidėliotiną veiksmą",
     "description": ""
   },
   "cpyalllnk": {
@@ -33,6 +33,22 @@
   },
   "cpytablnk": {
     "message": "Šis skirtukas kaip nuoroda",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Grupiniai skirtukai kaip teksto URL",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Grupiniai skirtukai kaip teksto URL (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Grupės skirtukai kaip nuorodos",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Grupės skirtukai kaip nuorodos (✂️)",
     "description": ""
   },
   "cpyalllnknp": {

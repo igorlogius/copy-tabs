@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "คัดลอกแท็บ",
+    "message": "แท็บสำเนา",
     "description": ""
   },
   "addonDesc": {
-    "message": "คัดลอก URL ของแท็บเป็นไฮเปอร์ลิงก์หรือข้อความธรรมดา",
+    "message": "คัดลอกแท็บเป็นไฮเปอร์ลิงก์หรือ URL ข้อความ",
     "description": ""
   },
   "selectaction": {
@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": "แท็บทั้งหมดเป็นลิงก์",
+    "message": "แท็บทั้งหมดเป็นลิงค์",
     "description": ""
   },
   "cpyalltxt": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "แท็บที่เลือกเป็นลิงก์",
+    "message": "แท็บที่เลือกเป็นลิงค์",
     "description": ""
   },
   "cpyseltxt": {
@@ -32,11 +32,27 @@
     "description": ""
   },
   "cpytablnk": {
-    "message": "แท็บนี้เป็นลิงก์",
+    "message": "แท็บนี้เป็นลิงค์",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "แท็บกลุ่มเป็น URL ข้อความ",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "แท็บกลุ่มเป็น URL ข้อความ (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "แท็บกลุ่มเป็นลิงค์",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "แท็บกลุ่มเป็นลิงค์ (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "แท็บทั้งหมดเป็นลิงก์ (✂️)",
+    "message": "แท็บทั้งหมดเป็นลิงค์ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
@@ -44,7 +60,7 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "แท็บที่เลือกเป็นลิงก์ (✂️)",
+    "message": "แท็บที่เลือกเป็นลิงค์ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
@@ -56,7 +72,7 @@
     "description": ""
   },
   "cpytablnknp": {
-    "message": "แท็บนี้เป็นลิงก์ (✂️)",
+    "message": "แท็บนี้เป็นลิงค์ (✂️)",
     "description": ""
   }
 }

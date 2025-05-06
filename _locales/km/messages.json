@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ចម្លង url ផ្ទាំងជាតំណខ្ពស់ ឬអត្ថបទធម្មតា។",
+    "message": "ចម្លងផ្ទាំងជាតំណខ្ពស់ឬអត្ថបទ URLs",
     "description": ""
   },
   "selectaction": {
-    "message": "ជ្រើសរើសសកម្មភាពភ្លាមៗ",
+    "message": "ជ្រើសរើសសកម្មភាពជាបន្ទាន់",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "ផ្ទាំងទាំងអស់ជា URL អត្ថបទ",
+    "message": "ផ្ទាំងទាំងអស់ជាអត្ថបទ URLs",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ផ្ទាំងដែលបានជ្រើសរើសជា URL អត្ថបទ",
+    "message": "ផ្ទាំងដែលបានជ្រើសរើសជា url អត្ថបទ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ផ្ទាំងនេះជា URL អត្ថបទ",
+    "message": "ផ្ទាំងនេះជាអត្ថបទ URL",
     "description": ""
   },
   "cpytablnk": {
     "message": "ផ្ទាំងនេះជាតំណភ្ជាប់",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "ផ្ទាំងក្រុមជាអត្ថបទ URLs",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "ផ្ទាំងក្រុមជាអត្ថបទ URLs (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "ផ្ទាំងក្រុមជាតំណភ្ជាប់",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "ផ្ទាំងក្រុមជាតំណភ្ជាប់ (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +56,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "ផ្ទាំងទាំងអស់ជា URL អត្ថបទ (✂️)",
+    "message": "ផ្ទាំងទាំងអស់ជាអត្ថបទ URLs (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +64,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ផ្ទាំងដែលបានជ្រើសរើសជា URL អត្ថបទ (✂️)",
+    "message": "ផ្ទាំងដែលបានជ្រើសរើសជា url អត្ថបទ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ផ្ទាំងនេះជា URL អត្ថបទ (✂️)",
+    "message": "ផ្ទាំងនេះជាអត្ថបទ URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

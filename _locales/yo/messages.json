@@ -4,59 +4,75 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Daakọ url taabu bi hyperlinks tabi ọrọ itele",
+    "message": "Daakọ awọn taabu bi awọn hyperlinks tabi awọn URLs ọrọ",
     "description": ""
   },
   "selectaction": {
-    "message": "Yan Ise Lẹsẹkẹsẹ",
+    "message": "Yan igbese lẹsẹkẹsẹ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Gbogbo Awọn taabu bi Awọn ọna asopọ",
+    "message": "Gbogbo awọn taabu bi awọn ọna asopọ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Gbogbo Awọn taabu bi Awọn URL Ọrọ",
+    "message": "Gbogbo awọn taabu bi awọn urls ọrọ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Awọn taabu ti a yan bi Awọn ọna asopọ",
+    "message": "Awọn taabu ti a ti yan bi awọn ọna asopọ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Awọn taabu ti a yan bi Awọn URL Ọrọ",
+    "message": "Awọn taabu ti a ti yan bi awọn urls ọrọ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Taabu yii bi URL Ọrọ",
+    "message": "Taabu yii",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Taabu yii bi Ọna asopọ",
+    "message": "Taabu yi bi ọna asopọ",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Awọn taabu ẹgbẹ bi awọn urls ọrọ",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Awọn taabu ẹgbẹ bi awọn urls ọrọ (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Awọn taabu ẹgbẹ bi awọn ọna asopọ",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Awọn taabu ẹgbẹ bi awọn ọna asopọ (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Gbogbo Awọn taabu bi Awọn ọna asopọ (✂️)",
+    "message": "Gbogbo awọn taabu bi awọn ọna asopọ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Gbogbo Awọn taabu bi Awọn URL Ọrọ (✂️)",
+    "message": "Gbogbo awọn taabu bi awọn urls ọrọ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Awọn taabu ti a yan bi Awọn ọna asopọ (✂️)",
+    "message": "Awọn taabu ti a ti yan bi awọn ọna asopọ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Awọn taabu ti a yan bi Awọn URL Ọrọ (✂️)",
+    "message": "Awọn taabu ti a ti yan bi awọn urls ọrọ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Taabu yii bi URL Ọrọ (✂️)",
+    "message": "Taabu yii (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Taabu yii bi Ọna asopọ (✂️)",
+    "message": "Taabu yi bi ọna asopọ (✂️)",
     "description": ""
   }
 }

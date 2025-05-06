@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "தாவல்களை நகலெடு",
+    "message": "தாவல்களை நகலெடுக்கவும்",
     "description": ""
   },
   "addonDesc": {
-    "message": "தாவல் urlகளை ஹைப்பர்லிங்க்களாக அல்லது எளிய உரையாக நகலெடுக்கவும்",
+    "message": "தாவல்களை ஹைப்பர்லிங்க்கள் அல்லது உரை URL களாக நகலெடுக்கவும்",
     "description": ""
   },
   "selectaction": {
@@ -16,23 +16,39 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "அனைத்து தாவல்களும் உரை URLகளாக",
+    "message": "அனைத்து தாவல்களும் உரை URL களாக",
     "description": ""
   },
   "cpysellnk": {
-    "message": "இணைப்புகளாகத் தேர்ந்தெடுக்கப்பட்ட தாவல்கள்",
+    "message": "இணைப்புகளாக தேர்ந்தெடுக்கப்பட்ட தாவல்கள்",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "உரை URLகளாக தாவல்கள் தேர்ந்தெடுக்கப்பட்டன",
+    "message": "உரை URL களாக தேர்ந்தெடுக்கப்பட்ட தாவல்கள்",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "இந்த தாவல் உரை URL ஆக உள்ளது",
+    "message": "இந்த தாவல் உரை URL ஆக",
     "description": ""
   },
   "cpytablnk": {
-    "message": "இணைப்பாக இந்த தாவல்",
+    "message": "இந்த தாவல் இணைப்பாக",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "குழு தாவல்கள் உரை URL களாக",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "குழு தாவல்கள் உரை URL களாக (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "குழு தாவல்கள் இணைப்புகளாக",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "குழு தாவல்கள் இணைப்புகளாக (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,23 +56,23 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "அனைத்து தாவல்களும் உரை URLகளாக (✂️)",
+    "message": "அனைத்து தாவல்களும் உரை URL களாக (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "இணைப்புகளாகத் தேர்ந்தெடுக்கப்பட்ட தாவல்கள் (✂️)",
+    "message": "இணைப்புகளாக தேர்ந்தெடுக்கப்பட்ட தாவல்கள் (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "உரை URLகளாக தாவல்கள் தேர்ந்தெடுக்கப்பட்டன (✂️)",
+    "message": "உரை URL களாக தேர்ந்தெடுக்கப்பட்ட தாவல்கள் (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "இந்த தாவல் உரை URL ஆக உள்ளது (✂️)",
+    "message": "இந்த தாவல் உரை URL ஆக (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "இணைப்பாக இந்த தாவல் (✂️)",
+    "message": "இந்த தாவல் இணைப்பாக (✂️)",
     "description": ""
   }
 }

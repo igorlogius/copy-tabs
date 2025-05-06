@@ -1,18 +1,18 @@
 {
   "addonName": {
-    "message": " ﻪﻧﻮﺒټ ﻲﭘﺎﮐ",
+    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪﻧﻮﺒټ",
     "description": ""
   },
   "addonDesc": {
-    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ ﻦﺘﻣ ﻩﺩﺎﺳ ﺎﯾ ﮏﻨﯿﻟ ﺮﭙﯾﺎﻫ ﺩ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﺐټ ﺩ",
+    "message": " ﺉړﮐ ﻲﭘﺎﮐ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺎﯾ ﻮﻧﻮﮑﻨﯿﻟ ﺮﭙﯾﺎﻫ ﺩ ﻪﻧﻮﺒټ",
     "description": ""
   },
   "selectaction": {
-    "message": " ﺉړﮐ ﻩﺭﻮﻏ ﻞﻤﻋ ﻲﺘﺳﺪﻤﺳ",
+    "message": " ﺉړﮐﻭ ﻡﺍﺪﻗﺍ ﻲﺘﺳﺪﻤﺳ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": " ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
+    "message": " ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ",
     "description": ""
   },
   "cpyalltxt": {
@@ -20,23 +20,39 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﻱﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ",
+    "message": " ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻱﻮﺷ ﻞﮐﺎټ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﻱﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ",
+    "message": " ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻱﻮﺷ ﻞﮐﺎټ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﻪګﻮﺗ ﻪﭘ URL ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ",
+    "message": " ﺮﯿڅ ﻪﭘ URL ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ",
     "description": ""
   },
   "cpytablnk": {
-    "message": " ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﺐټ ﺍﺩ",
+    "message": " ﺮﯿڅ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﺐټ ﺍﺩ",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": " ﻪﻧﻮﺒټ ﭖﻭﺮګ ﺩ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": " ﻪﻧﻮﺒټ ﭖﻭﺮګ ﺩ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": " ﻪﻧﻮﺒټ ﭖﻭﺮګ ﺩ ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": " ﻪﻧﻮﺒټ ﭖﻭﺮګ ﺩ ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": " ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ (✂️)",
+    "message": " ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻝﻮټ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
@@ -44,19 +60,19 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": " ﻱﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ (✂️)",
+    "message": " ﻪګﻮﺗ ﻪﭘ ﻮﻧﻮﮑﻨﯿﻟ ﺩ ﻪﻧﻮﺒټ ﻱﻮﺷ ﻞﮐﺎټ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " ﻱﻮﺷ ﻩﺭﻮﻏ ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ (✂️)",
+    "message": " ﻪګﻮﺗ ﻪﭘ URLs ﻦﺘﻣ ﺩ ﻪﻧﻮﺒټ ﻱﻮﺷ ﻞﮐﺎټ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " ﻪګﻮﺗ ﻪﭘ URL ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ (✂️)",
+    "message": " ﺮﯿڅ ﻪﭘ URL ﻦﺘﻣ ﺩ ﺐټ ﺍﺩ (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": " ﻪګﻮﺗ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﺐټ ﺍﺩ (✂️)",
+    "message": " ﺮﯿڅ ﻪﭘ ﮏﻨﯿﻟ ﺩ ﺐټ ﺍﺩ (✂️)",
     "description": ""
   }
 }

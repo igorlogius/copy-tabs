@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Khuphela iiTabs",
+    "message": "Khuphela iithebhu",
     "description": ""
   },
   "addonDesc": {
-    "message": "Khuphela ii-url zethebhu njengehyperlink okanye umbhalo ongenanto",
+    "message": "Khuphela ii-Tabs njenge-hyperlinks okanye ii-URLs zombhalo",
     "description": ""
   },
   "selectaction": {
-    "message": "Khetha Isenzo sangoko",
+    "message": "Khetha inyathelo kwangoko",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Zonke iiTab njengeekhonkco",
+    "message": "Zonke iithebhu njengamakhonkco",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Zonke iiTabhu njengee-URL zokubhaliweyo",
+    "message": "Zonke iithebhu njenge-URL yombhalo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "IiTabhu ezikhethiweyo njengoQhagamshelwano",
+    "message": "Iithebhu ezikhethiweyo njengamakhonkco",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ii-Tab ezikhethiweyo njengee-URL zokubhaliweyo",
+    "message": "Iithebhu ezikhethiweyo njenge-URL yombhalo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Le Tabhu njenge-URL yokubhaliweyo",
+    "message": "Le thebhu njenge-URL yombhalo",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Le Tabhu njengekhonkco",
+    "message": "Le thebhu njengekhonkco",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Iithebhu zeqela njenge-URL yombhalo",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Iithebhu zeqela njenge-URL yombhalo (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Iithebhu zeqela njengamakhonkco",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Iithebhu zeqela njengamakhonkco (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Zonke iiTab njengeekhonkco (✂️)",
+    "message": "Zonke iithebhu njengamakhonkco (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Zonke iiTabhu njengee-URL zokubhaliweyo (✂️)",
+    "message": "Zonke iithebhu njenge-URL yombhalo (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "IiTabhu ezikhethiweyo njengoQhagamshelwano (✂️)",
+    "message": "Iithebhu ezikhethiweyo njengamakhonkco (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ii-Tab ezikhethiweyo njengee-URL zokubhaliweyo (✂️)",
+    "message": "Iithebhu ezikhethiweyo njenge-URL yombhalo (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Le Tabhu njenge-URL yokubhaliweyo (✂️)",
+    "message": "Le thebhu njenge-URL yombhalo (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Le Tabhu njengekhonkco (✂️)",
+    "message": "Le thebhu njengekhonkco (✂️)",
     "description": ""
   }
 }

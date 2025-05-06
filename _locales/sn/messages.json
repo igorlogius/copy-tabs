@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Copy Tabs",
+    "message": "Kopa tabo",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopa urls tebhu semahyperlink kana mavara akajeka",
+    "message": "Kopa mabhebhu se hyperlinks kana zvinyorwa zvezviuru",
     "description": ""
   },
   "selectaction": {
-    "message": "Sarudza Chiito Chakare",
+    "message": "Sarudza nekukurumidza chiito",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "MaTabo ese seManongedzo",
+    "message": "Thebhu ese sezvibatanidza",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ese Tabs seMavara URLs",
+    "message": "Mathebhu ese sezviuru zvemavara",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Akasarudzwa Tabs seZvisungo",
+    "message": "Yakasarudzwa tabs se link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Akasarudzwa Tabs seMavara URLs",
+    "message": "Yakasarudzwa tabs seyakagadzirwa maRls",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Iyi Tabhu seChinyorwa URL",
+    "message": "Iyi tab sezvakanyorwa url",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Iyi Tabhu seChibatanidza",
+    "message": "Iyi tab se link",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Mapoka eboka sezviuru zvemavara",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Mapoka eboka sezviuru zvemavara (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Mapoka eboka sezvibatanidza",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Mapoka eboka sezvibatanidza (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "MaTabo ese seManongedzo (✂️)",
+    "message": "Thebhu ese sezvibatanidza (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ese Tabs seMavara URLs (✂️)",
+    "message": "Mathebhu ese sezviuru zvemavara (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Akasarudzwa Tabs seZvisungo (✂️)",
+    "message": "Yakasarudzwa tabs se link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Akasarudzwa Tabs seMavara URLs (✂️)",
+    "message": "Yakasarudzwa tabs seyakagadzirwa maRls (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Iyi Tabhu seChinyorwa URL (✂️)",
+    "message": "Iyi tab sezvakanyorwa url (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Iyi Tabhu seChibatanidza (✂️)",
+    "message": "Iyi tab se link (✂️)",
     "description": ""
   }
 }

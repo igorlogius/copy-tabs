@@ -1,14 +1,14 @@
 {
   "addonName": {
-    "message": "Копиране на раздели",
+    "message": "Разделения за копиране",
     "description": ""
   },
   "addonDesc": {
-    "message": "Копирайте URL адресите на раздели като хипервръзки или обикновен текст",
+    "message": "Копирайте раздели като хипервръзки или текстови URL адреси",
     "description": ""
   },
   "selectaction": {
-    "message": "Изберете Незабавно действие",
+    "message": "Изберете незабавно действие",
     "description": ""
   },
   "cpyalllnk": {
@@ -28,11 +28,27 @@
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Този раздел като текстов URL",
+    "message": "Този раздел като текстов URL адрес",
     "description": ""
   },
   "cpytablnk": {
     "message": "Този раздел като връзка",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Груповите раздели като текстови URL адреси",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Груповите раздели като текстови URL адреси (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Групови раздели като връзки",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Групови раздели като връзки (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -52,7 +68,7 @@
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Този раздел като текстов URL (✂️)",
+    "message": "Този раздел като текстов URL адрес (✂️)",
     "description": ""
   },
   "cpytablnknp": {

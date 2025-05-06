@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Hiki Tatau e Ngaahi ʻUluʻitohi",
+    "message": "Copy Tabs",
     "description": ""
   },
   "addonDesc": {
-    "message": "Hiki tatau ʻa e tab URLs ko e hyperlinks pe fakamatala mahinongofua",
+    "message": "Hiki tatau ʻa e ngaahi tab ko ha ngaahi fehokotakiʻanga pe URL ʻo e fakamatala",
     "description": ""
   },
   "selectaction": {
-    "message": "Fili ʻa e ngaue vave",
+    "message": "Fili ʻa e Ngaue he Taimi Pe ko ia",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ngaahi ʻuluʻitohi kotoa ko ha ngaahi fehokotakiʻanga",
+    "message": "All Tabs as Links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ngaahi ʻuluʻitohi kotoa ko e text URLs",
+    "message": "Ko e ngaahi tab kotoa pe ko e URL ʻo e fakamatala",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ngaahi ʻuluʻitohi kuo fili ko ha ngaahi fehokotakiʻanga",
+    "message": "Ngaahi Tab kuo Filifili ko e Ngaahi Fehokotakiʻanga",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ngaahi ʻuluʻitohi kuo fili ko e text URLs",
+    "message": "Ngaahi Tab kuo Filifili ko e URL ʻo e Fakamatala",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ko e tab ko ʻeni ko e text URL",
+    "message": "Ko e tab ko ʻeni ko e URL ʻo e fakamatala",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ko e tab ko ʻeni ko ha fehokotakiʻanga",
+    "message": "Ko e Tab ko ʻeni ko e fehokotakiʻanga",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Fakakulupu ʻo e ngaahi Tab ko e URL ʻo e Fakamatala",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Fakakulupu ʻo e ngaahi Tab ko e URL ʻo e Fakamatala (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Ngaahi Tab ʻo e Kulupu ko e Ngaahi Fehokotakiʻanga",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Ngaahi Tab ʻo e Kulupu ko e Ngaahi Fehokotakiʻanga (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ngaahi ʻuluʻitohi kotoa ko ha ngaahi fehokotakiʻanga (✂️)",
+    "message": "All Tabs as Links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ngaahi ʻuluʻitohi kotoa ko e text URLs (✂️)",
+    "message": "Ko e ngaahi tab kotoa pe ko e URL ʻo e fakamatala (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ngaahi ʻuluʻitohi kuo fili ko ha ngaahi fehokotakiʻanga (✂️)",
+    "message": "Ngaahi Tab kuo Filifili ko e Ngaahi Fehokotakiʻanga (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ngaahi ʻuluʻitohi kuo fili ko e text URLs (✂️)",
+    "message": "Ngaahi Tab kuo Filifili ko e URL ʻo e Fakamatala (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ko e tab ko ʻeni ko e text URL (✂️)",
+    "message": "Ko e tab ko ʻeni ko e URL ʻo e fakamatala (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ko e tab ko ʻeni ko ha fehokotakiʻanga (✂️)",
+    "message": "Ko e Tab ko ʻeni ko e fehokotakiʻanga (✂️)",
     "description": ""
   }
 }

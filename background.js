@@ -5,7 +5,6 @@ const extname = manifest.name;
 
 let toolbarAction = "cpyalllnk";
 let noURLParams = false;
-let ready = false;
 let runtab = null;
 let popupmode = false;
 
@@ -137,10 +136,6 @@ async function copyTabsAsHtml(tabs) {
 }
 
 async function onCommand(cmd) {
-  if (!ready) {
-    return;
-  }
-
   if (cmd.endsWith("np")) {
     noURLParams = true;
   } else {
@@ -262,9 +257,32 @@ function onMessage(req) {
   onCommand(req.cmd);
 }
 
+async function onMenuShown(info, tab) {
+  browser.menus.update("grpsep", {
+    visible: tab.groupId !== -1,
+  });
+  browser.menus.update("cpygrplnk", {
+    visible: tab.groupId !== -1,
+  });
+
+  browser.menus.update("cpygrplnknp", {
+    visible: tab.groupId !== -1,
+  });
+  browser.menus.update("cpygrptxt", {
+    visible: tab.groupId !== -1,
+  });
+  browser.menus.update("cpygrptxtnp", {
+    visible: tab.groupId !== -1,
+  });
+
+  browser.menus.refresh();
+}
+
 (async () => {
   // add some transparancy
   browser.browserAction.setBadgeBackgroundColor({ color: [0, 0, 0, 115] });
+
+  await onStorageChange();
 
   // add context entries to copy the clicked tab
   browser.menus.create({
@@ -301,6 +319,87 @@ function onMessage(req) {
       copyTabsAsText([tab]);
     },
   });
+
+  if (browser.tabs.group) {
+    browser.menus.create({
+      visible: false,
+      id: "grpsep",
+      contexts: ["tab"],
+      type: "separator",
+    });
+
+    browser.menus.create({
+      visible: false,
+      id: "cpygrplnk",
+      title: browser.i18n.getMessage("cpygrplnk"),
+      contexts: ["tab"],
+      onclick: async (info, tab) => {
+        const qryObj = {
+          currentWindow: true,
+          hidden: false,
+          url: "<all_urls>",
+          groupId: tab.groupId,
+        };
+        const tabs = await browser.tabs.query(qryObj);
+        noURLParams = false;
+        copyTabsAsHtml(tabs);
+      },
+    });
+    browser.menus.create({
+      visible: false,
+      id: "cpygrplnknp",
+      title: browser.i18n.getMessage("cpygrplnknp"),
+      contexts: ["tab"],
+      onclick: async (info, tab) => {
+        const qryObj = {
+          currentWindow: true,
+          hidden: false,
+          url: "<all_urls>",
+          groupId: tab.groupId,
+        };
+        const tabs = await browser.tabs.query(qryObj);
+        noURLParams = true;
+        copyTabsAsHtml(tabs);
+      },
+    });
+    browser.menus.create({
+      visible: false,
+      id: "cpygrptxt",
+      title: browser.i18n.getMessage("cpygrptxt"),
+      contexts: ["tab"],
+      onclick: async (info, tab) => {
+        const qryObj = {
+          currentWindow: true,
+          hidden: false,
+          url: "<all_urls>",
+          groupId: tab.groupId,
+        };
+        const tabs = await browser.tabs.query(qryObj);
+        noURLParams = false;
+        copyTabsAsText(tabs);
+      },
+    });
+    browser.menus.create({
+      visible: false,
+      id: "cpygrptxtnp",
+      title: browser.i18n.getMessage("cpygrptxtnp"),
+      contexts: ["tab"],
+      onclick: async (info, tab) => {
+        const qryObj = {
+          currentWindow: true,
+          hidden: false,
+          url: "<all_urls>",
+          groupId: tab.groupId,
+        };
+        const tabs = await browser.tabs.query(qryObj);
+        noURLParams = true;
+        copyTabsAsText(tabs);
+      },
+    });
+
+    // update the visibility of the tabgroup actions, depending on the tab
+    browser.menus.onShown.addListener(onMenuShown);
+  }
 
   // add the 4 context entries
   lastCmdgrp = "";
@@ -351,13 +450,12 @@ function onMessage(req) {
     });
   }
 
-  await onStorageChange();
-  ready = true;
+  browser.runtime.onMessage.addListener(onMessage);
+  browser.browserAction.onClicked.addListener(onBAClicked);
+  browser.commands.onCommand.addListener(onCommand);
+  browser.storage.onChanged.addListener(onStorageChange);
 })();
 
+//
 browser.runtime.onInstalled.addListener(onInstalled);
-browser.runtime.onMessage.addListener(onMessage);
-browser.browserAction.onClicked.addListener(onBAClicked);
-browser.commands.onCommand.addListener(onCommand);
-browser.storage.onChanged.addListener(onStorageChange);
 // EOF

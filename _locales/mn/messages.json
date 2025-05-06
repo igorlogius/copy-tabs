@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Цонхыг хуулах",
+    "message": "Табуудыг хуулж ав",
     "description": ""
   },
   "addonDesc": {
-    "message": "Табын URL-г гипер холбоос эсвэл энгийн текст хэлбэрээр хуулах",
+    "message": "Табуудыг хуулах нь гипер холбоос эсвэл текст url хэлбэрээр хуулах",
     "description": ""
   },
   "selectaction": {
-    "message": "Шууд арга хэмжээ сонгоно уу",
+    "message": "Шуурхай арга хэмжээг сонгоно уу",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Бүх табыг холбоос хэлбэрээр",
+    "message": "Бүх табууд холбоосууд",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Бүх табуудыг текстийн URL хэлбэрээр",
+    "message": "Бүх табууд текст urls шиг",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Сонгосон табуудыг холбоос болгон",
+    "message": "Сонгосон табууд холбоосууд",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Сонгосон табуудыг текстийн URL хэлбэрээр",
+    "message": "Текст URL-ыг сонгосон табууд",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Энэ табыг Текст URL хэлбэрээр",
+    "message": "Энэ таб нь текст URL шиг",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Энэ табыг холбоос хэлбэрээр",
+    "message": "Энэ таб холбоос шиг",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Текст URL-г ашиглан бүлгийн табууд",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Текст URL-г ашиглан бүлгийн табууд (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "LINKS-ийн дагуу табуудыг бүлэглээрэй",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "LINKS-ийн дагуу табуудыг бүлэглээрэй (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Бүх табыг холбоос хэлбэрээр (✂️)",
+    "message": "Бүх табууд холбоосууд (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Бүх табуудыг текстийн URL хэлбэрээр (✂️)",
+    "message": "Бүх табууд текст urls шиг (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Сонгосон табуудыг холбоос болгон (✂️)",
+    "message": "Сонгосон табууд холбоосууд (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Сонгосон табуудыг текстийн URL хэлбэрээр (✂️)",
+    "message": "Текст URL-ыг сонгосон табууд (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Энэ табыг Текст URL хэлбэрээр (✂️)",
+    "message": "Энэ таб нь текст URL шиг (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Энэ табыг холбоос хэлбэрээр (✂️)",
+    "message": "Энэ таб холбоос шиг (✂️)",
     "description": ""
   }
 }

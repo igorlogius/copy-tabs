@@ -1,18 +1,18 @@
 {
   "addonName": {
-    "message": "Nuqul ka samee tabs",
+    "message": "Nuqul tabs",
     "description": ""
   },
   "addonDesc": {
-    "message": "Nuqul ka samee URL-yada tab sida hyperlinks ama qoraal cad",
+    "message": "Nuqul tabs sida hyperlinks ama urls qoraalka",
     "description": ""
   },
   "selectaction": {
-    "message": "Dooro Talaabo Degdeg ah",
+    "message": "Xulo ficil deg deg ah",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Dhammaan tabs sida Links",
+    "message": "Dhammaan tabss sida xiriirinta",
     "description": ""
   },
   "cpyalltxt": {
@@ -20,23 +20,39 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tabaha loo xushay sida Links",
+    "message": "Tabs la soo xulay sida xiriirinta",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabaha loo xushay sidii URL Qoraal ahaan",
+    "message": "Tabs loo xushay sida URL-yada qoraalka ah",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Tabkan sida Qoraal URL",
+    "message": "Taban sida URLka qoraalka ah",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tabkan sida Linkiga",
+    "message": "Tabni sida iskuxiran",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "TABS TABs sida URL-yada qoraalka ah",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "TABS TABs sida URL-yada qoraalka ah (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Kooxda taban ee isku xirka",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Kooxda taban ee isku xirka (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Dhammaan tabs sida Links (✂️)",
+    "message": "Dhammaan tabss sida xiriirinta (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
@@ -44,19 +60,19 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tabaha loo xushay sida Links (✂️)",
+    "message": "Tabs la soo xulay sida xiriirinta (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tabaha loo xushay sidii URL Qoraal ahaan (✂️)",
+    "message": "Tabs loo xushay sida URL-yada qoraalka ah (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Tabkan sida Qoraal URL (✂️)",
+    "message": "Taban sida URLka qoraalka ah (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tabkan sida Linkiga (✂️)",
+    "message": "Tabni sida iskuxiran (✂️)",
     "description": ""
   }
 }

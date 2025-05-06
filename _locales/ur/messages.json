@@ -1,14 +1,14 @@
 {
   "addonName": {
-    "message": " ۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﺰﺒﯿﭨ",
+    "message": " ﺰﺒﯿﭨ ﯽﭘﺎﮐ",
     "description": ""
   },
   "addonDesc": {
-    "message": " ۔ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﺭﻮﻄﺑ ﮯﮐ ﻦﺘﻣ ﮦﺩﺎﺳ ﺎﯾ ﺲﮑﻨﻟ ﺮﭙﺋﺎﮨ ﻮﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﺐﯿﭨ",
+    "message": " ﮟﯾﺮﮐ ﯽﭘﺎﮐ ﺮﭘ ﺭﻮﻃ ﮯﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺎﯾ ﺲﮑﻨﻟ ﺮﭙﺋﺎﮨ ﻮﮐ ﺰﺒﯿﭨ",
     "description": ""
   },
   "selectaction": {
-    "message": " ۔ﮟﯾﺮﮐ ﺏﺎﺨﺘﻧﺍ ﺎﮐ ﯽﺋﺍﻭﺭﺭﺎﮐ ﯼﺭﻮﻓ",
+    "message": " ﮟﯾﺮﮐ ﺏﺎﺨﺘﻧﺍ ﺎﮐ ﯽﺋﺍﻭﺭﺭﺎﮐ ﯼﺭﻮﻓ",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": " URLs ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
+    "message": " ﻞﯾﺍ ﺭﺁ ﻮﯾ ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﺰﺒﯿﭨ ﮦﺩﺮﮐ ﺐﺨﺘﻨﻣ ﺭﻮﻄﺑ ﮯﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ",
+    "message": " ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﻮﮐ ﺰﺒﯿﭨ ﮦﺩﺮﮐ ﺐﺨﺘﻨﻣ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " URL ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ",
+    "message": " ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ",
     "description": ""
   },
   "cpytablnk": {
     "message": " ﮏﻨﻟ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": " ﻞﯾﺍ ﺭﺁ ﻮﯾ ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﭖﻭﺮﮔ",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": " ﻞﯾﺍ ﺭﺁ ﻮﯾ ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﭖﻭﺮﮔ (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": " ﺲﮑﻨﻟ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﭖﻭﺮﮔ",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": " ﺲﮑﻨﻟ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﭖﻭﺮﮔ (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +56,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " URLs ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ (✂️)",
+    "message": " ﻞﯾﺍ ﺭﺁ ﻮﯾ ﻦﺘﻣ ﺭﻮﻄﺑ ﺰﺒﯿﭨ ﻡﺎﻤﺗ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +64,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " ﺰﺒﯿﭨ ﮦﺩﺮﮐ ﺐﺨﺘﻨﻣ ﺭﻮﻄﺑ ﮯﮐ ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ (✂️)",
+    "message": " ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﻮﮐ ﺰﺒﯿﭨ ﮦﺩﺮﮐ ﺐﺨﺘﻨﻣ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " URL ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ (✂️)",
+    "message": " ﻞﯾﺍ ﺭﺁ ﻮﯾ ﭧﺴﮑﯿﭨ ﺭﻮﻄﺑ ﺐﯿﭨ ﮧﯾ (✂️)",
     "description": ""
   },
   "cpytablnknp": {

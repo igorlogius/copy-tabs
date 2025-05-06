@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Tabs kopéieren",
+    "message": "Kopie Tabs",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopéiert Tab URLen als Hyperlinks oder Einfach Text",
+    "message": "Kopie Tabs als Hyperlinks oder Text URLen",
     "description": ""
   },
   "selectaction": {
@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": "All Tabs als Links",
+    "message": "All Tabulatioun als Linken",
     "description": ""
   },
   "cpyalltxt": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Ausgewielten Tabs als Links",
+    "message": "Ausgewielt Tabs als Linken",
     "description": ""
   },
   "cpyseltxt": {
@@ -35,8 +35,24 @@
     "message": "Dësen Tab als Link",
     "description": ""
   },
+  "cpygrptxt": {
+    "message": "Grupp Tabs als Text URLen",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Grupp Tabs als Text URLen (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Grupp Tabs als Linken",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Grupp Tabs als Linken (✂️)",
+    "description": ""
+  },
   "cpyalllnknp": {
-    "message": "All Tabs als Links (✂️)",
+    "message": "All Tabulatioun als Linken (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
@@ -44,7 +60,7 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Ausgewielten Tabs als Links (✂️)",
+    "message": "Ausgewielt Tabs als Linken (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {

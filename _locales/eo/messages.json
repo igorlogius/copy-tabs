@@ -4,59 +4,75 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiu tabulajn URL-ojn kiel hiperligojn aŭ simplan tekston",
+    "message": "Kopiu langetojn kiel hiperligojn aŭ tekstajn URLojn",
     "description": ""
   },
   "selectaction": {
-    "message": "Elektu Tuja Ago",
+    "message": "Elektu tujan agon",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Ĉiuj Langetoj kiel Ligiloj",
+    "message": "Ĉiuj langetoj kiel ligoj",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ĉiuj Langetoj kiel Tekstaj URLoj",
+    "message": "Ĉiuj langetoj kiel tekstaj URLoj",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Elektitaj Langetoj kiel Ligiloj",
+    "message": "Elektitaj langetoj kiel ligoj",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Elektitaj Langetoj kiel Tekstaj URLoj",
+    "message": "Elektitaj langetoj kiel tekstaj URLoj",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ĉi tiu langeto kiel Teksta URL",
+    "message": "Ĉi tiu langeto kiel teksta url",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ĉi tiu langeto kiel Ligo",
+    "message": "Ĉi tiu langeto kiel ligo",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Grupaj langetoj kiel tekstaj URLoj",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Grupaj langetoj kiel tekstaj URLoj (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Grupaj langetoj kiel ligoj",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Grupaj langetoj kiel ligoj (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Ĉiuj Langetoj kiel Ligiloj (✂️)",
+    "message": "Ĉiuj langetoj kiel ligoj (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ĉiuj Langetoj kiel Tekstaj URLoj (✂️)",
+    "message": "Ĉiuj langetoj kiel tekstaj URLoj (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Elektitaj Langetoj kiel Ligiloj (✂️)",
+    "message": "Elektitaj langetoj kiel ligoj (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Elektitaj Langetoj kiel Tekstaj URLoj (✂️)",
+    "message": "Elektitaj langetoj kiel tekstaj URLoj (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ĉi tiu langeto kiel Teksta URL (✂️)",
+    "message": "Ĉi tiu langeto kiel teksta url (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ĉi tiu langeto kiel Ligo (✂️)",
+    "message": "Ĉi tiu langeto kiel ligo (✂️)",
     "description": ""
   }
 }

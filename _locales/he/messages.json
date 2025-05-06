@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " ליגר טסקט וא םירושיק-רפיהכ תויסיטרכ לש םירתא תובותכ קתעה",
+    "message": " טסקט תובותכ תובותכ וא םירושיק- רפיהכ תויסיטרכ קתעה",
     "description": ""
   },
   "selectaction": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": " טסקט לש םירתא תובותככ תויסיטרכה לכ",
+    "message": " טסקט תובותככ תויסיטרכה לכ",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": " טסקט לש םירתא תובותככ ורחבנש תויסיטרכ",
+    "message": " טסקט תובותככ ורחבנש תויסיטרכ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " טסקט תבותככ וז הייסיטרכ",
+    "message": " טסקט תבותכ תבותככ וז הייסיטרכ",
     "description": ""
   },
   "cpytablnk": {
     "message": " רושיקכ וז הייסיטרכ",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": " טסקט תובותככ תויתצובק תויסיטרכ",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": " טסקט תובותככ תויתצובק תויסיטרכ (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": " םירושיקכ תויתצובק תויסיטרכ",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": " םירושיקכ תויתצובק תויסיטרכ (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +56,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " טסקט לש םירתא תובותככ תויסיטרכה לכ (✂️)",
+    "message": " טסקט תובותככ תויסיטרכה לכ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +64,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " טסקט לש םירתא תובותככ ורחבנש תויסיטרכ (✂️)",
+    "message": " טסקט תובותככ ורחבנש תויסיטרכ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " טסקט תבותככ וז הייסיטרכ (✂️)",
+    "message": " טסקט תבותכ תבותככ וז הייסיטרכ (✂️)",
     "description": ""
   },
   "cpytablnknp": {

@@ -1,30 +1,30 @@
 {
   "addonName": {
-    "message": "ટૅબ્સ કૉપિ કરો",
+    "message": "લહેર",
     "description": ""
   },
   "addonDesc": {
-    "message": "ટેબ યુઆરએલને હાઇપરલિંક્સ અથવા સાદા ટેક્સ્ટ તરીકે કૉપિ કરો",
+    "message": "હાયપરલિંક્સ અથવા ટેક્સ્ટ URL તરીકે ટ s બ્સને ક Copy પિ કરો",
     "description": ""
   },
   "selectaction": {
-    "message": "તાત્કાલિક ક્રિયા પસંદ કરો",
+    "message": "તાત્કાલિક કાર્યવાહી પસંદ કરો",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "લિંક્સ તરીકે તમામ ટૅબ્સ",
+    "message": "લિંક્સ તરીકે બધા ટ s બ્સ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "બધા ટૅબ્સ ટેક્સ્ટ URL તરીકે",
+    "message": "ટેક્સ્ટ url તરીકે બધા ટ s બ્સ",
     "description": ""
   },
   "cpysellnk": {
-    "message": "લિંક્સ તરીકે પસંદ કરેલ ટૅબ્સ",
+    "message": "લિંક્સ તરીકે પસંદ કરેલા ટ s બ્સ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ટેક્સ્ટ URL તરીકે પસંદ કરેલ ટૅબ્સ",
+    "message": "ટેક્સ્ટ URL તરીકે પસંદ કરેલા ટ s બ્સ",
     "description": ""
   },
   "cpytabtxt": {
@@ -35,20 +35,36 @@
     "message": "લિંક તરીકે આ ટેબ",
     "description": ""
   },
+  "cpygrptxt": {
+    "message": "ટેક્સ્ટ url તરીકે જૂથ ટ s બ્સ",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "ટેક્સ્ટ url તરીકે જૂથ ટ s બ્સ (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "લિંક્સ તરીકે જૂથ ટ s બ્સ",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "લિંક્સ તરીકે જૂથ ટ s બ્સ (✂️)",
+    "description": ""
+  },
   "cpyalllnknp": {
-    "message": "લિંક્સ તરીકે તમામ ટૅબ્સ (✂️)",
+    "message": "લિંક્સ તરીકે બધા ટ s બ્સ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "બધા ટૅબ્સ ટેક્સ્ટ URL તરીકે (✂️)",
+    "message": "ટેક્સ્ટ url તરીકે બધા ટ s બ્સ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "લિંક્સ તરીકે પસંદ કરેલ ટૅબ્સ (✂️)",
+    "message": "લિંક્સ તરીકે પસંદ કરેલા ટ s બ્સ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ટેક્સ્ટ URL તરીકે પસંદ કરેલ ટૅબ્સ (✂️)",
+    "message": "ટેક્સ્ટ URL તરીકે પસંદ કરેલા ટ s બ્સ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {

@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Nişanların URL-lərini hiperlink və ya düz mətn kimi kopyalayın",
+    "message": "Nişanları hiperlink və ya mətn url kimi kopyalayın",
     "description": ""
   },
   "selectaction": {
@@ -12,51 +12,67 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Bütün Nişanlar Linklər kimi",
+    "message": "Bütün nişanlar bağlantılar kimi",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Bütün Nişanlar Mətn URL-ləri kimi",
+    "message": "Mətn URLS kimi bütün nişanlar",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Bağlantılar kimi Seçilmiş Nişanlar",
+    "message": "Linklər kimi seçilmiş nişanlar",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Mətn URL kimi Seçilmiş Nişanlar",
+    "message": "Mətn URLS kimi seçilmiş nişanlar",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Bu Tab Mətn URL kimi",
+    "message": "Bu nişan mətn url kimi",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Bu Tab Link olaraq",
+    "message": "Bu nişan link kimi",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Mətn URLS kimi qrup nişanları",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Mətn URLS kimi qrup nişanları (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Linklər kimi qrup nişanları",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Linklər kimi qrup nişanları (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Bütün Nişanlar Linklər kimi (✂️)",
+    "message": "Bütün nişanlar bağlantılar kimi (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Bütün Nişanlar Mətn URL-ləri kimi (✂️)",
+    "message": "Mətn URLS kimi bütün nişanlar (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Bağlantılar kimi Seçilmiş Nişanlar (✂️)",
+    "message": "Linklər kimi seçilmiş nişanlar (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Mətn URL kimi Seçilmiş Nişanlar (✂️)",
+    "message": "Mətn URLS kimi seçilmiş nişanlar (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Bu Tab Mətn URL kimi (✂️)",
+    "message": "Bu nişan mətn url kimi (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Bu Tab Link olaraq (✂️)",
+    "message": "Bu nişan link kimi (✂️)",
     "description": ""
   }
 }

@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Sekmeleri Kopyala",
+    "message": "Kopyala sekmeleri",
     "description": ""
   },
   "addonDesc": {
-    "message": "Sekme URL'lerini köprü veya düz metin olarak kopyalayın",
+    "message": "Sekmeleri köprü veya metin URL'leri olarak kopyala",
     "description": ""
   },
   "selectaction": {
-    "message": "Acil Eylemi Seçin",
+    "message": "Anında eylem seçin",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Bağlantı Olarak Tüm Sekmeler",
+    "message": "Bağlantılar olarak tüm sekmeler",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tüm Sekmeler Metin URL'si Olarak",
+    "message": "Metin urls olarak tüm sekmeler",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Bağlantı Olarak Seçilen Sekmeler",
+    "message": "Bağlantılar olarak seçilen sekmeler",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Metin URL'leri Olarak Seçilen Sekmeler",
+    "message": "Metin URL'leri olarak seçilen sekmeler",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Metin URL'si olarak Bu Sekme",
+    "message": "Bu sekme metin url olarak",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Bağlantı Olarak Bu Sekme",
+    "message": "Bağlantı olarak bu sekme",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Metin url'leri olarak grup sekmeleri",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Metin url'leri olarak grup sekmeleri (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Bağlantılar olarak grup sekmeleri",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Bağlantılar olarak grup sekmeleri (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Bağlantı Olarak Tüm Sekmeler (✂️)",
+    "message": "Bağlantılar olarak tüm sekmeler (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tüm Sekmeler Metin URL'si Olarak (✂️)",
+    "message": "Metin urls olarak tüm sekmeler (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Bağlantı Olarak Seçilen Sekmeler (✂️)",
+    "message": "Bağlantılar olarak seçilen sekmeler (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Metin URL'leri Olarak Seçilen Sekmeler (✂️)",
+    "message": "Metin URL'leri olarak seçilen sekmeler (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Metin URL'si olarak Bu Sekme (✂️)",
+    "message": "Bu sekme metin url olarak (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Bağlantı Olarak Bu Sekme (✂️)",
+    "message": "Bağlantı olarak bu sekme (✂️)",
     "description": ""
   }
 }

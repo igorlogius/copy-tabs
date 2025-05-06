@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Zkopírujte adresy URL karet jako hypertextové odkazy nebo prostý text",
+    "message": "Zkopírujte karty jako hypertextové odkazy nebo textové adresy URL",
     "description": ""
   },
   "selectaction": {
-    "message": "Vyberte možnost Okamžitá akce",
+    "message": "Vyberte okamžitou akci",
     "description": ""
   },
   "cpyalllnk": {
@@ -33,6 +33,22 @@
   },
   "cpytablnk": {
     "message": "Tato karta jako odkaz",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Skupinové karty jako textové adresy URL",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Skupinové karty jako textové adresy URL (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Skupinové karty jako odkazy",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Skupinové karty jako odkazy (✂️)",
     "description": ""
   },
   "cpyalllnknp": {

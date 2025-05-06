@@ -1,14 +1,14 @@
 {
   "addonName": {
-    "message": "Қойындыларды көшіру",
+    "message": "Көшіру қойындылары",
     "description": ""
   },
   "addonDesc": {
-    "message": "Қойындылардың URL мекенжайларын гиперсілтемелер немесе кәдімгі мәтін ретінде көшіріңіз",
+    "message": "Қойындыларды еренсілтемелер немесе мәтіндік URL мекенжайлары ретінде көшіріңіз",
     "description": ""
   },
   "selectaction": {
-    "message": "Шұғыл әрекетті таңдаңыз",
+    "message": "Дереу әрекетті таңдаңыз",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,23 +16,39 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Барлық қойындылар мәтіндік URL мекенжайлары ретінде",
+    "message": "Барлық қойындылар мәтіндік URLS ретінде",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Сілтемелер ретінде таңдалған қойындылар",
+    "message": "Таңдалған қойындылар сілтемелер ретінде",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Мәтін URL мекенжайлары ретінде таңдалған қойындылар",
+    "message": "Таңдалған қойындыларды мәтіндік URL мекенжайлары ретінде",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Бұл қойынды мәтін URL мекенжайы ретінде",
+    "message": "Бұл қойынды мәтін url ретінде",
     "description": ""
   },
   "cpytablnk": {
     "message": "Бұл қойынды сілтеме ретінде",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Топ қойындылары мәтіндік URL мекенжайлары ретінде",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Топ қойындылары мәтіндік URL мекенжайлары ретінде (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Сілтемелер ретінде топтық қойындылар",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Сілтемелер ретінде топтық қойындылар (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,19 +56,19 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Барлық қойындылар мәтіндік URL мекенжайлары ретінде (✂️)",
+    "message": "Барлық қойындылар мәтіндік URLS ретінде (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Сілтемелер ретінде таңдалған қойындылар (✂️)",
+    "message": "Таңдалған қойындылар сілтемелер ретінде (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Мәтін URL мекенжайлары ретінде таңдалған қойындылар (✂️)",
+    "message": "Таңдалған қойындыларды мәтіндік URL мекенжайлары ретінде (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Бұл қойынды мәтін URL мекенжайы ретінде (✂️)",
+    "message": "Бұл қойынды мәтін url ретінде (✂️)",
     "description": ""
   },
   "cpytablnknp": {

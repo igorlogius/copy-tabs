@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copie os URLs das guias como hiperlinks ou texto simples",
+    "message": "Copiar guias como hiperlinks ou URLs de texto",
     "description": ""
   },
   "selectaction": {
-    "message": "Selecione Ação Imediata",
+    "message": "Selecione Ação imediata",
     "description": ""
   },
   "cpyalllnk": {
@@ -33,6 +33,22 @@
   },
   "cpytablnk": {
     "message": "Esta guia como link",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Guias do grupo como URLs de texto",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Guias do grupo como URLs de texto (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Guias do grupo como links",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Guias do grupo como links (✂️)",
     "description": ""
   },
   "cpyalllnknp": {

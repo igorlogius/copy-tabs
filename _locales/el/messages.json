@@ -1,14 +1,14 @@
 {
   "addonName": {
-    "message": "Αντιγραφή καρτελών",
+    "message": "Καρτέλες αντιγραφής",
     "description": ""
   },
   "addonDesc": {
-    "message": "Αντιγράψτε τις διευθύνσεις URL καρτελών ως υπερσυνδέσμους ή απλό κείμενο",
+    "message": "Αντιγραφή καρτέλες ως υπερσυνδέσεις ή διευθύνσεις URL κειμένου",
     "description": ""
   },
   "selectaction": {
-    "message": "Επιλέξτε Άμεση δράση",
+    "message": "Επιλέξτε άμεση δράση",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Όλες οι καρτέλες ως διευθύνσεις URL κειμένου",
+    "message": "Όλες οι καρτέλες ως URL κειμένου",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Επιλεγμένες καρτέλες ως διευθύνσεις URL κειμένου",
+    "message": "Επιλεγμένες καρτέλες ως διευθύνσεις κειμένου",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Αυτή η καρτέλα ως διεύθυνση URL κειμένου",
+    "message": "Αυτή η καρτέλα ως URL κειμένου",
     "description": ""
   },
   "cpytablnk": {
     "message": "Αυτή η καρτέλα ως σύνδεσμος",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Καρτέλες ομάδας ως διευθύνσεις κειμένου",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Καρτέλες ομάδας ως διευθύνσεις κειμένου (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Καρτέλες ομάδας ως συνδέσμους",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Καρτέλες ομάδας ως συνδέσμους (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +56,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Όλες οι καρτέλες ως διευθύνσεις URL κειμένου (✂️)",
+    "message": "Όλες οι καρτέλες ως URL κειμένου (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +64,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Επιλεγμένες καρτέλες ως διευθύνσεις URL κειμένου (✂️)",
+    "message": "Επιλεγμένες καρτέλες ως διευθύνσεις κειμένου (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Αυτή η καρτέλα ως διεύθυνση URL κειμένου (✂️)",
+    "message": "Αυτή η καρτέλα ως URL κειμένου (✂️)",
     "description": ""
   },
   "cpytablnknp": {

@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "ಟ್ಯಾಬ್ url ಗಳನ್ನು ಹೈಪರ್u200cಲಿಂಕ್u200cಗಳಾಗಿ ಅಥವಾ ಸರಳ ಪಠ್ಯದಂತೆ ನಕಲಿಸಿ",
+    "message": "ಟ್ಯಾಬ್u200cಗಳನ್ನು ಹೈಪರ್ಲಿಂಕ್u200cಗಳು ಅಥವಾ ಪಠ್ಯ URL ಗಳಂತೆ ನಕಲಿಸಿ",
     "description": ""
   },
   "selectaction": {
@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್u200cಗಳಾಗಿ",
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್u200cಗಳಾಗಿವೆ",
     "description": ""
   },
   "cpyalltxt": {
@@ -20,23 +20,39 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "ಟ್ಯಾಬ್u200cಗಳನ್ನು ಲಿಂಕ್u200cಗಳಾಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ",
+    "message": "ಲಿಂಕ್u200cಗಳಾಗಿ ಆಯ್ದ ಟ್ಯಾಬ್u200cಗಳು",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "ಟ್ಯಾಬ್u200cಗಳನ್ನು ಪಠ್ಯ URL ಗಳಾಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ",
+    "message": "ಪಠ್ಯ URL ಗಳಾಗಿ ಆಯ್ದ ಟ್ಯಾಬ್u200cಗಳು",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯ URL ನಂತೆ",
+    "message": "ಈ ಟ್ಯಾಬ್ ಅನ್ನು ಪಠ್ಯ URL ಆಗಿ",
     "description": ""
   },
   "cpytablnk": {
     "message": "ಈ ಟ್ಯಾಬ್ ಲಿಂಕ್ ಆಗಿ",
     "description": ""
   },
+  "cpygrptxt": {
+    "message": "ಗುಂಪು URL ಗಳಂತೆ ಗುಂಪು ಟ್ಯಾಬ್u200cಗಳು",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "ಗುಂಪು URL ಗಳಂತೆ ಗುಂಪು ಟ್ಯಾಬ್u200cಗಳು (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "ಗುಂಪು ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್u200cಗಳಾಗಿವೆ",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "ಗುಂಪು ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್u200cಗಳಾಗಿವೆ (✂️)",
+    "description": ""
+  },
   "cpyalllnknp": {
-    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್u200cಗಳಾಗಿ (✂️)",
+    "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್u200cಗಳು ಲಿಂಕ್u200cಗಳಾಗಿವೆ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
@@ -44,15 +60,15 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "ಟ್ಯಾಬ್u200cಗಳನ್ನು ಲಿಂಕ್u200cಗಳಾಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ (✂️)",
+    "message": "ಲಿಂಕ್u200cಗಳಾಗಿ ಆಯ್ದ ಟ್ಯಾಬ್u200cಗಳು (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "ಟ್ಯಾಬ್u200cಗಳನ್ನು ಪಠ್ಯ URL ಗಳಾಗಿ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ (✂️)",
+    "message": "ಪಠ್ಯ URL ಗಳಾಗಿ ಆಯ್ದ ಟ್ಯಾಬ್u200cಗಳು (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ಈ ಟ್ಯಾಬ್ ಪಠ್ಯ URL ನಂತೆ (✂️)",
+    "message": "ಈ ಟ್ಯಾಬ್ ಅನ್ನು ಪಠ್ಯ URL ಆಗಿ (✂️)",
     "description": ""
   },
   "cpytablnknp": {

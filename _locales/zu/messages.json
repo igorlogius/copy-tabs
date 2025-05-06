@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Kopisha Amathebhu",
+    "message": "Kopisha amathebhu",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopisha ama-url ethebhu njengezixhumanisi noma umbhalo ongenalutho",
+    "message": "Kopisha amathebhu njengama-hyperlink noma ama-URL wombhalo",
     "description": ""
   },
   "selectaction": {
-    "message": "Khetha Isenzo Esisheshayo",
+    "message": "Khetha isenzo esisheshayo",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Wonke Amathebhu Njengezixhumanisi",
+    "message": "Wonke amathebhu njengezixhumanisi",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Wonke Amathebhu njengama-URL wombhalo",
+    "message": "Onke amathebhu njenge-URL yombhalo",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Amathebhu Akhethiwe Njengezixhumanisi",
+    "message": "Amathebhu akhethiwe njengezixhumanisi",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Amathebhu Akhethiwe Njengama-URL Ombhalo",
+    "message": "Amathebhu akhethiwe njengama-URL wombhalo",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Le Thebhu njenge-URL yombhalo",
+    "message": "Le thebhu njenge-URL yombhalo",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Le Thebhu njengesixhumanisi",
+    "message": "Le thebhu njengesixhumanisi",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Amathebhu weqembu njengama-URL wombhalo",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Amathebhu weqembu njengama-URL wombhalo (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Amathebhu weqembu njengezixhumanisi",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Amathebhu weqembu njengezixhumanisi (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Wonke Amathebhu Njengezixhumanisi (✂️)",
+    "message": "Wonke amathebhu njengezixhumanisi (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Wonke Amathebhu njengama-URL wombhalo (✂️)",
+    "message": "Onke amathebhu njenge-URL yombhalo (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Amathebhu Akhethiwe Njengezixhumanisi (✂️)",
+    "message": "Amathebhu akhethiwe njengezixhumanisi (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Amathebhu Akhethiwe Njengama-URL Ombhalo (✂️)",
+    "message": "Amathebhu akhethiwe njengama-URL wombhalo (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Le Thebhu njenge-URL yombhalo (✂️)",
+    "message": "Le thebhu njenge-URL yombhalo (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Le Thebhu njengesixhumanisi (✂️)",
+    "message": "Le thebhu njengesixhumanisi (✂️)",
     "description": ""
   }
 }

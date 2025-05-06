@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Kopyahin ang Mga Tab",
+    "message": "Kopyahin ang mga tab",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopyahin ang mga url ng tab bilang mga hyperlink o plain text",
+    "message": "Kopyahin ang mga tab bilang hyperlink o mga url ng teksto",
     "description": ""
   },
   "selectaction": {
-    "message": "Piliin ang Agarang Pagkilos",
+    "message": "Piliin ang agarang pagkilos",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Lahat ng Tab bilang Mga Link",
+    "message": "Lahat ng mga tab bilang mga link",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Lahat ng Tab bilang Text URL",
+    "message": "Lahat ng mga tab bilang mga url ng teksto",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Mga Piniling Tab bilang Mga Link",
+    "message": "Napiling mga tab bilang mga link",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Mga Piniling Tab bilang Mga Tekstong URL",
+    "message": "Napiling mga tab bilang mga url ng teksto",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ang Tab na ito bilang Text URL",
+    "message": "Ang tab na ito bilang text url",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ang Tab na ito bilang Link",
+    "message": "Ang tab na ito bilang link",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Mga tab na pangkat bilang mga url ng teksto",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Mga tab na pangkat bilang mga url ng teksto (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Mga tab na pangkat bilang mga link",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Mga tab na pangkat bilang mga link (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Lahat ng Tab bilang Mga Link (✂️)",
+    "message": "Lahat ng mga tab bilang mga link (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Lahat ng Tab bilang Text URL (✂️)",
+    "message": "Lahat ng mga tab bilang mga url ng teksto (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Mga Piniling Tab bilang Mga Link (✂️)",
+    "message": "Napiling mga tab bilang mga link (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Mga Piniling Tab bilang Mga Tekstong URL (✂️)",
+    "message": "Napiling mga tab bilang mga url ng teksto (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ang Tab na ito bilang Text URL (✂️)",
+    "message": "Ang tab na ito bilang text url (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ang Tab na ito bilang Link (✂️)",
+    "message": "Ang tab na ito bilang link (✂️)",
     "description": ""
   }
 }

@@ -1,14 +1,14 @@
 {
   "addonName": {
-    "message": "Kopiraj kartice",
+    "message": "Kartice za kopiranje",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopirajte URL-ove kartica kao hiperveze ili čisti tekst",
+    "message": "Kartice kopirajte kao hiperveze ili URL -ovi teksta",
     "description": ""
   },
   "selectaction": {
-    "message": "Odaberite Trenutačno djelovanje",
+    "message": "Odaberite neposrednu akciju",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Sve kartice kao tekstualni URL-ovi",
+    "message": "Sve kartice kao URL -ovi teksta",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Odabrane kartice kao tekstualni URL-ovi",
+    "message": "Odabrane kartice kao URL -ovi teksta",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ova kartica kao tekstualni URL",
+    "message": "Ova kartica kao URL teksta",
     "description": ""
   },
   "cpytablnk": {
     "message": "Ova kartica kao veza",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Kartice grupe kao URL -ovi teksta",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Kartice grupe kao URL -ovi teksta (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Kartice grupe kao veze",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Kartice grupe kao veze (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +56,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Sve kartice kao tekstualni URL-ovi (✂️)",
+    "message": "Sve kartice kao URL -ovi teksta (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +64,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Odabrane kartice kao tekstualni URL-ovi (✂️)",
+    "message": "Odabrane kartice kao URL -ovi teksta (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ova kartica kao tekstualni URL (✂️)",
+    "message": "Ova kartica kao URL teksta (✂️)",
     "description": ""
   },
   "cpytablnknp": {

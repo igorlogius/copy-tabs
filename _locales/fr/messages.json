@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copier les URL des onglets sous forme d'hyperliens ou de texte brut",
+    "message": "Copier les onglets en tant qu'hyperliens ou URL texte",
     "description": ""
   },
   "selectaction": {
@@ -12,11 +12,11 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tous les onglets sous forme de liens",
+    "message": "Tous les onglets comme liens",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tous les onglets sous forme d'URL de texte",
+    "message": "Tous les onglets comme URL de texte",
     "description": ""
   },
   "cpysellnk": {
@@ -24,23 +24,39 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Onglets sélectionnés en tant qu'URL de texte",
+    "message": "Onglets sélectionnés comme URL de texte",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Cet onglet sous forme d'URL de texte",
+    "message": "Cet onglet comme URL de texte",
     "description": ""
   },
   "cpytablnk": {
     "message": "Cet onglet comme lien",
     "description": ""
   },
+  "cpygrptxt": {
+    "message": "Onglets de groupe comme URL texte",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Onglets de groupe comme URL texte (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Onglets de groupe comme liens",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Onglets de groupe comme liens (✂️)",
+    "description": ""
+  },
   "cpyalllnknp": {
-    "message": "Tous les onglets sous forme de liens (✂️)",
+    "message": "Tous les onglets comme liens (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tous les onglets sous forme d'URL de texte (✂️)",
+    "message": "Tous les onglets comme URL de texte (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +64,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Onglets sélectionnés en tant qu'URL de texte (✂️)",
+    "message": "Onglets sélectionnés comme URL de texte (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Cet onglet sous forme d'URL de texte (✂️)",
+    "message": "Cet onglet comme URL de texte (✂️)",
     "description": ""
   },
   "cpytablnknp": {

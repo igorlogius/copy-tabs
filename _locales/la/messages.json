@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Exemplar Tabs",
+    "message": "Effingo Tabs",
     "description": ""
   },
   "addonDesc": {
-    "message": "Effingo tab delata ut hyperlinks vel textum planum",
+    "message": "Effingo tabs ut hyperlinks aut text delata",
     "description": ""
   },
   "selectaction": {
-    "message": "Eligere Immediatam actionem",
+    "message": "Select statim actum",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Omnes Tab ut Links",
+    "message": "Omnes tabs sicut links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Omnes Tab ut Text URLs",
+    "message": "Omnes tabs ut text URLs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Electus Tabs ut Links",
+    "message": "Logs tabs links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabs ut lectus delata Text",
+    "message": "Electus Tabs ut Text URLs",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Hoc Tab ut Text URL",
+    "message": "Hoc tab quod text url",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Hoc Tab ut Link",
+    "message": "Haec tab quod link",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Group Tabs ut Text URLs",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Group Tabs ut Text URLs (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Group Tabs ut Links",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Group Tabs ut Links (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Omnes Tab ut Links (✂️)",
+    "message": "Omnes tabs sicut links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Omnes Tab ut Text URLs (✂️)",
+    "message": "Omnes tabs ut text URLs (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Electus Tabs ut Links (✂️)",
+    "message": "Logs tabs links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tabs ut lectus delata Text (✂️)",
+    "message": "Electus Tabs ut Text URLs (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Hoc Tab ut Text URL (✂️)",
+    "message": "Hoc tab quod text url (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Hoc Tab ut Link (✂️)",
+    "message": "Haec tab quod link (✂️)",
     "description": ""
   }
 }

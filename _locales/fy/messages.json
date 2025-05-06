@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Kopiearje ljeppers",
+    "message": "Tabs kopiearje",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiearje ljepper URL's as hyperkeppelings of platte tekst",
+    "message": "Kopiearje ljeppers as hyperlinks as tekst-URL's",
     "description": ""
   },
   "selectaction": {
@@ -12,7 +12,7 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Alle ljepblêden as keppelings",
+    "message": "Alle ljeppers as keppelings",
     "description": ""
   },
   "cpyalltxt": {
@@ -20,23 +20,39 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Selekteare ljeppers as keppelings",
+    "message": "Selektearre ljepblêden as keppelings",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Selekteare ljeppers as tekst-URL's",
+    "message": "Selektearre ljepblêden as tekst-URL's",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Dizze ljepper as tekst-URL",
+    "message": "Dit ljepper as tekst URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Dizze ljepper as keppeling",
+    "message": "Dit ljepper as keppeling",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Groep-ljeppers as tekst-URL's",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Groep-ljeppers as tekst-URL's (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Groep-ljeppers as keppelings",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Groep-ljeppers as keppelings (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Alle ljepblêden as keppelings (✂️)",
+    "message": "Alle ljeppers as keppelings (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
@@ -44,19 +60,19 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Selekteare ljeppers as keppelings (✂️)",
+    "message": "Selektearre ljepblêden as keppelings (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Selekteare ljeppers as tekst-URL's (✂️)",
+    "message": "Selektearre ljepblêden as tekst-URL's (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Dizze ljepper as tekst-URL (✂️)",
+    "message": "Dit ljepper as tekst URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Dizze ljepper as keppeling (✂️)",
+    "message": "Dit ljepper as keppeling (✂️)",
     "description": ""
   }
 }

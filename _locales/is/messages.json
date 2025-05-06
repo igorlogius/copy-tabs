@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Afritaðu vefslóðir flipa sem tengla eða venjulegur texti",
+    "message": "Afritaðu flipa sem tengla eða vefslóðir texta",
     "description": ""
   },
   "selectaction": {
-    "message": "Veldu Tafarlaus aðgerð",
+    "message": "Veldu strax aðgerð",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,23 +16,39 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Allir flipar sem textaslóðir",
+    "message": "Allir flipar sem vefslóðir texta",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valdir flipar sem tenglar",
+    "message": "Valdir flipar sem hlekkir",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valdir flipar sem textaslóðir",
+    "message": "Valdir flipar sem vefslóðir texta",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Þessi flipi sem textaslóð",
+    "message": "Þessi flipi sem vefslóð texta",
     "description": ""
   },
   "cpytablnk": {
     "message": "Þessi flipi sem hlekkur",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Hópflipar sem vefslóðir texta",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Hópflipar sem vefslóðir texta (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Hópflipar sem tenglar",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Hópflipar sem tenglar (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,19 +56,19 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Allir flipar sem textaslóðir (✂️)",
+    "message": "Allir flipar sem vefslóðir texta (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valdir flipar sem tenglar (✂️)",
+    "message": "Valdir flipar sem hlekkir (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valdir flipar sem textaslóðir (✂️)",
+    "message": "Valdir flipar sem vefslóðir texta (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Þessi flipi sem textaslóð (✂️)",
+    "message": "Þessi flipi sem vefslóð texta (✂️)",
     "description": ""
   },
   "cpytablnknp": {

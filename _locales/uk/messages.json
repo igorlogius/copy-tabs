@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Копіювати URL-адреси вкладок як гіперпосилання або звичайний текст",
+    "message": "Скопіюйте вкладки як гіперпосилання або текстові URL -адреси",
     "description": ""
   },
   "selectaction": {
-    "message": "Виберіть Негайна дія",
+    "message": "Виберіть негайну дію",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Усі вкладки як текстові URL-адреси",
+    "message": "Усі вкладки як текстові URL -адреси",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Вибрані вкладки як текстові URL-адреси",
+    "message": "Вибрані вкладки як текстові URL -адреси",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ця вкладка як текстова URL-адреса",
+    "message": "Ця вкладка як текстова URL -адреса",
     "description": ""
   },
   "cpytablnk": {
     "message": "Ця вкладка як посилання",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Групові вкладки як текстові URL -адреси",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Групові вкладки як текстові URL -адреси (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Групові вкладки як посилання",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Групові вкладки як посилання (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +56,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Усі вкладки як текстові URL-адреси (✂️)",
+    "message": "Усі вкладки як текстові URL -адреси (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +64,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Вибрані вкладки як текстові URL-адреси (✂️)",
+    "message": "Вибрані вкладки як текстові URL -адреси (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ця вкладка як текстова URL-адреса (✂️)",
+    "message": "Ця вкладка як текстова URL -адреса (✂️)",
     "description": ""
   },
   "cpytablnknp": {

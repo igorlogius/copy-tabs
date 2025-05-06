@@ -1,18 +1,18 @@
 {
   "addonName": {
-    "message": "Copy Tabs",
+    "message": "Copia Tabulazione",
     "description": ""
   },
   "addonDesc": {
-    "message": "Copia l'urls di tabulazione cum'è ligami ipertesi o testu chjaru",
+    "message": "Copia Tabulazione cum'è ipertestu o URL di testu",
     "description": ""
   },
   "selectaction": {
-    "message": "Selezziunà Azzione Immediata",
+    "message": "Selezziunate l'azzione immediata",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tutti i Tabs cum'è Links",
+    "message": "Tutte e tabulazioni cum'è ligami",
     "description": ""
   },
   "cpyalltxt": {
@@ -20,23 +20,39 @@
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tabs Scelti cum'è Links",
+    "message": "Tabulazioni selezziunate cum'è ligami",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabs Scelti cum'è URL di testu",
+    "message": "Tabulazioni selezziunate cum'è URL di testu",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Questa Tabulazione cum'è URL di testu",
+    "message": "Questa tabulazione cum'è URL di testu",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Questa Tabulazione cum'è Link",
+    "message": "Sta tabulazione cum'è ligame",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Tabulazioni di u gruppu cum'è URL di testu",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Tabulazioni di u gruppu cum'è URL di testu (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Tabulazioni di gruppu cum'è ligami",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Tabulazioni di gruppu cum'è ligami (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Tutti i Tabs cum'è Links (✂️)",
+    "message": "Tutte e tabulazioni cum'è ligami (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
@@ -44,19 +60,19 @@
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tabs Scelti cum'è Links (✂️)",
+    "message": "Tabulazioni selezziunate cum'è ligami (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tabs Scelti cum'è URL di testu (✂️)",
+    "message": "Tabulazioni selezziunate cum'è URL di testu (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Questa Tabulazione cum'è URL di testu (✂️)",
+    "message": "Questa tabulazione cum'è URL di testu (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Questa Tabulazione cum'è Link (✂️)",
+    "message": "Sta tabulazione cum'è ligame (✂️)",
     "description": ""
   }
 }

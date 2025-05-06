@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopier fanenettadresser som hyperkoblinger eller ren tekst",
+    "message": "Kopier faner som hyperkoblinger eller tekstadresser",
     "description": ""
   },
   "selectaction": {
-    "message": "Velg Umiddelbar handling",
+    "message": "Velg øyeblikkelig handling",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,23 +16,39 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle faner som tekst-URL-er",
+    "message": "Alle faner som tekstadresser",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Valgte faner som koblinger",
+    "message": "Utvalgte faner som lenker",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valgte faner som tekst-URL-er",
+    "message": "Utvalgte faner som tekst -nettadresser",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Denne fanen som tekst-URL",
+    "message": "Denne fanen som tekst url",
     "description": ""
   },
   "cpytablnk": {
     "message": "Denne fanen som lenke",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Gruppefaner som tekst -nettadresser",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Gruppefaner som tekst -nettadresser (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Gruppefaner som lenker",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Gruppefaner som lenker (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,19 +56,19 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle faner som tekst-URL-er (✂️)",
+    "message": "Alle faner som tekstadresser (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Valgte faner som koblinger (✂️)",
+    "message": "Utvalgte faner som lenker (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valgte faner som tekst-URL-er (✂️)",
+    "message": "Utvalgte faner som tekst -nettadresser (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Denne fanen som tekst-URL (✂️)",
+    "message": "Denne fanen som tekst url (✂️)",
     "description": ""
   },
   "cpytablnknp": {

@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Ikkopja Tabs",
+    "message": "Kopja tabs",
     "description": ""
   },
   "addonDesc": {
-    "message": "Ikkopja l-URL tat-tab bħala hyperlinks jew test sempliċi",
+    "message": "Ikkopja tabs bħala hyperlinks jew URLs tat-test",
     "description": ""
   },
   "selectaction": {
-    "message": "Agħżel Azzjoni Immedjata",
+    "message": "Agħżel azzjoni immedjata",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "It-Tabs kollha bħala Links",
+    "message": "It-tabs kollha bħala links",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "It-Tabs kollha bħala URLs tat-Test",
+    "message": "It-tabs kollha bħala URLs tat-test",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Tabs Magħżula bħala Links",
+    "message": "Tabs magħżula bħala links",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Tabs Magħżula bħala URLs tat-Test",
+    "message": "Tabs magħżula bħala URLs tat-Test",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Din it-Tab bħala Test URL",
+    "message": "Din it-tab bħala URL tat-Test",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Dan Tab bħala Link",
+    "message": "Din it-tab bħala link",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Tabs tal-grupp bħala urls tat-test",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Tabs tal-grupp bħala urls tat-test (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Tabs tal-grupp bħala links",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Tabs tal-grupp bħala links (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "It-Tabs kollha bħala Links (✂️)",
+    "message": "It-tabs kollha bħala links (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "It-Tabs kollha bħala URLs tat-Test (✂️)",
+    "message": "It-tabs kollha bħala URLs tat-test (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Tabs Magħżula bħala Links (✂️)",
+    "message": "Tabs magħżula bħala links (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Tabs Magħżula bħala URLs tat-Test (✂️)",
+    "message": "Tabs magħżula bħala URLs tat-Test (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Din it-Tab bħala Test URL (✂️)",
+    "message": "Din it-tab bħala URL tat-Test (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Dan Tab bħala Link (✂️)",
+    "message": "Din it-tab bħala link (✂️)",
     "description": ""
   }
 }

@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopieer oortjie-URL's as hiperskakels of gewone teks",
+    "message": "Kopieer oortjies as hiperskakels of teks -URL's",
     "description": ""
   },
   "selectaction": {
-    "message": "Kies Onmiddellike aksie",
+    "message": "Kies onmiddellike aksie",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle oortjies as teks-URL'e",
+    "message": "Alle oortjies as teks -URL's",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Geselekteerde oortjies as teks-URL'e",
+    "message": "Geselekteerde oortjies as teks -URL's",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Hierdie oortjie as teks-URL",
+    "message": "Hierdie oortjie as teks -url",
     "description": ""
   },
   "cpytablnk": {
     "message": "Hierdie oortjie as skakel",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Groep -oortjies as teks -URL's",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Groep -oortjies as teks -URL's (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Groep oortjies as skakels",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Groep oortjies as skakels (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +56,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle oortjies as teks-URL'e (✂️)",
+    "message": "Alle oortjies as teks -URL's (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +64,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Geselekteerde oortjies as teks-URL'e (✂️)",
+    "message": "Geselekteerde oortjies as teks -URL's (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Hierdie oortjie as teks-URL (✂️)",
+    "message": "Hierdie oortjie as teks -url (✂️)",
     "description": ""
   },
   "cpytablnknp": {

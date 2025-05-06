@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Копирајте URL-адреси на јазичињата како хиперврски или обичен текст",
+    "message": "Копирајте јазичиња како хиперврска или URL -адреси на текст",
     "description": ""
   },
   "selectaction": {
-    "message": "Изберете Итно дејство",
+    "message": "Изберете непосредна акција",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Сите јазичиња како текстуални URL-адреси",
+    "message": "Сите јазичиња како URL -адреси на текст",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Избрани јазичиња како текстуални URL-адреси",
+    "message": "Избрани јазичиња како УРЛ -адреси на текст",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Оваа картичка како URL на текст",
+    "message": "Ова јазиче како URL -адреса за текст",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Оваа картичка како врска",
+    "message": "Ова јазиче како врска",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Групни јазичиња како УРЛ -адреси на текст",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Групни јазичиња како УРЛ -адреси на текст (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Групни јазичиња како врски",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Групни јазичиња како врски (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +56,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Сите јазичиња како текстуални URL-адреси (✂️)",
+    "message": "Сите јазичиња како URL -адреси на текст (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +64,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Избрани јазичиња како текстуални URL-адреси (✂️)",
+    "message": "Избрани јазичиња како УРЛ -адреси на текст (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Оваа картичка како URL на текст (✂️)",
+    "message": "Ова јазиче како URL -адреса за текст (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Оваа картичка како врска (✂️)",
+    "message": "Ова јазиче како врска (✂️)",
     "description": ""
   }
 }

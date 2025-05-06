@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "टैब कॉपी करें",
+    "message": "कॉपी टैब",
     "description": ""
   },
   "addonDesc": {
-    "message": "टैब यूआरएल को हाइपरलिंक या सादे टेक्स्ट के रूप में कॉपी करें",
+    "message": "हाइपरलिंक या टेक्स्ट URL के रूप में टैब कॉपी करें",
     "description": ""
   },
   "selectaction": {
@@ -12,11 +12,11 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": "सभी टैब लिंक के रूप में",
+    "message": "लिंक के रूप में सभी टैब",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "सभी टैब टेक्स्ट यूआरएल के रूप में",
+    "message": "पाठ के रूप में सभी टैब urls",
     "description": ""
   },
   "cpysellnk": {
@@ -24,23 +24,39 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "टेक्स्ट यूआरएल के रूप में चयनित टैब",
+    "message": "पाठ URL के रूप में चयनित टैब",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "यह टैब टेक्स्ट यूआरएल के रूप में है",
+    "message": "पाठ URL के रूप में यह टैब",
     "description": ""
   },
   "cpytablnk": {
-    "message": "यह टैब लिंक के रूप में है",
+    "message": "लिंक के रूप में यह टैब",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "समूह टैब पाठ url के रूप में",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "समूह टैब पाठ url के रूप में (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "लिंक के रूप में समूह टैब",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "लिंक के रूप में समूह टैब (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "सभी टैब लिंक के रूप में (✂️)",
+    "message": "लिंक के रूप में सभी टैब (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "सभी टैब टेक्स्ट यूआरएल के रूप में (✂️)",
+    "message": "पाठ के रूप में सभी टैब urls (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +64,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "टेक्स्ट यूआरएल के रूप में चयनित टैब (✂️)",
+    "message": "पाठ URL के रूप में चयनित टैब (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "यह टैब टेक्स्ट यूआरएल के रूप में है (✂️)",
+    "message": "पाठ URL के रूप में यह टैब (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "यह टैब लिंक के रूप में है (✂️)",
+    "message": "लिंक के रूप में यह टैब (✂️)",
     "description": ""
   }
 }

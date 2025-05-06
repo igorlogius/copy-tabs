@@ -1,14 +1,14 @@
 {
   "addonName": {
-    "message": "Kopeeri vahekaardid",
+    "message": "Vahekaardid",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopeerige vahelehtede URL-id hüperlinkide või lihttekstina",
+    "message": "Kopeerige vahekaardid hüperlingidena või teksti URL -idena",
     "description": ""
   },
   "selectaction": {
-    "message": "Valige kohene toiming",
+    "message": "Valige kohene tegevus",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Kõik vahelehed teksti URL-ina",
+    "message": "Kõik vahekaardid teksti URL -dena",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Teksti URL-idena valitud vahelehed",
+    "message": "Valitud vahekaardid teksti URL -dena",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "See vahekaart teksti URL-ina",
+    "message": "See vahekaart kui tekst URL",
     "description": ""
   },
   "cpytablnk": {
-    "message": "See vahekaart lingina",
+    "message": "See vahekaart Linkina",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Rühmakaardid teksti URL -dena",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Rühmakaardid teksti URL -dena (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Rühmakaardid linkidena",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Rühmakaardid linkidena (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +56,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Kõik vahelehed teksti URL-ina (✂️)",
+    "message": "Kõik vahekaardid teksti URL -dena (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,15 +64,15 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Teksti URL-idena valitud vahelehed (✂️)",
+    "message": "Valitud vahekaardid teksti URL -dena (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "See vahekaart teksti URL-ina (✂️)",
+    "message": "See vahekaart kui tekst URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "See vahekaart lingina (✂️)",
+    "message": "See vahekaart Linkina (✂️)",
     "description": ""
   }
 }

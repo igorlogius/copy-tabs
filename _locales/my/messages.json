@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "တဘ်များကို ကူးယူပါ။",
+    "message": "ကူးယူသည့် tabs များ",
     "description": ""
   },
   "addonDesc": {
-    "message": "တက်ဘ် url များကို ဟိုက်ပါလင့်ခ်များ သို့မဟုတ် ရိုးရိုးစာသားအဖြစ် ကူးယူပါ။",
+    "message": "hyperlinks သို့မဟုတ်စာသား URL များအဖြစ် tabs များကိုကူးယူပါ",
     "description": ""
   },
   "selectaction": {
-    "message": "ချက်ချင်းလုပ်ဆောင်မှုကို ရွေးပါ။",
+    "message": "ချက်ချင်းအရေးယူမှုကိုရွေးချယ်ပါ",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "တဘ်များအားလုံးကို လင့်ခ်များအဖြစ်",
+    "message": "လင့်များအနေဖြင့် tabs များအားလုံး",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "စာသား URL များအဖြစ် တဘ်များအားလုံး",
+    "message": "စာသား URLs အဖြစ်အားလုံး tabs",
     "description": ""
   },
   "cpysellnk": {
-    "message": "လင့်များအဖြစ် ရွေးချယ်ထားသော တဘ်များ",
+    "message": "လင့်များအဖြစ်ရွေးချယ်ထား tabs များ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Text URLs အဖြစ် ရွေးချယ်ထားသော တဘ်များ",
+    "message": "စာသား URLs အဖြစ်ရွေးချယ်ထား tabs များ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "ဤတဘ်ကို စာသား URL အဖြစ်",
+    "message": "စာသား URL အဖြစ်ဒီ tab ကို",
     "description": ""
   },
   "cpytablnk": {
-    "message": "ဤ Tab ကို Link အဖြစ်",
+    "message": "link ကိုအဖြစ်ဒီ tab",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "စာသား URLs အဖြစ်အုပ်စုလိုက် tabs",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "စာသား URLs အဖြစ်အုပ်စုလိုက် tabs (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "links အဖြစ်အုပ်စုလိုက် tabs",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "links အဖြစ်အုပ်စုလိုက် tabs (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "တဘ်များအားလုံးကို လင့်ခ်များအဖြစ် (✂️)",
+    "message": "လင့်များအနေဖြင့် tabs များအားလုံး (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "စာသား URL များအဖြစ် တဘ်များအားလုံး (✂️)",
+    "message": "စာသား URLs အဖြစ်အားလုံး tabs (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "လင့်များအဖြစ် ရွေးချယ်ထားသော တဘ်များ (✂️)",
+    "message": "လင့်များအဖြစ်ရွေးချယ်ထား tabs များ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Text URLs အဖြစ် ရွေးချယ်ထားသော တဘ်များ (✂️)",
+    "message": "စာသား URLs အဖြစ်ရွေးချယ်ထား tabs များ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "ဤတဘ်ကို စာသား URL အဖြစ် (✂️)",
+    "message": "စာသား URL အဖြစ်ဒီ tab ကို (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "ဤ Tab ကို Link အဖြစ် (✂️)",
+    "message": "link ကိုအဖြစ်ဒီ tab (✂️)",
     "description": ""
   }
 }

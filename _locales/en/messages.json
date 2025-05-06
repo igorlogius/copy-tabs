@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Copy tab urls as hyperlinks or plain text",
+    "message": "Copy tabs as hyperlinks or text URLs",
     "description": ""
   },
   "selectaction": {
@@ -33,6 +33,22 @@
   },
   "cpytablnk": {
     "message": "This Tab as Link",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Group Tabs as Text URLs",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Group Tabs as Text URLs (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Group Tabs as Links",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Group Tabs as Links (✂️)",
     "description": ""
   },
   "cpyalllnknp": {

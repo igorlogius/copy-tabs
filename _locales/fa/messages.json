@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﻩﺩﺎﺳ ﻦﺘﻣ ﺎﯾ ﮏﻨﯿﻟ ﺕﺭﻮﺻ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ ﺱﺭﺩﺁ",
+    "message": " ﺪﯿﻨﮐ ﯽﭙﮐ ﻦﺘﻣ ﯼﺎﻫ URL ﺎﯾ ﮏﻨﯿﻟ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﻧﺎﺑﺯ",
     "description": ""
   },
   "selectaction": {
@@ -12,47 +12,63 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": " ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
+    "message": " ﺎﻫﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": " ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
+    "message": " ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ",
     "description": ""
   },
   "cpysellnk": {
-    "message": " ﺪﯿﻨﮐ ﺏﺎﺨﺘﻧﺍ ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ",
+    "message": " ﺎﻫﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯼﺎﻫ ﻪﮔﺮﺑ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": " ﺩﺮﮐ ﺏﺎﺨﺘﻧﺍ ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ",
+    "message": " ﻦﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯼﺎﻫ ﻪﮔﺮﺑ",
     "description": ""
   },
   "cpytabtxt": {
-    "message": " ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺐﺗ ﻦﯾﺍ",
+    "message": " ﻦﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ",
     "description": ""
   },
   "cpytablnk": {
     "message": " ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ",
     "description": ""
   },
+  "cpygrptxt": {
+    "message": " ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﯽﻫﻭﺮﮔ ﯼﺎﻫ ﻪﻧﺎﺑﺯ",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": " ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﯽﻫﻭﺮﮔ ﯼﺎﻫ ﻪﻧﺎﺑﺯ (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": " ﺎﻫﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﯽﻫﻭﺮﮔ ﯼﺎﻫ ﻪﻧﺎﺑﺯ",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": " ﺎﻫﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﯽﻫﻭﺮﮔ ﯼﺎﻫ ﻪﻧﺎﺑﺯ (✂️)",
+    "description": ""
+  },
   "cpyalllnknp": {
-    "message": " ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ (✂️)",
+    "message": " ﺎﻫﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": " ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ (✂️)",
+    "message": " ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺎﻫ ﻪﮔﺮﺑ ﻪﻤﻫ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": " ﺪﯿﻨﮐ ﺏﺎﺨﺘﻧﺍ ﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ (✂️)",
+    "message": " ﺎﻫﺪﻧﻮﯿﭘ ﻥﺍﻮﻨﻋ ﻪﺑ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯼﺎﻫ ﻪﮔﺮﺑ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": " ﺩﺮﮐ ﺏﺎﺨﺘﻧﺍ ﯽﻨﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﺎﻫ ﻪﮔﺮﺑ (✂️)",
+    "message": " ﻦﺘﻣ ﯼﺎﻫ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﯼﺎﻫ ﻪﮔﺮﺑ (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": " ﯽﻨﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﺐﺗ ﻦﯾﺍ (✂️)",
+    "message": " ﻦﺘﻣ URL ﻥﺍﻮﻨﻋ ﻪﺑ ﻪﮔﺮﺑ ﻦﯾﺍ (✂️)",
     "description": ""
   },
   "cpytablnknp": {

@@ -4,19 +4,19 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Պատճենեք ներդիրների url-ները որպես հիպերհղումներ կամ պարզ տեքստ",
+    "message": "Պատճենեք ներդիրները որպես հիպերհղումներ կամ տեքստային URLS",
     "description": ""
   },
   "selectaction": {
-    "message": "Ընտրեք Անմիջական գործողություն",
+    "message": "Ընտրեք անհապաղ գործողություն",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Բոլոր ներդիրները որպես հղումներ",
+    "message": "Բոլոր ներդիրները, որպես հղումներ",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Բոլոր ներդիրները որպես տեքստային URL",
+    "message": "Բոլոր ներդիրները, որպես տեքստային URL",
     "description": ""
   },
   "cpysellnk": {
@@ -35,12 +35,28 @@
     "message": "Այս ներդիրը որպես հղում",
     "description": ""
   },
+  "cpygrptxt": {
+    "message": "Խմբային ներդիրներ, որպես տեքստային URL",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Խմբային ներդիրներ, որպես տեքստային URL (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Խմբային ներդիրներ որպես հղումներ",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Խմբային ներդիրներ որպես հղումներ (✂️)",
+    "description": ""
+  },
   "cpyalllnknp": {
-    "message": "Բոլոր ներդիրները որպես հղումներ (✂️)",
+    "message": "Բոլոր ներդիրները, որպես հղումներ (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Բոլոր ներդիրները որպես տեքստային URL (✂️)",
+    "message": "Բոլոր ներդիրները, որպես տեքստային URL (✂️)",
     "description": ""
   },
   "cpysellnknp": {

@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopiatu fitxen URLak hiperesteka edo testu arrunt gisa",
+    "message": "Kopiatu fitxak hiperesteka edo testu URL gisa",
     "description": ""
   },
   "selectaction": {
-    "message": "Hautatu Berehalako Ekintza",
+    "message": "Hautatu berehalako ekintza",
     "description": ""
   },
   "cpyalllnk": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Hautatutako fitxak testu-URL gisa",
+    "message": "Aukeratutako fitxak testu URL gisa",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Fitxa hau testu-URL gisa",
+    "message": "Fitxa hau testu URL gisa",
     "description": ""
   },
   "cpytablnk": {
     "message": "Fitxa hau esteka gisa",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Taldearen fitxak testu URL gisa",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Taldearen fitxak testu URL gisa (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Taldearen fitxak estekak gisa",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Taldearen fitxak estekak gisa (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -48,11 +64,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Hautatutako fitxak testu-URL gisa (✂️)",
+    "message": "Aukeratutako fitxak testu URL gisa (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Fitxa hau testu-URL gisa (✂️)",
+    "message": "Fitxa hau testu URL gisa (✂️)",
     "description": ""
   },
   "cpytablnknp": {

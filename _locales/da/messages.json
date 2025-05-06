@@ -4,11 +4,11 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopier fanewebadresser som hyperlinks eller almindelig tekst",
+    "message": "Kopier faner som hyperlinks eller tekst -URL'er",
     "description": ""
   },
   "selectaction": {
-    "message": "Vælg Øjeblikkelig handling",
+    "message": "Vælg øjeblikkelig handling",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Alle faner som tekst-URL'er",
+    "message": "Alle faner som tekst URL'er",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Valgte faner som tekst-URL'er",
+    "message": "Valgte faner som tekst URL'er",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Denne fane som tekst-URL",
+    "message": "Denne fane som tekst URL",
     "description": ""
   },
   "cpytablnk": {
     "message": "Denne fane som link",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Gruppefaner som tekst URL'er",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Gruppefaner som tekst URL'er (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Gruppefaner som links",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Gruppefaner som links (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +56,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Alle faner som tekst-URL'er (✂️)",
+    "message": "Alle faner som tekst URL'er (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +64,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Valgte faner som tekst-URL'er (✂️)",
+    "message": "Valgte faner som tekst URL'er (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Denne fane som tekst-URL (✂️)",
+    "message": "Denne fane som tekst URL (✂️)",
     "description": ""
   },
   "cpytablnknp": {

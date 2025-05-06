@@ -1,62 +1,78 @@
 {
   "addonName": {
-    "message": "Lavetaka na Bulukau",
+    "message": "Lavetaka na iTaba",
     "description": ""
   },
   "addonDesc": {
-    "message": "Lavetaka na URL ni bulukau me hyperlinks se itukutuku rawarawa",
+    "message": "Lavetaka na bulukau me hyperlink se URL ni itukutuku",
     "description": ""
   },
   "selectaction": {
-    "message": "Digitaka na Cakacaka Totolo",
+    "message": "Digitaka na Cakacaka Vakatotolo",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "iVakatakilakila Taucoko me iSema",
+    "message": "Na taba kece me isema",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Bulukau Taucoko me URL ni Itukutuku",
+    "message": "Na bulukau kece me vaka na URL ni itukutuku",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Bulukau Digitaki me iSema",
+    "message": "Digitaki na taba me isema",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Bulukau Digitaki me URL ni Itukutuku",
+    "message": "Digitaki na bulukau me URL ni itukutuku",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Na Bulukau oqo me URL ni text",
+    "message": "Na bulukau oqo me vaka na URL ni itukutuku",
     "description": ""
   },
   "cpytablnk": {
-    "message": "iVakatakilakila Oqo me iSema",
+    "message": "Na bulukau oqo me isema",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "iLawalawa Tabs me vaka na URL ni Text",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "iLawalawa Tabs me vaka na URL ni Text (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "iLawalawa Tabs me Isema",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "iLawalawa Tabs me Isema (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "iVakatakilakila Taucoko me iSema (✂️)",
+    "message": "Na taba kece me isema (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Bulukau Taucoko me URL ni Itukutuku (✂️)",
+    "message": "Na bulukau kece me vaka na URL ni itukutuku (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Bulukau Digitaki me iSema (✂️)",
+    "message": "Digitaki na taba me isema (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Bulukau Digitaki me URL ni Itukutuku (✂️)",
+    "message": "Digitaki na bulukau me URL ni itukutuku (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Na Bulukau oqo me URL ni text (✂️)",
+    "message": "Na bulukau oqo me vaka na URL ni itukutuku (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "iVakatakilakila Oqo me iSema (✂️)",
+    "message": "Na bulukau oqo me isema (✂️)",
     "description": ""
   }
 }

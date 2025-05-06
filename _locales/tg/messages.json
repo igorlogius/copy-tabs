@@ -1,10 +1,10 @@
 {
   "addonName": {
-    "message": "Ҷадвалҳоро нусхабардорӣ кунед",
+    "message": "Табобҳои нусхабардорӣ",
     "description": ""
   },
   "addonDesc": {
-    "message": "URL-ҳои ҷадвалро ҳамчун гиперҳавола ё матни оддӣ нусхабардорӣ кунед",
+    "message": "Ҷадвалбандии ҷадвалҳо ё URL-ҳои матниро нусхабардорӣ кунед",
     "description": ""
   },
   "selectaction": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Ҳама ҷадвалҳо ҳамчун URL-и матн",
+    "message": "Ҳама ҷадвалҳо ҳамчун URL-ҳои матнӣ",
     "description": ""
   },
   "cpysellnk": {
@@ -24,15 +24,31 @@
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Ҷадвалҳои интихобшуда ҳамчун URL-и матн",
+    "message": "Ҷадвалҳои интихобшуда ҳамчун URL-ҳои матн",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ин ҷадвал ҳамчун URL-и матн",
+    "message": "Ин ҷадвал ҳамчун URL матн",
     "description": ""
   },
   "cpytablnk": {
     "message": "Ин ҷадвал ҳамчун пайванд",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Ҷадвалҳои гурӯҳӣ ҳамчун URL-ҳои матнӣ",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Ҷадвалҳои гурӯҳӣ ҳамчун URL-ҳои матнӣ (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Мактабҳои гурӯҳӣ ҳамчун пайвандҳо",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Мактабҳои гурӯҳӣ ҳамчун пайвандҳо (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,7 +56,7 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Ҳама ҷадвалҳо ҳамчун URL-и матн (✂️)",
+    "message": "Ҳама ҷадвалҳо ҳамчун URL-ҳои матнӣ (✂️)",
     "description": ""
   },
   "cpysellnknp": {
@@ -48,11 +64,11 @@
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Ҷадвалҳои интихобшуда ҳамчун URL-и матн (✂️)",
+    "message": "Ҷадвалҳои интихобшуда ҳамчун URL-ҳои матн (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ин ҷадвал ҳамчун URL-и матн (✂️)",
+    "message": "Ин ҷадвал ҳамчун URL матн (✂️)",
     "description": ""
   },
   "cpytablnknp": {

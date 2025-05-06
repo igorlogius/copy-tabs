@@ -4,7 +4,7 @@
     "description": ""
   },
   "addonDesc": {
-    "message": "Yorliq URL manzillarini giperhavolalar yoki oddiy matn sifatida nusxalash",
+    "message": "Yorliqlarni giperhavolalar yoki matn URL manzillari sifatida nusxalash",
     "description": ""
   },
   "selectaction": {
@@ -12,51 +12,67 @@
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Barcha varaqlar havola sifatida",
+    "message": "Barcha yorliqlar havolalar",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Barcha tablar matn URL manzillari sifatida",
+    "message": "Barcha yorliqlar matn URLS",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Havola sifatida tanlangan tablar",
+    "message": "Havolalar kabi tanlangan yorliqlar",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Matn URL manzillari sifatida tanlangan yorliqlar",
+    "message": "Tanlangan yorliqlar matn URLS",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Ushbu yorliq matn URL manzili sifatida",
+    "message": "Matn URL sifatida ushbu yorliq",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Ushbu varaq havola sifatida",
+    "message": "Ushbu yorliq Link sifatida",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Matn URLS sifatida guruh yorliqlari",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Matn URLS sifatida guruh yorliqlari (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Guruh yorliqlari",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Guruh yorliqlari (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Barcha varaqlar havola sifatida (✂️)",
+    "message": "Barcha yorliqlar havolalar (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Barcha tablar matn URL manzillari sifatida (✂️)",
+    "message": "Barcha yorliqlar matn URLS (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Havola sifatida tanlangan tablar (✂️)",
+    "message": "Havolalar kabi tanlangan yorliqlar (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Matn URL manzillari sifatida tanlangan yorliqlar (✂️)",
+    "message": "Tanlangan yorliqlar matn URLS (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Ushbu yorliq matn URL manzili sifatida (✂️)",
+    "message": "Matn URL sifatida ushbu yorliq (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Ushbu varaq havola sifatida (✂️)",
+    "message": "Ushbu yorliq Link sifatida (✂️)",
     "description": ""
   }
 }

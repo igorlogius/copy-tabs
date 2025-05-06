@@ -1,30 +1,30 @@
 {
   "addonName": {
-    "message": "Kopi Tabs",
+    "message": "Kopi onglè",
     "description": ""
   },
   "addonDesc": {
-    "message": "Kopi URL tab kòm lyen oswa tèks klè",
+    "message": "Kopi onglè kòm lyen oswa URL tèks",
     "description": ""
   },
   "selectaction": {
-    "message": "Chwazi Aksyon Imedya",
+    "message": "Chwazi aksyon imedyat",
     "description": ""
   },
   "cpyalllnk": {
-    "message": "Tout Tabs kòm Lyen",
+    "message": "Tout onglè kòm lyen",
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Tout Tabs kòm URL tèks",
+    "message": "Tout onglè kòm URL tèks",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Onglet Chwazi kòm Lyen",
+    "message": "Chwazi onglè kòm lyen",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Onglet yo chwazi kòm URL tèks",
+    "message": "Chwazi onglè kòm URL tèks",
     "description": ""
   },
   "cpytabtxt": {
@@ -32,23 +32,39 @@
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tab sa a kòm Link",
+    "message": "Tab sa a kòm lyen",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Gwoup onglè kòm URL tèks",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Gwoup onglè kòm URL tèks (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Gwoup onglè kòm lyen",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Gwoup onglè kòm lyen (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
-    "message": "Tout Tabs kòm Lyen (✂️)",
+    "message": "Tout onglè kòm lyen (✂️)",
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Tout Tabs kòm URL tèks (✂️)",
+    "message": "Tout onglè kòm URL tèks (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Onglet Chwazi kòm Lyen (✂️)",
+    "message": "Chwazi onglè kòm lyen (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Onglet yo chwazi kòm URL tèks (✂️)",
+    "message": "Chwazi onglè kòm URL tèks (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
@@ -56,7 +72,7 @@
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tab sa a kòm Link (✂️)",
+    "message": "Tab sa a kòm lyen (✂️)",
     "description": ""
   }
 }

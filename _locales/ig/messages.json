@@ -1,14 +1,14 @@
 {
   "addonName": {
-    "message": "Detuo Taabụ",
+    "message": "Detuo taabụ",
     "description": ""
   },
   "addonDesc": {
-    "message": "Detuo url taabụ dị ka hyperlinks ma ọ bụ ederede doro anya",
+    "message": "Detuo taabụ dị ka hyperlinks ma ọ bụ URL Text",
     "description": ""
   },
   "selectaction": {
-    "message": "Họrọ mmemme ozugbo",
+    "message": "Họrọ Ngwa",
     "description": ""
   },
   "cpyalllnk": {
@@ -16,23 +16,39 @@
     "description": ""
   },
   "cpyalltxt": {
-    "message": "Taabụ niile dị ka URL ederede",
+    "message": "Taabụ niile dị ka urls ederede",
     "description": ""
   },
   "cpysellnk": {
-    "message": "Taabụ ahọpụtara dị ka njikọ",
+    "message": "Ahịhịa ahọrọ dị ka njikọ",
     "description": ""
   },
   "cpyseltxt": {
-    "message": "Taabụ ahọpụtara dị ka URL ederede",
+    "message": "Ahọrọ taabụ dị ka URL",
     "description": ""
   },
   "cpytabtxt": {
-    "message": "Taabụ a dị ka URL ederede",
+    "message": "Taabụ a dị ka URL Text",
     "description": ""
   },
   "cpytablnk": {
-    "message": "Tab a dị ka njikọ",
+    "message": "Taabụ a dị ka njikọ",
+    "description": ""
+  },
+  "cpygrptxt": {
+    "message": "Taabụ ndị otu dị ka urls ederede",
+    "description": ""
+  },
+  "cpygrptxtnp": {
+    "message": "Taabụ ndị otu dị ka urls ederede (✂️)",
+    "description": ""
+  },
+  "cpygrplnk": {
+    "message": "Taabụ ndị otu dị ka njikọ",
+    "description": ""
+  },
+  "cpygrplnknp": {
+    "message": "Taabụ ndị otu dị ka njikọ (✂️)",
     "description": ""
   },
   "cpyalllnknp": {
@@ -40,23 +56,23 @@
     "description": ""
   },
   "cpyalltxtnp": {
-    "message": "Taabụ niile dị ka URL ederede (✂️)",
+    "message": "Taabụ niile dị ka urls ederede (✂️)",
     "description": ""
   },
   "cpysellnknp": {
-    "message": "Taabụ ahọpụtara dị ka njikọ (✂️)",
+    "message": "Ahịhịa ahọrọ dị ka njikọ (✂️)",
     "description": ""
   },
   "cpyseltxtnp": {
-    "message": "Taabụ ahọpụtara dị ka URL ederede (✂️)",
+    "message": "Ahọrọ taabụ dị ka URL (✂️)",
     "description": ""
   },
   "cpytabtxtnp": {
-    "message": "Taabụ a dị ka URL ederede (✂️)",
+    "message": "Taabụ a dị ka URL Text (✂️)",
     "description": ""
   },
   "cpytablnknp": {
-    "message": "Tab a dị ka njikọ (✂️)",
+    "message": "Taabụ a dị ka njikọ (✂️)",
     "description": ""
   }
 }
